@@ -1,0 +1,10 @@
+# 本地工具的运行产物与私有配置，不进版本库
+data/ai_config.json     # AI 接口的 API Key
+_backup/
+_trash/
+__pycache__/
+*.bak
+.ui_state.json          # 上次的窗口大小 / 编辑目录
+.runtime_port
+app_error.log
+*.tmp

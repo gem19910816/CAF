@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>CAF 战利品池编辑器</title>
+<link rel="stylesheet" href="/web/style.css?v=20260915e" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">▣</span>
+    <div class="brand-txt">
+      <h1>战利品池编辑器</h1>
+      <div class="sub" id="metaRoot">正在连接…</div>
+    </div>
+  </div>
+  <div class="top-actions">
+    <span class="pill" id="metaItems">物品库 —</span>
+    <button class="btn" id="btnPack" title="换整合包 / 重建物品库">📦 整合包</button>
+    <button class="btn" id="btnAudit">语法体检</button>
+    <button class="btn" id="btnDupes">重复池</button>
+    <button class="btn" id="btnFind">反查物品</button>
+    <button class="btn" id="btnDeleted">最近删除</button>
+    <button class="btn" id="btnReload">重新载入</button>
+    <span class="vsep"></span>
+    <button class="btn ai" id="btnAI">✦ AI 助手</button>
+    <button class="btn ghost" id="btnAISettings" title="AI 接口设置">⚙</button>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="side-head">
+      <input id="fileSearch" class="input" placeholder="搜索池文件…" autocomplete="off" />
+      <div class="side-stat" id="sideStat"></div>
+    </div>
+    <div class="file-tree" id="fileTree"></div>
+    <div class="side-foot">
+      <button class="btn block" id="btnChangeRoot" title="换一个战利品表目录">📁 切换目录</button>
+      <button class="btn block" id="btnNewFile">＋ 新建池文件</button>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="empty" id="emptyState">
+      <div class="empty-icon">▣</div>
+      <h2>从左侧选一个池文件开始</h2>
+      <p>改动实时校验 · 保存前再全量检查一次 · 每次保存自动留备份</p>
+    </div>
+    <div class="editor hidden" id="editor"></div>
+  </main>
+</div>
+
+<div class="modal hidden" id="modal">
+  <div class="modal-mask" data-close="1"></div>
+  <div class="modal-box" id="modalBox"></div>
+</div>
+
+<div class="toasts" id="toasts"></div>
+
+<!-- AI 对话抽屉 -->
+<aside class="ai-drawer hidden" id="aiDrawer">
+  <div class="ai-head">
+    <div>
+      <div class="ai-title">AI 助手</div>
+      <div class="ai-sub" id="aiStatus">用自然语言改当前打开的池文件</div>
+    </div>
+    <button class="btn sm ghost" id="aiClose">✕</button>
+  </div>
+  <div class="ai-log" id="aiLog">
+    <div class="ai-msg sys">告诉我你想怎么改当前打开的池文件，例如：<br>
+      ·「给第 1 个池加 3 个钻石，权重 5」<br>
+      ·「把木棍的权重改成 10」<br>
+      ·「加一把 G98 步枪（TaCZ 的枪械在目录里挑）」<br>
+      改动只会先给你预览，确认后才会写进文件。</div>
+  </div>
+  <div class="ai-input">
+    <textarea id="aiInput" placeholder="例如：给第 1 个池加 3 个钻石…" rows="2"></textarea>
+    <button class="btn pri" id="aiSend">发送</button>
+  </div>
+</aside>
+
+<script src="/web/app.js?v=20260915e"></script>
+</body>
+</html>

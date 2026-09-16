@@ -20,6 +20,12 @@
 | [MOD/mcphone](MOD/mcphone/) | MCphone 手机（CAF 定制版） | `mcphone` | 手机模组定制：红夜商店 + CAF 状态/市场/每日任务/商店 App |
 | [MOD/caf-addon](MOD/caf-addon/) | caf 末日功能性附属 | `caf` | 空容器直接打开，不再弹「空的」 |
 
+## 本地工具
+
+| 目录 | 说明 |
+| --- | --- |
+| [loot-editor](loot-editor/) | 战利品池可视化编辑器（Python + pywebview 桌面工具，非模组），编辑 `kubejs/data/chaoszpack_lc_loot/loot_tables/` |
+
 ## 构建环境
 
 - 本机没有系统 JDK，Java 17 在 `D:\blackmarket-build\.jdk17\jdk-17.0.19+10`（构建时用 `JAVA_HOME` 指定）
