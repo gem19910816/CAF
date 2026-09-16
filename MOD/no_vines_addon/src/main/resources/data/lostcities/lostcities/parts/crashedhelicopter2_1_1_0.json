@@ -1,0 +1,228 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:stone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "7",
+        "block": "minecraft:campfire[facing=north,lit=true,signal_fire=false,waterlogged=false]",
+        "tag": {
+          "CookingTotalTimes": [
+            "I",
+            0,
+            0,
+            0,
+            0
+          ],
+          "z": 729,
+          "x": 196,
+          "CookingTimes": [
+            "I",
+            0,
+            0,
+            0,
+            0
+          ],
+          "ForgeCaps": {},
+          "id": "minecraft:campfire",
+          "y": 132,
+          "Items": []
+        }
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:coarse_dirt"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:stone_button[face=floor,facing=north,powered=false]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:oak_log[axis=y]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:oak_log[axis=x]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaaaaaaaaadd",
+      "aaaaaaaaaaaaaadd",
+      "aaaaaaaaaaaaaadd",
+      "aaaaaaaaaaaaaadd",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaddd",
+      "aaaaaaaaaaaaaddd",
+      "aaaaaaaaaaaaaddd",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaad",
+      "aaaaaaaaaaaaaaad",
+      "aaaaaaaaaaaaaaad",
+      "dddddddddddddddd"
+    ],
+    [
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaDDaaaaaaaaaa",
+      "aaaDbDaaaaaaaaaa",
+      "aaaaDaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaad",
+      "aaaaaaaaaaaaaaad",
+      "aaaaaaaaaaaaaaad",
+      "aaaaaaaaaddddddd"
+    ],
+    [
+      "bbabbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbabbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbabbbbbbbbbbbb",
+      "bbbbbbbabbbbbbbb",
+      "babbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbb7bbbbbbbbbbb",
+      "babbbbbbbbbbbbbb",
+      "aabbbbbbbbbabbbb",
+      "aabbbaaabbbbbbbb",
+      "aabbbbbbbbbbbbbb",
+      "babbbbbbbbbbaabb",
+      "bbbbbbbbbbbaaabb"
+    ],
+    [
+      "c eccccc ccccccc",
+      " Jcc  cc cc   c ",
+      "cc  g cccc  c c ",
+      "fcrc cccc ccc  c",
+      "cccccccc cc   cc",
+      "cccQccrccccccf c",
+      " ccccccg c cfc  ",
+      "cgccfcccccc c  c",
+      "cccrfcfccc c  c ",
+      "cccchfccc c  c  ",
+      "cpcc fccccccccc ",
+      "eplrccfEv cg c  ",
+      "epccfFFFEvcccc  ",
+      "epccrccEvccccc  ",
+      " pcccccccccchhc ",
+      "  cfccfcccchhhc "
+    ],
+    [
+      "                ",
+      "                ",
+      "    c           ",
+      "                ",
+      "                ",
+      "   Q         j  ",
+      "            j   ",
+      " c  j           ",
+      "    j j         ",
+      "     j          ",
+      " s              ",
+      "eel    vK       ",
+      "ee     Ev       ",
+      "ee     vK       ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h              ",
+      " h              ",
+      " h              ",
+      "                ",
+      "                "
+    ]
+  ]
+}

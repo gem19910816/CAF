@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SHS",
+    "LCL",
+    "LLL"
+  ],
+  "key": {
+    "S": { "tag": "minecraft:string" },
+    "H": { "item": "minecraft:hopper" },
+    "L": { "tag": "minecraft:leather" },
+    "C": { "item": "minecraft:chest" }
+  },
+  "result": {
+    "item": "caf:military_backpack"
+  }
+}

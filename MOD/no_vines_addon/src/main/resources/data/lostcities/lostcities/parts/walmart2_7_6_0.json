@@ -1,0 +1,506 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "乱",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "曲",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,weathering=false,west=tall]"
+      },
+      {
+        "char": "听",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "兄",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "今",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "常",
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "变",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "时",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 434,
+          "x": 58,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\">>>\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "战",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "里",
+        "block": "minecraft:black_wool"
+      },
+      {
+        "char": "放",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "观",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "档",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "提",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "球",
+        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "tag": {
+          "z": 424,
+          "x": 152,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Register 1\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "五",
+        "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+      },
+      {
+        "char": "希",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "重",
+        "block": "minecraft:spruce_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "认",
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "供",
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "星",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "A",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "做",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "後",
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "内",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "格",
+        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]"
+      },
+      {
+        "char": "目",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "北",
+        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "平",
+        "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "护",
+        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "读",
+        "block": "minecraft:stripped_oak_log[axis=x]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "校",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "位",
+        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "志",
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=tall]"
+      },
+      {
+        "char": "深",
+        "block": "minecraft:cobblestone_wall[east=low,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "群",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "角",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "掉",
+        "block": "minecraft:cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "试",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=tall]"
+      },
+      {
+        "char": "转",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "daaawbbawradaaba",
+      "cdababaaaaabaaad",
+      "caaraaaaadadaaba",
+      "ccaaaaabawwdwrab",
+      "caaaadababcabwaa",
+      "cIcacdaradcaaaaa",
+      "abawdaccabaIcadw",
+      "wdcabwcaabIadbad",
+      "dcIakacdadkkdabr",
+      "rdIdcbdbkkccdddd",
+      "cdsJkbbbbbkccdca",
+      "absJdarbbcbkccdk",
+      "kksskbddkbcbkkcb",
+      "acssdaccbbbadrbk",
+      "drsJbcaddaabakdd",
+      "dcJsbakcddacbccc"
+    ],
+    [
+      "乱g曲听兄  l今常变 时战时战",
+      " g      i  ҧn里n里",
+      "lg 放   观档  ҧn里n里",
+      "lg     提Ҭ   球五球五",
+      "lg 放   观档 希重重重 l",
+      "lg   q q  认重重重 l",
+      "lg        供重重重  ",
+      "mg星AAAAAAAE做做做A後",
+      "ggzj   i ii   iq",
+      "qzDj            ",
+      " ii             ",
+      "      q  q      ",
+      "                ",
+      "             q  ",
+      " q              ",
+      "                "
+    ],
+    [
+      "内C格 目  lN N     ",
+      " p      i   北平平平",
+      "lf 观AAA档    护读读读",
+      "lo    提Ҭ        ",
+      "le 观AAA档  N    l",
+      "lf         平平平  ",
+      "le        校平平平  ",
+      "mf星AAAAAAADAAA後A",
+      "oCCj   i ii   ii",
+      "iDzj            ",
+      " ii             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "KD位ҨK  l位ҨK     ",
+      " e      i       ",
+      "le 放 观档         ",
+      "ly   提Ҭ    时 时  ",
+      "lf 放 观档   Knnnnn",
+      "le        Ҩnnnnn",
+      "le        Knnnnn",
+      "mf星AAAAAAADAAA後後",
+      "fECj   i ii   ii",
+      " zzj            ",
+      " ii             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "内z志听兄  l深常兄     ",
+      " y      i       ",
+      "le 群A档          ",
+      "le G提Ҭ     m m  ",
+      "lo 角A档    希重重重jl",
+      "ly        认重重重  ",
+      " y        掉重重重jl",
+      "me星AAAAAAAC做做做後後",
+      "pEzj   i ii   ii",
+      " zCj            ",
+      " ii             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "内z试 目  l目 目     ",
+      " f      i       ",
+      "lf 观档           ",
+      "le 提Ҭ           ",
+      "ly 观档     N平平平 l",
+      "lo              ",
+      " f        转重重重  ",
+      " e星AAAAAAAC做做做AA",
+      "eCEj   i ii   ii",
+      " Ezj            ",
+      " ii             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

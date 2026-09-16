@@ -1,0 +1,1994 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "罐",
+        "block": "minecraft:sticky_piston[extended\u003dfalse,facing\u003dup]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "背",
+        "block": "minecraft:observer[facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "Ϝ",
+        "block": "minecraft:observer[facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "嘟",
+        "block": "minecraft:redstone_ore[lit\u003dfalse]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_carpet"
+      },
+      {
+        "char": "漫",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dwest,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "主",
+        "block": "minecraft:observer[facing\u003ddown,powered\u003dfalse]"
+      },
+      {
+        "char": "相",
+        "block": "minecraft:sticky_piston[extended\u003dfalse,facing\u003dnorth]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "W",
+        "block": "minecraft:observer[facing\u003deast,powered\u003dfalse]"
+      },
+      {
+        "char": "鑑",
+        "block": "minecraft:sticky_piston[extended\u003dfalse,facing\u003dsouth]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "责",
+        "block": "minecraft:barrel[facing\u003dsouth,open\u003dfalse]",
+        "tag": {
+          "z": -469,
+          "x": -135,
+          "id": "minecraft:barrel",
+          "y": -49,
+          "Items": []
+        }
+      },
+      {
+        "char": "r",
+        "block": "minecraft:gray_carpet"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:black_carpet"
+      },
+      {
+        "char": "廷",
+        "block": "minecraft:smoker[facing\u003dwest,lit\u003dfalse]",
+        "tag": {
+          "z": -446,
+          "x": -212,
+          "CookTimeTotal": 0,
+          "CookTime": 0,
+          "id": "minecraft:smoker",
+          "y": -57,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "躁",
+        "block": "minecraft:birch_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "培",
+        "block": "minecraft:birch_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "粪",
+        "block": "minecraft:birch_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "锣",
+        "block": "minecraft:birch_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "坊",
+        "block": "minecraft:birch_stairs[facing\u003deast,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "普",
+        "block": "minecraft:birch_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "玻",
+        "block": "minecraft:nether_brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "妒",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dtop,shape\u003dinner_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "2",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "饮",
+        "block": "minecraft:birch_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "邵",
+        "block": "minecraft:birch_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "逊",
+        "block": "minecraft:chest[facing\u003dsouth,type\u003dsingle,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -460,
+          "x": -93,
+          "id": "minecraft:chest",
+          "y": -52,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ҟ",
+        "block": "minecraft:observer[facing\u003dwest,powered\u003dfalse]"
+      },
+      {
+        "char": "希",
+        "block": "minecraft:chest[facing\u003dnorth,type\u003dleft,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -433,
+          "x": -208,
+          "id": "minecraft:chest",
+          "y": -45,
+          "Items": []
+        }
+      },
+      {
+        "char": "号",
+        "block": "minecraft:chest[facing\u003dnorth,type\u003dright,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -452,
+          "x": -85,
+          "id": "minecraft:chest",
+          "y": -49,
+          "Items": []
+        }
+      },
+      {
+        "char": "烘",
+        "block": "immersive_weathering:exposed_iron_door[facing\u003deast,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "倦",
+        "block": "minecraft:birch_pressure_plate[powered\u003dfalse]"
+      },
+      {
+        "char": "挚",
+        "block": "minecraft:redstone_wire[east\u003dnone,north\u003dup,power\u003d0,south\u003dside,west\u003dnone]"
+      },
+      {
+        "char": "蓉",
+        "block": "minecraft:redstone_block"
+      },
+      {
+        "char": "坠",
+        "block": "minecraft:piston[extended\u003dfalse,facing\u003dwest]"
+      },
+      {
+        "char": "砸",
+        "block": "minecraft:redstone_lamp[lit\u003dtrue]"
+      },
+      {
+        "char": "栋",
+        "block": "minecraft:lever[face\u003dwall,facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "喂",
+        "block": "minecraft:rail[shape\u003dnorth_south,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ӷ",
+        "block": "minecraft:birch_wall_sign[facing\u003dnorth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -472,
+          "x": -230,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -33,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Central Lever:\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Engine\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Right Lever:\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Turret\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "吠",
+        "block": "immersive_weathering:exposed_iron_door[facing\u003deast,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "览",
+        "block": "minecraft:redstone_wire[east\u003dnone,north\u003dside,power\u003d0,south\u003dside,west\u003dnone]"
+      },
+      {
+        "char": "宽",
+        "block": "minecraft:blast_furnace[facing\u003dwest,lit\u003dfalse]",
+        "tag": {
+          "z": -460,
+          "x": -241,
+          "CookTimeTotal": 0,
+          "CookTime": 0,
+          "id": "minecraft:blast_furnace",
+          "y": -47,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "f",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "R",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "拂",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dtop,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "履",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dtop,shape\u003dinner_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "苑",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dlow,south\u003dlow,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "于",
+        "block": "minecraft:lime_carpet"
+      },
+      {
+        "char": "辄",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "ϛ",
+        "block": "minecraft:birch_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -474,
+          "x": -200,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -44,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"16\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "w",
+        "block": "minecraft:green_carpet"
+      },
+      {
+        "char": "证",
+        "block": "minecraft:chest[facing\u003dnorth,type\u003dleft,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -452,
+          "x": -76,
+          "id": "minecraft:chest",
+          "y": -48,
+          "Items": []
+        }
+      },
+      {
+        "char": "娘",
+        "block": "minecraft:chest[facing\u003deast,type\u003dleft,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -461,
+          "x": -95,
+          "id": "minecraft:chest",
+          "y": -44,
+          "Items": []
+        }
+      },
+      {
+        "char": "询",
+        "block": "minecraft:chest[facing\u003deast,type\u003dright,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -463,
+          "x": -95,
+          "id": "minecraft:chest",
+          "y": -44,
+          "Items": []
+        }
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "曰",
+        "block": "minecraft:furnace[facing\u003dnorth,lit\u003dfalse]",
+        "tag": {
+          "z": -466,
+          "x": -76,
+          "CookTimeTotal": 0,
+          "CookTime": 0,
+          "id": "minecraft:furnace",
+          "y": -40,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "ҝ",
+        "block": "minecraft:chest[facing\u003dsouth,type\u003dright,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -446,
+          "x": -202,
+          "id": "minecraft:chest",
+          "y": -48,
+          "Items": []
+        }
+      },
+      {
+        "char": "ѧ",
+        "block": "minecraft:chest[facing\u003dsouth,type\u003dleft,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -479,
+          "x": -173,
+          "id": "minecraft:chest",
+          "y": -49,
+          "Items": []
+        }
+      },
+      {
+        "char": "底",
+        "block": "minecraft:chest[facing\u003dwest,type\u003dright,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -452,
+          "x": -82,
+          "id": "minecraft:chest",
+          "y": -48,
+          "Items": []
+        }
+      },
+      {
+        "char": "卫",
+        "block": "minecraft:barrel[facing\u003deast,open\u003dfalse]",
+        "tag": {
+          "z": -466,
+          "x": -143,
+          "id": "minecraft:barrel",
+          "y": -49,
+          "Items": []
+        }
+      },
+      {
+        "char": "丢",
+        "block": "minecraft:birch_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -500,
+          "x": -160,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -51,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Carrier Stash\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "驼",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "赵",
+        "block": "minecraft:light_gray_bed[facing\u003dnorth,occupied\u003dfalse,part\u003dfoot]",
+        "tag": {
+          "z": -485,
+          "x": -162,
+          "id": "minecraft:bed",
+          "y": -45
+        }
+      },
+      {
+        "char": "Ӹ",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "哀",
+        "block": "minecraft:jukebox[has_record\u003dfalse]",
+        "tag": {
+          "RecordStartTick": "0L",
+          "IsPlaying": "0b",
+          "z": -426,
+          "x": -174,
+          "TickCount": "0L",
+          "id": "minecraft:jukebox",
+          "y": -31
+        }
+      },
+      {
+        "char": "澎",
+        "block": "minecraft:dark_oak_door[facing\u003deast,half\u003dlower,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "坑",
+        "block": "minecraft:dark_oak_door[facing\u003dwest,half\u003dlower,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "丹",
+        "block": "minecraft:chest[facing\u003dnorth,type\u003dsingle,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": -449,
+          "x": -113,
+          "id": "minecraft:chest",
+          "y": -52,
+          "Items": []
+        }
+      },
+      {
+        "char": "蚀",
+        "block": "minecraft:dark_oak_door[facing\u003dsouth,half\u003dlower,hinge\u003dright,open\u003dtrue,powered\u003dfalse]"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "玫",
+        "block": "minecraft:light_gray_bed[facing\u003dsouth,occupied\u003dfalse,part\u003dfoot]",
+        "tag": {
+          "z": -451,
+          "x": -109,
+          "id": "minecraft:bed",
+          "y": -53
+        }
+      },
+      {
+        "char": "嘻",
+        "block": "minecraft:ladder[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "碎",
+        "block": "minecraft:light_gray_bed[facing\u003dsouth,occupied\u003dfalse,part\u003dhead]",
+        "tag": {
+          "z": -446,
+          "x": -132,
+          "id": "minecraft:bed",
+          "y": -53
+        }
+      },
+      {
+        "char": "些",
+        "block": "minecraft:light_gray_bed[facing\u003dwest,occupied\u003dfalse,part\u003dhead]",
+        "tag": {
+          "z": -477,
+          "x": -224,
+          "id": "minecraft:bed",
+          "y": -45
+        }
+      },
+      {
+        "char": "己",
+        "block": "minecraft:light_gray_bed[facing\u003dwest,occupied\u003dfalse,part\u003dfoot]",
+        "tag": {
+          "z": -477,
+          "x": -223,
+          "id": "minecraft:bed",
+          "y": -45
+        }
+      },
+      {
+        "char": "3",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003deast,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "鸽",
+        "block": "minecraft:dark_oak_door[facing\u003dnorth,half\u003dlower,hinge\u003dleft,open\u003dtrue,powered\u003dfalse]"
+      },
+      {
+        "char": "祂",
+        "block": "minecraft:dark_oak_door[facing\u003deast,half\u003dupper,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "侣",
+        "block": "minecraft:dark_oak_door[facing\u003dwest,half\u003dupper,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "挂",
+        "block": "minecraft:birch_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -460,
+          "x": -163,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -44,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"1\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "呃",
+        "block": "minecraft:dark_oak_door[facing\u003dsouth,half\u003dupper,hinge\u003dright,open\u003dtrue,powered\u003dfalse]"
+      },
+      {
+        "char": "挪",
+        "block": "minecraft:dark_oak_door[facing\u003dnorth,half\u003dupper,hinge\u003dleft,open\u003dtrue,powered\u003dfalse]"
+      },
+      {
+        "char": "充",
+        "block": "refurbished_furniture:dark_ceiling_light[face\u003dceiling,facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": -459,
+          "x": -89,
+          "id": "refurbished_furniture:ceiling_light",
+          "y": -43,
+          "NodePos": "-24189257687083L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "g",
+        "block": "immersive_weathering:oak_leaf_pile[age\u003d0,layers\u003d1]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      " iiiiiiiiiiiiiii",
+      "罐i i   ii       ",
+      "ii i            ",
+      " i i            ",
+      "hii             ",
+      " i i            ",
+      "ii i            ",
+      "罐i i   ii       ",
+      "iiiiiiiiiiiiiiii",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "iiiiiiiiiiiiiiii",
+      " i i   ii       ",
+      "ii i            ",
+      " i i            ",
+      "hii             ",
+      " i i            ",
+      "ii i            ",
+      " i i   ii       ",
+      "iiiiiiiiiiiiiiii",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "edaadebba背c背edeb",
+      "cadcbdedd背 背cace",
+      " iedbeeadb 背aaee",
+      "iiiiiiiiiii背iiii",
+      " i ii      背iiii",
+      "ii i        iiii",
+      "iii         iiii",
+      "ii i        iiii",
+      " i i         iϜi",
+      "iiiiiiiiiiiiiiϜi",
+      " ccdbaeadadaia嘟e",
+      "bbcdedbddeaaeeeb",
+      "acccbcbcebddbedb",
+      "abbcdecbaacdebbe",
+      "aadbcecedecbedba",
+      "baabdcdedabcddca"
+    ],
+    [
+      "uuuuuuu漫ehhhhhh ",
+      "uuuuuuu漫b主     相",
+      "aauuuuuFdedaaccc",
+      "acbeedbadbe eeca",
+      "iiiiiiiiiii主iiii",
+      "ii i        ih i",
+      "iii         iWϜi",
+      "ii i        i主Ϝi",
+      "iiiiiiiiiiiii鑑主i",
+      "bcdebddbbadea pp",
+      "h责责责责责责hdhrrrhmm",
+      "       廷crrrramm",
+      "躁培粪 锣  廷brrrrdmm",
+      "坊b普 锣  廷arrrrdm玻",
+      "cb普 锣  廷ar妒22dmm",
+      "饮饮邵 锣  廷drrr逊em玻"
+    ],
+    [
+      "        chhhhhh ",
+      "        d主ҞҞҞҞҞ相",
+      "希号      烘倦      ",
+      "ebcabcechbbbcche",
+      "i      e挚 蓉坠    ",
+      "iiiiiiiiiiiii  i",
+      "iii 砸      砸 主 i",
+      "iiiiiiiiiiiii背 i",
+      "i          ϜҞ鑑  ",
+      "cacedddabbeϜe pp",
+      "h责责责责责责heh 栋 h  ",
+      "       喂c    a  ",
+      "       喂d    a  ",
+      "       喂a    c  ",
+      "       喂e    e  ",
+      "       喂e    c  "
+    ],
+    [
+      "        bhhhhhha",
+      "        aaacaadd",
+      " ӷ      吠       ",
+      "dadeaccd览dddcahd",
+      "i      d b      ",
+      "i      c e      ",
+      "iiiiiiiiiiiiiiii",
+      "i               ",
+      "i               ",
+      "aabddddeaacbaepp",
+      "h责责责责责责heh   h  ",
+      "       宽c    b  ",
+      "       宽d    b  ",
+      "       宽d    a  ",
+      "       宽a    d  ",
+      "       宽d    d  "
+    ],
+    [
+      "eacaaccceacaeeed",
+      "bbaecbdaeaaaeeed",
+      "cbccbadbcbecbedb",
+      "dcdeaadbaaeeeaaa",
+      "ccaadedceaddcbbe",
+      "beaeadbedbdcdadc",
+      "bdddabcbcedacadb",
+      "cbaaeecaeaabcaac",
+      "cbeadeeaabdeeadd",
+      "eecaaeeaebdacahh",
+      "daaecceeccccaddd",
+      "daaeacdeaeceecae",
+      "acabebcacadcabca",
+      "edbcececbcbcbbdd",
+      "bbdddabcbcdeedad",
+      "beaabebecddaebba"
+    ],
+    [
+      "rrrrrrrrrrrrffR ",
+      "zrzrzrrrrrrr2fR ",
+      "rrrrrrrrrrrrrfR ",
+      "rrrrrr拂OO履hrrfh ",
+      "ccdcddcaaef  fde",
+      "                ",
+      "                ",
+      "                ",
+      "beaaaaabecf  fad",
+      " 苑              ",
+      " 苑于 于 于 于 于   u ",
+      " 苑            u ",
+      " 苑于 于 于 于 于     ",
+      " 苑            u ",
+      " 辄于 于 于 于 于   u ",
+      "                "
+    ],
+    [
+      "             f  ",
+      "             f  ",
+      "             f  ",
+      "          h  fh ",
+      "dffffffffff  fff",
+      "             ϛ  ",
+      "                ",
+      "          ӷ     ",
+      "affffffffff  fff",
+      "    ϛϛϛϛϛ      ϛ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "             f  ",
+      "             f  ",
+      "             f  ",
+      "          h  fh ",
+      "afffffffffffffff",
+      "                ",
+      "                ",
+      "                ",
+      "cfffffffffffffff",
+      " f    ϛ         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "dbdbdecbdbbbcddc",
+      "eeaadabccabdceed",
+      "bdceebccdaeccdae",
+      "cecacaabdcddcbcc",
+      "dbbadcbeedbebaad",
+      "adaebddecaaaeccb",
+      "aeehhhacdhhhaceh",
+      "ecaadaddcbebaada",
+      "acbeedbebbecadab",
+      "dbaedadccadceedd",
+      "eecdadbaccdedabd",
+      "edbhhbadcadabeee",
+      "acehhbccddbbdaaa",
+      "dcdhhdbbcecebbcd",
+      "aadhhbececdabceb",
+      "cbchhbbdeceahhbb"
+    ],
+    [
+      "wwwwwwww证f  ff  ",
+      "wwwwwwwwwf  f娘  ",
+      "wwwwwwwww   f询 A",
+      "希号希号希号希号w   fh曰 ",
+      "ceacbaeaef  fdde",
+      "                ",
+      "                ",
+      "                ",
+      "eaeabddbaf  fadd",
+      "ҝѧҝѧҝѧҝѧhf  fҝѧҝ",
+      "wwwwwwww底f  fwww",
+      "wwwwwwww证f  wwww",
+      "wwwwwwww底f  wwww",
+      "wwwwwwww证f  fwww",
+      "wwwwwwww底f  f希号希",
+      "wwwwwwww证f  ffff"
+    ],
+    [
+      "        证f  f卫  ",
+      "         f  f丢  ",
+      "            f   ",
+      "希号希号希号希号    fh驼 ",
+      "ffffffffff  ffff",
+      "            ϛ   ",
+      "                ",
+      "         ӷ      ",
+      "ffffffffff  ffff",
+      "ҝѧҝѧҝѧҝѧhf  fҝѧҝ",
+      "        底f  f   ",
+      "        证f      ",
+      "        底f      ",
+      "        证f  f   ",
+      "        底f  f希号希",
+      "        证f  ffff"
+    ],
+    [
+      "         f  f   ",
+      "         f  f   ",
+      "         h  f   ",
+      "         h  fh  ",
+      "ffffffffffhhffff",
+      "                ",
+      "                ",
+      "                ",
+      "ffffffffffhhffff",
+      "hhhhhhhhhf  f   ",
+      "        hf  f   ",
+      "        hf  h   ",
+      "        hf  h   ",
+      "        hf  f   ",
+      "        hf  f   ",
+      "        hf  ffff"
+    ],
+    [
+      "abdbaddbaaaaaeab",
+      "ccadbdebedbccdec",
+      "acddabbcabbaedcd",
+      "ddadabdddbbaceed",
+      "cddabccaaacbbcba",
+      "cddbcbbbecbdaabb",
+      "cadcbaddaedaadcd",
+      "ecceaadeeaaacbab",
+      "aecccadeacdcdacc",
+      "aaabccadabebcaea",
+      "ecccdedddebccddb",
+      "dddcecaacceedebb",
+      "cceaadadedbbbcba",
+      "deaecddbcdbdbeba",
+      "dbecddeedabdcdca",
+      "aaaabbadbaedaace"
+    ],
+    [
+      "f娘  赵 赵 赵f  f赵 赵",
+      "f询  Ӹ Ӹ Ӹf  fӸ Ӹ",
+      "f哀       澎  坑   ",
+      "fn丹    希号f  fn希号",
+      "aabcadbbbf  fddc",
+      "                ",
+      "                ",
+      "                ",
+      "decdcebbcf  fcde",
+      "fh     哀hf  fh  ",
+      "f        蚀  坑   ",
+      "f娘  X X Xf  fX  ",
+      "f询  玫 玫 玫f  f玫  ",
+      "fn丹嘻碎嘻碎嘻碎f  f碎  ",
+      "ffffffffff  ffff",
+      " 些己3     鸽  坑   "
+    ],
+    [
+      "f   赵 赵 赵f  f赵 赵",
+      "f   Ӹ Ӹ Ӹf丢 fӸ Ӹ",
+      "f        祂  侣   ",
+      "fn       f 挂fn  ",
+      "ffffffffff  ffff",
+      "            ϛ   ",
+      "                ",
+      "         ӷ      ",
+      "ffffffffff  ffff",
+      "fh      hf丢 fh  ",
+      "f        呃  侣   ",
+      "f   X X Xf 挂fX  ",
+      "f   玫 玫 玫f  f玫  ",
+      "fn 嘻碎嘻碎嘻碎f  f碎  ",
+      "ffffffffff丢 ffff",
+      " 些己3     挪  侣   "
+    ],
+    [
+      "fh  赵 赵 赵f  f赵 赵",
+      "fh  Ӹ Ӹ Ӹf  fӸ Ӹ",
+      "fh   充   h  h   ",
+      "fnh    hhf  fh  ",
+      "ffffffffffffffff",
+      "                ",
+      "                ",
+      "                ",
+      "ffffffffffffffff",
+      "fh      hfhhfh  ",
+      "f    充   h  h   ",
+      "f   X X Xf  fX  ",
+      "f   玫 玫 玫f  f玫  ",
+      "fn 嘻碎嘻碎嘻碎f  f碎  ",
+      "ffffffffff  ffhh",
+      " 些己3    hh  h   "
+    ],
+    [
+      "adhhcdbebcdeebbd",
+      "aecbebdeadeddaad",
+      "dbbdbeddcdcadecb",
+      "hdbadbccccbeeecc",
+      "cdadaccebcabebaa",
+      "bbdeeaddcbacbcdb",
+      "dcahhhbaahhhcadh",
+      "addcbbbdeeacbaad",
+      "ecaeacaddcdedecd",
+      "hbcdddabccdcdbcd",
+      "dbadcedadcabdadb",
+      "aaeadeabdcaecbdc",
+      "ddhhcaebeeeadbad",
+      "bccbeecbcceeeedb",
+      "abbecabdaaceeceb",
+      "eaeaahhceebdacdc"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "               g",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "bdceadbbcbcdbdae",
+      "bdcecebedcbbebec",
+      "bbdbdeadedcbdaaa",
+      "bedbbbeabebbaeac",
+      "daeaacaeaeaccdbc",
+      "aeeacecaceaeebdc",
+      "caekhkecckhkeaak",
+      "ecabbdeadbebadde",
+      "ebcdbcacebddcdae",
+      "eccbcebadeabbedb",
+      "cdedcaadddcbcaad",
+      "cadcebbaadbbedce",
+      "ddceeccddbbacede",
+      "ccbdddccbcbdeece",
+      "kkkkkkkkkkkkkkkk",
+      "aeacdbbccccadbab"
+    ],
+    [
+      "gjjgjjg  ggggjlg",
+      " s  ggsls0  gggg",
+      "jljg ggjjgjjgg g",
+      "gglsgj   gsljjls",
+      "    jjl jgjjlggg",
+      "  gggg g gggjgg ",
+      " sgjg gj gg lggg",
+      "jlg   gg lslg gj",
+      " j g  jgjj j j g",
+      " g ggg  ggslgg  ",
+      "g gg  ggglgg g g",
+      "g  g  gj jgl  gj",
+      "lggg  gg lgjjggj",
+      " ljg  jg gggggjg",
+      "jjgjg l  lgg  jj",
+      "glgjggjljjlgjggj"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

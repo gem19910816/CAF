@@ -1,0 +1,302 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "前",
+        "block": "refurbished_furniture:light_gray_basin[facing\u003dsouth]",
+        "tag": {
+          "z": -268,
+          "x": -29,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:basin",
+          "y": -40,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "Ӛ",
+        "block": "minecraft:dark_oak_door[facing\u003dsouth,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "直",
+        "block": "minecraft:player_head[rotation\u003d12]",
+        "tag": {
+          "z": -272,
+          "x": -46,
+          "id": "minecraft:skull",
+          "y": -39
+        }
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ҟ",
+        "block": "minecraft:spruce_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ә",
+        "block": "minecraft:dark_oak_door[facing\u003dsouth,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "ϐ",
+        "block": "refurbished_furniture:computer[facing\u003dnorth,powered\u003dfalse]",
+        "tag": {
+          "z": -259,
+          "x": -34,
+          "id": "refurbished_furniture:computer",
+          "y": -21,
+          "NodePos": "-9070971985941L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "m",
+        "block": "minecraft:iron_trapdoor[facing\u003dwest,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:iron_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ә",
+        "block": "minecraft:white_wall_banner[facing\u003dnorth]",
+        "tag": {
+          "z": -268,
+          "Patterns": [
+            {
+              "Color": 8,
+              "Pattern": "dls"
+            },
+            {
+              "Color": 0,
+              "Pattern": "dls"
+            },
+            {
+              "Color": 3,
+              "Pattern": "gru"
+            },
+            {
+              "Color": 8,
+              "Pattern": "bo"
+            }
+          ],
+          "x": -29,
+          "id": "minecraft:banner",
+          "y": -14
+        }
+      },
+      {
+        "char": "С",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:iron_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ҽ",
+        "block": "minecraft:birch_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -283,
+          "x": -20,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -49,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"INFORMATION\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "badbddaceedaeaba",
+      "baaadbbaedacbadd",
+      "bdbdeeddceccbdbd",
+      "cbebececadabeced",
+      "bccbeccbabcebcce",
+      "cacceecbebddcade",
+      "dbdbddebcbcbbbeb",
+      "caceeeedebababbd",
+      "baeadddaaedcbdbb",
+      "caaaeadacecadbce",
+      "cbccddeabaabaddd",
+      "caadaddcaacebbdc",
+      "accedbddeaeecccd",
+      "aedbccedacddddcc",
+      "aabdceaceadedada",
+      "Ddgaabeecccdadbb"
+    ],
+    [
+      "O a       xdaeed",
+      "  b        ejjjx",
+      "dee  b     b    ",
+      "     e    xa    ",
+      "     b     c   前",
+      "acbddea   eecӚec",
+      "x   x           ",
+      "                ",
+      "                ",
+      "                ",
+      " aec cbc bab baa",
+      "  H   H   H   H ",
+      "f               ",
+      "f    bab aed bed",
+      " f    H   H   H ",
+      "  ff            "
+    ],
+    [
+      "  直       kaeeca",
+      "           d   ҟ",
+      "     c     c    ",
+      "     d    kc    ",
+      "     b     d    ",
+      "ccbbecc   beeәee",
+      "k   k           ",
+      "                ",
+      "                ",
+      "                ",
+      "  ϐ   ϐ   ϐ   ϐ ",
+      "                ",
+      "f               ",
+      "f     ϐ   ϐ   ϐ ",
+      "mf              ",
+      " u              "
+    ],
+    [
+      "          kcaebd",
+      "           d    ",
+      "     c     d    ",
+      "     d    ke    ",
+      "     a     c   Ә",
+      "bdabdcd   dcdСcd",
+      "k   k           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "f               ",
+      "f               ",
+      "w               ",
+      " wff            "
+    ],
+    [
+      "     j     bceaa",
+      "     j     b    ",
+      "     a     c    ",
+      "     b     d    ",
+      "     c     c    ",
+      "dbacacdjjjeeceab",
+      "             Ҽ  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "f               ",
+      "f               ",
+      " f              ",
+      "  ff            "
+    ],
+    [
+      "     e     ccdce",
+      "     c     d    ",
+      "     e     a    ",
+      "     b     e    ",
+      "     b     b    ",
+      "ceeeedbcedbedaed",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "g               ",
+      "a               ",
+      "ba              ",
+      " agg            "
+    ]
+  ]
+}

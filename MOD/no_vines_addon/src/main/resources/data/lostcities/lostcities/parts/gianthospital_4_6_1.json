@@ -1,0 +1,386 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:redstone_wire[east\u003dnone,north\u003dside,power\u003d0,south\u003dside,west\u003dnone]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "淆",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dnone,power\u003d0,south\u003dside,west\u003dnone]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dnone,power\u003d0,south\u003dnone,west\u003dside]"
+      },
+      {
+        "char": "膨",
+        "block": "minecraft:redstone_wire[east\u003dnone,north\u003dside,power\u003d0,south\u003dside,west\u003dside]"
+      },
+      {
+        "char": "醉",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003dnorth,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "逛",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003deast,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "捏",
+        "block": "minecraft:redstone_wire[east\u003dnone,north\u003dside,power\u003d0,south\u003dnone,west\u003dside]"
+      },
+      {
+        "char": "伟",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "辽",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "调",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "烤",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "染",
+        "block": "minecraft:mossy_cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:moss_block"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "岛",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "菁",
+        "block": "minecraft:light_gray_bed[facing\u003dnorth,occupied\u003dfalse,part\u003dhead]",
+        "tag": {
+          "z": 417,
+          "x": -71,
+          "ForgeCaps": {},
+          "id": "minecraft:bed",
+          "y": 194
+        }
+      },
+      {
+        "char": "M",
+        "block": "immersive_weathering:exposed_plate_iron"
+      },
+      {
+        "char": "L",
+        "block": "immersive_weathering:exposed_cut_iron"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "赫",
+        "block": "minecraft:light_gray_bed[facing\u003dnorth,occupied\u003dfalse,part\u003dfoot]",
+        "tag": {
+          "z": 471,
+          "x": -87,
+          "ForgeCaps": {},
+          "id": "minecraft:bed",
+          "y": 194
+        }
+      },
+      {
+        "char": "额",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "谦",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "琉",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "吓",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "啐",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "昴",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "晒",
+        "block": "minecraft:potted_cactus"
+      },
+      {
+        "char": "啾",
+        "block": "minecraft:oak_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "法",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 483,
+          "x": -73,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 160,
+          "NodePos": "-20066085228384L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "伤",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 411,
+          "x": -94,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-25838521569144L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "狡",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "暸",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "瓜",
+        "block": "minecraft:jungle_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "酷",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "拔",
+        "block": "minecraft:mossy_cobblestone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "亥",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "椎",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "  jc           D",
+      "   b        淆EE膨",
+      "  jb        D  醉",
+      "  jb xEEEEx逛捏 xx",
+      "   b            ",
+      " 伟db            ",
+      "辽bddcecdbedbebce",
+      " dededdcbcecebcc",
+      " 调edpTmm   m 烤m ",
+      "  mmm         m ",
+      "mmmm            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  jceifg染gfhBGdh",
+      "   cegGhBBfhgGci",
+      "   dcgfhiifiGhdf",
+      "   bbghgBfgihfde",
+      "   eegffiiifgGbe",
+      " jcdcifGigfggfbf",
+      "岛bbcccedceecdded",
+      " bbdbedeeebbeedb",
+      " 调eebTmm   m烤烤m ",
+      "  mmm         m ",
+      "mmmm            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  jcvTm菁M 菁L菁 ul",
+      "   dv  赫L 赫L赫jul",
+      "   cvl 额谦 额琉吓jvl",
+      "   dvl        m ",
+      "   dv啐        nn",
+      " jdbv昴nnnn nnjvp",
+      "jddeeuuvuvvvuubd",
+      " cddbccedbecbedc",
+      " 调cdpTmm   m烤烤m ",
+      "  mmm         m ",
+      "mmmm            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  jcbTmmL  LT el",
+      "   db   M  L je ",
+      "   ee  额谦 额琉吓jbl",
+      "   ecl        m ",
+      "   db晒        n ",
+      "  ceb nnn  nnje啾",
+      "jbbcedcddccdedce",
+      " bccedcbebbcbecd",
+      " 调pceTmm   m烤 m ",
+      "  mmm         m ",
+      "mmmm            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "法  eemm    mm d ",
+      "   bc        jc ",
+      "   ec        jbl",
+      "法  cc    伤    狡 ",
+      "   ebl        暸 ",
+      "  ded  nn   njd瓜",
+      "岛cdcecddddbebdeb",
+      " ccebebcbcebbbdc",
+      " 调pceT     狡烤 m ",
+      "  mmm         m ",
+      "mmmm            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "Aaacekaraaka酷rek",
+      "aaaeekaaraaakaer",
+      "krkccaaarraaa酷ba",
+      "AkkbcakaaAaakaba",
+      "kkkdeaaakaaaakda",
+      "areddaa酷拔aaaaaer",
+      "亥dbdbdcdeccbebdb",
+      "椎ebeedbdcdbbccbb",
+      " 调ccbT     烤烤 m ",
+      "  mmm         m ",
+      "mmmm            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

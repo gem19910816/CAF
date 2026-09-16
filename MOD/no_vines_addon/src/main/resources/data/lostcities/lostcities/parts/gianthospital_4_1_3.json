@@ -1,0 +1,642 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:clay"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "役",
+        "block": "minecraft:dead_fire_coral_block"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dnone,power\u003d0,south\u003dnone,west\u003dside]"
+      },
+      {
+        "char": "逛",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003deast,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:redstone_wire[east\u003dnone,north\u003dside,power\u003d0,south\u003dside,west\u003dnone]"
+      },
+      {
+        "char": "贷",
+        "block": "minecraft:redstone_wire[east\u003dnone,north\u003dnone,power\u003d0,south\u003dside,west\u003dside]"
+      },
+      {
+        "char": "揭",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dside,power\u003d0,south\u003dnone,west\u003dnone]"
+      },
+      {
+        "char": "怨",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003dwest,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "醉",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003dnorth,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "硫",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dside,power\u003d0,south\u003dside,west\u003dnone]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:polished_blackstone"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:moss_block"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "菁",
+        "block": "minecraft:light_gray_bed[facing\u003dnorth,occupied\u003dfalse,part\u003dhead]",
+        "tag": {
+          "z": 417,
+          "x": -71,
+          "ForgeCaps": {},
+          "id": "minecraft:bed",
+          "y": 194
+        }
+      },
+      {
+        "char": "L",
+        "block": "immersive_weathering:exposed_cut_iron"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "蜀",
+        "block": "refurbished_furniture:spruce_desk[facing\u003dnorth,left\u003dtrue,right\u003dfalse]"
+      },
+      {
+        "char": "杏",
+        "block": "refurbished_furniture:spruce_desk[facing\u003dnorth,left\u003dfalse,right\u003dtrue]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "赫",
+        "block": "minecraft:light_gray_bed[facing\u003dnorth,occupied\u003dfalse,part\u003dfoot]",
+        "tag": {
+          "z": 471,
+          "x": -87,
+          "ForgeCaps": {},
+          "id": "minecraft:bed",
+          "y": 194
+        }
+      },
+      {
+        "char": "噹",
+        "block": "immersive_weathering:cut_iron"
+      },
+      {
+        "char": "额",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "琉",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "吓",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "拎",
+        "block": "minecraft:skeleton_skull[rotation\u003d7]",
+        "tag": {
+          "z": 433,
+          "x": -54,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 140
+        }
+      },
+      {
+        "char": "硷",
+        "block": "horror_element_mod:blood_4[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "柚",
+        "block": "refurbished_furniture:spruce_desk[facing\u003deast,left\u003dtrue,right\u003dfalse]"
+      },
+      {
+        "char": "伟",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "羁",
+        "block": "refurbished_furniture:spruce_desk[facing\u003deast,left\u003dfalse,right\u003dtrue]"
+      },
+      {
+        "char": "迫",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "琅",
+        "block": "horror_element_mod:blood_10[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "涩",
+        "block": "refurbished_furniture:recycle_bin[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "Recycled": 0,
+          "z": 457,
+          "x": -84,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "refurbished_furniture:recycle_bin",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 146,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "-23089742311278L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "嫩",
+        "block": "horror_element_mod:blood_5[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "鲁",
+        "block": "refurbished_furniture:birch_table[east\u003dtrue,north\u003dfalse,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "壮",
+        "block": "refurbished_furniture:birch_table[east\u003dfalse,north\u003dfalse,south\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "棋",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "妃",
+        "block": "horror_element_mod:blood_1[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "钣",
+        "block": "minecraft:skeleton_skull[rotation\u003d10]",
+        "tag": {
+          "z": 424,
+          "x": -61,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 152
+        }
+      },
+      {
+        "char": "罈",
+        "block": "minecraft:skeleton_skull[rotation\u003d0]",
+        "tag": {
+          "z": 457,
+          "x": -37,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 134
+        }
+      },
+      {
+        "char": "烸",
+        "block": "minecraft:skeleton_skull[rotation\u003d15]",
+        "tag": {
+          "z": 466,
+          "x": -77,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 152
+        }
+      },
+      {
+        "char": "栗",
+        "block": "horror_element_mod:blood_4[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "摹",
+        "block": "refurbished_furniture:white_kitchen_drawer[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "z": 413,
+          "x": -55,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": 152,
+          "Items": []
+        }
+      },
+      {
+        "char": "褒",
+        "block": "refurbished_furniture:white_kitchen_drawer[facing\u003deast,open\u003dfalse]",
+        "tag": {
+          "z": 417,
+          "x": -76,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": 176,
+          "Items": []
+        }
+      },
+      {
+        "char": "歉",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "豚",
+        "block": "horror_element_mod:blood_1[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "尸",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "醋",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "蛊",
+        "block": "minecraft:hopper[enabled\u003dtrue,facing\u003deast]",
+        "tag": {
+          "z": 420,
+          "x": -53,
+          "TransferCooldown": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:hopper",
+          "y": 146,
+          "Items": []
+        }
+      },
+      {
+        "char": "暗",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "俦",
+        "block": "minecraft:iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "岛",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "咐",
+        "block": "minecraft:potted_dead_bush"
+      },
+      {
+        "char": "M",
+        "block": "immersive_weathering:exposed_plate_iron"
+      },
+      {
+        "char": "俏",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 409,
+          "x": -87,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Room\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"9A\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "疡",
+        "block": "minecraft:skeleton_skull[rotation\u003d11]",
+        "tag": {
+          "z": 470,
+          "x": -55,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 152
+        }
+      },
+      {
+        "char": "娑",
+        "block": "minecraft:comparator[facing\u003dwest,mode\u003dcompare,powered\u003dfalse]",
+        "tag": {
+          "z": 468,
+          "x": -53,
+          "OutputSignal": 0,
+          "ForgeCaps": {},
+          "id": "minecraft:comparator",
+          "y": 147
+        }
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "漳",
+        "block": "minecraft:lever[face\u003dwall,facing\u003dwest,powered\u003dfalse]"
+      },
+      {
+        "char": "划",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dnorth,powered\u003dfalse]",
+        "tag": {
+          "z": 453,
+          "x": -27,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 148,
+          "NodePos": "-7421701631852L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "裔",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "麒",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "伤",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 411,
+          "x": -94,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-25838521569144L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "鸯",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "郭",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "穿",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "酷",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "拔",
+        "block": "minecraft:mossy_cobblestone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "zcbccczzdz役dzzbz",
+      "   d            ",
+      "                ",
+      "                ",
+      "       x    E逛xE",
+      "       D        ",
+      "       D        ",
+      "       D        ",
+      "贷      揭贷       ",
+      "D  x   xD  x    ",
+      "揭E怨xEE怨x揭E怨xEEE贷",
+      "               醉",
+      "               x",
+      "               D",
+      "               硫",
+      "               醉"
+    ],
+    [
+      "IdbedcJqcJIcJIdJ",
+      "Bhfgihghfgfghhgh",
+      "fghgBhffifGghghi",
+      "hgiiiGBiihhhBfhg",
+      "gigGfgGigghghBGh",
+      "ghgigfgfihgBigfg",
+      "GgGfhighgffhifGf",
+      "eddbddcbedeecedb",
+      "dbfhhcdhhgfggeei",
+      "bddcedcecdebedbc",
+      "deedbbcecbbebbde",
+      "hhfggffgfhiighid",
+      "eeecebbdeeccccfe",
+      "ippecpbpdcppddgc",
+      "fpepppppcppppebb",
+      "ipppcbppbcbcedfd"
+    ],
+    [
+      "Juvdvuq c qcqIvq",
+      " mmvTm 菁L菁jv蜀杏mm",
+      "  jvl  赫噹赫jvl   ",
+      "  jul  额琉吓jvl   ",
+      "  jul     ju拎硷硷 ",
+      "  jvl     柚vl   ",
+      "  伟ul  nnn羁vl  n",
+      "迫迫uvuljuvvvuvljv",
+      "  琅涩嫩  m鲁壮mmm  棋",
+      "   妃        钣 棋 ",
+      "罈     烸     栗栗  ",
+      "n   鲁壮n棋nn 鲁壮n  ",
+      "u迫迫vuvvuvvvuuu烸 ",
+      "ul  摹摹摹摹摹摹mm褒u歉豚",
+      "v 尸         褒vvl",
+      "v 醋y       蛊bul "
+    ],
+    [
+      "迫bdced暗 b迫迫d俦岛c迫",
+      " mmdmm jL jb咐 m ",
+      "  jdl   M jel   ",
+      "   cl  额琉吓jel   ",
+      "  jbl     jcl   ",
+      "  jbl     咐dl   ",
+      "  伟el  n nnbl  n",
+      "迫迫bbcljeebbcelje",
+      "  俏疡m   mm m    ",
+      "                ",
+      "                ",
+      "     nnnn  nnn  ",
+      "c迫迫迫cbe迫ccdecdl ",
+      "e     mmm mm娑bn ",
+      "d 额吓        娑cbl",
+      "c K        漳ecl "
+    ],
+    [
+      "迫ceedb岛迫c迫俦d迫迫d岛",
+      "  mdmm    je  m ",
+      "  je      jbl   ",
+      "   cl      b    ",
+      "   cl  划   cl 划 ",
+      "  je      je    ",
+      "   el  n  nbl   ",
+      "迫迫ccd裔麒dcbecb 麒b",
+      "  m m   mm      ",
+      "   伤   伤   伤    ",
+      "   伤   伤   伤    ",
+      "      nn   nn   ",
+      "鸯迫迫迫迫edbbbceecl划",
+      "d     mmmm   bn ",
+      "c 郭         jbd裔",
+      "e 穿          cl "
+    ],
+    [
+      "zcecccz役dzzezzcz",
+      "ka酷daakakaadaaaa",
+      "ra酷carraaaad拔rrk",
+      "aaadaaaaakkbraka",
+      "aaad拔aaArakeaaAa",
+      "aa酷caakraaabaaak",
+      "kaabaaaaaa酷d酷akk",
+      "eedbbeeecddedbbc",
+      "aaaa酷aaakakakaak",
+      "raaAaaaAaakAaaar",
+      "aaaAakkAaakAaaaa",
+      "aaaaaaaaraa拔akka",
+      "cdcebcdbebbdedaA",
+      "ekkaar酷aa拔aaabaa",
+      "ckaaaakaakaa酷bdd",
+      "bkakaaaakaaaabrr"
+    ]
+  ]
+}

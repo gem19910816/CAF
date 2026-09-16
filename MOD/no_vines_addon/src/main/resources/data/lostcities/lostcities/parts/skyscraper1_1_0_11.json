@@ -1,0 +1,242 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϖ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "Г",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "Ϗ",
+        "block": "minecraft:ladder[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "M",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Φ",
+        "block": "immersive_weathering:weathered_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Њ",
+        "block": "immersive_weathering:weathered_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Q",
+        "block": "immersive_weathering:weathered_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "΄",
+        "block": "minecraft:oak_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 621,
+          "x": 46,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 150,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Rad S.\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Radio Speaker\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Λ",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "    h  h        ",
+      " a aaϖ a        ",
+      "ceeeebc         ",
+      "GbbbbbcГ        ",
+      "bbbbbbca        ",
+      "bbbbbbca        ",
+      "bbbbbbc         ",
+      "bbbbbbba        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "    h           ",
+      "mnnkmmkk        ",
+      "hhhh   k        ",
+      "nmmmmmϏm        ",
+      "ccceem k        ",
+      " vvvckfn        ",
+      "    cnfm        ",
+      "  vvem n        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "MMΦΦΦΦΦЊ        ",
+      "hhhh   Q        ",
+      "aiaaia Q        ",
+      "  ee a΄Q        ",
+      " vvvbafQ        ",
+      "    b fΛ        ",
+      "   v   Λ        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "hhhh            ",
+      "aiaaiaϏ         ",
+      "c bb j          ",
+      "    caf         ",
+      "      f         ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "hhhh            ",
+      "aiaaia          ",
+      "b bc j          ",
+      "    caf         ",
+      "    caf         ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "hhhh            ",
+      "aiaaia          ",
+      "c bb j          ",
+      "    caf         ",
+      "    eaf         ",
+      "     j          "
+    ]
+  ]
+}

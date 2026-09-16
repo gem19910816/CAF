@@ -1,0 +1,222 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "n",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Х",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϩ",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Й",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Л",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ϳ",
+        "block": "minecraft:birch_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": ";",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:spruce_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ͼ",
+        "block": "minecraft:spruce_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "χ",
+        "block": "minecraft:oak_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ψ",
+        "block": "minecraft:heavy_weighted_pressure_plate[power\u003d0]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "        c       ",
+      "       fh       ",
+      "       fa       ",
+      "       fh       ",
+      "       fal      ",
+      "       fhl      ",
+      "       fjll l   ",
+      "       fhllllll ",
+      "       fagbgcgng",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        cjjmma  ",
+      "       faibmicz ",
+      "       fiibbja  ",
+      "       fajbcicjz",
+      "       fbcncciba",
+      "       fabcjjimb",
+      "       facbbbbaj",
+      "       fnimaaabc",
+      "       fjjibaanb",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        avvvvv  ",
+      "       fNХϩЙ    ",
+      "       fnЛ      ",
+      "       fh       ",
+      "       fa      Ϳ",
+      "       fh  ;Cͼ  ",
+      "       fb   χ   ",
+      "       fh       ",
+      "       fagcgigcg",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        avvvv   ",
+      "       fh       ",
+      "       fa       ",
+      "       fh       ",
+      "       fb       ",
+      "       fh   Ψ   ",
+      "       fa       ",
+      "       fh       ",
+      "       fngcgbgag",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        a       ",
+      "       fa       ",
+      "       fc       ",
+      "       fm       ",
+      "       fj       ",
+      "       fn       ",
+      "       fa       ",
+      "       fj       ",
+      "       fabijmaac",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        m       ",
+      "       fh       ",
+      "       fb       ",
+      "       fh       ",
+      "       fb       ",
+      "       fh       ",
+      "       fb       ",
+      "       fh       ",
+      "       fbgagagag",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

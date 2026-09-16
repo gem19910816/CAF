@@ -1,0 +1,230 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ι",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ϸ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "n",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "Θ",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:terracotta"
+      },
+      {
+        "char": "σ",
+        "block": "minecraft:oak_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 581,
+          "x": 242,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 184,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:light_gray_carpet"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "              k ",
+      "             Ιbg",
+      "              ϸ ",
+      "                ",
+      "                ",
+      "        a       ",
+      "        h       ",
+      "        a       ",
+      "        hl      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "                ",
+      "             abi",
+      "             jcb",
+      "             cbb",
+      "         nb bbbm",
+      "        nibccjmb",
+      "        njbmibb ",
+      "        iacjmam ",
+      "        abaamΘ  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "                ",
+      "            llbg",
+      "            ll  ",
+      "             l  ",
+      "             ll ",
+      "        m   A ll",
+      "          σΖA zl",
+      "        m  xA   ",
+      "        hx      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "            l   ",
+      "           ll cg",
+      "            l   ",
+      "             l  ",
+      "                ",
+      "        a     ll",
+      "        h      l",
+      "        a       ",
+      "        h       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            l k ",
+      "            l   ",
+      "           lcbmc",
+      "                ",
+      "                ",
+      "        m       ",
+      "        b      l",
+      "        i       ",
+      "        b       ",
+      "        m       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            llk ",
+      "            ll  ",
+      "            mgcg",
+      "                ",
+      "                ",
+      "                ",
+      "        a       ",
+      "        h       ",
+      "        b       ",
+      "        h       "
+    ]
+  ]
+}

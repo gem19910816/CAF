@@ -1,0 +1,419 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "Z",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "ӕ",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "ђ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 359,
+          "x": 108,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "416s"
+        }
+      },
+      {
+        "char": "k",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=2]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "买",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": "і",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "全",
+        "block": "immersive_weathering:exposed_cut_iron"
+      },
+      {
+        "char": "型",
+        "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "怪",
+        "block": "minecraft:skeleton_skull[rotation=14]",
+        "tag": {
+          "z": 305,
+          "x": 142,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "却",
+        "block": "minecraft:dark_oak_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "新",
+        "block": "minecraft:spruce_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "料",
+        "block": "minecraft:jungle_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "过",
+        "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "者",
+        "block": "minecraft:oak_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "V",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "美",
+        "block": "immersive_weathering:exposed_plate_iron"
+      },
+      {
+        "char": "笑",
+        "block": "immersive_weathering:weathered_plate_iron"
+      },
+      {
+        "char": "八",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "影",
+        "block": "minecraft:barrel[facing=west,open=false]",
+        "tag": {
+          "z": 323,
+          "x": 151,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:barrel",
+          "y": 134,
+          "Items": []
+        }
+      },
+      {
+        "char": "团",
+        "block": "immersive_weathering:weathered_cut_iron"
+      },
+      {
+        "char": "值",
+        "block": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "є",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "远",
+        "block": "minecraft:skeleton_skull[rotation=2]",
+        "tag": {
+          "z": 321,
+          "x": 165,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 141
+        }
+      },
+      {
+        "char": "活",
+        "block": "minecraft:jungle_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ө",
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "除",
+        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "进",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "权",
+        "block": "minecraft:white_stained_glass"
+      },
+      {
+        "char": "科",
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "需",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "战",
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "住",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "欲",
+        "block": "immersive_weathering:weathered_iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "剑",
+        "block": "immersive_weathering:weathered_iron_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "该",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "释",
+        "block": "refurbished_furniture:light_ceiling_light[face=ceiling,facing=east,powered=false]",
+        "tag": {
+          "z": 325,
+          "x": 156,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 137,
+          "NodePos": "42880954814601L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "空",
+        "block": "refurbished_furniture:light_ceiling_light[face=ceiling,facing=south,powered=false]",
+        "tag": {
+          "z": 333,
+          "x": 156,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 137,
+          "NodePos": "42880954847369L",
+          "Connections": [
+            "L"
+          ]
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "TfffTZZTofYYoNs0",
+      "SSoZYfSfSEEEӕEAA",
+      "ӕEEYfTfZbZfjoN0s",
+      "jffYTSTfZSZTZN0A",
+      "ffZTSYoSoYoSZN00",
+      "fYZoYTSZoӕӕEEEs0",
+      "EEӕfSjSfTYSfoNss",
+      "TTjffoTTTZTfYNA0",
+      "YSfjTofTTTYToNAs",
+      "TfSTfYoTgEӕEEEAs",
+      "EӕEYSoYfTZYTTN0s",
+      "YSSoYSoffTfffNA0",
+      "SYfZoSfTYTooSNsf",
+      "SYYYToTSSEӕEEEsA",
+      "ZZYbSfYjZfYfZђ0s",
+      "ZooYZffSfZTjђN0A"
+    ],
+    [
+      "kqqqk qk qkkxxxx",
+      "z kkkqzU买zkxxxxx",
+      "  kqq qіLііLіxxx",
+      "k qkkkkіkq全qіkxx",
+      "kqzqk  іLііLіxxx",
+      "zk zqzkk型qk型x3qx",
+      " z qkqkqqkqqkxxx",
+      " k qq q k怪kqqkqx",
+      "kk  k q  kkkkqxk",
+      "kz  qkqkkqkxxkxx",
+      "k  却zqkUkkkkxxkx",
+      " kk却新kkqUkqqqxxx",
+      " zkkkkqzkkk  xxx",
+      " k  kkkkzqzzz3 x",
+      " z料料qqqkkqqqq过 x",
+      "zzq者者qqzqqzz过kkx"
+    ],
+    [
+      "               x",
+      "       V    xxxx",
+      "       全美美笑笑笑 xx",
+      "      八影全全全团全值  ",
+      "       美全美笑团团 xx",
+      "            xє  ",
+      "             x x",
+      "               x",
+      "                ",
+      "                ",
+      "   远   V       x",
+      "    过   V       ",
+      "                ",
+      "             є  ",
+      "  活活            ",
+      "   者者          x"
+    ],
+    [
+      "                ",
+      "                ",
+      "       美美ө美除    ",
+      "       进权  科需   ",
+      "       全美ө全战    ",
+      "             є  ",
+      "             x x",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "             є  ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "       进进进住欲    ",
+      "        进DD剑    ",
+      "       该该该该该    ",
+      "             3  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "             3  ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            释h  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            空h  ",
+      "                ",
+      "                "
+    ]
+  ]
+}

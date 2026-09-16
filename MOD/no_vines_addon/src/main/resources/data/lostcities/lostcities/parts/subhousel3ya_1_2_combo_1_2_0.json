@@ -1,0 +1,396 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "ψ",
+        "block": "minecraft:dead_tube_coral_block"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:dead_fire_coral_block"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:dead_horn_coral_block"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:spruce_planks"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "u",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=2]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "϶",
+        "block": "refurbished_furniture:oak_hedge[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ѽ",
+        "block": "refurbished_furniture:oak_hedge[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ρ",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ё",
+        "block": "refurbished_furniture:spruce_mail_box[enabled=false,facing=west]",
+        "tag": {
+          "x": -558,
+          "y": -59,
+          "Items": [],
+          "z": 52,
+          "id": "refurbished_furniture:mail_box",
+          "UUID": [
+            "I",
+            1782713504,
+            1764117140,
+            -1849926489,
+            907219510
+          ]
+        }
+      },
+      {
+        "char": "Ͱ",
+        "block": "immersive_weathering:weeds[age=0]"
+      },
+      {
+        "char": "а",
+        "block": "refurbished_furniture:dark_oak_hedge[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ΰ",
+        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "я",
+        "block": "refurbished_furniture:oak_hedge[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ͳ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ό",
+        "block": "refurbished_furniture:dark_oak_hedge[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ѹ",
+        "block": "doomsday_decoration:mower[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "N",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=3]"
+      },
+      {
+        "char": "Ή",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=5]"
+      },
+      {
+        "char": "Ѿ",
+        "block": "refurbished_furniture:acacia_hedge[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ϋ",
+        "block": "minecraft:large_fern[half=lower]"
+      },
+      {
+        "char": "ҁ",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=7]"
+      },
+      {
+        "char": "з",
+        "block": "refurbished_furniture:dark_oak_hedge[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "҈",
+        "block": "refurbished_furniture:dark_oak_hedge[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ο",
+        "block": "refurbished_furniture:dark_oak_hedge[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ѳ",
+        "block": "refurbished_furniture:dark_oak_hedge[east=true,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Т",
+        "block": "refurbished_furniture:dark_oak_hedge[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Р",
+        "block": "minecraft:birch_fence[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Κ",
+        "block": "minecraft:birch_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ι",
+        "block": "refurbished_furniture:birch_lattice_fence_gate[facing=west,in_wall=true,open=false,powered=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "щ",
+        "block": "minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "ϡ",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "7",
+        "block": "refurbished_furniture:birch_lattice_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "О",
+        "block": "refurbished_furniture:birch_lattice_fence_gate[facing=west,in_wall=false,open=false,powered=false]"
+      },
+      {
+        "char": "ҝ",
+        "block": "refurbished_furniture:birch_lattice_fence_gate[facing=north,in_wall=true,open=false,powered=false]"
+      },
+      {
+        "char": "Ϛ",
+        "block": "minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "β",
+        "block": "minecraft:large_fern[half=upper]"
+      },
+      {
+        "char": "ͳ",
+        "block": "create:vertical_framed_glass"
+      },
+      {
+        "char": "Ί",
+        "block": "doomsday_decoration:board[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "Е",
+        "block": "create:vertical_framed_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ό",
+        "block": "minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "5",
+        "block": "create:vertical_framed_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "1",
+        "block": "create:tiled_glass"
+      },
+      {
+        "char": "ь",
+        "block": "create:horizontal_framed_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ͷ",
+        "block": "minecraft:birch_fence_gate[facing=west,in_wall=false,open=false,powered=false]"
+      },
+      {
+        "char": "Ј",
+        "block": "minecraft:birch_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ϻ",
+        "block": "minecraft:birch_fence_gate[facing=north,in_wall=false,open=false,powered=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "ddaaaaaaaryoyqqq",
+      "ddaaaaaarsysqyos",
+      "ddaaaaaaqooqqoyy",
+      "ddaaaaaasqqsayoq",
+      "ddaaaaaaasoyssaa",
+      "ddKψCKψЅrorssosa",
+      "ddKCKЅψKrysrysqy",
+      "ddaaaaaasyqrrors",
+      "ddaaaaaaooooooaq",
+      "dddaaaaaqsosryos",
+      "ddaaaaaarqyqqoyo",
+      "ddaaaaaarrroyqrq",
+      "ddaaaaaaaoyoyorq",
+      "ddaaaaaaorqrsqro",
+      "aaaaaaaaoosqsosq",
+      "aaaaaaaarrrsoosa"
+    ],
+    [
+      "kgujjjp϶j       ",
+      "kgijjEiѽ        ",
+      "ggiEjΡEi        ",
+      "gguwjjji    j   ",
+      "ggёͰjͰjаj     jj",
+      "gΰ             j",
+      "gΰ              ",
+      "ggEͰjjEя        ",
+      "ggͲΡjjͰi      j ",
+      "ggtujjiό        ",
+      "ggiwjjE϶        ",
+      "ggipjwEi        ",
+      "ggipEѸiόj       ",
+      "ggNΡupΉѾ        ",
+      "iuΫuΉiҁз        ",
+      "҈ΟΟiΟѲΟТ       j"
+    ],
+    [
+      " PD             ",
+      " PE   p         ",
+      "PРp    E        ",
+      "Κι x   E        ",
+      "Nщ              ",
+      "                ",
+      "E               ",
+      " ϡ              ",
+      " ι     E        ",
+      " 7              ",
+      " ОEx            ",
+      " 7u  x p        ",
+      " ιN             ",
+      "ҝϚ              ",
+      "E β  E          ",
+      "   p            "
+    ],
+    [
+      " ͳD             ",
+      " ͳΊ             ",
+      "ͳЕ              ",
+      "Κ               ",
+      " Ό              ",
+      "                ",
+      "                ",
+      " Ό              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " Ό              ",
+      "                ",
+      "                "
+    ],
+    [
+      " ͳΊ             ",
+      " 5              ",
+      "ͳЕ              ",
+      "Κ               ",
+      " Ό              ",
+      "                ",
+      "                ",
+      " Ό              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " Ό              ",
+      "                ",
+      "                "
+    ],
+    [
+      " 1              ",
+      " 1D             ",
+      "1ь              ",
+      "Κͷ              ",
+      " Ј              ",
+      " ͷ              ",
+      " ͷ              ",
+      " Ј              ",
+      " ͷn             ",
+      " ͷ              ",
+      " ͷn             ",
+      " ͷn             ",
+      " ͷ              ",
+      "ϺΚ              ",
+      "                ",
+      "                "
+    ]
+  ]
+}

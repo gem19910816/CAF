@@ -1,0 +1,259 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "ѕ",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "联",
+        "block": "minecraft:blue_wall_banner[facing=south]",
+        "tag": {
+          "z": 335,
+          "Patterns": [
+            {
+              "Color": 14,
+              "Pattern": "hhb"
+            },
+            {
+              "Color": 0,
+              "Pattern": "ls"
+            },
+            {
+              "Color": 0,
+              "Pattern": "ms"
+            },
+            {
+              "Color": 0,
+              "Pattern": "rs"
+            },
+            {
+              "Color": 11,
+              "Pattern": "bo"
+            }
+          ],
+          "x": 175,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 145
+        }
+      },
+      {
+        "char": "2",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "示",
+        "block": "minecraft:stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "关",
+        "block": "minecraft:stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "老",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "Е",
+        "block": "minecraft:coarse_dirt"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "    r           ",
+      "   my           ",
+      "mmsvuw          ",
+      "ѕ  Ey           ",
+      "ѕ  ir           ",
+      "ѕ  ir           ",
+      "ѕ  ir           ",
+      "ѕ  Eu           ",
+      "ѕ  Eow          ",
+      "ѕ  Eo           ",
+      "ѕ  ir           ",
+      "   ir           ",
+      "    r           ",
+      "   Ey           ",
+      "vvmsow          ",
+      "联  2oxx         "
+    ],
+    [
+      "    r           ",
+      "   so           ",
+      "mmmvow          ",
+      "ѕ  2y           ",
+      "ѕ  ir           ",
+      "ѕ  ir           ",
+      "ѕ  ir           ",
+      "ѕ  2u           ",
+      "ѕ  2uw          ",
+      "ѕ  2u           ",
+      "ѕ  ir           ",
+      "   ir           ",
+      "   ir           ",
+      "   2o           ",
+      "mssmywx         ",
+      "   2y           "
+    ],
+    [
+      "   ir           ",
+      "   mo           ",
+      "mvvmuw          ",
+      "示  2u           ",
+      "关  ir           ",
+      "    r           ",
+      "老  ir           ",
+      "关  2u           ",
+      "   2uw          ",
+      "老  2o           ",
+      "关  ir           ",
+      "   ir           ",
+      "   ir           ",
+      "   2uxx         ",
+      "msssuwx         ",
+      "   2u           "
+    ],
+    [
+      "lhlsoP          ",
+      "hhlvyP          ",
+      "hhlsyw          ",
+      "hhhmoͱ          ",
+      "hhhmuP          ",
+      "hlhvoͱ          ",
+      "hllvyP          ",
+      "hhlmyP          ",
+      "hllsuw          ",
+      "hlhmoG          ",
+      "llhvuG          ",
+      "hllsoG          ",
+      "lllmoGx         ",
+      "lhhvuͱx         ",
+      "hhlsow          ",
+      "lhhmuG          "
+    ],
+    [
+      "   D v          ",
+      "   D v          ",
+      "   D v          ",
+      "   D A          ",
+      "   D v          ",
+      "   D v          ",
+      "   D A          ",
+      "   D 0          ",
+      "   D v          ",
+      "   DЕA          ",
+      "   DЕv          ",
+      "   Dxv          ",
+      "   DxAx         ",
+      "   D v          ",
+      "   D A          ",
+      "   D A          "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "    U           ",
+      "    U           ",
+      "                ",
+      "     xx         ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:coarse_dirt"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:podzol[snowy=false]"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:black_wool"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:gray_wool"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:stone_button[face=floor,facing=north,powered=false]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone_button[face=floor,facing=east,powered=false]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:zombie_head[rotation=10]",
+        "tag": {
+          "z": 730,
+          "x": 189,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "H",
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "loot": "observatory",
+        "tag": {
+          "z": 734,
+          "x": 189,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 133,
+          "Items": []
+        }
+      },
+      {
+        "char": "3",
+        "block": "immersive_weathering:exposed_iron_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "8",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": "V",
+        "block": "immersive_weathering:exposed_iron_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaabbg gggga",
+      "aaaaaaaab   goga",
+      "aaaaaaaaaS  ggga",
+      "aaaaaaaaaa s9gga",
+      "aaaaaaaaaagg gga",
+      "aaaaaaaaaagg gga",
+      "aaaaaaaaaaaadaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaddddddddddd"
+    ],
+    [
+      "aaaaagg c   c  g",
+      "aaaaaagg     scg",
+      "aaaaaaagg     lg",
+      "aaaaaaaagg  s  g",
+      "aaaaaaaaao c   g",
+      "aaaaaaaaagc    g",
+      "aaaaaaaaaggg abg",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaBaaaBa",
+      "aaaaaaaaaaBaaaBa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaab",
+      "aaaaaaaaaaaaaaaa"
+    ],
+    [
+      "bbbbbb          ",
+      "bbbbbbb      s  ",
+      "bbbbbbbbc     lc",
+      "bbbbbbbab   s   ",
+      "bbbbbabbbn     f",
+      "bbbbbbbbbn      ",
+      "bbbbbbbbb  fiicl",
+      "bbbbbabbbbaiiiab",
+      "bbbbbbbbbbiiiiib",
+      "bbbbbbbbbbiiiiib",
+      "bbbbbbbabaiiiiia",
+      "bbbbbbbaaiiiiiii",
+      "bbbbbbbaaiiiiiii",
+      "bbbbbbbaaiiiiiii",
+      "bbbbbbbabaiiiiic",
+      "bbbbbbbbbbaiiiab"
+    ],
+    [
+      "f fcc           ",
+      "ffccc c      s  ",
+      "ccfccc c      l ",
+      "cccc   gc   T   ",
+      "fcfccg f n eee  ",
+      "fccc  cc n eee  ",
+      "c fc   c  eCCCel",
+      "ccccfgcfc e   el",
+      "cccccf r f     l",
+      "ccc  Jc ct     c",
+      " fcc ccpcee  Uee",
+      "f ffcc peeH   Ie",
+      "ff ff cpeeH   Ie",
+      "fcccfcfpeeH   Ie",
+      "fcccc cpcee  Ͱee",
+      "cfffftccccee3eel"
+    ],
+    [
+      "            k   ",
+      "            kT  ",
+      "           eee8 ",
+      "           eee  ",
+      "         ne   e ",
+      "         ne   e ",
+      "          q   ql",
+      "          e   el",
+      "               l",
+      "                ",
+      "          e   e ",
+      "       eee     e",
+      "       eee     e",
+      "       eee     e",
+      "          eL  e ",
+      "         neeVeel"
+    ],
+    [
+      "            e   ",
+      "           eee  ",
+      "          eeeee ",
+      "          eeeee ",
+      "         neeeee ",
+      "         neeGee ",
+      "          eeeeel",
+      "          eeeeel",
+      "          eeeeel",
+      "          eeGee ",
+      "          eeeee ",
+      "       h  eeeee ",
+      "       h  eeeee ",
+      "       h  eeGee ",
+      "          eeeee ",
+      "         neeeeel"
+    ]
+  ]
+}

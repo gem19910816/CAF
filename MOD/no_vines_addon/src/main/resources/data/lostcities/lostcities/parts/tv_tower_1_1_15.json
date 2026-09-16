@@ -1,0 +1,186 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "小",
+        "block": "immersive_weathering:cracked_stone_brick_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "У",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "С",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "у",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Р",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "     aaebdceecbb",
+      "     deacabedada",
+      "    ebdaaebebdab",
+      "  bdecdddcbdbdbe",
+      "dedacbaeaccbdbcd",
+      "eddaaeebcdeccccc",
+      "bdaaeacbdedbaeba",
+      "edecaaadadbeddbe",
+      "bdadabbaceadcaea",
+      "dbbbbadbcdaceedb",
+      "cbadcdbaeddecdcb",
+      "bdedbbabbbdcbbee",
+      "edcacedeedeb小z e",
+      "adbbbecdcbab z d",
+      "bcdcbcecabea Y a",
+      "cadcadaadecd   a"
+    ],
+    [
+      "         e      ",
+      "       ae       ",
+      "      a         ",
+      "     a          ",
+      "    b           ",
+      "  a d           ",
+      "   a   x  x     ",
+      "eacabbbbacde   b",
+      "  d  x  x       ",
+      "  d             ",
+      "  d             ",
+      "           e e b",
+      "           d zУa",
+      "  a        e zСd",
+      "bcd        a Y b",
+      "  d        d   b"
+    ],
+    [
+      "         d      ",
+      "       cd       ",
+      "      a         ",
+      "     b          ",
+      "    c           ",
+      "  g a           ",
+      "   c   k  k     ",
+      "ecbdccdaeead   e",
+      "  e  k  k       ",
+      "  b             ",
+      "  e             ",
+      "           e a a",
+      "           a z d",
+      "  a        a zУa",
+      "bee        b YСb",
+      "  b        e   b"
+    ],
+    [
+      "         c      ",
+      "       ca       ",
+      "      b         ",
+      "     b          ",
+      "    b           ",
+      "  a b           ",
+      "   a   k  k     ",
+      "ecbacceadccb   c",
+      "  d  k  k       ",
+      "  a             ",
+      "  e             ",
+      "           a a e",
+      "           c z c",
+      "  c        d z c",
+      "edc        cуzУc",
+      "  e        cebaa"
+    ],
+    [
+      "         e      ",
+      "       ec       ",
+      "      c         ",
+      "     e          ",
+      "    e           ",
+      "  a a           ",
+      "   a            ",
+      "aebcceddcddbIIIa",
+      "  d             ",
+      "  e             ",
+      "  e             ",
+      "  I        eadde",
+      "  I        c z c",
+      "  a        bуz d",
+      "cab        cРY c",
+      "  c        b   d"
+    ],
+    [
+      "         b      ",
+      "       ad       ",
+      "      c         ",
+      "     e          ",
+      "    c           ",
+      "  a c           ",
+      "   a            ",
+      "cdddeacecbbabade",
+      "  a             ",
+      "  a             ",
+      "  e             ",
+      "  d        addac",
+      "  c        dуz c",
+      "  e        cРz e",
+      "bae        e Y d",
+      "  b        c   c"
+    ]
+  ]
+}

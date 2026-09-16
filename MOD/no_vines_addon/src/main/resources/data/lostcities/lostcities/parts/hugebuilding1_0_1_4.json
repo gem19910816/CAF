@@ -1,0 +1,343 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "Ѭ",
+        "block": "minecraft:oak_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:dark_oak_fence[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:chiseled_stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:dark_oak_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:stone_brick_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:cobblestone_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "δ",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "β",
+        "block": "minecraft:light_blue_carpet"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:blue_carpet"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:gray_carpet"
+      },
+      {
+        "char": "Б",
+        "block": "minecraft:white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "η",
+        "block": "minecraft:white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "є",
+        "block": "minecraft:player_head[rotation\u003d15]",
+        "tag": {
+          "z": 592,
+          "x": 141,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 160
+        }
+      },
+      {
+        "char": "ѝ",
+        "block": "minecraft:player_head[rotation\u003d13]",
+        "tag": {
+          "z": 592,
+          "x": 142,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 160
+        }
+      },
+      {
+        "char": "ϩ",
+        "block": "minecraft:player_head[rotation\u003d0]",
+        "tag": {
+          "z": 592,
+          "x": 145,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 160
+        }
+      },
+      {
+        "char": "Ν",
+        "block": "minecraft:oak_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 592,
+          "x": 145,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 186,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"CEO\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Robert Knox\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ϳ",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 594,
+          "x": 142,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 147,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Archive\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Foreign Work\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Yorton\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "U",
+        "block": "minecraft:cobblestone_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "         g  q  Ѭ",
+      "        id  q  q",
+      "         g  q  q",
+      "        ie      ",
+      "         g    aa",
+      "        ia    q ",
+      "        xekhahah",
+      "       ipy  l   ",
+      "        l       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "         g      ",
+      "        ikΣ     ",
+      "         g      ",
+      "        ikΣ     ",
+      "         g    aF",
+      "        id  δ aF",
+      "        xaehehkh",
+      "       icy  l   ",
+      "        l       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "         Bcbbbbb",
+      "        idbbbbbb",
+      "         Bbbbbbb",
+      "        iebbbbcc",
+      "         BbbbcF ",
+      "        iacccbF ",
+      "        xaeMdMdh",
+      "       icy  l   ",
+      "        l       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "         g X III",
+      "        iaβLβaeK",
+      "         g    o ",
+      "        ido o Бη",
+      "         g      ",
+      "        ik oo   ",
+      "        xadhdhah",
+      "       icy  l   ",
+      "        l       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "         g   єѝϩ",
+      "        ia  ΝaaK",
+      "         g   Ϳ  ",
+      "        ie      ",
+      "         g      ",
+      "        ia      ",
+      "        xaahehkh",
+      "       ipy  l   ",
+      "        l       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "         g      ",
+      "        ia   eaK",
+      "         g      ",
+      "        id      ",
+      "         g     U",
+      "        id     U",
+      "        xeahahkh",
+      "       icy  l   ",
+      "        l       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

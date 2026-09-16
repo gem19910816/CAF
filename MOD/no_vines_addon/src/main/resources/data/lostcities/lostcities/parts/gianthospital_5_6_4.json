@@ -1,0 +1,258 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "杠",
+        "block": "minecraft:stone_brick_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "廖",
+        "block": "minecraft:stone_brick_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:clay"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "C",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "牒",
+        "block": "immersive_weathering:weathered_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "谦",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "锁",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "剷",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003deast,powered\u003dfalse]"
+      },
+      {
+        "char": "荀",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "钞",
+        "block": "minecraft:oak_wall_sign[facing\u003dnorth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 479,
+          "x": -90,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 153,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "狡",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "乒",
+        "block": "minecraft:oak_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "   杠廖    bdb    ",
+      "   杠廖    cd    m",
+      "   cde   de     ",
+      "  dccd   ec     ",
+      "  d      ce     ",
+      "  e      ddc    ",
+      "zdbddebdccbc    ",
+      "yebebeebcccd    ",
+      "        cbb     ",
+      "mmmm mmm        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "hhi廖    ChCccecd",
+      "gff廖    CfCe   m",
+      "ghhcecedhhqc    ",
+      "iqCgffhfqihc    ",
+      "fqgihCCiCiib    ",
+      "fqifCfhihggd    ",
+      "hhffhhiffgqe    ",
+      "hhfgCighffid    ",
+      "ccebcdbeecec    ",
+      "mmmm mmm        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "Q 牒谦   e   bbcec",
+      "       d   d   m",
+      "锁 剷ceeec   c    ",
+      "           d    ",
+      "           b    ",
+      "           e    ",
+      "荀          e    ",
+      "       钞   b    ",
+      "bbddbbcebeeb    ",
+      "m  m mm狡        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  牒谦 yw         ",
+      "     yK         ",
+      "   ebdw         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       乒        ",
+      "       乒        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   ww           ",
+      "   wK           ",
+      "   ww           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

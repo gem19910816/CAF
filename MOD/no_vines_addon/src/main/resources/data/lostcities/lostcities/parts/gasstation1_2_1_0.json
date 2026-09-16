@@ -1,0 +1,292 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "Λ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 564,
+          "x": 93,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "300s"
+        }
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ω",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": ";",
+        "block": "minecraft:black_wool"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ξ",
+        "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "Φ",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "β",
+        "block": "minecraft:azure_bluet"
+      },
+      {
+        "char": "Ώ",
+        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_carpet"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_wool"
+      },
+      {
+        "char": "y",
+        "block": "immersive_weathering:exposed_cut_iron"
+      },
+      {
+        "char": "C",
+        "block": "immersive_weathering:exposed_plate_iron"
+      },
+      {
+        "char": "x",
+        "block": "immersive_weathering:weathered_plate_iron"
+      },
+      {
+        "char": "A",
+        "block": "immersive_weathering:weathered_cut_iron"
+      },
+      {
+        "char": "ώ",
+        "block": "minecraft:ladder[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "ύ",
+        "block": "immersive_weathering:exposed_iron_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "·",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "Ϭ",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:cobweb"
+      },
+      {
+        "char": "І",
+        "block": "immersive_weathering:exposed_iron_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "ρ",
+        "block": "immersive_weathering:exposed_iron_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "ϩ",
+        "block": "immersive_weathering:exposed_iron_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "ϑ",
+        "block": "minecraft:oak_button[face=wall,facing=east,powered=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "ghkGddlkkjglkakl",
+      "kjlgjgjkhlggkhhk",
+      "kjkkddklhjjkhkhl",
+      "jkhkhhjkjgaalgkh",
+      "Gjahddklaljljjkg",
+      "GGGGGljaggkljggk",
+      "mmaaaaaaahhahjhk",
+      "mmaaaahglljkhggk",
+      "mmaaaaghgklghhka",
+      "gjklaajgkhjjljgl",
+      "hglaΛggllkhjgghl",
+      "gΛjjkΛjlagaghgkh",
+      "hajkddgglkjghjgl",
+      "lalakjhlghkggjhj",
+      "jghaddhkhlglkjgj",
+      "llagllglajkgljgj"
+    ],
+    [
+      "e eeΩ           ",
+      "    ;f          ",
+      "                ",
+      "        c cc   c",
+      "  c ;f cc       ",
+      "ciiiΞf c        ",
+      "rrcccf     c    ",
+      "Φrcccf          ",
+      "rr ccf     c   c",
+      "     c         c",
+      "   βΏv          ",
+      "cΏ  vu  ccc     ",
+      "i  vu           ",
+      " c c       c    ",
+      "   c            ",
+      "  c c   cc      "
+    ],
+    [
+      "e eee           ",
+      "yCCxAf          ",
+      "AAxACώ          ",
+      "yCAAAώ          ",
+      "xCyyAf          ",
+      " iii f          ",
+      "e    f          ",
+      "L    f          ",
+      "i  i f          ",
+      "                ",
+      "                ",
+      "     v          ",
+      "i   v           ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "e ee            ",
+      "AxCACf          ",
+      "    ύf          ",
+      "·Ϭ·ΣІf          ",
+      "yxyyxf          ",
+      " iii f          ",
+      "e    f          ",
+      "b    f          ",
+      "i  i f          ",
+      "                ",
+      "                ",
+      "                ",
+      "i               ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "e ee            ",
+      "CAAAC           ",
+      "    ρf          ",
+      "· · ϩf          ",
+      "xxyAA           ",
+      " iii f          ",
+      "     f          ",
+      "b    f          ",
+      "i  i f          ",
+      "                ",
+      "                ",
+      "                ",
+      "i               ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "e  e            ",
+      "Cyxyyϑ          ",
+      "xCAAyf          ",
+      "ACxAyf          ",
+      "AxAxCϑ          ",
+      " iii f          ",
+      "     f          ",
+      "b    f          ",
+      "i  i f          ",
+      "                ",
+      "                ",
+      "                ",
+      "i               ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

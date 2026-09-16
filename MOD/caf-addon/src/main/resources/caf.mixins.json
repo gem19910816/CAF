@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.caf.addon.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "caf.mixins.refmap.json",
+  "minVersion": "0.8",
+  "mixins": [
+    "OpenLootableBlockPacketMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

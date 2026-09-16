@@ -1,0 +1,54 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": ["inqui:wastes", "ad_astra:lunar_wastelands"],
+  "spawners": [
+    {
+      "type": "spore:inf_human",
+      "weight": 40,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "spore:inf_villager",
+      "weight": 40,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "spore:scamper",
+      "weight": 25,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "type": "spore:stalker",
+      "weight": 20,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "type": "spore:leaper",
+      "weight": 20,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "type": "spore:brute",
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "type": "spore:vigil",
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "type": "spore:mound",
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ]
+}

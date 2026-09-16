@@ -1,0 +1,398 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "开",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 387,
+          "x": 24,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "584s"
+        }
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "推",
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "需",
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+      },
+      {
+        "char": "欢",
+        "block": "minecraft:daylight_detector[inverted=false,power=7]",
+        "tag": {
+          "z": 441,
+          "x": 126,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 133
+        }
+      },
+      {
+        "char": "利",
+        "block": "minecraft:daylight_detector[inverted=false,power=8]",
+        "tag": {
+          "z": 447,
+          "x": 126,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 136
+        }
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "备",
+        "block": "minecraft:dandelion"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "目",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "时",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 434,
+          "x": 58,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\">>>\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "O",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "cddxbcaxacwcdccc",
+      "bcwxbddxdbbbrwar",
+      "ddbxrrdxcbcbdcwd",
+      "cacxwbdxwacdabdb",
+      "bwbxbcwxccdradaa",
+      "rwaxradxdwbawdrc",
+      "dawxddaxdbdbaard",
+      "xxxxxxxxxxxxxxxx",
+      "cdacaabbadbdrxbb",
+      "dbcawbrbccbdbxdd",
+      "bddabrbcaadbbxaI",
+      "cbccbddwdbbdcxbc",
+      "accbcbdadcraaxdd",
+      "acbawadbbdcdax开a",
+      "dbacdcbcacdbdx开c",
+      "addawcbdwaacrx开d"
+    ],
+    [
+      "fj      lCgggggg",
+      "e        iii i q",
+      "fj  qq  l       ",
+      "i    q        q ",
+      "           q    ",
+      "q       l     q ",
+      "              q ",
+      "        l       ",
+      "            q 推需",
+      "     qq       欢欢",
+      "     q  l  q  欢欢",
+      "        l     利欢",
+      "q           q   ",
+      "        l     欢欢",
+      "        l     欢欢",
+      "   m        备 利欢"
+    ],
+    [
+      " j      lzfyfffo",
+      "         iii i  ",
+      " j      l       ",
+      "i               ",
+      "                ",
+      "        l       ",
+      "                ",
+      "        l       ",
+      "              N ",
+      "                ",
+      "        l       ",
+      "        l       ",
+      "                ",
+      "        l       ",
+      "        l       ",
+      "   m            "
+    ],
+    [
+      " j      lDfyoyyp",
+      "         iii i  ",
+      " j      l       ",
+      "i               ",
+      "                ",
+      "        l       ",
+      "                ",
+      "        l       ",
+      "              KҨ",
+      "             ҧnn",
+      "        l     nn",
+      "        l    ҧnn",
+      "              nn",
+      "        l    ҧnn",
+      "        l     nn",
+      "   m         ҧnn"
+    ],
+    [
+      "gj      lDeyepoe",
+      "gЅ       iii i  ",
+      "gj      l       ",
+      "i               ",
+      "                ",
+      "        l       ",
+      "                ",
+      "        l    ҧg ",
+      "              目 ",
+      "              欢欢",
+      "        l     欢欢",
+      "        l     利欢",
+      "                ",
+      "        l     欢欢",
+      "        l     欢欢",
+      "  时m时         利欢"
+    ],
+    [
+      "        lDfoppof",
+      "          ii i  ",
+      "O       l       ",
+      "                ",
+      "                ",
+      "        l       ",
+      "                ",
+      "        l     g ",
+      "              目 ",
+      "                ",
+      "        l       ",
+      "        l       ",
+      "                ",
+      "        l       ",
+      "        l       ",
+      "                "
+    ]
+  ]
+}

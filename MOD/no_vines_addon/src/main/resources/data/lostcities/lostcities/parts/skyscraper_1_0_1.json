@@ -1,0 +1,245 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Θ",
+        "block": "minecraft:white_wool"
+      },
+      {
+        "char": "к",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:red_carpet"
+      },
+      {
+        "char": "ҡ",
+        "block": "minecraft:skeleton_skull[rotation\u003d5]",
+        "tag": {
+          "z": 622,
+          "x": 80,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 176
+        }
+      },
+      {
+        "char": "y",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dside,power\u003d0,south\u003dside,west\u003dside]"
+      },
+      {
+        "char": "ϻ",
+        "block": "minecraft:oak_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ҍ",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϟ",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 617,
+          "x": 85,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 153,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Floor 3\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Complaints\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "cccccccc        ",
+      "geghgegio       ",
+      "       f        ",
+      "       i        ",
+      "       f        ",
+      "       ho       ",
+      "       fo       ",
+      "       io       ",
+      "       fo       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "cccccccc        ",
+      "aadaaaddo       ",
+      "ababbbad        ",
+      "baabbbba        ",
+      "baabbaad        ",
+      "abbbbbbdo       ",
+      "bbbbaaaao       ",
+      "bbaabbbao       ",
+      "abbbabbao       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "cccccccc        ",
+      "JighgeJeo       ",
+      "ΘΘк  llΊ        ",
+      "k k   lh        ",
+      " kk k  f        ",
+      "   k k ho       ",
+      " ҡy k  fo       ",
+      "y    k io       ",
+      "ϻ ϻ   kfo       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "cccccccc        ",
+      "JighgeJeo       ",
+      "ΘΘҍ   lΊ        ",
+      "       e        ",
+      "       f        ",
+      "       ho       ",
+      "       fo       ",
+      "       eo       ",
+      "       fo       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "cccccccc        ",
+      "dddadaddo       ",
+      "ΘΘк    a        ",
+      "ϟ      d        ",
+      "       a        ",
+      "       ao       ",
+      "       do       ",
+      "       ao       ",
+      "       ao       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "cccccccc        ",
+      "Jhgeghgho       ",
+      "ΘΘҍ    f        ",
+      "       h        ",
+      "       f        ",
+      "       ho       ",
+      "       f        ",
+      "       eo       ",
+      "       f        "
+    ]
+  ]
+}

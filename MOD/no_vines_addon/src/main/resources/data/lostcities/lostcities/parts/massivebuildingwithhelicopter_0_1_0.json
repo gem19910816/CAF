@@ -1,0 +1,466 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:dark_oak_planks"
+      },
+      {
+        "char": "7",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "Z",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "4",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "ϻ",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "ϟ",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:redstone_torch[lit=true]"
+      },
+      {
+        "char": "Ϋ",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "ѩ",
+        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "ҹ",
+        "block": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϣ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "Ѝ",
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:gray_carpet"
+      },
+      {
+        "char": "Ͽ",
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "Ҝ",
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+      },
+      {
+        "char": "ѳ",
+        "block": "minecraft:sea_pickle[pickles=3,waterlogged=false]"
+      },
+      {
+        "char": "Ϊ",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "ϋ",
+        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 652,
+          "x": 190,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 179,
+          "Items": []
+        }
+      },
+      {
+        "char": "J",
+        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "ϝ",
+        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Һ",
+        "block": "minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "һ",
+        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "ͻ",
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Ҷ",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "ҙ",
+        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "Ҕ",
+        "block": "immersive_weathering:cracked_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "ҍ",
+        "block": "minecraft:hopper[enabled=true,facing=west]",
+        "tag": {
+          "z": 667,
+          "x": 180,
+          "TransferCooldown": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:hopper",
+          "y": 134,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:hopper[enabled=true,facing=south]",
+        "tag": {
+          "z": 667,
+          "x": 181,
+          "TransferCooldown": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:hopper",
+          "y": 134,
+          "Items": []
+        }
+      },
+      {
+        "char": "m",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ј",
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "и",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ѓ",
+        "block": "minecraft:flower_pot"
+      },
+      {
+        "char": "8",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "е",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 665,
+          "x": 183,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Restroom\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"(PUBLIC)\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ң",
+        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ҹ",
+        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "ѝ",
+        "block": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "Р",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϼ",
+        "block": "immersive_weathering:cracked_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "ѹ",
+        "block": "minecraft:white_wall_banner[facing=north]",
+        "tag": {
+          "z": 667,
+          "Patterns": [],
+          "x": 181,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 136
+        }
+      },
+      {
+        "char": "џ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "0",
+        "block": "immersive_weathering:cracked_stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "қ",
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "ф",
+        "block": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ѣ",
+        "block": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "҈",
+        "block": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:stone_bricks[weathering=true]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "Puuhhhhhhhhhhhhh",
+      "Suuhhhhhhhhhhthh",
+      "7uuhhhhhhhhhhhhh",
+      "Suuhhhhhhhhhhhhh",
+      "Puuhhhhhhhhhhhhh",
+      "Puuhhhhhhhhhhhhh",
+      "S99hhhhhhhhhhhhh",
+      "Zuuhhhhhhhhhhhhh",
+      "Zuuhhhhhhhhhhhhh",
+      "4uuhhhhhhhhhhhhh",
+      "4uuhhhhhhhhhhhhh",
+      "Zu9hhhhhhhhhhhhh",
+      "4hhhhhhhhhhhhhhh",
+      "4dcbcϻcabbbaϻbaa",
+      "Z447SZ4SPPP7ZSS4",
+      "P4SZP7P7SZSPPZZ7"
+    ],
+    [
+      " icatpppϟtpptttt",
+      " ifdtpppptpttttή",
+      "  cdtpppptptttήt",
+      "  fbtppppptptttt",
+      "  fatpppppptpttt",
+      "  fdtppppppptppp",
+      "  fcppppppppptpp",
+      "  fdpppppppppppp",
+      "  fdΫΫpppppppppp",
+      "  fdΫΫpppppppppp",
+      " ѩfcΫΫΫttttttttt",
+      " ѩcaΫΫfdaffababa",
+      " ҹacfufuuffcfufu",
+      "  gggϣ          ",
+      "                ",
+      "                "
+    ],
+    [
+      " iHcЍx    pϿ yyy",
+      "  HaЍ     p   yy",
+      "  NaҜ     pѳ  xy",
+      "  Hf x    Ϊqϋ   ",
+      "  Hc        q   ",
+      "  Jb y      ϝpҺһ",
+      "  Haͻͻͻ         ",
+      "  Hbcaa         ",
+      "  Jd  q         ",
+      "  HbҶ qxxyxxyxx ",
+      "  Hc  ҙ     qq  ",
+      "  ҔaҍҬamdmmmaamm",
+      "  blaa          ",
+      "  g             ",
+      "                ",
+      "                "
+    ],
+    [
+      " i bЈ      и    ",
+      "   fЈ           ",
+      "  Ja      Ѓ     ",
+      "  id       8    ",
+      "   c        8   ",
+      "  Jdе        p  ",
+      "   d            ",
+      "   dͻͻͻ         ",
+      "  Jccaa         ",
+      "  ibҢ aе        ",
+      "  if  Ҹ     qq  ",
+      "  ѝb  cmammmcfmm",
+      "  blfb          ",
+      "  g             ",
+      "                ",
+      "                "
+    ],
+    [
+      " i a            ",
+      "   a            ",
+      "  Ja            ",
+      "  Рb       8    ",
+      "   a        8   ",
+      "  ϼb         ppp",
+      "   a            ",
+      "   c            ",
+      "  Jdͻͻͻ         ",
+      "   dccc         ",
+      "   c  c     qq  ",
+      "  ѝaѹѹcmbmmmaamm",
+      "  aџΫΫ          ",
+      "  g             ",
+      "                ",
+      "                "
+    ],
+    [
+      " ifaz           ",
+      "  fcz           ",
+      "  ca0           ",
+      "  ccE      8    ",
+      "  faE       8   ",
+      "  ffE        8  ",
+      "  caқ           ",
+      "  fd            ",
+      "  fa            ",
+      "  ffͻͻͻ     фф  ",
+      "  ccaab    Ѣϟϟ҈Ѣ",
+      "  fbMbbaddccdbac",
+      "  fccfffffffffff",
+      "  g             ",
+      "                ",
+      "                "
+    ]
+  ]
+}

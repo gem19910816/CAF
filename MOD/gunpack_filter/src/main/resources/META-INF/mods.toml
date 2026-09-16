@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+description="给 TaCZ 的创造模式页签加上枪包筛选按钮，用来区分不同枪包的枪械、配件与弹药。\\nAdds per-gunpack filter buttons to the TaCZ creative tabs."
+
+[[dependencies.${mod_id}]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="tacz"
+    mandatory=true
+    versionRange="[1.1.8,)"
+    ordering="AFTER"
+    side="BOTH"

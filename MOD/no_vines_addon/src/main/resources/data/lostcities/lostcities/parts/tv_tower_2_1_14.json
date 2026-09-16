@@ -1,0 +1,206 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "Z",
+        "block": "minecraft:stone_brick_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϓ",
+        "block": "refurbished_furniture:spruce_table[east\u003dfalse,north\u003dfalse,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:quartz_pillar[axis\u003dx]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:chiseled_quartz_block"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "addebccbaaecbcac",
+      "dbedbeaceaededeb",
+      "dbbbcbabaddabbba",
+      "caebeaaccddecaee",
+      "dbccdcebebcbdaed",
+      "debdeebddeeeaedd",
+      "deabdaeddadaadbc",
+      "acddbddddaebbbba",
+      "edaaaddabaeaeabb",
+      "ebdccbcabddaeaec",
+      "ccdadcebacbdacce",
+      "ccdaaeaaddbdbbba",
+      "ZZZeZZZbdcceaeaa",
+      "   c   cbbdaeeca",
+      "   d   eccbddddc",
+      " G e G cbaedbbec"
+    ],
+    [
+      " e      e  H    ",
+      " e             ϕ",
+      " a            Oϓ",
+      " b      c      H",
+      "bdcaeecbc       ",
+      " e  x  d        ",
+      "       a        ",
+      "             dcb",
+      "             c  ",
+      "             a  ",
+      "       a     b  ",
+      "   d   d        ",
+      "vvvdvJve        ",
+      "   d   b     e  ",
+      "   b   cc   cdeb",
+      " G d G c     b  "
+    ],
+    [
+      " a      a       ",
+      " e              ",
+      " d              ",
+      " e      e       ",
+      "ddcNNNeba       ",
+      " c  k  d        ",
+      "       a        ",
+      "             bac",
+      "             a  ",
+      "             e  ",
+      "       a     b  ",
+      "   b   b        ",
+      "vovcvvne        ",
+      "   a   a     c  ",
+      "   c   db   ceee",
+      " G b G e     b  "
+    ],
+    [
+      " e      d       ",
+      " a              ",
+      " c              ",
+      " e      b       ",
+      "eabNNNdaa       ",
+      " e  k  e        ",
+      "       b        ",
+      "             acd",
+      "             b  ",
+      "             b  ",
+      "       c     b  ",
+      "   e   d        ",
+      "vvocvvva        ",
+      "   b   c     e  ",
+      "   d   ed   ceda",
+      " G b G a     a  "
+    ],
+    [
+      " d      a       ",
+      " c      j       ",
+      " b      j       ",
+      " c      b       ",
+      "addccedcb       ",
+      " a     e        ",
+      "       d        ",
+      "       j     eed",
+      "       j     a  ",
+      "       j     d  ",
+      "       b     b  ",
+      "jjjejjjd     j  ",
+      "rvCcvvve     j  ",
+      "   e   d     a  ",
+      "   e   dbjjjdced",
+      " G e G e     b  "
+    ],
+    [
+      " e      a       ",
+      " b      e       ",
+      " c      d       ",
+      " c      c       ",
+      "aacbdabda       ",
+      " c     c        ",
+      "       c        ",
+      "       e     cdc",
+      "       c     e  ",
+      "       d     d  ",
+      "       d     a  ",
+      "dcbecbec     d  ",
+      "   b   c     b  ",
+      "   d   c     c  ",
+      "   b   cabceccab",
+      " G a G e     c  "
+    ]
+  ]
+}

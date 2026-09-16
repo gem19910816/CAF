@@ -1,0 +1,344 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "开",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 387,
+          "x": 24,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "584s"
+        }
+      },
+      {
+        "char": "社",
+        "block": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "立",
+        "block": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "非",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "件",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "备",
+        "block": "minecraft:dandelion"
+      },
+      {
+        "char": "希",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "至",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "南",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "ҩ",
+        "block": "minecraft:gravel"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "高",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "告",
+        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "站",
+        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "奇",
+        "block": "minecraft:andesite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "N",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "歌",
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "切",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "位",
+        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "德",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "校",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "转",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "acabwwkaacccbkdc",
+      "dwacbIbrbkkarbkk",
+      "aaaaadkckckkdkaa",
+      "aaabawccbccbbdcc",
+      "aabdaackdkcddbka",
+      "adaadIcddbkbbcka",
+      "aawdacdrabdccccb",
+      "aaacabddakbdbbcr",
+      "baacbdcdckaddada",
+      "acaaaIbabccakkac",
+      "adadaabbdaaakcab",
+      "aawbaaakaccadcar",
+      "acaacackdcdbakkc",
+      "ccwaraaakkbdbckd",
+      "aa开daIdcbkdabcad",
+      "a开aaIabrakdkradb"
+    ],
+    [
+      "  社社社立j         ",
+      "     zjq        ",
+      "     非          ",
+      "   q G          ",
+      "q    件j         ",
+      "     zj         ",
+      "     非j         ",
+      "     Gj        备",
+      "     G          ",
+      "  希至南zj         ",
+      "  ҩҩҩ非j    q    ",
+      " lҩҩҩ高         q",
+      "  iҩҩG告告告       ",
+      "    q件站站站       ",
+      "  奇  C社社社      q",
+      " 奇q ҩ非 q    q q "
+    ],
+    [
+      "     Gj         ",
+      "     Cj         ",
+      "     非          ",
+      "     G          ",
+      "     件j         ",
+      "    ҧzj         ",
+      "     非j         ",
+      "     Gj         ",
+      "     高          ",
+      "  N 歌Hj         ",
+      "   ҩҩGj         ",
+      " l  ҩ高          ",
+      "   ҩҩG告告告       ",
+      "     高站站站       ",
+      "     E社社社       ",
+      "     G          "
+    ],
+    [
+      "     高j         ",
+      "     zj         ",
+      "     切          ",
+      "     G          ",
+      "     Gj         ",
+      "    ҧHj         ",
+      "     Gj         ",
+      "     Gj         ",
+      "     高          ",
+      "  KҨ位Cj         ",
+      " ҧnnn非j         ",
+      " lnnnG          ",
+      " ҧnnnG告告告       ",
+      "  nnnG站站站       ",
+      "  nnnC社社社       ",
+      " ҧnnn非          "
+    ],
+    [
+      "     Gj         ",
+      "     zj         ",
+      "     非          ",
+      "     G          ",
+      "     件j         ",
+      "     Dj         ",
+      "     非j         ",
+      "     高j         ",
+      "     G          ",
+      "  德至南zj         ",
+      " lҩҩҩ非j         ",
+      " lҩҩҩG          ",
+      " lҩҩҩ立j         ",
+      "     G          ",
+      "     zj         ",
+      " lҩҩҩ切          "
+    ],
+    [
+      "     高j         ",
+      "     Ej         ",
+      "     G          ",
+      "     非          ",
+      "     件j         ",
+      "     Dj         ",
+      "     非j         ",
+      "     Gj         ",
+      "     高          ",
+      "  校 转Ej         ",
+      "  ҩҩҩ立j         ",
+      " lҩҩҩG          ",
+      " lҩҩҩ立j         ",
+      "     G          ",
+      "     zj         ",
+      "  ҩҩҩ非          "
+    ]
+  ]
+}

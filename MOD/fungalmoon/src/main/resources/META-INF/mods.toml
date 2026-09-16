@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[dependencies.${mod_id}]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="spore"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="ad_astra"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[mods]]
+    modId="${mod_id}"
+    version="${mod_version}"
+    displayName="${mod_name}"
+    authors="${mod_authors}"
+    description='''把真菌感染：孢子（Fungal Infection: Spore）的真菌巢穴群系注入 Ad Astra 的月球维度，巢穴中的 Proto Hivemind 会周期性派袭击队跨维度进攻主世界玩家。'''

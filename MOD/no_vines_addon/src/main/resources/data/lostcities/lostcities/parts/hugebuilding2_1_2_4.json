@@ -1,0 +1,208 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:oak_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:oak_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:oak_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ʹ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 579,
+          "x": 51,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "94s"
+        }
+      },
+      {
+        "char": "y",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:flower_pot"
+      },
+      {
+        "char": "ͻ",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "       b h      ",
+      "       d        ",
+      "       b        ",
+      "       d        ",
+      "       b        ",
+      "       c        ",
+      "      Fb        ",
+      "bcbcbdbd h      ",
+      "        kh      ",
+      "ffff ffff       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ddaaadaaeh      ",
+      "acdadddae       ",
+      "addccaaae       ",
+      "dcaccdcae       ",
+      "adcadcdae       ",
+      "aacacacae       ",
+      "daccddcae       ",
+      "aaaaaaaaeh      ",
+      "eeeeeeeeeh      ",
+      "ffff ffff       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       b h      ",
+      "       a        ",
+      "       b        ",
+      "H      d        ",
+      "kG     b        ",
+      "kG    jd        ",
+      "E    jʹb        ",
+      "babdbcbd h      ",
+      "        yh      ",
+      " fff ffff       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       b h      ",
+      "       c        ",
+      "       b        ",
+      "       a        ",
+      "U      b        ",
+      "       d        ",
+      "      jb        ",
+      "bdbdbcbc h      ",
+      "        yh      ",
+      " fff ffff       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       bͻh      ",
+      "       cͻ       ",
+      "       b        ",
+      "       c        ",
+      "       b        ",
+      "       d        ",
+      "       b        ",
+      "babdbabd h      ",
+      "        yh      ",
+      " fff ffff       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "dadccddaeh      ",
+      "dddadddae       ",
+      "cacdcadae       ",
+      "caddcaaae       ",
+      "cddccacae       ",
+      "cdcdccaae       ",
+      "ddaccddae       ",
+      "aaaaaaaaeh      ",
+      "eeeeeeeeeh      ",
+      " fff ffff       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

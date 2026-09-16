@@ -1,0 +1,238 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "袱",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "巡",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "瓣",
+        "block": "minecraft:oak_log[axis\u003dy]"
+      },
+      {
+        "char": "迵",
+        "block": "minecraft:diorite_stairs[facing\u003deast,half\u003dtop,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "椎",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "床",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "调",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "箍",
+        "block": "minecraft:diorite_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "竺",
+        "block": "minecraft:quartz_pillar[axis\u003dz]"
+      },
+      {
+        "char": "蒙",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "唆",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "儸",
+        "block": "minecraft:diorite_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "袅",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "庇",
+        "block": "minecraft:diorite_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "佯",
+        "block": "minecraft:diorite_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "桨",
+        "block": "minecraft:diorite_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "亥",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "          袱cbcdc",
+      "          袱bbcbd",
+      "          袱beecc",
+      "   巡      袱ebeed",
+      "  巡瓣巡     迵椎椎椎bc",
+      "   巡床        ybe",
+      "             dcb",
+      "             ydb",
+      "             pec",
+      "             ece",
+      "           jjcdc",
+      "           jj调bb",
+      "           j  de",
+      "            mddd",
+      "              dd",
+      "             pbd"
+    ],
+    [
+      "          j  pcc",
+      "              dd",
+      "             pdb",
+      "   床          dc",
+      "  床巡床        pbc",
+      "   床          bd",
+      "             pbb",
+      "              de",
+      "             bbc",
+      "             cdb",
+      "           jjpec",
+      "           jjmce",
+      "           j  cc",
+      "            medb",
+      "              cb",
+      "             dbe"
+    ],
+    [
+      "          j  wcu",
+      "             wev",
+      "             wdu",
+      "             箍cu",
+      "          u  竺du",
+      "             蒙du",
+      "             wcu",
+      "             唆bv",
+      "             pev",
+      "          u  eev",
+      "           jjcdu",
+      "           jjmeu",
+      "           j  ev",
+      "            mpbu",
+      "              bu",
+      "             pbu"
+    ],
+    [
+      "          j  袱de",
+      "              cd",
+      "             袱be",
+      "              bd",
+      "          v  peb",
+      "              ed",
+      "             儸ce",
+      "              de",
+      "             pbd",
+      "          u  dec",
+      "           jjpbb",
+      "           jj de",
+      "           j  be",
+      "            mpce",
+      "              bb",
+      "             ped"
+    ],
+    [
+      "          j  袅ec",
+      "              eb",
+      "             袅bc",
+      "              de",
+      "          v  pbe",
+      "              ce",
+      "             庇bb",
+      "              cc",
+      "             pec",
+      "          u  cbb",
+      "           jjecd",
+      "           jj ee",
+      "           j  ed",
+      "            mpcb",
+      "             儸cd",
+      "             dec"
+    ],
+    [
+      "          j  ycc",
+      "             Ncc",
+      "             Ndc",
+      "             佯dc",
+      "          u  竺ed",
+      "             桨dc",
+      "             ybb",
+      "             亥ce",
+      "             pde",
+      "          v  ddd",
+      "           jjeed",
+      "           jj cc",
+      "           j  ed",
+      "            m亥cc",
+      "             竺cd",
+      "             椎ec"
+    ]
+  ]
+}

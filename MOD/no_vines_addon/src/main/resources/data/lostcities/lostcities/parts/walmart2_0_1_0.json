@@ -1,0 +1,284 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "开",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 387,
+          "x": 24,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "584s"
+        }
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "ҫ",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "奇",
+        "block": "minecraft:andesite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "与",
+        "block": "minecraft:oak_log[axis=y]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "九",
+        "block": "minecraft:oak_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "识",
+        "block": "minecraft:oak_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "且",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "爱",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "准",
+        "block": "minecraft:oak_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "引",
+        "block": "minecraft:oak_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "把",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "讯",
+        "block": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "而",
+        "block": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "线",
+        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "视",
+        "block": "minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false,weathering=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "abakdkcdadckbbbd",
+      "ccacaa开bkakakaak",
+      "kbccbdbcacddcakc",
+      "dkkakdcc开kckaaak",
+      "dckbbcabcdakkadk",
+      "kaarbabaaccdrdaa",
+      "akdbkdaadcdbaack",
+      "rdbbdkkdackcdbdb",
+      "adbkdcab开ccrkkcb",
+      "krbkabcaddacbkkb",
+      "rdkcba开dkbkdccbk",
+      "rckcabkrckdbdkbb",
+      "rcbkaddcdcdbraac",
+      "rkdkdkkbbbdkkccr",
+      "bdkbdbcdccarbcad",
+      "bbbacdkkbdbabccd"
+    ],
+    [
+      "    ҫ   ҫj      ",
+      "    ҫ 奇 ҫ       ",
+      "    ҫ   ҫ       ",
+      "    与ҫҫҫ与       ",
+      "    ii          ",
+      "   q            ",
+      "                ",
+      "q   m           ",
+      "   l与ҫҫҫ与  q    ",
+      " q  ҫ   ҫ       ",
+      "q   ҫ 奇 ҫ       ",
+      "q   ҫ  qҫ       ",
+      "    九   识   q   ",
+      "q  lҫ   ҫ      q",
+      "   lҫ   ҫ  q    ",
+      "   lҫ   ҫj      "
+    ],
+    [
+      "    ҫ   ҫj      ",
+      "    且   且       ",
+      "    ҫ   ҫ       ",
+      "    与ҫ爱ҫ与       ",
+      "    ii          ",
+      "                ",
+      "                ",
+      "    m           ",
+      "   l与ҫ爱ҫ与       ",
+      "    ҫ   ҫ       ",
+      "    且   且       ",
+      "    ҫ   ҫЅ      ",
+      "    准   引       ",
+      "   lҫ   ҫ       ",
+      "   l且   且       ",
+      "   lҫ   ҫj      "
+    ],
+    [
+      "    ҫ   ҫj      ",
+      "    ҫ   ҫ       ",
+      "    ҫ   ҫ       ",
+      "    与ҫҫҫ与       ",
+      "    ii          ",
+      "                ",
+      "                ",
+      "    m           ",
+      "   把与ҫҫҫ与       ",
+      "    ҫ   ҫ       ",
+      "    ҫ   ҫ       ",
+      "    ҫ   ҫ       ",
+      "    ҫ   ҫ       ",
+      "   lҫ   ҫ       ",
+      "   lҫ   ҫ       ",
+      "   lҫ   ҫj      "
+    ],
+    [
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯HҫҫҫH而      ",
+      "   讯线   视而      ",
+      "                ",
+      "                ",
+      "   讯线   视而      ",
+      "   讯HҫҫҫH而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      "
+    ],
+    [
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯HҫH而       ",
+      "    讯线 视而       ",
+      "                ",
+      "                ",
+      "    讯线 视而       ",
+      "    讯HҫH而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       "
+    ]
+  ]
+}

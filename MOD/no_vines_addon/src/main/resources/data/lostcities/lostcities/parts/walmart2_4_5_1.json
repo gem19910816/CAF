@@ -1,0 +1,230 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "没",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:dark_oak_fence[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "天",
+        "block": "minecraft:stone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "他",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "gЅ     ҧggggggЅ ",
+      "gj     lg没gg没g  ",
+      "g       g没gg没gj ",
+      "gj     lggggggj ",
+      "gj      gggggg  ",
+      "gj      g没gg没gj ",
+      "g      lg没gg没g  ",
+      "gj     lggggggj ",
+      "gj     lgggggg  ",
+      "g       g没gg没g  ",
+      "g      lg没gg没gj ",
+      "g       ggggggj ",
+      "gj     lggggggj ",
+      "gj     lg没gg没gj ",
+      "gj      g没gg没g  ",
+      "gЅ     ҧggggggЅ "
+    ],
+    [
+      "O       O    O  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "O       O    O  "
+    ],
+    [
+      "O       O    O  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "O       O    O  "
+    ],
+    [
+      "O       O    O  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "O       O    O  "
+    ],
+    [
+      "O       O    O  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "O       O    O  "
+    ],
+    [
+      "t天ttttttt天tttttt",
+      " t       t      ",
+      " t       t      ",
+      "v他  vv   t  v v ",
+      " 他     v t v    ",
+      " t       t      ",
+      " 他v  v  v他  v   ",
+      " t       t      ",
+      "t天ttttttt天tt他ttt",
+      " t       t  vv  ",
+      " t    vv t    v ",
+      " t v  v  t vvv v",
+      " t    v vt v  v ",
+      " 他v vv   t     v",
+      " t  v    t  v   ",
+      "Ot      Ot   O  "
+    ]
+  ]
+}

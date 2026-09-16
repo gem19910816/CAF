@@ -1,0 +1,310 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Έ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ν",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ͳ",
+        "block": "minecraft:daylight_detector[inverted=false,power=0]",
+        "tag": {
+          "z": 337,
+          "x": 75,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 145
+        }
+      },
+      {
+        "char": "Μ",
+        "block": "minecraft:daylight_detector[inverted=true,power=11]",
+        "tag": {
+          "z": 327,
+          "x": 75,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 145
+        }
+      },
+      {
+        "char": "Ϥ",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "А",
+        "block": "immersive_weathering:weathered_iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "ϒ",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ͷ",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "φ",
+        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 327,
+          "x": 52,
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 141,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ε",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "΄",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Љ",
+        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 350,
+          "x": 57,
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 146,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ϡ",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ϖ",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ϻ",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ϛ",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ͼ",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ў",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ϧ",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ϯ",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=false,waterlogged=false,west=true]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "   iihaaihhiahΊp",
+      "   hihahaiiaiΊ  ",
+      "   ihahhaiiiao  ",
+      "   ihhiaihhiho  ",
+      "   ihhhihhaihΈ l",
+      "   ihhihaiahiiΝh",
+      "   iihhhhhihaihh",
+      "   hiihiiiiiahah",
+      "   iihhaihhhahah",
+      "   iihhahiiiahia",
+      "   aiihhihaiaaih",
+      "   iihiaihhihhai",
+      "   ihhhiiiiiaiii",
+      "   tdctttttttttt",
+      "   bahcttttttttt",
+      "   dhhgttttttttt"
+    ],
+    [
+      "   qͳ           ",
+      "   qͳ           ",
+      "   qͳ           ",
+      "   qΜ      q    ",
+      "   qͳ           ",
+      "   qͳ           ",
+      "   qͳ Ϥ Ϥ q     ",
+      "   qΜАe eϒ    q ",
+      "   qͳ  Ͷφ       ",
+      "   qͳАb eϒ      ",
+      "   qΜ Ε Ε       ",
+      "   qΜ           ",
+      "   qqqqqqqqqqqqq",
+      "   kmggkkknkkknk",
+      "   cncfbknbkkdfd",
+      "   cnkgnngkknkkk"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      ΄ ΄       ",
+      "       Ͷ        ",
+      "      ΄ ΄       ",
+      "                ",
+      "                ",
+      "                ",
+      "    s      ll l ",
+      "   hiihihЉiihiha",
+      "   iahihhiiiihia"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      ΄ ΄       ",
+      "       Ͷ        ",
+      "      ΄ ΄       ",
+      "                ",
+      "                ",
+      "                ",
+      "   e       ll l ",
+      "   kiaaia aiiaha",
+      "   kiiahhiihhhih"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      Ϡϖϻ       ",
+      "      ϛkϾ       ",
+      "      ЎϧϮ       ",
+      "                ",
+      "                ",
+      "                ",
+      "    n      ll l ",
+      "    nahhhaihiaih",
+      "    kiahhhahiiah"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      ΄ ΄       ",
+      "       Ͷ        ",
+      "      ΄ ΄       ",
+      "                ",
+      "                ",
+      "                ",
+      "     k     ll   ",
+      "     naahaaaiaah",
+      "     naiaiiiiiih"
+    ]
+  ]
+}

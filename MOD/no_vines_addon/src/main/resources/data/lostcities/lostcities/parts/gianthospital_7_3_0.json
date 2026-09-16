@@ -1,0 +1,216 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "串",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 451,
+          "x": -63,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 139,
+          "SpawnRange": "4s",
+          "Delay": "20s"
+        }
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "捻",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "戟",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "窿",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "btttttttttttiqfh",
+      "dttttttttttgthtf",
+      "btttttttttthgiii",
+      "cttttttttttggffq",
+      "bttttttttttgfgii",
+      "ctttttttottifftt",
+      "tcttttottttfhiff",
+      "ecbdttttotthtfgt",
+      "tbddtttttttqffff",
+      "oebeottototiftit",
+      "oebbtttttttfgghf",
+      "obbdtttotttitfhf",
+      "odcbt串tttttiqigq",
+      "obbc串ttttottgigt",
+      "obebtttottoiqfih",
+      "otdbtttttttqttqf"
+    ],
+    [
+      " sssssssssss  s ",
+      " ssssssssss s s ",
+      " sssssssss捻 s   ",
+      " ssssssssss     ",
+      " ssssssssss     ",
+      " ssssssscss   ss",
+      "sKssssessss     ",
+      "    ssssw捻s s  s",
+      "s w sssssss     ",
+      "K   Kss戟sds  s s",
+      "w  cssssssss    ",
+      "K   ssscsss s   ",
+      "K   sKsssss     ",
+      "we  Kssss戟ss  ss",
+      "ws  ssswssb     ",
+      "wsscsnnssss ss  "
+    ],
+    [
+      "                ",
+      "                ",
+      "          窿     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "         窿      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nnn        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nnn        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nnn        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nnn        "
+    ]
+  ]
+}

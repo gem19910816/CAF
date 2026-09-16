@@ -1,0 +1,396 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "烤",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "歉",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "调",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "郭",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "氟",
+        "block": "minecraft:gray_bed[facing=east,occupied=false,part=foot]",
+        "tag": {
+          "z": 471,
+          "x": -12,
+          "ForgeCaps": {},
+          "id": "minecraft:bed",
+          "y": 134
+        }
+      },
+      {
+        "char": "蔻",
+        "block": "minecraft:gray_bed[facing=east,occupied=false,part=head]",
+        "tag": {
+          "z": 474,
+          "x": -11,
+          "ForgeCaps": {},
+          "id": "minecraft:bed",
+          "y": 134
+        }
+      },
+      {
+        "char": "吭",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "L",
+        "block": "immersive_weathering:exposed_cut_iron"
+      },
+      {
+        "char": "M",
+        "block": "immersive_weathering:exposed_plate_iron"
+      },
+      {
+        "char": "裔",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "椎",
+        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "亥",
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "樊",
+        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "葆",
+        "block": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "漓",
+        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "钞",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 479,
+          "x": -90,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 153,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "伟",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "晒",
+        "block": "minecraft:potted_cactus"
+      },
+      {
+        "char": "棋",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "喳",
+        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "瓜",
+        "block": "minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "迫",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "畜",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 473,
+          "x": -89,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 147,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Lab\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Room\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"4A\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "揉",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "拔",
+        "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "剖",
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "ooooooootttfhgqt",
+      "ooooooootttgfqff",
+      "oooooooottthqqgh",
+      "oooooooottthhhhg",
+      "ooooooootttqfgii",
+      "ooooooootttgitgi",
+      "ooooooootttfqqgt",
+      "ooooooootttfgiqi",
+      "oooooooottthqghf",
+      "ooooooootttqtfif",
+      "oooooooottthgfhq",
+      "ooooooootttgttgf",
+      "oooooooottttgghi",
+      "ooooooooottqfgtq",
+      "ooooooooottqtfiq",
+      "ooooooooottffqqf"
+    ],
+    [
+      "dbeecebbsss    s",
+      "bbcccccelss     ",
+      "dedbdddblss    s",
+      "FFFFFFdclss     ",
+      "FFFFFFcb烤ss     ",
+      "FFFFFFdblss  s  ",
+      "FFFFFFdbsss    s",
+      "FFFFFFdblss     ",
+      "FFFFFFbbsss     ",
+      "FFFFFFbesss s   ",
+      "FFFFFFdelss     ",
+      "FFFFFFeblss ss  ",
+      "FFFFFFcd歉sss    ",
+      "FFFFFFbdpls   s ",
+      "bbdddcbcels s   ",
+      "deceddccpls     "
+    ],
+    [
+      "     pvb        ",
+      " nnn uvbl       ",
+      "ul uvvebl       ",
+      "   m 调vcl       ",
+      "   郭氟蔻ue烤       ",
+      "   吭LMuc裔       ",
+      "     调vd        ",
+      "l  郭氟蔻ucl       ",
+      "   吭MMub        ",
+      "      ud        ",
+      "   郭氟蔻ucl       ",
+      "椎  吭MMudl       ",
+      "亥    mue歉       ",
+      "nnnn樊葆vcpl      ",
+      "uvuuvvebel      ",
+      "beccdbddpl      "
+    ],
+    [
+      "     漓ue        ",
+      "钞nnn uvb裔       ",
+      "vl vuved裔       ",
+      "   m 调db裔       ",
+      "   郭njdc烤       ",
+      "   吭LLce烤       ",
+      "     调cc        ",
+      "   郭n伟dbl       ",
+      "   吭LMbc        ",
+      "      ed        ",
+      "   郭n dcl       ",
+      "   吭LMcdl       ",
+      "      be歉       ",
+      "nn  晒 cdpl      ",
+      "棋棋棋棋喳bbddl      ",
+      "ebbbcbdepl      "
+    ],
+    [
+      "     瓜bd        ",
+      " nn  bbc烤       ",
+      "c迫迫ebbce烤       ",
+      "   m mdd烤       ",
+      "     jde烤       ",
+      "畜   揉揉eb烤       ",
+      "      dd        ",
+      "     jbdl       ",
+      "    揉揉ed        ",
+      "      de        ",
+      "      bel       ",
+      "    揉揉ccl       ",
+      "      cd歉       ",
+      " n    dccl      ",
+      "棋棋棋喳ebcbcl      ",
+      "ddeedecbcl      "
+    ],
+    [
+      "      dc烤       ",
+      " nn  ddc烤       ",
+      "ccedecccl       ",
+      "kaaaa拔cbl       ",
+      "kkraaaccl       ",
+      "a剖kkaacb烤       ",
+      "kkaraade烤       ",
+      "rakrraeel       ",
+      "aaakaade        ",
+      "aaraakbe        ",
+      "kraaakdcl       ",
+      "a剖rakadbl       ",
+      "kkkkaacc歉       ",
+      "aaaaarbbpl      ",
+      "cddbececcl      ",
+      "cdccccddcl      "
+    ]
+  ]
+}

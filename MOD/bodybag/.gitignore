@@ -1,0 +1,29 @@
+# eclipse
+bin/
+*.launch
+.settings/
+.metadata/
+classpath/
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# gradle
+build/
+.gradle/
+run/
+
+# generated
+src/generated/
+
+# Mac
+.DS_Store
+
+# local
+local.properties
+run/
+run-data/

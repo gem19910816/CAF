@@ -1,0 +1,222 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "8",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 619,
+          "x": 51,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 185,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Floor 11:\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"CEO Offices\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "j",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:oak_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h  h  h        ",
+      " a aaf a        ",
+      "bbiccim         ",
+      "   8  jz        ",
+      "      ba        ",
+      "   a  ea        ",
+      "   a            ",
+      "   a  baf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h  h  h        ",
+      " a aaf a        ",
+      "ecicbim         ",
+      "      jz        ",
+      "      ba        ",
+      "   a  ea        ",
+      "   ak j         ",
+      "      baf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h  h  h        ",
+      " a aaf a        ",
+      "ebibcim         ",
+      "      jz        ",
+      "      ea        ",
+      "   akkea        ",
+      "   a  j         ",
+      "      baf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h  h  h        ",
+      " a aaf a        ",
+      "cceebcc         ",
+      "Gbbbbbez        ",
+      "bbbbbbba        ",
+      " bbb  ca        ",
+      "  bb  b         ",
+      "  bb  eaf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h  h  h        ",
+      " a aaf a        ",
+      "bbicbHk         ",
+      "bb ΖΖvFz        ",
+      "bb    ba        ",
+      "   a  ca        ",
+      "   a  j         ",
+      "   a  baf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h  h  h        ",
+      " a aaf a        ",
+      "beibcHk         ",
+      "bb 8 vFz        ",
+      "b     ea        ",
+      "   a  ba        ",
+      "   a  j         ",
+      "   akkcaf       "
+    ]
+  ]
+}

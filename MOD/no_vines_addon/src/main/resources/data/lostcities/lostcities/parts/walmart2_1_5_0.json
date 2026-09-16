@@ -1,0 +1,482 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "希",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "至",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "火",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "伤",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=tall]"
+      },
+      {
+        "char": "治",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "建",
+        "block": "minecraft:ladder[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "机",
+        "block": "minecraft:acacia_log[axis=z]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:bricks[weathering=false]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "花",
+        "block": "minecraft:oxeye_daisy"
+      },
+      {
+        "char": "板",
+        "block": "horror_element_mod:blood_9[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "程",
+        "block": "immersive_weathering:mossy_bricks"
+      },
+      {
+        "char": "连",
+        "block": "horror_element_mod:blood_1[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "练",
+        "block": "horror_element_mod:sliced_body[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "西",
+        "block": "horror_element_mod:blood_9[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "体",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "报",
+        "block": "horror_element_mod:blood_1[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "斯",
+        "block": "horror_element_mod:spiked_body[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "认",
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "及",
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "显",
+        "block": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "馆",
+        "block": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "红",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "还",
+        "block": "minecraft:dark_oak_log[axis=z]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "论",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "战",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "之",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "内",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "指",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=tall]"
+      },
+      {
+        "char": "表",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "老",
+        "block": "minecraft:rail[shape=ascending_east,waterlogged=false]"
+      },
+      {
+        "char": "性",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "共",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,weathering=false,west=tall]"
+      },
+      {
+        "char": "校",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "类",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "城",
+        "block": "minecraft:rail[shape=north_south,waterlogged=false]"
+      },
+      {
+        "char": "害",
+        "block": "minecraft:lever[face=wall,facing=west,powered=true]"
+      },
+      {
+        "char": "年",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "料",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "放",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "研",
+        "block": "minecraft:flower_pot"
+      },
+      {
+        "char": "帮",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "令",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "换",
+        "block": "minecraft:mossy_cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+      },
+      {
+        "char": "持",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "职",
+        "block": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "差",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "目",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "给",
+        "block": "minecraft:rail[shape=ascending_west,waterlogged=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "wrwwxaawdbbxabwb",
+      "cbwdxwabbabxbwrc",
+      "wbbbxIadcIcxrwrw",
+      "acabxwddaaIxbdba",
+      "awcdxccbcraxabcb",
+      "baddxbcdwdaxabca",
+      "rwbrxaIcbwbxwcaw",
+      "cbrdxwabwIdxdraa",
+      "babbxbrwbccxcwaa",
+      "adcdxcIddbcxdccw",
+      "ccrdxddbaaIxabbd",
+      "abdcxdadcdaxdbac",
+      "acacxccddbdxdcdr",
+      "brcbxbcdccbxddda",
+      "bwacxacbbIbxacaa",
+      "cawaxdwacdIxIIdc"
+    ],
+    [
+      " q   希至火伤至治     ",
+      " q  建机机机PPP   q ",
+      "    l机机机PPPj花 q ",
+      "板q  l机机机P程P     ",
+      "连练连 l机机机 qq     ",
+      "q连  l机机机程j    西体",
+      "q  ql机机机P程程j 报斯西",
+      "  q 建机机机P程程  q报 ",
+      "     认及显馆及红   q ",
+      "    建还还还EEz     ",
+      "    l还还还ECCj    ",
+      "    l还还还ECz     ",
+      "    l还还还论m  战  战",
+      " q  l还还还Dzjj之JJ之",
+      "     还还还ECzjJJJJ",
+      "    建还还还zzEj之JJ之"
+    ],
+    [
+      "     N 内指 表     ",
+      "     老机 PPP     ",
+      "    l 机 P程 j    ",
+      "     l机 程j      ",
+      "    l 机j        ",
+      "    l 机         ",
+      "    l 机 P性 j    ",
+      "     老机 PPj     ",
+      "     N 内共 校     ",
+      "     老还 EDz     ",
+      "    ll还 E ij    ",
+      "    ll还 Dzj     ",
+      "    ll还j论m  m   ",
+      "    l 还jzDjjJJ 类",
+      "      还 zzmҧJ城害年",
+      "     老还 CzzjJJ 料"
+    ],
+    [
+      "     KҨKKҨK     ",
+      "    ҧnnnnnnЅ    ",
+      "    lnnnnnnj    ",
+      "     nnnnnnЅ    ",
+      "    lnnnnnn     ",
+      "    lnnnnnnЅ    ",
+      "    lnnnnnnj    ",
+      "    ҧnnnnnnЅ    ",
+      "     KҨKKҨK     ",
+      "    ҧnnnnnnЅ    ",
+      "    lnnnnnnj    ",
+      "    lnnnnnnЅ    ",
+      "    lnnnnnn     ",
+      "    lnnnnnnj 放 N",
+      "     nnnnnn 研   ",
+      "    ҧnnnnnnj 放 N"
+    ],
+    [
+      "     帮 令指 换     ",
+      "    建机机机PP程j    ",
+      "    l机机机P程程j    ",
+      "     机机机PP程j    ",
+      "    l机机机性mm     ",
+      "    l机机机程P程     ",
+      "    l机机机PPPj    ",
+      "    建机机机PPP     ",
+      "     持 职共 表     ",
+      "    建还还还zzzj    ",
+      "    l还还还zCDj    ",
+      "    l还还还Czzj    ",
+      "    l还还还 i论     ",
+      "    l还还还DzDj ҬҬK",
+      "     还还还Dzz   Ҭ差",
+      "    建还还还Czzj ҬҬK"
+    ],
+    [
+      "     目 内指 表     ",
+      "     老机 PP程     ",
+      "    l 机 P程程j    ",
+      "      机 PPPj    ",
+      "    l 机   m     ",
+      "      机 PPP     ",
+      "      机 PPPj    ",
+      "     老机 PPP     ",
+      "     N 内共 表     ",
+      "     老还给zzzj    ",
+      "    l 还 zDzj    ",
+      "    ll还 Hzzj    ",
+      "     l还  im     ",
+      "    l 还 Czzj   N",
+      "      还 HzH     ",
+      "     老还给Ezzj   N"
+    ]
+  ]
+}

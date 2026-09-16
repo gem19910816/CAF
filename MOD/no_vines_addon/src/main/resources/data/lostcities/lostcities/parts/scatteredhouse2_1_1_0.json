@@ -1,0 +1,382 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "к",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "υ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϒ",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "τ",
+        "block": "minecraft:dandelion"
+      },
+      {
+        "char": "ϐ",
+        "block": "minecraft:poppy"
+      },
+      {
+        "char": "Ь",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:oak_log[axis=y]"
+      },
+      {
+        "char": "ϑ",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ώ",
+        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Φ",
+        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ϰ",
+        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 332,
+          "x": 144,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 143,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"North Side\"}",
+              "{\"text\":\"Watch\"}",
+              "{\"text\":\"<----\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "ͳ",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ϙ",
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "tag": {
+          "z": 329,
+          "x": 138,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 144,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"West Side\"}",
+              "{\"text\":\"Watch\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Τ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "θ",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "Л",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϗ",
+        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ϧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 335,
+          "x": 129,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ж",
+        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ϣ",
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ϓ",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "φ",
+        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "χ",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "г",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ͳ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϊ",
+        "block": "minecraft:oak_log[axis=z]"
+      },
+      {
+        "char": "ʹ",
+        "block": "minecraft:brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "cccccccbbbb     ",
+      "cccccccbbbb     ",
+      "cccbbbbbbbb     ",
+      "cccbbbbbbbb     ",
+      "cccbbbbbbbb     ",
+      "bbbbbbbbbbb     ",
+      "bbbbbbbbbbb     ",
+      "bbbbbbbcbbb     ",
+      "bbbbbbbbbbb     ",
+      "bbbbbbbbbbb     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "eeeeeea   j     ",
+      "eeaaaaafffj     ",
+      "eeaкυ  fϒτj     ",
+      "eeafffffϒfj     ",
+      "aaaffffϒϒfj     ",
+      "f fϐfffff j     ",
+      "fffϐϒϒЬ ϒfj     ",
+      "fffffϒfhffj     ",
+      "fffffϒτ  τj     ",
+      "ϑ ώΦΦΦΦΦΦΦϰ     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   Ͱ  ͳ   j     ",
+      " Ͱͳͱͳͳͳ   j     ",
+      " ϙaΣ      j     ",
+      " ΣaΤ      j     ",
+      "θͳkΤ      j     ",
+      "ͳͳυ       j     ",
+      "      Л   j     ",
+      "       h  j     ",
+      "          j     ",
+      " ώϑ  ώϑ ώΦϰ     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  ͰͰͰ ͳ   ϗ     ",
+      " ϧЖͱͱhͳ         ",
+      " ϧjΣΣΣ          ",
+      "  kΤ            ",
+      "ϣͳaΤ      ϓ     ",
+      "hͳυ       φ     ",
+      "Σ         ϗ     ",
+      "       h        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   ͰͰ ͳ         ",
+      "  ͳͱͱhͳ         ",
+      "  aΣΣΣ          ",
+      "  aΤ            ",
+      "ϣχaΤ            ",
+      "hͳ              ",
+      "Σ               ",
+      "       h        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ddddddͳ         ",
+      "ddͳͳͳͳͳ         ",
+      "ddaг            ",
+      "ddaΤ    l       ",
+      "ͳͳa  o lͲl      ",
+      "ͳͳ  oml ϊ       ",
+      "ʹʹ omlͲϊ  o     ",
+      "   o lͲhͲlm     ",
+      "   m ͲͲͲlm      ",
+      "      llmo      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

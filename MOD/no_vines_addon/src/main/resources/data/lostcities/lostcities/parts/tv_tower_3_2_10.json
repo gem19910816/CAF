@@ -1,0 +1,216 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "ϔ",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "П",
+        "block": "minecraft:barrel[facing\u003dup,open\u003dfalse]",
+        "tag": {
+          "z": -275,
+          "x": -15,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "minecraft:barrel",
+          "y": 2,
+          "Items": []
+        }
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "下",
+        "block": "doomsday_decoration:crt[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӟ",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:iron_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ο",
+        "block": "doomsday_decoration:crt[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ѧ",
+        "block": "doomsday_decoration:host[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:iron_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:iron_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:iron_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "cecdecdae       ",
+      "eadbeadac       ",
+      "dbacaccge       ",
+      "ccadcdaa        ",
+      "dbbeeeaa        ",
+      "ecbcbdacg       ",
+      "cdccceacg       ",
+      "babbagcg        ",
+      "cadeaaca        ",
+      "bbababg         ",
+      "daadaba         ",
+      "ccbaei          ",
+      "ebadai          ",
+      "cdgea           ",
+      "eida            ",
+      "ada             "
+    ],
+    [
+      "d ϔ    f        ",
+      "a      f        ",
+      "Пaa    f        ",
+      "      f         ",
+      "      f         ",
+      "aedecdaaa       ",
+      "  x   f         ",
+      "     f          ",
+      "                ",
+      "                ",
+      "cd  f           ",
+      "H  fd           ",
+      "  f  a          ",
+      "  f             ",
+      "                ",
+      "f               "
+    ],
+    [
+      "下      fӞ       ",
+      "       fl       ",
+      "        l       ",
+      "      fl        ",
+      "      fl        ",
+      "ccaeedaeg       ",
+      "  k   fl        ",
+      "     fl         ",
+      "     fl         ",
+      "    fl          ",
+      "οѧ  fl          ",
+      "   fa           ",
+      "  fu a          ",
+      "  fl            ",
+      " fl             ",
+      "fl              "
+    ],
+    [
+      "       ft       ",
+      "       ft       ",
+      "       ft       ",
+      "      ft        ",
+      "      ft        ",
+      "cccaecgda       ",
+      "  k   ft        ",
+      "     ft         ",
+      "     ft         ",
+      "    ft          ",
+      "     t          ",
+      "    a           ",
+      "   w a          ",
+      "   t            ",
+      " ft             ",
+      " w              "
+    ],
+    [
+      "       f        ",
+      "       f        ",
+      "       f        ",
+      "      f         ",
+      "                ",
+      "daccaegea       ",
+      "      f         ",
+      "     f          ",
+      "     f          ",
+      "                ",
+      "    f           ",
+      "   fe           ",
+      "     a          ",
+      "                ",
+      " f              ",
+      "                "
+    ],
+    [
+      "       ad       ",
+      "       ac       ",
+      "       gd       ",
+      "      ab        ",
+      "      ad        ",
+      "beabaaabi       ",
+      "      gd        ",
+      "     ad         ",
+      "     ad         ",
+      "    ge          ",
+      "    ac          ",
+      "   ad           ",
+      "  gc a          ",
+      "  ae            ",
+      " id             ",
+      "ac              "
+    ]
+  ]
+}

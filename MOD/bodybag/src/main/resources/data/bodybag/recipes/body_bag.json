@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WSW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "bodybag:body_bag",
+    "count": 1
+  }
+}

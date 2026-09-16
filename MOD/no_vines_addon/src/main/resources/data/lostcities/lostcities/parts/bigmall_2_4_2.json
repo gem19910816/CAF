@@ -1,0 +1,386 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "我",
+        "block": "minecraft:white_wool"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "Ӌ",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "妳",
+        "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=2]"
+      },
+      {
+        "char": "Ϗ",
+        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "k",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "当",
+        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+      },
+      {
+        "char": "本",
+        "block": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "则",
+        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ó",
+        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ӎ",
+        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "测",
+        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis=y]"
+      },
+      {
+        "char": "什",
+        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "果",
+        "block": "minecraft:stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=tall]"
+      },
+      {
+        "char": "重",
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "接",
+        "block": "immersive_weathering:exposed_iron_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "皮",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "经",
+        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ӓ",
+        "block": "minecraft:oak_log[axis=y]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "ҕ",
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ғ",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 336,
+          "x": 144,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"MALL\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"CLOSED\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"DUE TO\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"OUTBREAK\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "规",
+        "block": "minecraft:stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "指",
+        "block": "immersive_weathering:exposed_iron_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "老",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "1",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "V",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "Ͳ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "参",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "味",
+        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "此",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=tall]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "该",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "助",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "界",
+        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "pppppppnn       ",
+      "pnnpnpnnn       ",
+      "CnpCpnnppp      ",
+      "CnpCnpppnpn     ",
+      "ppppCCnnnnnnhhhh",
+      "bbbb我pppnpnphsss",
+      "ffbbbnppnnnnhsss",
+      "fffbbCnnnnnnhsss",
+      "fffffbpnnpnnhhhh",
+      "fffffbppnCnpnppp",
+      "bfffffbbCppnpnpn",
+      "ffffffffbbbbbbbb",
+      "ffffffffbfffffbf",
+      "ffffbfffffffffff",
+      "ffffffffffffffff",
+      "ffffffffffffffff"
+    ],
+    [
+      "Ӌ   妳pqzϏ       ",
+      "k当  hhkkϏ       ",
+      " kqzh本则kóӍ      ",
+      "kzzzhh测qkóӍ     ",
+      "ttttttq qkó什kiki",
+      "ouyoot    kki果z重",
+      "IIwhytkkz k接kqkk",
+      "qqkwytqzqkkzi皮q经",
+      "qqkqQytqk  qziii",
+      "kqqUQyttq zkkkqz",
+      "ӓqqqqIuutttttttt",
+      "kkqzkqIIouuyyoou",
+      "qkqqkkqkwQIIQOwI",
+      "qqqqӓkqqqqqqkqqq",
+      "UqqkkqqUkqUqUqqk",
+      "UqkqkkqkkqqqUqkk"
+    ],
+    [
+      "     ҕ          ",
+      "   hhh          ",
+      "   h本           ",
+      "ҒҒ hhh          ",
+      "pmssms      iiii",
+      "roohhs      i果 规",
+      "  whhm     指    ",
+      "   wom       老 经",
+      "X1   ri     ii i",
+      "ͰX1V rii        ",
+      "ӓͰX  3rrvsiiimss",
+      "ͰX11X1Ͳ yorrryuo",
+      "X11XͰX1 w     w ",
+      "  XͰӓͰX         ",
+      "V 1XͰX1V  V V   ",
+      "V  1X1      V   "
+    ],
+    [
+      "                ",
+      "  hhh什          ",
+      "  h本参           ",
+      "Ғ hhhӍ          ",
+      "pmvmmm      ii  ",
+      "ruuhhm      i果 味",
+      "  whhs      i   ",
+      "   wom      i此 经",
+      "X1Ͳ  ri     iiii",
+      "ͰX1  rii        ",
+      "ӓͰX  3rrsmi  mms",
+      "ͰX11X1  uorrruyo",
+      "X11XͰX1 w     w ",
+      "  XͰӓͰX         ",
+      "  1XͰX1         ",
+      "  Ͳ1X1          "
+    ],
+    [
+      "                ",
+      " hhh什           ",
+      " h本             ",
+      "ҒhhhӍ           ",
+      "nmmmsm      iiii",
+      "ruuhhm      ihhh",
+      "  whhm       hHh",
+      "   wum       hhh",
+      "     ri     iiii",
+      "Ͱ    rii        ",
+      "ӓͰ   3rrmmiiivss",
+      "Ͱ       oorrruuo",
+      "    ͰX  w     w ",
+      "   ͰӓͰ          ",
+      "   XͰX          ",
+      "                "
+    ],
+    [
+      "                ",
+      "hhh什            ",
+      "h本              ",
+      "hhhӍ            ",
+      "ivmsvs      iiii",
+      "royhhm      i果该规",
+      "  whhs       该该该",
+      "   wym      i助该界",
+      "     ri     i i ",
+      "X    ri         ",
+      "ͰX   3rrvmii mss",
+      "X       yyrrruoo",
+      "    X   w     w ",
+      "   XͰX          ",
+      "    X           ",
+      "                "
+    ]
+  ]
+}

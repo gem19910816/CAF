@@ -1,0 +1,322 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "校",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "今",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "听",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "兄",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "叫",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "传",
+        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "金",
+        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "告",
+        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "站",
+        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "社",
+        "block": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "北",
+        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "另",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "份",
+        "block": "minecraft:birch_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "总",
+        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "目",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "ҩ",
+        "block": "minecraft:gravel"
+      },
+      {
+        "char": "位",
+        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "推",
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaadwacaaaaa",
+      "acaaaabacadaaaaa",
+      "aaaaaaaaacarcadr",
+      "aaaawbaaaacraabw",
+      "ddwaadaadacaaaac",
+      "babaaadaabacaard",
+      "aaadwaaacdbrdaaa",
+      "aaacawacbaaaaaad",
+      "daaabcaccbwbdbaa",
+      "aabaadraarbadaab",
+      "aaaaaacarddbaara",
+      "carddaaaaaaaccaa",
+      "bwaacawadbawadca",
+      "dbacbaaaraaabaaa",
+      "aaaaaacbbaaarada",
+      "abaaaaadaacwadca"
+    ],
+    [
+      "iiii            ",
+      "                ",
+      "           q   q",
+      "           q    ",
+      "                ",
+      "   q          q ",
+      " m 校 q  q  q    ",
+      "l今听兄      q     ",
+      " 叫q叫     q      ",
+      " 传 传  q  q mmm  ",
+      " 金 金    q l告告告q ",
+      "  q       ҧ站站站Ѕ ",
+      "           社社社  ",
+      " 北 北   qq  i    ",
+      " 另 另 q    q告告告  ",
+      "份总 总      ҧ站站站Ѕ "
+    ],
+    [
+      "iiii            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m 校            ",
+      "lN 目            ",
+      "                ",
+      "            mm  ",
+      "          lҩҩҩ  ",
+      "           ҩҩҩ  ",
+      "           ҩҩҩ  ",
+      "           i    ",
+      "                ",
+      "            ҩ   "
+    ],
+    [
+      "iiii            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m 校            ",
+      "l位ҨK            ",
+      "ҧnnnЅ           ",
+      " nnn        mm  ",
+      "ҧnnnЅ     lҩҩҩ  ",
+      " nnn       ҩҩҩ  ",
+      " nnn       ҩҩҩ  ",
+      "ҧnnnЅ           ",
+      " nnn            ",
+      "ҧnnnЅ           "
+    ],
+    [
+      "iiii            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m 校            ",
+      "l推听兄            ",
+      "   叫            ",
+      "   传            ",
+      "   金            ",
+      "                ",
+      "                ",
+      " 北 北            ",
+      " 另 另            ",
+      " 总 总            "
+    ],
+    [
+      "iiii            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m 校            ",
+      "lN 目            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

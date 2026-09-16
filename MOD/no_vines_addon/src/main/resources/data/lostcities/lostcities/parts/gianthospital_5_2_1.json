@@ -1,0 +1,275 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "训",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "伤",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 411,
+          "x": -94,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-25838521569144L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "法",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 483,
+          "x": -73,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 160,
+          "NodePos": "-20066085228384L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "谱",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003deast,powered\u003dfalse]",
+        "tag": {
+          "z": 465,
+          "x": -59,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-16217794604920L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "酷",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:moss_block"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "怨",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003dwest,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "染",
+        "block": "minecraft:mossy_cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "锁",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dnone,power\u003d0,south\u003dnone,west\u003dside]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "         c      ",
+      "         dcll   ",
+      "        je  l   ",
+      "         训  l   ",
+      "         训      ",
+      "        j训      ",
+      "       n 训      ",
+      "         训 l    ",
+      "         训      ",
+      "        j训      ",
+      "         训 l    ",
+      "        j训 l    ",
+      "         训 l    ",
+      "         训 l    ",
+      "         训      ",
+      "n n n nn b l    "
+    ],
+    [
+      "         b      ",
+      "         bbll   ",
+      "        je  l   ",
+      " 伤       b  l   ",
+      " 伤      ab      ",
+      "        jc      ",
+      "       nad      ",
+      "        rb l    ",
+      " 伤       b      ",
+      " 伤      jd      ",
+      "        Qe l    ",
+      "        jb l    ",
+      "         b l    ",
+      " 法    谱  d l    ",
+      " 法    谱  c      ",
+      "  n   n  b l    "
+    ],
+    [
+      "aaraararac      ",
+      "aaaraaaaacKll   ",
+      "kaaaaakrab  l   ",
+      "kAaaaa raew l   ",
+      "kAkaka arcw     ",
+      "aaka酷B   e      ",
+      "arkaaa n db     ",
+      "kakaah   edl    ",
+      "aAaaaf  aed     ",
+      "aAkraa radc     ",
+      "aaaaaaakabdl    ",
+      "aakaarkaadel    ",
+      "akaaaaaaadcl    ",
+      "aAaaakAaabdl    ",
+      "aAraaaAkacb     ",
+      "kkararaaacdl    "
+    ],
+    [
+      "        dd      ",
+      "        dc ll   ",
+      "      hb w  l   ",
+      " x   g      l   ",
+      "怨x   B          ",
+      "     i          ",
+      "     染 n        ",
+      "     g     l    ",
+      " x   锁a   w     ",
+      "怨x    h   d     ",
+      "       fhccl    ",
+      "         bel    ",
+      "         edl    ",
+      " x    x  bbl    ",
+      "怨xEEE怨x  bd     ",
+      "         ddl    "
+    ],
+    [
+      "        cw      ",
+      "        e  ll   ",
+      "      gc    l   ",
+      "     G e    l   ",
+      "     h          ",
+      "     g          ",
+      "     B n        ",
+      "     f     l    ",
+      "      g         ",
+      "      i         ",
+      "       ifbdl    ",
+      "         bdl    ",
+      "         ddl    ",
+      "         dbl    ",
+      "         db     ",
+      "         cdl    "
+    ],
+    [
+      "        de      ",
+      "       bd  ll   ",
+      "      gdw   l   ",
+      "     f e    l   ",
+      "     g          ",
+      "     f          ",
+      "     i n        ",
+      "     f     l    ",
+      "      h         ",
+      "      h e       ",
+      "       dcell    ",
+      "       bbbel    ",
+      "        eccl    ",
+      "         cel    ",
+      "         ed     ",
+      "         ddl    "
+    ]
+  ]
+}

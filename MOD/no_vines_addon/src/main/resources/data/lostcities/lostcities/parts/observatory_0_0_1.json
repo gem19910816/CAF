@@ -1,0 +1,250 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "΅",
+        "block": "minecraft:stone_brick_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "·",
+        "block": "minecraft:spruce_fence[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:stone_brick_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "P",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "ʹ",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "7",
+        "block": "minecraft:dark_oak_fence[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "5",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "T",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Z",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "ρ",
+        "block": "minecraft:chest[facing\u003deast,type\u003dsingle,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 620,
+          "x": 142,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 140,
+          "Items": []
+        }
+      },
+      {
+        "char": "J",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "σ",
+        "block": "minecraft:stone_brick_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "              p ",
+      "          p puhd",
+      "         u ddj  ",
+      "        ud      ",
+      "        j       ",
+      "       d     O  ",
+      "      d     ΅j  ",
+      "      d         ",
+      "      d   O    b",
+      "     uj  ΅i  ·b ",
+      "    sj       b  ",
+      "    sd      bb  ",
+      "     d      bb b",
+      "     d      bbΊb"
+    ],
+    [
+      "                ",
+      "                ",
+      "              pO",
+      "          p puoj",
+      "         ujjhogg",
+      "        ujgggggg",
+      "        cggggggg",
+      "       jgggggggg",
+      "      hggggggg z",
+      "      iggggg   z",
+      "      hgggg    b",
+      "     uogggg  ·bz",
+      "    scgggg   bzz",
+      "    siggggzzbb z",
+      "     jgggg zbb b",
+      "     hggggzzbb b"
+    ],
+    [
+      "                ",
+      "                ",
+      "              p ",
+      "          p puid",
+      "         udddh  ",
+      "        pd      ",
+      "        h       ",
+      "       d  D  Pʹ7",
+      "      d    P5T Z",
+      "      dD  PT   F",
+      "      d  DF    b",
+      "     ui  PT  Eb ",
+      "    sj   F   bρ ",
+      "    sd   F  bbgb",
+      "     d   F  bb b",
+      "     dJ  F  bb b"
+    ],
+    [
+      "                ",
+      "                ",
+      "              p ",
+      "          p puid",
+      "         udddj  ",
+      "         d      ",
+      "        i       ",
+      "       d       7",
+      "      d         ",
+      "      d         ",
+      "      d        b",
+      "     uj       b ",
+      "    sh       b  ",
+      "    sd      bbgb",
+      "     d      bb b",
+      "     dʹ     bb b"
+    ],
+    [
+      "                ",
+      "                ",
+      "              pO",
+      "          p puch",
+      "         uhhic  ",
+      "         j      ",
+      "                ",
+      "       hD      7",
+      "      D         ",
+      "      σ         ",
+      "      i        b",
+      "     uo       bb",
+      "    so       bbb",
+      "    sh      bbbb",
+      "     h      bb b",
+      "     hʹ     bb b"
+    ],
+    [
+      "                ",
+      "                ",
+      "              p ",
+      "            puid",
+      "          dddi  ",
+      "         d      ",
+      "                ",
+      "               r",
+      "               r",
+      "               r",
+      "               r",
+      "     uj       rb",
+      "    si       rbb",
+      "    sd      rbbb",
+      "     d      rb b",
+      "     dʹ     rb b"
+    ]
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "β",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "ͼ",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Δ",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "υ",
+        "block": "minecraft:skeleton_skull[rotation=10]",
+        "tag": {
+          "z": 528,
+          "x": 152,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 134
+        }
+      },
+      {
+        "char": "I",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "·",
+        "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+      },
+      {
+        "char": "б",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϊ",
+        "block": "horror_element_mod:blood_1[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "5",
+        "block": "horror_element_mod:blood_1[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "Ш",
+        "block": "horror_element_mod:impaled_head[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "и",
+        "block": "horror_element_mod:blood_9[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "І",
+        "block": "horror_element_mod:beheaded_body[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "F",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "w",
+        "block": "immersive_weathering:weathered_cut_iron"
+      },
+      {
+        "char": "J",
+        "block": "immersive_weathering:exposed_cut_iron"
+      },
+      {
+        "char": "љ",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "ѝ",
+        "block": "minecraft:barrel[facing=west,open=false]",
+        "loot": "shoploot",
+        "tag": {
+          "z": 563,
+          "x": 169,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:barrel",
+          "y": 134,
+          "Items": []
+        }
+      },
+      {
+        "char": "Б",
+        "block": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ό",
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ϧ",
+        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Т",
+        "block": "minecraft:lime_carpet"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:white_stained_glass"
+      },
+      {
+        "char": "ΐ",
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Д",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ѐ",
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ϑ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "ϔ",
+        "block": "minecraft:diorite_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "l",
+        "block": "immersive_weathering:weathered_iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Γ",
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "ϗ",
+        "block": "immersive_weathering:waxed_weathered_cut_iron_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ж",
+        "block": "immersive_weathering:weathered_cut_iron_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Η",
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ρ",
+        "block": "minecraft:diorite_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]"
+      },
+      {
+        "char": "6",
+        "block": "immersive_weathering:weathered_iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "Ё",
+        "block": "minecraft:diorite_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "ϸ",
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ϋ",
+        "block": "minecraft:diorite_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bxufghhhgbkcbccc",
+      "bpmmmmmfbhhbmmmm",
+      "opubjffhfcchgfcg",
+      "bsucβββfbfbbghkf",
+      "bsugkhkfbkͼkbcgh",
+      "bxmmmmmgbkghmmmm",
+      "bxugfkchgnkkcgbg",
+      "bxubcfbbbchbhbgf",
+      "bxuhnbjbgcffbcbc",
+      "nsmmmmmbfffkmmmm",
+      "xsghkhcfbfhbnkfb",
+      "hkkghffckkkfbbcc",
+      "kkkgbjhhbgkcgcfj",
+      "cgfbfjfbgcbbmmmm",
+      "fbfbcckhckghkhkc",
+      "hgcffhggkhkgkhcb"
+    ],
+    [
+      "eee   Δ     d   ",
+      "e 3  Δ  d ΊddΊd ",
+      "ELdd   υdIOIIOI ",
+      "eeL    ddIdd  I ",
+      "eee Δ   dIOIIOI ",
+      "ee     ddd·  ·  ",
+      "ee Δ          d ",
+      "eб dΔ d dd dddd ",
+      "ee   d d    d d ",
+      "EΪ3Δ 5 d        ",
+      "d5 ШиІ5    d   d",
+      "e    55   d dd  ",
+      "5       d       ",
+      "       d  ddd  d",
+      " d d            ",
+      "          d  d d"
+    ],
+    [
+      "                ",
+      "  F        Ί    ",
+      "p        wJwJJw ",
+      "eL      љѝwwJJwБ",
+      "e        wwwwww ",
+      "ee         ·    ",
+      "e               ",
+      "L               ",
+      "                ",
+      "E F             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "  F             ",
+      "p         JΌwϦ  ",
+      "         ТͰ  ΐД ",
+      "          wΌwЀ  ",
+      "eL              ",
+      "ϑ               ",
+      "L               ",
+      "                ",
+      "p F             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "t               ",
+      "ϔ F             ",
+      "E         llll  ",
+      "Γ         lϗжl  ",
+      "t         llll  ",
+      "t               ",
+      "P               ",
+      "P               ",
+      "Η               ",
+      "p F             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "r               ",
+      "ρ 6B           B",
+      "Ё               ",
+      "ϸ               ",
+      "r               ",
+      "G               ",
+      "G               ",
+      "r               ",
+      "ρ               ",
+      "ϋ 6B           B",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

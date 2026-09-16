@@ -1,0 +1,406 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "ψ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϩ",
+        "block": "minecraft:repeater[delay=1,facing=south,locked=false,powered=true]"
+      },
+      {
+        "char": "ϧ",
+        "block": "minecraft:redstone_wall_torch[facing=north,lit=true]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:rail[shape=east_west,waterlogged=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "α",
+        "block": "minecraft:cornflower"
+      },
+      {
+        "char": "ϒ",
+        "block": "minecraft:stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "Ϣ",
+        "block": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "Q",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Μ",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Θ",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "Њ",
+        "block": "minecraft:redstone_wire[east=none,north=side,power=15,south=side,west=none]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "А",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "Ϟ",
+        "block": "minecraft:redstone_wire[east=none,north=side,power=14,south=side,west=none]"
+      },
+      {
+        "char": "ϣ",
+        "block": "minecraft:redstone_wire[east=none,north=side,power=13,south=side,west=none]"
+      },
+      {
+        "char": "ϲ",
+        "block": "minecraft:redstone_wire[east=none,north=side,power=12,south=side,west=none]"
+      },
+      {
+        "char": "ϋ",
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "4",
+        "block": "minecraft:blue_wool"
+      },
+      {
+        "char": "Ϧ",
+        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 582,
+          "x": 93,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Have An A1\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Day!\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Џ",
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ϙ",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ͻ",
+        "block": "minecraft:redstone_wall_torch[facing=west,lit=true]"
+      },
+      {
+        "char": "Ϋ",
+        "block": "minecraft:lever[face=wall,facing=east,powered=false]"
+      },
+      {
+        "char": "δ",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ϝ",
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ό",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 573,
+          "x": 107,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"PUMP\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"4\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "σ",
+        "block": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:sandstone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aljjglljGhlghajh",
+      "ajlljjpgkjalhjlg",
+      "aklghppapgagllkj",
+      "alhjagpkGhajgllk",
+      "alglgaahhlhkglkj",
+      "aaaaaaaaaamjakgj",
+      "aaaaaaaaaamghgkh",
+      "aaaaaaaaaammmmmm",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaamkjjlgmmm",
+      "aaaaaaajlgtttttt",
+      "aaaaaaagjjtttttt",
+      "aaaaaaaψϨjtttttt",
+      "aaaaaaaψϧltttttt"
+    ],
+    [
+      "H       c KKKKKK",
+      "H       q α    c",
+      "H      cq KKKKKK",
+      "H   c   q c c   ",
+      "H    cc c KKKKKK",
+      "ϒ99999999ϢL Q Μ ",
+      " ccc     qΘ     ",
+      "cccccccccqΘΘLLLL",
+      "ccc ccccccc cccc",
+      "ccccccccccccccc ",
+      " c c ccceF cFFcF",
+      "  cccc bbbbobbbs",
+      " cccc cb  ЊbNАBr",
+      "ccccc Fb  ϞbNNNN",
+      "  c c Fb  ϣbNNNN",
+      "cccc cFbt ϲbNNϋϋ"
+    ],
+    [
+      "                ",
+      "        q       ",
+      "        q       ",
+      "        q       ",
+      "                ",
+      "          E 4 4 ",
+      "         qb  Ϧ  ",
+      "         qobEbEb",
+      "             i i",
+      "          iii   ",
+      "        e       ",
+      "       bbbbb Џ Ϙ",
+      "       b  ϽbΫ Br",
+      "       b   bΫ   ",
+      "      qb   bΫ   ",
+      "      qb   bΫ   "
+    ],
+    [
+      "                ",
+      "        q       ",
+      "        q       ",
+      "        q       ",
+      "                ",
+      "          E 4 4 ",
+      "         qo     ",
+      "          bbEbEb",
+      "             i i",
+      "          iii   ",
+      "        e       ",
+      "       bbbbb δϜI",
+      "       b   bΌ Br",
+      "       b   bΌ   ",
+      "      qb   bΌ   ",
+      "      qb   oΌ σσ"
+    ],
+    [
+      "          E     ",
+      "        q E     ",
+      "        q E     ",
+      "        q E     ",
+      "          E     ",
+      "          E 4 4 ",
+      "         qo     ",
+      "          obEbEb",
+      "             i i",
+      "          iii   ",
+      "        e       ",
+      "       nnnnnnnnn",
+      "       nbbbbbbbb",
+      "       nbsbobbob",
+      "      qnbobbbbbb",
+      "      qnbbbbbsso"
+    ],
+    [
+      "          n     ",
+      "        q n     ",
+      "        q n     ",
+      "        q n     ",
+      "          n     ",
+      "          n Μ Μ ",
+      "          n     ",
+      "          nnnnnn",
+      "                ",
+      "          iii   ",
+      "        e       ",
+      "       zzDzDzDzD",
+      "       z        ",
+      "       D        ",
+      "       z  tt    ",
+      "       D  tt    "
+    ]
+  ]
+}

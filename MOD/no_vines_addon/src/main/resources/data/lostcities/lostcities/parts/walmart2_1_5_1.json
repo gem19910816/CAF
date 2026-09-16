@@ -1,0 +1,346 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "帮",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "令",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "指",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "世",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "建",
+        "block": "minecraft:ladder[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "机",
+        "block": "minecraft:acacia_log[axis\u003dz]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "程",
+        "block": "immersive_weathering:mossy_bricks"
+      },
+      {
+        "char": "论",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "持",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "职",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "共",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "还",
+        "block": "minecraft:dark_oak_log[axis\u003dz]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "安",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "至",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "听",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "几",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "老",
+        "block": "minecraft:rail[shape\u003dascending_east,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "给",
+        "block": "minecraft:rail[shape\u003dascending_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "今",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "及",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dlow,south\u003dlow,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "需",
+        "block": "minecraft:mossy_cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dfalse,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "结",
+        "block": "minecraft:rail[shape\u003deast_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "天",
+        "block": "minecraft:stone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "他",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "     KҨKKҨK     ",
+      "    ҧnnnnnnЅ    ",
+      "    lnnnnnnj    ",
+      "     nnnnnnЅ    ",
+      "    lnnnnnn     ",
+      "     nnnnnnЅ    ",
+      "     nnnnnnj    ",
+      "    ҧnnnnnnЅ    ",
+      "     KҨKKҨK     ",
+      "    ҧnnnnnnЅ    ",
+      "    lnnnnnnj    ",
+      "    lnnnnnnЅ    ",
+      "     nnnnnn     ",
+      "    lnnnnnnЅ    ",
+      "     nnnnnn     ",
+      "    ҧnnnnnnЅ    "
+    ],
+    [
+      "     帮 令指 世     ",
+      "    建机机机PPP     ",
+      "    l机机机PPPj    ",
+      "     机机机P程程j    ",
+      "    l机机机论论m     ",
+      "     机机机P程程j    ",
+      "     机机机程PPj    ",
+      "    建机机机程PP     ",
+      "     持 职共 世     ",
+      "    建还还还zzz     ",
+      "    l还还还Czzj    ",
+      "    l还还还CDz     ",
+      "     还还还j论论     ",
+      "    l还还还zEzj    ",
+      "     还还还DDz     ",
+      "    建还还还zDzj    "
+    ],
+    [
+      "     安至听至至几     ",
+      "     老机给PPP     ",
+      "      机 PP程j    ",
+      "      机 P程程j    ",
+      "      机 论论m     ",
+      "      机l程程P     ",
+      "      机 程P程j    ",
+      "     老机给程PP     ",
+      "     今及需及及几     ",
+      "     老还给HDE     ",
+      "      还 zzCj    ",
+      "      还 zzz     ",
+      "     l还  论      ",
+      "     l还 zzz     ",
+      "      还 zEE     ",
+      "     老还给zCzj    "
+    ],
+    [
+      "                ",
+      "      结         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      结         ",
+      "                ",
+      "      结         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      结         "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ttt天ttttttt天tttt",
+      "   t   v   t    ",
+      " v t       t    ",
+      "v  t       t    ",
+      "   t v v   t    ",
+      "v  t  v v  t    ",
+      "   t       t    ",
+      "   t   v v t    ",
+      "ttt天ttt他ttt天tttt",
+      "v  t       t    ",
+      "   t  v    t    ",
+      "   tvv     t    ",
+      " v t   v   t    ",
+      " v t   v   t    ",
+      "v  他vv v   t    ",
+      "vv 他       t    "
+    ]
+  ]
+}

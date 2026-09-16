@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="gearsandflesh_market"
+version="${version}"
+displayName="Gears and Flesh Global Market"
+authors="Gears and Flesh"
+description='''
+Server-authoritative global player market using caf:money as physical currency.
+'''
+
+[[dependencies.gearsandflesh_market]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.gearsandflesh_market]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

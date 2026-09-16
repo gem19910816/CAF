@@ -1,0 +1,352 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:red_carpet"
+      },
+      {
+        "char": "ϳ",
+        "block": "minecraft:oak_wall_sign[facing\u003dnorth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 618,
+          "x": 75,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 224,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ѻ",
+        "block": "minecraft:oak_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:oak_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ҕ",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Έ",
+        "block": "minecraft:oak_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 618,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 219,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"T. Cabel\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "中",
+        "block": "minecraft:chest[facing\u003dsouth,type\u003dright,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 630,
+          "x": 80,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 152,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ә",
+        "block": "minecraft:chest[facing\u003dsouth,type\u003dleft,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 630,
+          "x": 81,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 152,
+          "Items": []
+        }
+      },
+      {
+        "char": "τ",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϵ",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dwest,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϴ",
+        "block": "minecraft:spruce_log[axis\u003dy]"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ú",
+        "block": "minecraft:player_head[rotation\u003d7]",
+        "tag": {
+          "z": 627,
+          "x": 80,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 153
+        }
+      },
+      {
+        "char": "ӽ",
+        "block": "minecraft:player_head[rotation\u003d9]",
+        "tag": {
+          "z": 627,
+          "x": 81,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 153
+        }
+      },
+      {
+        "char": "б",
+        "block": "minecraft:sea_pickle[pickles\u003d2,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "϶",
+        "block": "minecraft:dark_oak_leaves[distance\u003d1,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϸ",
+        "block": "minecraft:dark_oak_leaves[distance\u003d2,persistent\u003dtrue,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ѽ",
+        "block": "minecraft:spruce_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ҋ",
+        "block": "minecraft:spruce_fence[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "҅",
+        "block": "minecraft:spruce_fence[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Қ",
+        "block": "minecraft:spruce_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "       e        ",
+      "       f        ",
+      "       h        ",
+      "       fF       ",
+      "       i        ",
+      "       f        ",
+      "       h        ",
+      "       f        ",
+      "gigigegh        ",
+      " F mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "aaabbaad        ",
+      "aaabbabd        ",
+      "ababbbba        ",
+      "babbaaad        ",
+      "baababadF       ",
+      "baababbaF       ",
+      "aabaaaad        ",
+      "babbbaba        ",
+      "ddddaaad        ",
+      "  Fmmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " k     i        ",
+      " kk    f        ",
+      "ϳϳ     e        ",
+      "ѺѺѺS   f        ",
+      "       i        ",
+      "ҔҔΈ    f        ",
+      "中Ә    τhF       ",
+      "     ϵϴΊF       ",
+      "gighghPi        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       h        ",
+      "       f        ",
+      "       e        ",
+      "úӽб    f        ",
+      "       h        ",
+      "       f        ",
+      "       h        ",
+      "      ϶f        ",
+      "gegighge        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       d        ",
+      "       d        ",
+      "       a        ",
+      "       a        ",
+      "       a        ",
+      "       a        ",
+      "       a        ",
+      "      ϸd        ",
+      "aaaaadaa        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ѽ      h        ",
+      "Ҋ҅     f        ",
+      "Қ      i        ",
+      "       f        ",
+      "       e        ",
+      "       f        ",
+      "       i        ",
+      "       f        ",
+      "ghgegigh        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

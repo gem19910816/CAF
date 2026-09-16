@@ -1,0 +1,414 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "开",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 387,
+          "x": 24,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "584s"
+        }
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "证",
+        "block": "minecraft:furnace[facing=north,lit=false]",
+        "tag": {
+          "z": 418,
+          "x": 95,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:furnace",
+          "y": 133,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "概",
+        "block": "minecraft:furnace[facing=south,lit=false]",
+        "tag": {
+          "z": 420,
+          "x": 98,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:furnace",
+          "y": 133,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "连",
+        "block": "horror_element_mod:blood_1[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "ҭ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "决",
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "里",
+        "block": "minecraft:black_wool"
+      },
+      {
+        "char": "未",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "强",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "课",
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "愿",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "Ұ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "万",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "时",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 434,
+          "x": 58,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\">>>\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "数",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "死",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "性",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "eeeeeeoopofffyfy",
+      "fpeefeypfpopeeeo",
+      "eypoffoyeeyeff开开",
+      "fpeoeefpoeffpf开开",
+      "yeffofffepopfypp",
+      "oepofepopfeeffee",
+      "popeeyyypfofpefy",
+      "fffeefpyfyeyoffe",
+      "wbbcbadbawcbawbb",
+      "cddcwdarcdcwbbba",
+      "wbabrbadaddcdada",
+      "cadbdbwcbwbdccbc",
+      "dacd开cddabddbacc",
+      "rdbdarddrrddcdbd",
+      "bbbraabIbbwrcbdb",
+      "ccbcIrcddaIddddb"
+    ],
+    [
+      "                ",
+      " mm m m mmm m mm",
+      "  证  证        zz",
+      "              EE",
+      "  概  概         i",
+      "               q",
+      " m              ",
+      "lz mmmm 那E mmmmm",
+      "gggggggggggggggg",
+      "连i     q   ҭi ii",
+      " i iq   ii  i   ",
+      "            q   ",
+      "    Ҭ           ",
+      "q  决里未 强qq   m  ",
+      "   决里未 强  y课愿eff",
+      "课愿gg里未 强  eiii l"
+    ],
+    [
+      "                ",
+      " mm m m mmm m mm",
+      "              CD",
+      "              zz",
+      "               i",
+      "                ",
+      " m              ",
+      "lE  mmm 那z mm m ",
+      "yzfpoopffDyeeoff",
+      "Ұi        ҭii ii",
+      " i ii   ii  i   ",
+      "                ",
+      "                ",
+      "             m  ",
+      "                ",
+      "   万       iii l"
+    ],
+    [
+      "                ",
+      " mm m m mmm m mm",
+      "              zz",
+      "              CD",
+      "               i",
+      "                ",
+      " m              ",
+      "lC   m  mD  m m ",
+      "oDffppepeDyeeyfp",
+      "Ұi      ҭҭ ii ii",
+      " i ii   ii  i   ",
+      "                ",
+      "                ",
+      "             m  ",
+      "                ",
+      "           iii l"
+    ],
+    [
+      "                ",
+      " mm m m mmm m mm",
+      "BBBBBBBBBBBBBBDD",
+      "BBBBBBBBBBBBBBHE",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BDBBBBBBBCBBBBBB",
+      "fzyfyefpfzepoyfo",
+      "Ұi     ҭ   ii ii",
+      " i ii   ii  i   ",
+      "                ",
+      "                ",
+      "           时 m 时",
+      "          gggggg",
+      "         ҧgiii l"
+    ],
+    [
+      "                ",
+      " mm m m mmm m mm",
+      "m数mm数死m数m   性死Cz",
+      "ggggggggggggggzC",
+      "gggggggggggggggo",
+      "ggggggggggggggge",
+      "ggggggggggggggge",
+      "gDgggggggzgggggf",
+      "pHypefpoeHoppfee",
+      "Ұi    ҭ    ii ii",
+      " i ii   ii  i   ",
+      "                ",
+      "                ",
+      "                ",
+      "          O     ",
+      "                "
+    ]
+  ]
+}

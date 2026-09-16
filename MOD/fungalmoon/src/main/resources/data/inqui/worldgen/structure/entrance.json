@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "inqui:entrance/start_pool",
+  "size": 2,
+  "max_distance_from_center": 1,
+  "biomes": "inqui:wastes",
+  "step": "top_layer_modification",
+
+  "start_height": { "absolute": -51 },
+
+  "use_expansion_hack": false,
+  "terrain_adaptation": "none",
+  "liquid_settings": "ignore_waterlogging",
+  "spawn_overrides": {}
+}

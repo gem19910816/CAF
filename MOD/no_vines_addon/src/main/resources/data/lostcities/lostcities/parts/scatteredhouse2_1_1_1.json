@@ -1,0 +1,294 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ͷ",
+        "block": "minecraft:oak_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Њ",
+        "block": "minecraft:oak_trapdoor[facing\u003dnorth,half\u003dtop,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ф",
+        "block": "minecraft:oak_trapdoor[facing\u003dwest,half\u003dtop,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "Τ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ͳ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϊ",
+        "block": "minecraft:oak_log[axis\u003dz]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:oak_log[axis\u003dy]"
+      },
+      {
+        "char": "ω",
+        "block": "minecraft:oak_log[axis\u003dx]"
+      },
+      {
+        "char": "ϛ",
+        "block": "minecraft:spruce_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "А",
+        "block": "minecraft:spruce_fence[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ϭ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϗ",
+        "block": "minecraft:oak_fence[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 329,
+          "x": 138,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 144,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"West Side\"}",
+              "{\"text\":\"Watch\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "ό",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ψ",
+        "block": "minecraft:oak_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ѓ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "͵",
+        "block": "minecraft:crafting_table"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:brick_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ы",
+        "block": "minecraft:spruce_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:oak_fence[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "χ",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "Ϸ",
+        "block": "minecraft:oak_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "υ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϣ",
+        "block": "minecraft:oak_fence[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "ϔ",
+        "block": "minecraft:oak_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:oak_fence[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ϰ",
+        "block": "minecraft:oak_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "К",
+        "block": "minecraft:oak_fence[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "ѫ",
+        "block": "minecraft:brick_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "  a   dͶ        ",
+      "  addddͶ        ",
+      " ЊaͶͶͶͶͶlm      ",
+      "фcaΤ  mlͲlm     ",
+      "aaa omlͲϊͲl     ",
+      "ͶͶ  omlͲϊͲl     ",
+      "   omlͲϊͲlm     ",
+      "  omlͲͲhͲlm     ",
+      "   lͲωωͲlm      ",
+      "     ͲͲlmo      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  aͶͶϛА         ",
+      "  aΤ А          ",
+      "  aΤ   mlm      ",
+      " ϬaΤ  mlͲl      ",
+      "hha  ϏlͲϊͲl     ",
+      "ΣΣ    mlͲlm     ",
+      "    omlͲωͲl     ",
+      "   omlͲhͲlm     ",
+      "   mlͲͲͲlmo     ",
+      "   omlllmo      ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  aΤ            ",
+      "  aΤ            ",
+      "  aΤ   om       ",
+      " ϬaΤ  omlm      ",
+      "hha  ϏmlͲl      ",
+      "ΣΣ    lͲlͲl     ",
+      "    mlͲϊͲωϬ     ",
+      "   omlͲhωͲl     ",
+      "   omllͲͲl      ",
+      "   όomml        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "aaa             ",
+      "aaa             ",
+      "aaa    όo       ",
+      "aaa   όomo      ",
+      "aaa  Ϗomlm      ",
+      "ψψψ  omlml      ",
+      "     mlͲlͲѓ     ",
+      "     lͲhͲl      ",
+      "    omlͲlm      ",
+      "     o          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "͵ ai            ",
+      "  ai Ы          ",
+      "  aiϛj          ",
+      " χaiͶj  o       ",
+      "aaaiͶϷόomo      ",
+      "υυϢϔϔόomom      ",
+      "ͱͱϰ  omlml      ",
+      "     mlͲlm      ",
+      "     omlmo      ",
+      "      omo       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  i             ",
+      "  i             ",
+      "  i             ",
+      "  i             ",
+      "aai  К          ",
+      "υѫϔͱͱϰόoό       ",
+      "     όomom      ",
+      "     omlmo      ",
+      "     όomoό      ",
+      "      όoό       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

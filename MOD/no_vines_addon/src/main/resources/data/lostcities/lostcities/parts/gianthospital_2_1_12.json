@@ -1,0 +1,214 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "C",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "诒",
+        "block": "minecraft:lever[face\u003dwall,facing\u003dwest,powered\u003dtrue]"
+      },
+      {
+        "char": "蕤",
+        "block": "minecraft:powered_rail[powered\u003dtrue,shape\u003dascending_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "珈",
+        "block": "minecraft:rail[shape\u003dsouth_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "M",
+        "block": "immersive_weathering:exposed_plate_iron"
+      },
+      {
+        "char": "烩",
+        "block": "minecraft:rail[shape\u003dascending_north,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "獠",
+        "block": "minecraft:rail[shape\u003dascending_south,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "鹃",
+        "block": "minecraft:rail[shape\u003dnorth_east,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "挹",
+        "block": "minecraft:powered_rail[powered\u003dtrue,shape\u003dascending_east,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "捂",
+        "block": "minecraft:lever[face\u003dwall,facing\u003deast,powered\u003dtrue]"
+      },
+      {
+        "char": "噹",
+        "block": "immersive_weathering:cut_iron"
+      },
+      {
+        "char": "耻",
+        "block": "immersive_weathering:plate_iron"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "   jbd          ",
+      "    dc          ",
+      "   jbc          ",
+      "   jed          ",
+      "   jdc          ",
+      "    eb          ",
+      "    ce          ",
+      "    ed          ",
+      "   jdb          ",
+      "   jed          ",
+      "   jdd          ",
+      "    cd          ",
+      "   jbd          ",
+      "   jdb          ",
+      "   jee          ",
+      "   jee          "
+    ],
+    [
+      "   jbe          ",
+      "    de          ",
+      "   jec          ",
+      "   jcb          ",
+      "   jbc          ",
+      "    eb          ",
+      "    cc          ",
+      "    de          ",
+      "   jdc          ",
+      "   jce          ",
+      "   jbe          ",
+      "    ec          ",
+      "   jcb          ",
+      "   jeb          ",
+      "   jbc          ",
+      "   jdb          "
+    ],
+    [
+      "   jce          ",
+      "    cc          ",
+      "   jee          ",
+      "    dd          ",
+      "    dc          ",
+      "    ce          ",
+      "    db          ",
+      "    de          ",
+      "   jdb          ",
+      "   jbb          ",
+      "   jcc          ",
+      "    dd          ",
+      "   jdc          ",
+      "   jdb          ",
+      "    db          ",
+      "   jee          "
+    ],
+    [
+      "    dc          ",
+      "    ec          ",
+      "    ce          ",
+      "    cc          ",
+      "    ed          ",
+      "    bd          ",
+      "    eb          ",
+      "    ce          ",
+      "   jcd          ",
+      "   jcc          ",
+      "   jcd          ",
+      "    cb          ",
+      "   jdb          ",
+      "    ec          ",
+      "    ec          ",
+      "   jeb          "
+    ],
+    [
+      "    ebihhihhhhhf",
+      "    cegfCgqqfqih",
+      "    eegghfhChgqq",
+      "    beqhfqqhhhiC",
+      "    dcChgfiigqiq",
+      "    edhhigghqqhf",
+      "    edqfCgfghghf",
+      "    dbhffqfifqgq",
+      "    eefCChgiiggq",
+      "    dehgqigfqhhq",
+      "    ccifgiqgCfgi",
+      "    cdffhqgfiqhg",
+      "    ebfghffghghi",
+      "    dehChgigfgif",
+      "    eeffgfhighCf",
+      "   jcchgqhCifChh"
+    ],
+    [
+      "    ee cdbbdce  ",
+      "    cb b诒g蕤珈 cMM",
+      "    ee d 烩 獠 c  ",
+      "    de d 鹃挹g捂c噹M",
+      "    be cedbcde  ",
+      "    dc          ",
+      "    cd  耻 M     ",
+      "    cc cceeb    ",
+      "    dd d   Q    ",
+      "    be d   Q    ",
+      "    bb ccbdd    ",
+      "    ec  噹 耻     ",
+      "    be          ",
+      "    cd          ",
+      "    de  噹 耻     ",
+      "   jde cddce    "
+    ]
+  ]
+}

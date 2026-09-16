@@ -1,0 +1,218 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "坳",
+        "block": "minecraft:acacia_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 471,
+          "x": -83,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 210,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"bruh\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"this room empty\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"now\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "C",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "滥",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "臭",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "吭",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "琉",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "         jd     ",
+      "          d     ",
+      "          b     ",
+      "          b     ",
+      "          d     ",
+      "          dbebb ",
+      "          c   c ",
+      "         jc  坳e ",
+      "         jb   d ",
+      "         jdeccd ",
+      "         je     ",
+      "         jd     ",
+      "         jb     ",
+      "         je     ",
+      "         jc     ",
+      "         jc     "
+    ],
+    [
+      "         je     ",
+      "          c     ",
+      "          e     ",
+      "          d     ",
+      "          e     ",
+      "          cdecd ",
+      "          c   c ",
+      "         jc   e ",
+      "         je   e ",
+      "         jddcdc ",
+      "         jd     ",
+      "         jd     ",
+      "          b     ",
+      "         jc     ",
+      "         jd     ",
+      "         jb     "
+    ],
+    [
+      "         jdddded",
+      "          ddceed",
+      "          decccd",
+      "          bcdedc",
+      "          dcddcc",
+      "          dbcdbd",
+      "          dbdeec",
+      "          ecdecb",
+      "          bbcedd",
+      "         jceecbb",
+      "         jbedcde",
+      "         jbbbbdc",
+      "          cdeeec",
+      "         jdbddcb",
+      "         jdecccd",
+      "         jdcdbde"
+    ],
+    [
+      "         jegfiCi",
+      "          efffqf",
+      "          biiqCh",
+      "          bhqCCh",
+      "          cgghhq",
+      "          dfCghh",
+      "          bfgihg",
+      "          bCfqii",
+      "          dCqhCh",
+      "         jbfigCg",
+      "          dqgffi",
+      "         jdiifgi",
+      "          eififf",
+      "         jbCCfhg",
+      "         jbfhhqq",
+      "         jefhihh"
+    ],
+    [
+      "         jb   dd",
+      "          d   ed",
+      "          e   bc",
+      "          b   cc",
+      "          b   bc",
+      "          e   de",
+      "          b   eb",
+      "          e   cd",
+      "          c   be",
+      "          b   de",
+      "          e   cd",
+      "          b   cc",
+      "          b   de",
+      "         je   eb",
+      "         jc   dd",
+      "         jc     "
+    ],
+    [
+      "             滥be",
+      "             臭bg",
+      "             臭ch",
+      "             臭bC",
+      "             臭cq",
+      "             臭dh",
+      "             臭ch",
+      "             臭cf",
+      "             臭dh",
+      "             臭bf",
+      "             臭dq",
+      "             臭df",
+      "             臭bq",
+      "             臭bf",
+      "             臭de",
+      "             吭琉琉"
+    ]
+  ]
+}

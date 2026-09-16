@@ -1,0 +1,206 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "П",
+        "block": "minecraft:barrel[facing\u003dup,open\u003dfalse]",
+        "tag": {
+          "z": -275,
+          "x": -15,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "minecraft:barrel",
+          "y": 2,
+          "Items": []
+        }
+      },
+      {
+        "char": "s",
+        "block": "minecraft:iron_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ҝ",
+        "block": "refurbished_furniture:computer[facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": -292,
+          "x": -29,
+          "id": "refurbished_furniture:computer",
+          "y": 63,
+          "NodePos": "-7696582590401L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "p",
+        "block": "minecraft:iron_trapdoor[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          a  bbb",
+      "         agdcaig",
+      "         giaaccc",
+      "         adbbacc",
+      "         aeceeac",
+      "         aabccbd",
+      "         gecaebb",
+      "         aaeecba",
+      "        aicaccbc"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          g     ",
+      "         aa  fff",
+      "          aff   ",
+      "          c    ϕ",
+      "          a     ",
+      "          cx  Пd",
+      "          c     ",
+      "          a     ",
+      "        a bedd  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          i  sss",
+      "         agssf f",
+      "          af    ",
+      "          e     ",
+      "          c     ",
+      "          bk   Ҝ",
+      "          b     ",
+      "          e     ",
+      "        a aaec  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          a  ppp",
+      "         agppfff",
+      "          aff   ",
+      "          c     ",
+      "          e     ",
+      "          ak    ",
+      "          e     ",
+      "          c     ",
+      "        i aede  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          i     ",
+      "         aa     ",
+      "          a f   ",
+      "          d     ",
+      "          e     ",
+      "          c     ",
+      "          e     ",
+      "          d     ",
+      "        a deadII"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          a  edd",
+      "         aiccaaa",
+      "          aaa   ",
+      "          b     ",
+      "          d     ",
+      "          e     ",
+      "          d     ",
+      "          b     ",
+      "        a eedcec"
+    ]
+  ]
+}

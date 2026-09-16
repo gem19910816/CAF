@@ -1,0 +1,409 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ό",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "Ͷ",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "ϩ",
+        "block": "refurbished_furniture:computer[facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 328,
+          "x": 52,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:computer",
+          "y": 142,
+          "NodePos": "14293652504718L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "β",
+        "block": "minecraft:oak_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 331,
+          "x": 70,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 132,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Armory\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"---------------\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"RESTRICTED\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Й",
+        "block": "immersive_weathering:exposed_iron_door[facing\u003dnorth,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "δ",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 335,
+          "x": 64,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 137,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "·",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "μ",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ʹ",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "л",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 328,
+          "x": 57,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 139,
+          "NodePos": "15668042039435L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "ϑ",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 347,
+          "x": 52,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 143,
+          "NodePos": "14293652582543L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "ϲ",
+        "block": "refurbished_furniture:dark_ceiling_light[face\u003dwall,facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 331,
+          "x": 66,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 140,
+          "NodePos": "18141943214220L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "φ",
+        "block": "minecraft:chest[facing\u003deast,type\u003dsingle,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 327,
+          "x": 52,
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 141,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ϲ",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ύ",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "Џ",
+        "block": "minecraft:mossy_stone_brick_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "г",
+        "block": "refurbished_furniture:dark_ceiling_light[face\u003dceiling,facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 334,
+          "x": 53,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 141,
+          "NodePos": "14568530436237L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "ͽ",
+        "block": "minecraft:petrified_oak_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "λ",
+        "block": "minecraft:mossy_stone_brick_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ξ",
+        "block": "minecraft:mossy_stone_brick_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ͽ",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dnorth,powered\u003dfalse]",
+        "tag": {
+          "z": 327,
+          "x": 52,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 143,
+          "NodePos": "14293652500623L",
+          "Connections": [
+            "L"
+          ]
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   l   lll llΌAΌ",
+      "  rikkkkkdckfnck",
+      "   e  Ͷa    h   ",
+      "  rb  Ͷaϩ   hβ  ",
+      "  rnЙͶͶa    h   ",
+      "   B δhi·μ hii··",
+      "   B            ",
+      "   B            ",
+      "  rB            ",
+      "  rk            ",
+      "  rkʹ           "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   l   lll lΌAlA",
+      "  rifcnbkenknknn",
+      "   g  Ͷa    i   ",
+      "  re  Ͷa л  a  ϑ",
+      "  rnͶͶͶa    i   ",
+      "   B  hi···iih··",
+      "   B            ",
+      "   B            ",
+      "  rB            ",
+      "  rn            ",
+      "  rnʹ           "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   l   lll ΌAlll",
+      "  rhdknkkkcncbkk",
+      "   bͶͶeekfgkkkck",
+      "  rbͶͶncbnnkennn",
+      "  rnͶͶekegkkknnb",
+      "   B  kkkbebnkck",
+      "   B        ϲ   ",
+      "   B            ",
+      "  rB            ",
+      "  rn            ",
+      "  rkʹ           "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   l   llΌAA lll",
+      "  ribkkfcfknbkek",
+      "   cφ           ",
+      "  rgϹ    q     q",
+      "  rhϹ  Ύ   Ύ    ",
+      "   h            ",
+      "   h            ",
+      "   i            ",
+      "  ri            ",
+      "  riЏг          ",
+      "  rcͽ           "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   l   llA   lll",
+      "   hkbkkkcknkgkk",
+      "   gβ           ",
+      "   cϩ           ",
+      "  rk   Ύ   Ύ    ",
+      "   k            ",
+      "   f            ",
+      "   k            ",
+      "  rk            ",
+      "  rkλξ          ",
+      "   k            "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       lllA  lll",
+      "   hknnkkgcnfkgk",
+      "   bϿ           ",
+      "   k            ",
+      "   k   Ύ   Ύ    ",
+      "   k            ",
+      "   g            ",
+      "   n            ",
+      "   e            ",
+      "   k            ",
+      "   c            "
+    ]
+  ]
+}

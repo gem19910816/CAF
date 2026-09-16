@@ -1,0 +1,667 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis\u003dy]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "穿",
+        "block": "minecraft:lime_wall_banner[facing\u003dwest]",
+        "tag": {
+          "z": 338,
+          "Patterns": [],
+          "x": 168,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 138,
+          "CustomName": "{\"text\":\"5/11 Groceries\"}"
+        }
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "ӌ",
+        "block": "minecraft:lime_concrete"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:smooth_quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:dark_oak_planks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "计",
+        "block": "refurbished_furniture:light_gray_kitchen_drawer[facing\u003dwest,open\u003dfalse]",
+        "tag": {
+          "z": 344,
+          "x": 164,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": 141,
+          "Items": []
+        }
+      },
+      {
+        "char": "然",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "戏",
+        "block": "refurbished_furniture:light_stove[facing\u003dwest,lit\u003dfalse,open\u003dfalse,powered\u003dfalse]",
+        "tag": {
+          "Processing": "0b",
+          "z": 340,
+          "x": 164,
+          "ProcessingTime": 0,
+          "TotalProcessingTime": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "refurbished_furniture:stove",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 141,
+          "Items": [],
+          "NodePos": "45079978131597L",
+          "CookingSpaces": [
+            {
+              "CookingTime": 0,
+              "Position": 0,
+              "TotalCookingTime": 0
+            },
+            {
+              "CookingTime": 0,
+              "Position": 1,
+              "TotalCookingTime": 0
+            },
+            {
+              "CookingTime": 0,
+              "Position": 2,
+              "TotalCookingTime": 0
+            }
+          ],
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "B",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "骑",
+        "block": "minecraft:green_wall_banner[facing\u003dwest]",
+        "tag": {
+          "z": 340,
+          "Patterns": [],
+          "x": 110,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 146,
+          "CustomName": "{\"text\":\"Carmicheal\u0027s\"}"
+        }
+      },
+      {
+        "char": "不",
+        "block": "minecraft:spruce_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 340,
+          "x": 170,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 141,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"BeanTown\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "益",
+        "block": "minecraft:blue_wall_banner[facing\u003deast]",
+        "tag": {
+          "z": 340,
+          "Patterns": [],
+          "x": 174,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 141,
+          "CustomName": "{\"text\":\"burger Hut\"}"
+        }
+      },
+      {
+        "char": "波",
+        "block": "refurbished_furniture:light_gray_kitchen_sink[facing\u003dwest]",
+        "tag": {
+          "z": 343,
+          "x": 164,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_sink",
+          "y": 141,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "ӧ",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "威",
+        "block": "minecraft:acacia_trapdoor[facing\u003dwest,half\u003dtop,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "景",
+        "block": "refurbished_furniture:light_gray_kitchen_cabinetry[facing\u003dwest,shape\u003dinside_corner_left]"
+      },
+      {
+        "char": "商",
+        "block": "refurbished_furniture:light_gray_kitchen_drawer[facing\u003dsouth,open\u003dfalse]",
+        "tag": {
+          "z": 345,
+          "x": 167,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": 141,
+          "Items": []
+        }
+      },
+      {
+        "char": "礼",
+        "block": "refurbished_furniture:recycle_bin[facing\u003dsouth,open\u003dfalse]",
+        "tag": {
+          "Recycled": 0,
+          "z": 345,
+          "x": 168,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "refurbished_furniture:recycle_bin",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 141,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "46179489779853L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "罗",
+        "block": "minecraft:dark_oak_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϊ",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 347,
+          "x": 115,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 142,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"\u003c-----\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Carmicheal\u0027s\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "毛",
+        "block": "minecraft:dark_oak_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "清",
+        "block": "minecraft:dark_oak_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ώ",
+        "block": "minecraft:gray_carpet"
+      },
+      {
+        "char": "辑",
+        "block": "refurbished_furniture:dark_oak_table[east\u003dtrue,north\u003dfalse,south\u003dtrue,west\u003dfalse]"
+      },
+      {
+        "char": "树",
+        "block": "refurbished_furniture:dark_oak_table[east\u003dtrue,north\u003dtrue,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "精",
+        "block": "minecraft:heavy_weighted_pressure_plate[power\u003d0]"
+      },
+      {
+        "char": "说",
+        "block": "minecraft:spruce_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 310,
+          "x": 112,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Dee Luxe Winner\u0027s\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Trophy Case\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "早",
+        "block": "refurbished_furniture:frying_pan[facing\u003dnorth,lit\u003dfalse]",
+        "tag": {
+          "z": 338,
+          "x": 164,
+          "Flipped": "0b",
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "NeedsFlipping": "0b",
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:frying_pan",
+          "y": 142,
+          "Rotation": 0,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ӑ",
+        "block": "minecraft:green_concrete"
+      },
+      {
+        "char": "Ӝ",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ҕ",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "雄",
+        "block": "minecraft:stone_button[face\u003dwall,facing\u003dwest,powered\u003dfalse]"
+      },
+      {
+        "char": "退",
+        "block": "refurbished_furniture:light_toaster[facing\u003deast,powered\u003dfalse]",
+        "tag": {
+          "z": 344,
+          "x": 164,
+          "Heating": "0b",
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "y": 142,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:toaster",
+          "MaxProcessTime": 0,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "45079978147982L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "最",
+        "block": "minecraft:blue_ice"
+      },
+      {
+        "char": "册",
+        "block": "refurbished_furniture:light_microwave[facing\u003dsouth,open\u003dfalse]",
+        "tag": {
+          "Processing": "0b",
+          "z": 345,
+          "x": 166,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "y": 142,
+          "id": "refurbished_furniture:microwave",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "MaxProcessTime": 0,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "45629733965966L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "起",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "需",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "6",
+        "block": "minecraft:dark_oak_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "2",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "竹",
+        "block": "minecraft:blue_wall_banner[facing\u003dnorth]",
+        "tag": {
+          "z": 345,
+          "Patterns": [
+            {
+              "Color": 14,
+              "Pattern": "hhb"
+            },
+            {
+              "Color": 0,
+              "Pattern": "ls"
+            },
+            {
+              "Color": 0,
+              "Pattern": "mc"
+            },
+            {
+              "Color": 0,
+              "Pattern": "hhb"
+            },
+            {
+              "Color": 14,
+              "Pattern": "bts"
+            },
+            {
+              "Color": 11,
+              "Pattern": "bo"
+            }
+          ],
+          "x": 178,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 146
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "  r      i   t  ",
+      "  ri         m  ",
+      " xri    穿t   v  ",
+      " xyӌ     s   m  ",
+      " wusӌӌӌӌӌs   ssm",
+      "waas     m   t  ",
+      "aaas     s   m  ",
+      "vmsmsmsmss   s  ",
+      "             m  ",
+      "             t  ",
+      "             svs",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " ͱuslllhhlhhlhll",
+      " Gomhhlllllllhll",
+      "xGumllhhllllllll",
+      " Pymllhlhlhlhlll",
+      " wumlhlhlhllhllh",
+      "waasllhhlhlhllhl",
+      "aaavhhllhlllhhhh",
+      "mvvsllhlhhhlllll",
+      "lllhlhhhlhlllhhh",
+      "hlhlllllhlhhllhl",
+      "hllllhhhlhlhlhlh",
+      "lllhhhhhhhlllllh",
+      "lhllhlhlllhhllll",
+      "lhlhhlllhlllhllh",
+      "llhhhhllhhllllhl",
+      "lllhhlhhhhlhlhhh"
+    ],
+    [
+      "  spKKKKKKnpphhh",
+      " xmnKKKKKpnnnhhh",
+      " xmpKKKKKnnnphhh",
+      "  snKKKKKnpnnhhh",
+      " wsaKKKKKppnphhh",
+      "w   KKKKKpnCphhh",
+      "m   KKKKKpnCphhh",
+      "n   KKKKKpnnnhhh",
+      "nnpnKKKKKppCnhhh",
+      "npCpKKKKKnpCnhhh",
+      "pppnnpppnnnnCpnC",
+      "pppppnnnnppnnnnp",
+      "nppnnCppnnpppppp",
+      "ppppnppnnnnnnnnp",
+      "ppCpCnnnpnppnnnp",
+      "ppnppnppnCpnpnpn"
+    ],
+    [
+      " Iot计    然      ",
+      " Qot计    t   t  ",
+      " Iut戏    t   t  ",
+      " Iot计    t   t  ",
+      " wBt戏   骑t不  t益 ",
+      "waat计    t   t  ",
+      "uBBt计    t   t  ",
+      "tttt波    t   t  ",
+      "  ӧt计    t   t  ",
+      " 威ӧt景商商商礼t   t  ",
+      "  ӧttttttt   ttt",
+      "    然然罗然然ϊ   毛清清",
+      "              ώ ",
+      "   ώ ώ       ώ 辑",
+      " ώώ ώ        ώώ树",
+      " ώ   ώ          "
+    ],
+    [
+      "  ri            ",
+      "  ri精       说m  ",
+      "  ri早    i      ",
+      "  oӐ精        Ӝ  ",
+      " woӐ            ",
+      "waaӐ精        Ӝ  ",
+      "oaaӐ     ҕ      ",
+      "vssӐ        说s  ",
+      " 雄ӧӐ退    ҕ   m  ",
+      "  最Ӑ  册      s  ",
+      "  最msmvmvm   msm",
+      "         ϊ      ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  ri        说m  ",
+      "  ri     起   s  ",
+      "  ri    那需      ",
+      "  yӐ    那       ",
+      " wyӐ    那       ",
+      "waaӐ6   那       ",
+      "oaaӐ6   那       ",
+      "mssӐ6   那    m  ",
+      " 雄ӧӐ6        2  ",
+      "  最Ӑ6666     2 竹",
+      "  最svmsssm   mmv",
+      "         ϊ      ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

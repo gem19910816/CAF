@@ -1,0 +1,230 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:clay"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "袱",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "伟",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "皈",
+        "block": "minecraft:quartz_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "锁",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:polished_blackstone"
+      },
+      {
+        "char": "庇",
+        "block": "minecraft:diorite_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "捕",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "涨",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "训",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "吒",
+        "block": "minecraft:mossy_cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dfalse,waterlogged\u003dfalse,west\u003dlow]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "              yz",
+      "              yg",
+      "            j  e",
+      "            j  z",
+      "            j  z",
+      "             袱dd",
+      "            j yz",
+      "               z",
+      "               b",
+      "            伟 Nz",
+      "           j  yz",
+      "           j 袱ec",
+      "           jjpcd",
+      "           jjdbb",
+      "          j  pcc",
+      "             袱ce"
+    ],
+    [
+      "              wI",
+      "              皈I",
+      "            j   ",
+      "            j  a",
+      "            j   ",
+      "                ",
+      "            j   ",
+      "               锁",
+      "                ",
+      "            伟 wJ",
+      "           j  wJ",
+      "           j庇wce",
+      "           jjbdd",
+      "           jjeec",
+      "          j  pcc",
+      "            庇wbb"
+    ],
+    [
+      "               I",
+      "                ",
+      "            j   ",
+      "            j   ",
+      "            j   ",
+      "               y",
+      "            j   ",
+      "                ",
+      "                ",
+      "            伟   ",
+      "           j   J",
+      "           j  bu",
+      "           jjpdu",
+      "           jjded",
+      "          j  ebu",
+      "              ev"
+    ],
+    [
+      "               捕",
+      "                ",
+      "            j   ",
+      "            j   ",
+      "            j   ",
+      "                ",
+      "            j   ",
+      "                ",
+      "                ",
+      "            伟   ",
+      "           j   涨",
+      "           j  bd",
+      "           jjped",
+      "           jjbbe",
+      "          j  pcb",
+      "              ed"
+    ],
+    [
+      "              N训",
+      "               捕",
+      "            j   ",
+      "            j   ",
+      "            j   ",
+      "               w",
+      "            j   ",
+      "                ",
+      "                ",
+      "            伟  涨",
+      "           j   H",
+      "           j  bb",
+      "           jjpdb",
+      "           jjddd",
+      "          j  ped",
+      "              pe"
+    ],
+    [
+      "               z",
+      "               g",
+      "            j   ",
+      "            j   ",
+      "            j   ",
+      "              y ",
+      "            j   ",
+      "                ",
+      "                ",
+      "            伟  f",
+      "           j   z",
+      "           j  de",
+      "           jjpeb",
+      "           jjddd",
+      "          jv吒pec",
+      "              bb"
+    ]
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "开",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 387,
+          "x": 24,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "584s"
+        }
+      },
+      {
+        "char": "低",
+        "block": "minecraft:deepslate[axis=z]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ү",
+        "block": "minecraft:stone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "反",
+        "block": "immersive_weathering:mossy_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "活",
+        "block": "minecraft:stone_button[face=wall,facing=west,powered=false]"
+      },
+      {
+        "char": "之",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "义",
+        "block": "minecraft:stone_button[face=wall,facing=east,powered=false]"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "笑",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "诉",
+        "block": "minecraft:lime_concrete"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "爱",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "强",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "决",
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "里",
+        "block": "minecraft:black_wool"
+      },
+      {
+        "char": "未",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "除",
+        "block": "minecraft:cornflower"
+      },
+      {
+        "char": "限",
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "课",
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "愿",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "满",
+        "block": "minecraft:blast_furnace[facing=north,lit=false]",
+        "tag": {
+          "z": 418,
+          "x": 67,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:blast_furnace",
+          "y": 134,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "拿",
+        "block": "minecraft:lever[face=floor,facing=north,powered=false]"
+      },
+      {
+        "char": "够",
+        "block": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "况",
+        "block": "minecraft:dark_prismarine_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "万",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "首",
+        "block": "minecraft:red_carpet"
+      },
+      {
+        "char": "念",
+        "block": "minecraft:lime_carpet"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "却",
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "B",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "性",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "数",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "effefyeopypppyfo",
+      "eofoffffeyffeeyy",
+      "eofffeoyeeffyfpf",
+      "fpfofefpfffeffop",
+      "pyepffeefpopeoef",
+      "fofeppeofeefffyy",
+      "foyeeppffpfoyefo",
+      "eyopofepoppefpef",
+      "Iadaacabbbadacac",
+      "cbbbcabdabcbbdbb",
+      "brrawwwbwaaaacdr",
+      "bbrbaaracwcbcacb",
+      "arbccw开rcddca开dc",
+      "abdadccrwwdraaaa",
+      "wrbwaacrbr低cacaa",
+      "ccdacdbIwrdwadaa"
+    ],
+    [
+      "                ",
+      "        m  mmmm ",
+      "j qү   那反    ү  ",
+      "j活之ү之义活之ү之义活之ү之义",
+      "  Ҭ笑Ҭ  t诉t  t诉t ",
+      " 活之笑之义活之诉之义活之诉之义",
+      "   q     q      ",
+      " m mm m mm  mmm ",
+      "gEgggggggEggggg爱",
+      " iiiiiiiiiiiiiii",
+      " qq            q",
+      "  q             ",
+      " q    Ҭ      Ҭ  ",
+      "jql强 决里未   q决里未 ",
+      "qq 强j决里未 除 m决里未 ",
+      "jq 强j限里gg课愿gg里未 "
+    ],
+    [
+      "                ",
+      "        m  mmmm ",
+      "j  满   l满    满  ",
+      "j 拿笑拿  拿诉拿  拿诉拿 ",
+      "   够    够    够  ",
+      "   况    况    况  ",
+      "                ",
+      " m mm m mm  mmm ",
+      "fEeoeeopfHfeeep ",
+      " iiiiiiiiiiiiiii",
+      "                ",
+      "                ",
+      "                ",
+      "j               ",
+      "                ",
+      "j      万    万   "
+    ],
+    [
+      "                ",
+      "        m  mmmm ",
+      "j  首    念    念  ",
+      "j  首    念    念  ",
+      "                ",
+      "                ",
+      "                ",
+      " m mm   mm   mm ",
+      "eEfffeoefzyeefo却",
+      " iiiiiiiiiiiiiii",
+      "Ѕ               ",
+      "                ",
+      "                ",
+      "j               ",
+      "Ѕ               ",
+      "j               "
+    ],
+    [
+      "                ",
+      "        m  mmmm ",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "fCoyepfpoHffefy爱",
+      " iiiiiiiiiiiiiii",
+      "                ",
+      "                ",
+      "                ",
+      "j               ",
+      "                ",
+      "j               "
+    ],
+    [
+      "                ",
+      "        m  mmmm ",
+      "性m mmmmm数mm数m  m",
+      "gggggggggggggggg",
+      "gggggggggggggggg",
+      "gggggggggggggggg",
+      "gggggggggggggggg",
+      "gzgggggggDgggggg",
+      "fHypoeefpzpoyefe",
+      " iiiii iiiiiiiii",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "j               "
+    ]
+  ]
+}

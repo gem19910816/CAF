@@ -1,0 +1,246 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ͻ",
+        "block": "minecraft:tripwire[attached\u003dfalse,disarmed\u003dfalse,east\u003dfalse,north\u003dfalse,powered\u003dfalse,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "І",
+        "block": "minecraft:oak_trapdoor[facing\u003dwest,half\u003dtop,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "Ѐ",
+        "block": "minecraft:oak_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "8",
+        "block": "minecraft:oak_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 619,
+          "x": 51,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 185,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Floor 11:\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"CEO Offices\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "ϫ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cracked_stone_bricks"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   hh  h        ",
+      "fapaafda        ",
+      "eecbbbcD        ",
+      " bbbbbbz        ",
+      "  bbbbca        ",
+      "   b  ea        ",
+      "   b  e         ",
+      "   b  baf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " Ͻ hh  h        ",
+      "fapaafda        ",
+      "bciceHkD        ",
+      "    ІlFz        ",
+      "     Ѐca        ",
+      "   a  ea        ",
+      "   a  j         ",
+      "   a  baf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h hh  h        ",
+      "fapaafda        ",
+      "cbieeimD        ",
+      "   8 ϫjz        ",
+      "      ca        ",
+      "   a  ba        ",
+      "   a  j         ",
+      "   akkeaf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h hh  h        ",
+      "fapaafda        ",
+      "beibcikD        ",
+      "     ϫjz        ",
+      "      ca        ",
+      "   a  ca        ",
+      "   akkF         ",
+      "   a  caf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h hh  h        ",
+      "fapaafda        ",
+      "bbiceinD        ",
+      "      jz        ",
+      "      ca        ",
+      "   akkea        ",
+      "   a  j         ",
+      "      baf       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " h hh  h        ",
+      "fapaafda        ",
+      "ebbceeeD        ",
+      "bbbbbbcz        ",
+      "bbbbbbca        ",
+      "bbbb  ba        ",
+      "bbbb  e         ",
+      "bbbb  eaf       "
+    ]
+  ]
+}

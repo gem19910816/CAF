@@ -1,0 +1,214 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:clay"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "醉",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003dnorth,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "C",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "蒙",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "刍",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "埵",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003dwest,powered\u003dfalse]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "x        bb     ",
+      "         zy     ",
+      "         zy     ",
+      "     醉   bc     ",
+      "x    x   zN     ",
+      "         zN     ",
+      "         cc     ",
+      "         zy l   ",
+      "x        iy l   ",
+      "         ed l   ",
+      "         zN l   ",
+      "         zy     ",
+      "x        ee     ",
+      "     x   zN     ",
+      "         zN     ",
+      "         be     "
+    ],
+    [
+      "gffhqfCfgfgd    ",
+      "ChqhCgqqhqhe    ",
+      "hhCihqgihqfb    ",
+      "qfifCqiqqqfe    ",
+      "gqhfhfiiCigb    ",
+      "fiqhiffqqqCc    ",
+      "iifhqhggfhqd    ",
+      "figCffffqigbl   ",
+      "qCfgqhCqgggel   ",
+      "qqffgifgqqgcl   ",
+      "fqgifhqfhqgcl   ",
+      "hgiigfgfiChc    ",
+      "hhCifgCCfqqe    ",
+      "hiqffggiiqie    ",
+      "iCihqCiggCfc    ",
+      "hfgihqihihgb    "
+    ],
+    [
+      "蒙          c    ",
+      " l         b    ",
+      " l         d    ",
+      " l         d    ",
+      "           e    ",
+      " l         d    ",
+      " l         d    ",
+      "ml         e    ",
+      "n          e    ",
+      "ll         b    ",
+      "           e    ",
+      "        刍  c    ",
+      "    Q    刍 d    ",
+      "     刍     d    ",
+      "        Q       ",
+      "l 埵        w    "
+    ],
+    [
+      "蒙               ",
+      " l              ",
+      " l              ",
+      " l              ",
+      "                ",
+      " l              ",
+      " l              ",
+      "ml              ",
+      "n               ",
+      " l              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "蒙               ",
+      " l              ",
+      " l              ",
+      " l              ",
+      "                ",
+      " l              ",
+      " l              ",
+      "ml              ",
+      "n               ",
+      " l              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "蒙               ",
+      " l              ",
+      " l              ",
+      " l              ",
+      "                ",
+      " l              ",
+      " l              ",
+      "ml              ",
+      "n               ",
+      " l              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

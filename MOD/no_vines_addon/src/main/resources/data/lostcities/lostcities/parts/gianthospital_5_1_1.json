@@ -1,0 +1,240 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "训",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "伤",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 411,
+          "x": -94,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-25838521569144L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "谱",
+        "block": "refurbished_furniture:light_ceiling_light[face\u003dceiling,facing\u003deast,powered\u003dfalse]",
+        "tag": {
+          "z": 465,
+          "x": -59,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-16217794604920L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "酷",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "怨",
+        "block": "minecraft:repeater[delay\u003d1,facing\u003dwest,locked\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dnone,power\u003d0,south\u003dnone,west\u003dside]"
+      },
+      {
+        "char": "糸",
+        "block": "minecraft:repeater[delay\u003d2,facing\u003dwest,locked\u003dfalse,powered\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      " ydbbbcecdcel   ",
+      " ydedecdbcepl   ",
+      " wdcebbccbem    ",
+      "     mm jd      ",
+      "        j训      ",
+      "         训      ",
+      "         训 l    ",
+      "        j训 l    ",
+      "        j训 l    ",
+      "         训 l    ",
+      "         训 l    ",
+      "         训 l    ",
+      "        j训      ",
+      "         训 l    ",
+      "         训 l    ",
+      "         训      "
+    ],
+    [
+      " bbdccbedcdcl   ",
+      " ccdbececbbpl   ",
+      "bdddbcdedbbm    ",
+      "N N      c      ",
+      "y伤    谱 jd      ",
+      " 伤    谱  e      ",
+      "         d l    ",
+      "        je l    ",
+      "        je l    ",
+      " 伤    谱  e l    ",
+      " 伤    谱  e l    ",
+      "         d l    ",
+      "        jc      ",
+      "         e l    ",
+      " 伤    谱  d l    ",
+      " 伤    谱  c      "
+    ],
+    [
+      "ccdbdcecbe Kl   ",
+      "ddeeebdcbbdpl   ",
+      "dedbbbedecdm    ",
+      "kakkkaaared     ",
+      "aAakkaAaadd     ",
+      "aAaraaAkacd     ",
+      "kaaaaaakaebl    ",
+      "rkaakaraaccl    ",
+      "akaaaaaa酷bbl    ",
+      "kAaaarArrecl    ",
+      "aAaarkAkkcbl    ",
+      "aaaakakkaeel    ",
+      "aaaakakkaeb     ",
+      "rkarakrkabel    ",
+      "kAraakAaabcl    ",
+      "aAakkaAakdc     "
+    ],
+    [
+      "bdddccedcK  l   ",
+      "dddeeeedecw l   ",
+      "cbccdbdccdem    ",
+      "         bb     ",
+      " x    x  db     ",
+      "怨xEEE怨x  cb     ",
+      "         bcl    ",
+      "         bdl    ",
+      "         eel    ",
+      " x    x  del    ",
+      "怨xEEE怨x  cbl    ",
+      "         bbl    ",
+      "         ec     ",
+      "         bbl    ",
+      " x    x  dwl    ",
+      "糸xEEE怨x  e      "
+    ],
+    [
+      "cbedbeebb   l   ",
+      "cebedddcdcdbl   ",
+      "deedecbecbcm    ",
+      "         db     ",
+      "         dc     ",
+      "         ec     ",
+      "         bel    ",
+      "         ddl    ",
+      "         eel    ",
+      "         bbl    ",
+      "         cdl    ",
+      "         dcl    ",
+      "         eb     ",
+      "         cdl    ",
+      "         e l    ",
+      "         dw     "
+    ],
+    [
+      "ebebbbeddy yl   ",
+      "bdbcecbedcbpl   ",
+      "ebebdcbceecm    ",
+      "         de     ",
+      "         cb     ",
+      "         bd     ",
+      "         cbl    ",
+      "         ddl    ",
+      "         cel    ",
+      "         bbl    ",
+      "         ddl    ",
+      "         dcl    ",
+      "         bb     ",
+      "         eel    ",
+      "         bwl    ",
+      "         d      "
+    ]
+  ]
+}

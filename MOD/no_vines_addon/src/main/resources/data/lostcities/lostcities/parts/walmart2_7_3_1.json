@@ -1,0 +1,246 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "数",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "受",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:white_stained_glass"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "公",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "把",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "更",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:smooth_quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "自",
+        "block": "minecraft:smooth_quartz_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "星",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:smooth_quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:stone_brick_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "别",
+        "block": "minecraft:mossy_stone_brick_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "身",
+        "block": "minecraft:stone_brick_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "  mmmmmm  m 数数数 ",
+      " lzzEzzDzDDzzCCE",
+      " lz f受 受fif   e ",
+      " lC hv  h h   h公",
+      " lElh   h h   h ",
+      "  Hlhv 把h h   h ",
+      "  D h更jvh h   hl",
+      "  D hv 把h h   hl",
+      " lC h更 把h h   h ",
+      "  Elh   h h   h ",
+      " lH公h更 vh h   hl",
+      " lz h更  h h   h ",
+      "  Elh更 vh h   h ",
+      "  z h  vh h   h ",
+      "  C h更 把h h   hj",
+      "那EDjh   hlh   hj"
+    ],
+    [
+      "  m         u自uu",
+      " lDAA星星星AAACu自gg",
+      "  G  feej  fffi ",
+      "  G  f e   e f  ",
+      "  G lfvpj lo oj ",
+      "  G  p e   e fj ",
+      "  G  p更fj  e ej ",
+      "  G  e p   f pj ",
+      "  G lp oj  f fj ",
+      "  G le p  le oj ",
+      " lzj o p   e o  ",
+      "  G  f f   e ej ",
+      "  G  o f   e e  ",
+      "  G lo oj  p fj ",
+      "  G  e o   e fj ",
+      "那CDj o p   e p  "
+    ],
+    [
+      "  m           uB",
+      " lzAAA星AAAAC  u自",
+      "  G   fj   lo   ",
+      "  G  lh    lh   ",
+      "  G   h     h   ",
+      "  G  lhj    h   ",
+      "  G  lh     h   ",
+      "  G   h     h   ",
+      "  G   hj    h   ",
+      "  G   h     h   ",
+      " lCj  h     h   ",
+      "  G   h     h   ",
+      "  G  lh     h   ",
+      "  G   h     hj  ",
+      "  G   h     h   ",
+      "那Czj  h     h   "
+    ],
+    [
+      "  m             ",
+      " lC        C    ",
+      "  i             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  Dj            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "mDDj            "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "FFFF            ",
+      "FDD别            "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "身身身身身           ",
+      "    身           ",
+      "    身           "
+    ]
+  ]
+}

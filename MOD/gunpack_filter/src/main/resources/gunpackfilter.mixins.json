@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.chaosz.gunpackfilter.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "gunpackfilter.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinCreativeModeInventoryScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

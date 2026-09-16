@@ -1,0 +1,352 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "Α",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "ψ",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "Ͻ",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "Ґ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 614,
+          "x": 76,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "284s"
+        }
+      },
+      {
+        "char": "E",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "Ѐ",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "σ",
+        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "Ҳ",
+        "block": "minecraft:oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "җ",
+        "block": "minecraft:oak_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "є",
+        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 617,
+          "x": 72,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 133,
+          "Items": []
+        }
+      },
+      {
+        "char": "k",
+        "block": "minecraft:red_carpet"
+      },
+      {
+        "char": "Я",
+        "block": "minecraft:stone_button[face=floor,facing=east,powered=false]"
+      },
+      {
+        "char": "Έ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 618,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 219,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"T. Cabel\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "O",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ҹ",
+        "block": "minecraft:oak_door[facing=south,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "҄",
+        "block": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "л",
+        "block": "minecraft:stone_button[face=floor,facing=south,powered=false]"
+      },
+      {
+        "char": "ѽ",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ҙ",
+        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ҋ",
+        "block": "minecraft:spruce_fence[east=true,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "҅",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Қ",
+        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ѝ",
+        "block": "minecraft:redstone_torch[lit=true]"
+      },
+      {
+        "char": "ї",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "zAzwzwBAvBABABzB",
+      "ADzwAvAwBABBBvBv",
+      "wDzwzwwwDDAAAwwB",
+      "ADBAwDzvBzAwABzB",
+      "wvBABAwAAwBADzvD",
+      "AAwwzDΑΑψψψϽΑΑψϽ",
+      "vwwwwDψψϽϽΑψҐΑϽϽ",
+      "vzBzDDΑψҐΑϽΑΑΑψΑ",
+      "BwDAAwwEEEEEttet",
+      "ADvzvzBEaatttaat",
+      "wDzBzDvEttttaaat",
+      "wBBvzzwEtaattttt",
+      "DBBzAzЀEatttaata",
+      "ABvBzAAEtaaattaa",
+      "zzwDBAzEatttattt",
+      "wAvAAvЀEtttatatt"
+    ],
+    [
+      "    s   s       ",
+      "     s       s s",
+      "       s        ",
+      "       s        ",
+      " s      s     s ",
+      "       aaas     ",
+      "ss     da  dσs  ",
+      "s     scσcccc cc",
+      "      pihieiҲҗeҲ",
+      "  sss piєt  k   ",
+      "      Яhst   k k",
+      " s s  ph tΈ  k k",
+      "      phst      ",
+      "s     pe t   ksk",
+      "     spiOn  k  s",
+      "  ss spi  s kk k"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        Яσ      ",
+      "       d        ",
+      "       cccccc cc",
+      "      phgeghҹ҄iҹ",
+      "      pf        ",
+      "      pi        ",
+      "      pf        ",
+      "      pi        ",
+      "      pf        ",
+      "      ph        ",
+      "      pf        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       л        ",
+      "       cccccc cc",
+      "      pegigihieh",
+      "      pf        ",
+      "      pi        ",
+      "      pf        ",
+      "      ph        ",
+      "      pf        ",
+      "      pi        ",
+      "      pf        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       cccccc cc",
+      "      pdaadadada",
+      "      pa        ",
+      "      pd        ",
+      "      pd      ѽ ",
+      "      pd     ҙҊ҅",
+      "      pa      Қ ",
+      "      pa        ",
+      "      pd        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "       cccccc cc",
+      "      pighgeghge",
+      "      pf        ",
+      "      pe        ",
+      "      pf      Ѝ ",
+      "      pi     ЍїЍ",
+      "      pf      Ѝ ",
+      "      pe        ",
+      "      pf        "
+    ]
+  ]
+}

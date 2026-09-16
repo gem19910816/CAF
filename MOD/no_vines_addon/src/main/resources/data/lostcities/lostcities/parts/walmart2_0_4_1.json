@@ -1,0 +1,286 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "Ұ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "底",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "帮",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "所",
+        "block": "minecraft:oak_log[axis\u003dz]"
+      },
+      {
+        "char": "二",
+        "block": "minecraft:ladder[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "听",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "至",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "究",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "老",
+        "block": "minecraft:rail[shape\u003dascending_east,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "给",
+        "block": "minecraft:rail[shape\u003dascending_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "结",
+        "block": "minecraft:rail[shape\u003deast_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "天",
+        "block": "minecraft:stone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "         lzCfepf",
+      "          Ұe iii",
+      "           yj   ",
+      "          lfj   ",
+      "          lej   ",
+      "          lpj   ",
+      "          lyj m ",
+      "          lpj gj",
+      "          CDKҨK ",
+      "           fnnnЅ",
+      "          lfnnnj",
+      "          lfnnnj",
+      "          lpnnn ",
+      "          lonnn ",
+      "          lfnnnj",
+      "           ennnЅ"
+    ],
+    [
+      "         lEDpeof",
+      "          Ұe iii",
+      "           ej   ",
+      "          lyj   ",
+      "          lpj   ",
+      "          lej   ",
+      "          loj m ",
+      "          lfj g ",
+      "          DH底 帮 ",
+      "           f所所所二",
+      "          lo所所所j",
+      "          le所所所j",
+      "          lf所所所 ",
+      "          lp所所所 ",
+      "          lp所所所j",
+      "           f所所所二"
+    ],
+    [
+      "         lzDeope",
+      "          Ұp ii ",
+      "           fj   ",
+      "          lyj   ",
+      "           fj   ",
+      "          lfj   ",
+      "          lyj m ",
+      "          loj g ",
+      "          HE听至究 ",
+      "           p老所给 ",
+      "          ly 所j ",
+      "          loj所  ",
+      "          lo 所j ",
+      "          lfj所j ",
+      "          lo 所  ",
+      "           y老所给 "
+    ],
+    [
+      "         lECoeeo",
+      "          Ұf ii ",
+      "           yj   ",
+      "          lf    ",
+      "           fj   ",
+      "          lfj   ",
+      "          lfj   ",
+      "          lyj   ",
+      "          DD    ",
+      "           e 结  ",
+      "           e    ",
+      "           yj   ",
+      "          lo    ",
+      "          lfj   ",
+      "          lf    ",
+      "           f 结  "
+    ],
+    [
+      "         lzHffef",
+      "          Ұe ii ",
+      "           oj   ",
+      "          lo    ",
+      "           oj   ",
+      "          loj   ",
+      "          le    ",
+      "          lej   ",
+      "          ED    ",
+      "           o    ",
+      "           y    ",
+      "           fj   ",
+      "          ly    ",
+      "          le    ",
+      "          lf    ",
+      "           p    "
+    ],
+    [
+      "          Czfoyp",
+      "           e    ",
+      "           y    ",
+      "           f    ",
+      "           ev   ",
+      "          lf   v",
+      "          lp    ",
+      "           o    ",
+      "          HD天ttt",
+      "           p    ",
+      "           o    ",
+      "           f   v",
+      "           f    ",
+      "           f  v ",
+      "           o    ",
+      "           f    "
+    ]
+  ]
+}

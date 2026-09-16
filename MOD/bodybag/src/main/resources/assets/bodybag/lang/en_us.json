@@ -1,0 +1,15 @@
+{
+  "item.bodybag.body_bag": "Body Bag",
+  "item.bodybag.body_bag.tooltip.empty": "§7Hold right-click near a corpse to collect it (stay within 5 blocks)\n§7Right-click a corpse directly to start collecting\n§7Filled bag: right-click to place the corpse back",
+  "item.bodybag.body_bag.tooltip.filled": "§aContains the corpse of: %s",
+  "message.bodybag.start": "Collecting the corpse of %s... hold right-click and stay near it!",
+  "message.bodybag.progress": "Collecting... %s seconds left",
+  "message.bodybag.no_corpse": "No corpse within range",
+  "message.bodybag.cancelled": "Collection cancelled — you moved too far from the corpse",
+  "message.bodybag.lost_target": "Collection cancelled — the corpse disappeared",
+  "message.bodybag.collected": "Collected the corpse of %s into the body bag",
+  "message.bodybag.released": "Released the corpse of %s from the body bag",
+  "message.bodybag.no_death_data": "No corpse data in this body bag — it may be corrupted",
+  "message.bodybag.already_filled": "This body bag already contains a corpse",
+  "message.bodybag.already_collecting": "Already collecting a corpse — wait for it to finish"
+}

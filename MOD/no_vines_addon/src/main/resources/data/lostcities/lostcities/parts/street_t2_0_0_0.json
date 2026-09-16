@@ -1,0 +1,338 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "p",
+        "block": "immersive_weathering:mossy_stone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=true]"
+      },
+      {
+        "char": "i",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:basalt[axis=z]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:stone[weathering=true]"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:mossy_cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:moss_block"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:deepslate[axis=x]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "doomsday_decoration:wastepaper_1[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:fern"
+      },
+      {
+        "char": "j",
+        "block": "doomsday_decoration:wastepaper_2[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "k",
+        "block": "doomsday_decoration:newspaper[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "E",
+        "block": "doomsday_decoration:cup[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "B",
+        "block": "horror_element_mod:marine_body[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "t",
+        "block": "doomsday_decoration:trafficcone_2[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "V",
+        "block": "doomsday_decoration:blood_6[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "Z",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "G",
+        "block": "doomsday_decoration:blood_5[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "W",
+        "block": "doomsday_decoration:blood_6[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "R",
+        "block": "doomsday_decoration:glassshards[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "S",
+        "block": "doomsday_decoration:glassshards_3[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "L",
+        "block": "horror_element_mod:rotten_body[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "horror_element_mod:blood_5[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "A",
+        "block": "horror_element_mod:blood_3[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "1",
+        "block": "horror_element_mod:blood_2[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:spruce_leaves[distance=7,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:structure_void"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aqnacbbcdbbcapUa",
+      "aiqabdmbbccbaxpa",
+      "piiaddcbbbfdaini",
+      "iKiacbdbbdccaYnp",
+      "fmbddfdcdcbbfbcb",
+      "fdmdbbfbffbbcfcc",
+      "mfbdfccddcccbbbc",
+      "bdcmsfddbcdmcmbf",
+      "bccdcdddccmcfccc",
+      "ddbbfcdfbbPbbcbd",
+      "dmdbcfbfddmbcdcb",
+      "bccdfdfdbbdcbddc",
+      "aaaaaaaaaaaaaaaa",
+      "anixnaiiiniipqni",
+      "pwqavqnwnivnsqis",
+      "aaaaaaaaaaaaaaaa"
+    ],
+    [
+      "g gg   ll   g  0",
+      " j kk  j    g jz",
+      " e r l X   kr   ",
+      "eee kE  l jBg   ",
+      " eetk l  j  j   ",
+      "eeet   N  F kM j",
+      "ee t         l  ",
+      " e l       ll   ",
+      "        VQ  Zk  ",
+      " e J kI G       ",
+      "eee     W R     ",
+      " e  jS kLC ee   ",
+      "gggrgg A1leerkgg",
+      "  jk         j  ",
+      "   jekjDu  g ke ",
+      "lggjulj  gggglk "
+    ],
+    [
+      "h hh        h   ",
+      "            h   ",
+      "   o        o   ",
+      " e          h   ",
+      "                ",
+      " e              ",
+      " e              ",
+      "                ",
+      "                ",
+      "       O        ",
+      " e              ",
+      "                ",
+      "hhhohh     eo hh",
+      "                ",
+      "           h    ",
+      " hh      hhhh   "
+    ],
+    [
+      "                ",
+      "                ",
+      "   o        o   ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   o        o   ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "   H        T   ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   y        y   ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

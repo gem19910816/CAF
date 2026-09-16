@@ -1,0 +1,210 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:structure_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_void"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Υ",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ϊ",
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ѹ",
+        "block": "immersive_weathering:cut_iron_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "Л",
+        "block": "immersive_weathering:exposed_cut_iron_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "城",
+        "block": "immersive_weathering:exposed_cut_iron_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ϭ",
+        "block": "immersive_weathering:exposed_plate_iron_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ҋ",
+        "block": "minecraft:rail[shape=south_east,waterlogged=false]"
+      },
+      {
+        "char": "҉",
+        "block": "minecraft:rail[shape=south_west,waterlogged=false]"
+      },
+      {
+        "char": "Ғ",
+        "block": "minecraft:rail[shape=north_east,waterlogged=false]"
+      },
+      {
+        "char": "҈",
+        "block": "minecraft:rail[shape=north_west,waterlogged=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ъ",
+        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "п",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Њ",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "И",
+        "block": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ь",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "е",
+        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      " o              ",
+      "  o       oo    ",
+      "oo  o o  of f   ",
+      "  f fAffof   f A",
+      "   f f o    f ff",
+      "         A    f ",
+      "      fA  ΥAffff",
+      " Af ΪxxΪf xxΪxxx",
+      "fѹѹ xAΥΪ  Ϊff  f",
+      " ѹЛ xfAΪf xf ff ",
+      "fA城fΪΥ x  Ϊf    ",
+      "AЛЛ xf x fx     ",
+      " ϭЛfx fΪf x     ",
+      "fxAfx  xf x     ",
+      "fЛЛAΪ  xffxf    ",
+      " ѹϭ城xf xxxxf f  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "     B         B",
+      "                ",
+      "         B      ",
+      "       B  ΥB    ",
+      " B              ",
+      " ҋ҉  BΥ         ",
+      " Ғ҈   B         ",
+      "     h          ",
+      " ҋ҉             ",
+      " Ғ҈             ",
+      "                ",
+      " ҋ҉             ",
+      " Ғ҈             "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          Υ     ",
+      "                ",
+      "      h         ",
+      "                ",
+      "     h          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "          h     ",
+      "      h         ",
+      "     Ъпh        ",
+      "      h         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      Њh        ",
+      "     hИЬ        ",
+      "      hе        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "      h         ",
+      "     hΥh        ",
+      "      h         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

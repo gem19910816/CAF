@@ -1,0 +1,374 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "烤",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "歉",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "筌",
+        "block": "minecraft:pumpkin"
+      },
+      {
+        "char": "串",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 451,
+          "x": -63,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 139,
+          "SpawnRange": "4s",
+          "Delay": "20s"
+        }
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "措",
+        "block": "refurbished_furniture:light_gray_stool"
+      },
+      {
+        "char": "钣",
+        "block": "minecraft:skeleton_skull[rotation=10]",
+        "tag": {
+          "z": 424,
+          "x": -61,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 152
+        }
+      },
+      {
+        "char": "栈",
+        "block": "horror_element_mod:blood_2[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "疡",
+        "block": "minecraft:skeleton_skull[rotation=11]",
+        "tag": {
+          "z": 470,
+          "x": -55,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 152
+        }
+      },
+      {
+        "char": "棋",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "琅",
+        "block": "horror_element_mod:blood_10[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "惋",
+        "block": "refurbished_furniture:recycle_bin[facing=east,open=false]",
+        "tag": {
+          "Recycled": 0,
+          "z": 441,
+          "x": -47,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "refurbished_furniture:recycle_bin",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 146,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "-12919259819886L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "叽",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 483,
+          "x": -40,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 150,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"QUARANTINE\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"ZONE\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "谱",
+        "block": "refurbished_furniture:light_ceiling_light[face=ceiling,facing=east,powered=false]",
+        "tag": {
+          "z": 465,
+          "x": -59,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-16217794604920L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "伤",
+        "block": "refurbished_furniture:light_ceiling_light[face=ceiling,facing=west,powered=false]",
+        "tag": {
+          "z": 411,
+          "x": -94,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 136,
+          "NodePos": "-25838521569144L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "法",
+        "block": "refurbished_furniture:light_ceiling_light[face=ceiling,facing=south,powered=false]",
+        "tag": {
+          "z": 483,
+          "x": -73,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_light",
+          "y": 160,
+          "NodePos": "-20066085228384L",
+          "Connections": [
+            "L"
+          ]
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "otbbtooottthhihi",
+      "oooooooootoiqghg",
+      "oooooooootthqifq",
+      "oooooooootthqtgh",
+      "ooooooootttfqfhh",
+      "ooooooootttiqigq",
+      "oooooooottthfqfi",
+      "ooooooootttghiig",
+      "ooooooootttghggf",
+      "ooooooootttigfgq",
+      "ooooooootttigfff",
+      "ooooooootttqghqf",
+      "ooooooootttgihfq",
+      "ooooooootttiqfqq",
+      "oooooooottthighg",
+      "oooooooottthhgiq"
+    ],
+    [
+      "w烤烤烤烤pec歉ls     ",
+      "cceecbeedl筌   s ",
+      "bbccdecdcls     ",
+      "dccbdbbcpls  s  ",
+      "bbd串串cecsss     ",
+      "eecedccbsss     ",
+      "bbbbebbbsss     ",
+      "dedebdbbsss     ",
+      "bdcddbcblss     ",
+      "bddbcdbbsss     ",
+      "cbdcedeelss     ",
+      "bdcebecdlss     ",
+      "dddedbdclss     ",
+      "bbcbcbdblsss    ",
+      "dbdcecbclss     ",
+      "dbddeeecsss     "
+    ],
+    [
+      "    npep歉l      ",
+      "烤edddddbpl      ",
+      "cecbbdebdl      ",
+      "vvuvuveddl      ",
+      " 措措措措钣uc        ",
+      " 栈    ubl       ",
+      " 措措措措 ue        ",
+      "     疡棋dl       ",
+      " 措措措措 棋cl       ",
+      "   琅  棋e        ",
+      " 措措措措 棋el       ",
+      "疡     vdl       ",
+      "   钣 jub        ",
+      "     惋ucl       ",
+      "      vel       ",
+      "     jve        "
+    ],
+    [
+      "    npcp歉l      ",
+      " eeededbpl      ",
+      "dccebdcddl      ",
+      "vvuvvvddpl      ",
+      "      uc        ",
+      "      ubl       ",
+      "     叽ub        ",
+      "      棋el       ",
+      "      棋bl       ",
+      "      棋d        ",
+      "      棋dl       ",
+      "      udl       ",
+      "     jvd        ",
+      "     叽vdl       ",
+      "      ubl       ",
+      "     jvd        "
+    ],
+    [
+      "    npcp歉l      ",
+      " cbdcccepl      ",
+      "bddbcddbel      ",
+      "eccbebecpl      ",
+      "      ce        ",
+      "      cdl       ",
+      "      db        ",
+      "      棋el       ",
+      "      棋dl       ",
+      "      棋d        ",
+      "      棋dl       ",
+      "      bel       ",
+      "      ec        ",
+      "     jbel       ",
+      "      edl       ",
+      "     jcb        "
+    ],
+    [
+      "    nedc歉l      ",
+      " ecbbedbpl      ",
+      "dcddeedecl      ",
+      "cbcbdecddl      ",
+      "      cc        ",
+      "      ddl       ",
+      "      dd        ",
+      "      ccl       ",
+      "谱   谱 del       ",
+      "      bb        ",
+      "      bbl       ",
+      "      ccl       ",
+      "伤   法 ee        ",
+      "伤   法 bcl       ",
+      "      ddl       ",
+      "     jdd        "
+    ]
+  ]
+}

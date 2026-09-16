@@ -1,0 +1,299 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "长",
+        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 338,
+          "x": 108,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 133,
+          "Items": []
+        }
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "k",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis=y]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "Ӥ",
+        "block": "minecraft:polished_diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "z",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=2]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "幸",
+        "block": "minecraft:polished_andesite_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "力",
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "啥",
+        "block": "refurbished_furniture:white_toilet[facing=east]",
+        "tag": {
+          "z": 341,
+          "x": 178,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:toilet",
+          "y": 133,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "改",
+        "block": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "目",
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "看",
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ӗ",
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "破",
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "V",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ӫ",
+        "block": "minecraft:bricks[weathering=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "报",
+        "block": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=false,powered=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "sssnbfffffffffff",
+      "长ssnbfffffffffff",
+      "sssnbfffffffffff",
+      "sssnbfffffffffff",
+      "npnpbbffffffffff",
+      "nnnpbfffffffffff",
+      "ppnnbfffffffffff",
+      "pppnbfffffffffff",
+      "ppCnbfffffffffff",
+      "pnnpbfffffffffff",
+      "pCnpbbffffffffff",
+      "nnnpbfffffffffff",
+      "npnpbfffffffffff",
+      "npppbfffffffffff",
+      "hnnnbfffffffffff",
+      "hnpCbfffffffffff"
+    ],
+    [
+      "  ktuӤzkqqkqqqkk",
+      "幸hhtoIUzkkqkqq k",
+      "kkztoQqqkkqkqqqz",
+      "   toQxzkkkqqqkq",
+      "ttttowkqkkkqkqkk",
+      "力k啥tuIkkkkk kkzz",
+      "力  tuӤkqkkkkkzkq",
+      "k改目tyQqkqkkkqkkk",
+      "k ktoQqzkqqqzkkq",
+      "看看看tuOkqkqqkqqzq",
+      "ttttowkkkUkkqz q",
+      "Ӗ破qtoIkkkqzzqqkk",
+      "kqktoOzkkqzkkkkq",
+      "DkktyIkkqkqzkqkk",
+      "DqktuQkqqqzkqkqq",
+      "DkktoIkkUUkkkqzz"
+    ],
+    [
+      "   ir           ",
+      "Ӗ  ir V         ",
+      "   ir x         ",
+      "   ӫo x         ",
+      "vssmow          ",
+      "力  vu           ",
+      "力  ir           ",
+      " 报目ir           ",
+      "   ir           ",
+      "   mo           ",
+      "vsvsuw   V      ",
+      "   mo           ",
+      "   ir           ",
+      "   ir           ",
+      "    r           ",
+      "   ir   VV      "
+    ],
+    [
+      "    r           ",
+      "   ir           ",
+      "   ir           ",
+      "   ӫoxx         ",
+      "mmvmuw          ",
+      "力  mu           ",
+      "力  ir           ",
+      " 目目ir           ",
+      "    r           ",
+      "   mo           ",
+      "ssssyw          ",
+      "   vu           ",
+      "   ir           ",
+      "   ir           ",
+      "   ir           ",
+      "    r           "
+    ],
+    [
+      "    r           ",
+      "   ir           ",
+      "   ir           ",
+      "   ӫox          ",
+      "vsvmow          ",
+      "   mo           ",
+      "   ir           ",
+      "    r           ",
+      "   ir           ",
+      "   my           ",
+      "mvsmow          ",
+      "   mo           ",
+      "   ir           ",
+      "   ir           ",
+      "    r           ",
+      "   ir           "
+    ],
+    [
+      "    r           ",
+      "   ir           ",
+      "    rx          ",
+      "   ӫox          ",
+      "ssvmow          ",
+      "   my           ",
+      "    r           ",
+      "   ir           ",
+      "   ir           ",
+      "   vo           ",
+      "smmsyw          ",
+      "   vy           ",
+      "    r           ",
+      "   ir           ",
+      "   ir           ",
+      "   ir           "
+    ]
+  ]
+}

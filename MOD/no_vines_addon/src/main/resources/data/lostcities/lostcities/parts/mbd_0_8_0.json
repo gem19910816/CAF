@@ -1,0 +1,370 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "м",
+        "block": "minecraft:stone_brick_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering\u003dtrue]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "Ҷ",
+        "block": "minecraft:stone[weathering\u003dtrue]"
+      },
+      {
+        "char": "ь",
+        "block": "minecraft:stone_brick_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:bricks[weathering\u003dtrue]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "о",
+        "block": "immersive_weathering:mossy_brick_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ӓ",
+        "block": "createdeco:industrial_iron_window_pane[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ӿ",
+        "block": "immersive_weathering:cracked_brick_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Т",
+        "block": "refurbished_furniture:deepslate_stepping_stones[facing\u003dnorth]"
+      },
+      {
+        "char": "念",
+        "block": "minecraft:brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "g",
+        "block": "immersive_weathering:cracked_bricks"
+      },
+      {
+        "char": "ӽ",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "ш",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "createdeco:industrial_iron_window"
+      },
+      {
+        "char": "宝",
+        "block": "minecraft:brick_wall[east\u003dtall,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dnone]"
+      },
+      {
+        "char": "j",
+        "block": "immersive_weathering:mossy_bricks"
+      },
+      {
+        "char": "ѩ",
+        "block": "refurbished_furniture:deepslate_stepping_stones[facing\u003deast]"
+      },
+      {
+        "char": "ъ",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "员",
+        "block": "minecraft:brick_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "Ӳ",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003dwest,powered\u003dfalse]"
+      },
+      {
+        "char": "可",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "Ѡ",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "杂",
+        "block": "doomsday_decoration:discardwhitecar_1[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ӳ",
+        "block": "minecraft:stone_button[face\u003dfloor,facing\u003deast,powered\u003dfalse]"
+      },
+      {
+        "char": "ч",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "灵",
+        "block": "minecraft:brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "麻",
+        "block": "minecraft:brick_wall[east\u003dtall,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dnone]"
+      },
+      {
+        "char": "ѽ",
+        "block": "doomsday_decoration:shelf_3[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ь",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "Ѹ",
+        "block": "doomsday_decoration:wastepaper_1[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "案",
+        "block": "doomsday_decoration:trashbag_3[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "感",
+        "block": "doomsday_decoration:trashcan_4[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "久",
+        "block": "doomsday_decoration:trashbag[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ӄ",
+        "block": "doomsday_decoration:shutter_1[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ӟ",
+        "block": "minecraft:brick_wall[east\u003dtall,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dnone]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ѧ",
+        "block": "minecraft:brick_wall[east\u003dtall,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "往",
+        "block": "doomsday_decoration:missingpersonnotice[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Һ",
+        "block": "doomsday_decoration:shelf_4[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "图",
+        "block": "doomsday_decoration:shutter_2[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ҷ",
+        "block": "minecraft:brick_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ђ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ұ",
+        "block": "minecraft:brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "功",
+        "block": "minecraft:brick_wall[east\u003dtall,north\u003dtall,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dnone]"
+      },
+      {
+        "char": "Ҹ",
+        "block": "minecraft:brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "Ѿ",
+        "block": "minecraft:brick_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "声",
+        "block": "minecraft:brick_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "精",
+        "block": "doomsday_decoration:airconditioning_2[facing\u003dnorth,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "ksktktkssмuuuaff",
+      "kskkskkskмuuffbҶ",
+      "kststkstsмfufbaa",
+      "kkttkktskмaabaab",
+      "skstksttsьbfbaab",
+      "sktskttktмabaabf",
+      "ttskkkkktмfaaffb",
+      "ssktsktksьbbbabf",
+      "skskktkkkьaafaaf",
+      "tkskkskksмfufbab",
+      "kkskktkssьbfcfua",
+      "sssskkstkмffebaf",
+      "sttstkttkьbauaaa",
+      "ktktstkkkьbafbbb",
+      "ksktksskkьbffffa",
+      "sktktkktsьaufbff"
+    ],
+    [
+      "   о iӓ   ohhhpi",
+      " i ӓh ӿоТ  念ghӽш",
+      " i D iiТ   宝ge ӽ",
+      "  j  i ѩ  ъ员j i ",
+      "  Т  Т       Ӳ 可",
+      "          i 可Ѡ  ",
+      "  Т Т Т     i  杂",
+      "           iӽ  ӳ",
+      "             ъӲ ",
+      "       Т  ч灵jpii",
+      "  i   Т    麻g ѽ ",
+      "  Т        Ьlccc",
+      "    Т     iч ъ  ",
+      "       Т     шѸ ",
+      "          ъ ъ案  ",
+      "       i    ч 感久"
+    ],
+    [
+      "           iӄi  ",
+      "           och  ",
+      "           ӟgep ",
+      "           oc   ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            n   ",
+      "            c   ",
+      "           ѧcp  ",
+      "           olcgj",
+      "             q  ",
+      "                ",
+      "                ",
+      "            n  n"
+    ],
+    [
+      "            ӄn  ",
+      "           往chp ",
+      "           ѧcl  ",
+      "            gq  ",
+      "            q   ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "           ogp  ",
+      "           ѧc Һ ",
+      "            lcjg",
+      "            q q ",
+      "                ",
+      "                ",
+      "              n "
+    ],
+    [
+      "            ӄ   ",
+      "           oghh ",
+      "           ѧclp ",
+      "           ocp  ",
+      "            ӄ   ",
+      "            ӄ   ",
+      "            图   ",
+      "            ӄ   ",
+      "            ӄ   ",
+      "            c   ",
+      "           ѧc   ",
+      "           oeggj",
+      "            q q ",
+      "                ",
+      "                ",
+      "             n  "
+    ],
+    [
+      "           ҷcђr ",
+      "           Ұgh r",
+      "           功gl r",
+      "           Ҹg ro",
+      "           Ѿg   ",
+      "            cr r",
+      "            gp  ",
+      "            c rr",
+      "           Ѿcr  ",
+      "           Ұgp  ",
+      "           声crr ",
+      "            eccg",
+      "                ",
+      "                ",
+      "                ",
+      "             n精 "
+    ]
+  ]
+}

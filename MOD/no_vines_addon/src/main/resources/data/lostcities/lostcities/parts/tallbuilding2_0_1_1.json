@@ -1,0 +1,210 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "ϱ",
+        "block": "minecraft:spruce_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Λ",
+        "block": "minecraft:snow_block"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ϥ",
+        "block": "minecraft:oak_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ж",
+        "block": "minecraft:potted_cactus"
+      },
+      {
+        "char": "Φ",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:spruce_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ё",
+        "block": "minecraft:dark_oak_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "        i       ",
+      "       fh       ",
+      "       fa       ",
+      "       fh       ",
+      "       fi       ",
+      "       fh       ",
+      "       fb       ",
+      "       fh       ",
+      "       fjgcgcgbg",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        mba     ",
+      "       faayy    ",
+      "       fabjycz  ",
+      "       fbajyccy ",
+      "       fbijymcb ",
+      "       famjmaicc",
+      "       fcmmcaibc",
+      "       fmabnbnna",
+      "       fcnabbaii",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        iI      ",
+      "       fhϱ      ",
+      "       fcΛ      ",
+      "       fNΛ  Ϥ   ",
+      "       faΛ  Ϥ   ",
+      "       fNΛ      ",
+      "       fcΛ      ",
+      "       fNΛΛΛΛ ж ",
+      "       fiΦaΦngcg",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        bO      ",
+      "       fh       ",
+      "       fb       ",
+      "       fh       ",
+      "       fa       ",
+      "       fh       ",
+      "       fb       ",
+      "       fh     Ё ",
+      "       fagagcgmg",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        c       ",
+      "       fb       ",
+      "       fi       ",
+      "       fa       ",
+      "       fb       ",
+      "       fb       ",
+      "       fc       ",
+      "       fc     Ё ",
+      "       fbjjaaaaa",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "        c       ",
+      "       fh       ",
+      "       fa       ",
+      "       fh       ",
+      "       fc       ",
+      "       fh       ",
+      "       fc       ",
+      "       fh       ",
+      "       fagagcgjg",
+      "        eeeeeeee",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

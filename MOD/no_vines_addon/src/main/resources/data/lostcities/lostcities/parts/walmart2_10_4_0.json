@@ -1,0 +1,382 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "班",
+        "block": "minecraft:coal_ore"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "提",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "之",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "义",
+        "block": "minecraft:stone_button[face=wall,facing=east,powered=false]"
+      },
+      {
+        "char": "活",
+        "block": "minecraft:stone_button[face=wall,facing=west,powered=false]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "时",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 434,
+          "x": 58,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\">>>\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "J",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "城",
+        "block": "minecraft:rail[shape=north_south,waterlogged=false]"
+      },
+      {
+        "char": "须",
+        "block": "minecraft:lever[face=wall,facing=north,powered=true]"
+      },
+      {
+        "char": "年",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "变",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "告",
+        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "站",
+        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "社",
+        "block": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "效",
+        "block": "minecraft:black_stained_glass"
+      },
+      {
+        "char": "甚",
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "研",
+        "block": "minecraft:flower_pot"
+      },
+      {
+        "char": "放",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "ҩ",
+        "block": "minecraft:gravel"
+      },
+      {
+        "char": "再",
+        "block": "minecraft:dark_oak_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "Ү",
+        "block": "minecraft:sand"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "听",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "adkdacabkkdadbrb",
+      "bkdaakcdakbakdrr",
+      "badbacakbbabkrbd",
+      "bcarbkcbccdabr班班",
+      "cbccdckdrcacar班r",
+      "IIbrddbabIacIr班k",
+      "IIdccbkbkbccrrcb",
+      "IIrcdrabdkcbbrrc",
+      "IIkkbbdbdrdaarcr",
+      "cIbdbcabdbckkrcd",
+      "cIadkaacdackbrdd",
+      "kIckckckkdckbrdd",
+      "kdbbdbckbdackrrc",
+      "kacrbcdackccarcb",
+      "akccdckaddrkdrrb",
+      "daakadckkabbbrbd"
+    ],
+    [
+      "          提提  q ",
+      " q        提提  qq",
+      "   q     提提提提q  ",
+      "   q     提提提提q  ",
+      " m       提提提提q  ",
+      "s之义q    活之提提之义  ",
+      "ss          qq  ",
+      "ssq  qq  ҨҨҨҨqq ",
+      "s之义      ҨnnҨq q",
+      " Ҭ       ҨnnҨq  ",
+      " Ҭ       ҨnnҨq  ",
+      " Ҭ    q  ҨnnҨq  ",
+      "         ҨnnҨqq ",
+      "   q     ҨnnҨq  ",
+      "         ҨnnҨq  ",
+      "         ҨnnҨq  "
+    ],
+    [
+      "         a  a   ",
+      "         aaaa   ",
+      "                ",
+      "          KK    ",
+      "时m        ҨҨ    ",
+      "sJj      ҬҨҨҬ   ",
+      "城s        ҨҨ    ",
+      "须        年  年   ",
+      "年变        告告告   ",
+      "         ҧ站站站Ѕ  ",
+      "          社社社   ",
+      "          告告告   ",
+      "         ҧ站站站Ѕ  ",
+      "          社社社   ",
+      "          告告告   ",
+      "         ҧ站站站Ѕ  "
+    ],
+    [
+      "         效  效   ",
+      "         a甚甚a   ",
+      "                ",
+      "                ",
+      "                ",
+      "研               ",
+      " 放              ",
+      "                ",
+      " N        ҩҩҩ   ",
+      "          ҩҩҩ   ",
+      "          ҩҩҩ   ",
+      "          再再再   ",
+      "          再再再   ",
+      "          再再再   ",
+      "          ҮҮҮ   ",
+      "          ҮҮҮ   "
+    ],
+    [
+      "         tttt   ",
+      "         tttt   ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " Ҭ              ",
+      "ҬҬ              ",
+      "听变        ҩҩҩ   ",
+      "          ҩҩҩ   ",
+      "          ҩҩҩ   ",
+      "          再再再   ",
+      "          再再再   ",
+      "          再再再   ",
+      "          ҮҮҮ   ",
+      "          ҮҮҮ   "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " N              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "A",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "ͷ",
+        "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=true]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=true,weathering=false]"
+      },
+      {
+        "char": "W",
+        "block": "immersive_weathering:mossy_stone_slab[type=bottom,waterlogged=true]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:polished_andesite_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "immersive_weathering:mossy_bricks"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:bricks[weathering=false]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:terracotta"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:granite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "χ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "Ώ",
+        "block": "minecraft:stone_button[face=wall,facing=east,powered=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ά",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "ͼ",
+        "block": "minecraft:ladder[facing=east,waterlogged=false]"
+      },
+      {
+        "char": ";",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "Ͷ",
+        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "loot": "firestation",
+        "tag": {
+          "z": 575,
+          "x": 266,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 140,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ϫ",
+        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "loot": "firestation",
+        "tag": {
+          "z": 584,
+          "x": 285,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ϗ",
+        "block": "immersive_weathering:exposed_iron_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "ε",
+        "block": "immersive_weathering:exposed_iron_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "ϋ",
+        "block": "minecraft:lever[face=wall,facing=west,powered=true]"
+      },
+      {
+        "char": "ϑ",
+        "block": "minecraft:lever[face=wall,facing=east,powered=true]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ρ",
+        "block": "immersive_weathering:exposed_iron_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "δ",
+        "block": "immersive_weathering:exposed_iron_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "Њ",
+        "block": "minecraft:lever[face=wall,facing=east,powered=false]"
+      },
+      {
+        "char": "Λ",
+        "block": "minecraft:gray_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ό",
+        "block": "minecraft:gray_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Τ",
+        "block": "minecraft:gray_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ϟ",
+        "block": "minecraft:gray_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "pppppppppppppppp",
+      "Anennneenennneee",
+      "ͷeAeeeAͱeneeeAWA",
+      "eeͷewAAeneeWeeAe",
+      "wwAnnnnnnnnAnAnn",
+      "jjffmmfmfmfmmppj",
+      "fjjmjfmmjffjfjmm",
+      "mjjmmjfmfmjmpjjj",
+      "jfmffmjmjffjjjff",
+      "mmmmjjmfjppjjjmj",
+      "mmfmmmjmfpfjjfmf",
+      "mjffmffmmjmffjmm",
+      "jmmjfjfjffjfmfjj",
+      "mfffjjmmmffffjjf",
+      "jjmmfmpmjfjfpjjm",
+      "jffjjpfjffmjmfmj"
+    ],
+    [
+      "tttttCtttttttCtt",
+      "                ",
+      "    d           ",
+      "d  P0Gd       dd",
+      "oobbkllklooooook",
+      "cχcccccc cccctC ",
+      "qqqq            ",
+      "SqqSΏ       t   ",
+      "qqqq            ",
+      "qqqqg    tC     ",
+      "qqqq     t      ",
+      "qqqqg           ",
+      "qqqqg           ",
+      "qqqq            ",
+      "SqqSΏ t     C   ",
+      "qqqq C  Ά       "
+    ],
+    [
+      "     D       D  ",
+      "                ",
+      "    d           ",
+      "d  PnGd       dd",
+      "obbbolobkkklooob",
+      "cχcccccc cccccD ",
+      "rrrr            ",
+      "r  rg           ",
+      "rrrrͼ           ",
+      ";rr;g     D     ",
+      "ͶrrϪ            ",
+      "r  rg           ",
+      "Ϗ  εg           ",
+      "r  r            ",
+      "r  rg       D   ",
+      "rrrr D          "
+    ],
+    [
+      "                ",
+      "                ",
+      "    d           ",
+      "d  PeGd       dd",
+      "oklkbookbbblboob",
+      "cχcccccc cccccc ",
+      "rrrr            ",
+      "rrrrg           ",
+      "rrrrͼ           ",
+      "ϋrrϑg           ",
+      "Err             ",
+      "r  rg           ",
+      "ρ  δg           ",
+      "r  rЊ           ",
+      "Λ  Λ            ",
+      "όΤΤϞ            "
+    ],
+    [
+      "                ",
+      "                ",
+      "    d           ",
+      "d  PeGd       dd",
+      "lllkbkoboobkblob",
+      "cccccccc cccccc ",
+      "OOOO            ",
+      "aaaag           ",
+      "aaaaͼ           ",
+      "aaaag           ",
+      "aaaa            ",
+      "aXXag           ",
+      "aXXa            ",
+      "aaaa            ",
+      "YYYY            ",
+      "3333            "
+    ],
+    [
+      "                ",
+      "                ",
+      "    d           ",
+      "d  PeGd       d ",
+      "boobobllkklkblbo",
+      "ccccc c  ccccc  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " zz             ",
+      "hzz             ",
+      " zz             ",
+      " qq             ",
+      " qq             ",
+      " qq             "
+    ]
+  ]
+}

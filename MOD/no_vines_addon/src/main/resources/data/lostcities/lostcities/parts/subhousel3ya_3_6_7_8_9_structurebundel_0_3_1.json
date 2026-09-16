@@ -1,0 +1,250 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:cobbled_deepslate_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:cobbled_deepslate_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobbled_deepslate_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:dark_oak_leaves[distance=7,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ʹ",
+        "block": "minecraft:dark_oak_leaves[distance=4,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:oak_wood[axis=y]"
+      },
+      {
+        "char": "Е",
+        "block": "minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ψ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "对",
+        "block": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "҄",
+        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "4",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ͷ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:pink_terracotta"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:polished_deepslate_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:air"
+      },
+      {
+        "char": ";",
+        "block": "minecraft:dark_oak_leaves[distance=2,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "я",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "μ",
+        "block": "minecraft:dark_oak_leaves[distance=1,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "Ϗ",
+        "block": "minecraft:dark_oak_leaves[distance=3,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϧ",
+        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:dark_oak_leaves[distance=6,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "Ѧ",
+        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Π",
+        "block": "minecraft:dark_oak_leaves[distance=5,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "л",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "   yy swH      H",
+      "  Cy  swH      H",
+      "   yC swH      H",
+      "y 3 eyswH      H",
+      " ʹ XM swH      H",
+      "  ЕMήΨswH      H",
+      "  对҄Ψ4swH      H",
+      "  ͷ3  swH      H",
+      "    yyswH      H",
+      "    C swffffffff",
+      "    C IUz  DD  z",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   y yy swH  Hws",
+      "     e yswH  Hws",
+      "e 3  y  swH  Hws",
+      " 34;яy  swH  Hws",
+      " 4;ήM ʹ swH  Hws",
+      " ;μμμΨ4 swH  Hws",
+      " ήM  Ϗʹ swH  Hww",
+      "y  4    swH  Hws",
+      "      C swH  Hws",
+      "    y e swffffws",
+      "   Cy   IUzD zUI",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "    C y   swws  ",
+      "y 3 yyy   swws  ",
+      "  4Ψ    C swws  ",
+      "ͷ ;ήM ͱy  swws  ",
+      "  4;ϧΣͷͱy swws  ",
+      "y       e swws  ",
+      " ѦMή 3ͷ   swws  ",
+      " yϧ;  ͱ C swws  ",
+      " yΣ ͱy    swws  ",
+      "     y    swws  ",
+      "   C      IUUI  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "  y  y          ",
+      " y  e Cy        ",
+      "Π    y  y       ",
+      "34;ήM yy        ",
+      "      ͱ         ",
+      " yΣ   y         ",
+      "  лΨ   Cy       ",
+      "yy 43ͷ yC       ",
+      " Σͷ3Π CC        ",
+      " C ͷΣ e         ",
+      "   ͱ y          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   Πͱy          ",
+      "  ͷ3  yy        ",
+      " ͷ3Ϗ y C        ",
+      "   Ψ Cyy        ",
+      " C   yy         ",
+      " ͱΠ ͷ yC        ",
+      "  343 y         ",
+      " y              ",
+      "     y          ",
+      "    yy          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   ͱ            ",
+      "    ye          ",
+      "   3  e         ",
+      " Π3Ϗʹ ye        ",
+      "  Π3ͷ C         ",
+      "  ͱͷΣ           ",
+      "   3ͷ y         ",
+      "    ͱ  C        ",
+      "  y  e          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

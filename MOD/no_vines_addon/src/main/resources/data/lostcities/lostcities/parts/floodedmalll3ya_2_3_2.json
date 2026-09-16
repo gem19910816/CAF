@@ -1,0 +1,519 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:structure_void"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:deepslate_bricks[weathering=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:basalt[axis=y]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:stone_bricks[weathering=true]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:cracked_deepslate_bricks"
+      },
+      {
+        "char": "Ϝ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϡ",
+        "block": "doomsday_decoration:guardrail[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Υ",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ф",
+        "block": "doomsday_decoration:guardrail[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "к",
+        "block": "doomsday_decoration:guardrail[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "Ϋ",
+        "block": "doomsday_decoration:base[waterlogged=false]"
+      },
+      {
+        "char": "Қ",
+        "block": "create:belt[casing=false,facing=south,part=middle,slope=vertical,waterlogged=false]",
+        "tag": {
+          "Casing": "NONE",
+          "Controller": {
+            "X": -599,
+            "Y": -52,
+            "Z": 21
+          },
+          "z": 21,
+          "x": -599,
+          "Covered": "0b",
+          "y": -51,
+          "id": "create:belt",
+          "Speed": "0.0f",
+          "Index": 1,
+          "Length": 9,
+          "IsController": "0b"
+        }
+      },
+      {
+        "char": "Ϩ",
+        "block": "doomsday_decoration:acrate_2[waterlogged=false]"
+      },
+      {
+        "char": "ћ",
+        "block": "createdeco:industrial_iron_mesh_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "у",
+        "block": "create:rope[waterlogged=false]"
+      },
+      {
+        "char": "ѝ",
+        "block": "doomsday_decoration:carton[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "报",
+        "block": "doomsday_decoration:acrate_3[waterlogged=false]"
+      },
+      {
+        "char": "Τ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "自",
+        "block": "doomsday_decoration:cornerguardrail[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "像",
+        "block": "doomsday_decoration:cornerguardrail[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "Ѿ",
+        "block": "doomsday_decoration:guardrail[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "έ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:oak_wood[axis=y]"
+      },
+      {
+        "char": "Ӌ",
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:dark_oak_leaves[distance=1,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "Ω",
+        "block": "minecraft:dark_oak_leaves[distance=2,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "Ξ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ъ",
+        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ο",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Π",
+        "block": "minecraft:dark_oak_leaves[distance=3,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "档",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "情",
+        "block": "create:hand_crank[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 21,
+          "x": -600,
+          "Backwards": "1b",
+          "id": "create:hand_crank",
+          "Speed": "0.0f",
+          "y": -52,
+          "InUse": 0
+        }
+      },
+      {
+        "char": "合",
+        "block": "create:belt[casing=false,facing=south,part=pulley,slope=vertical,waterlogged=false]",
+        "tag": {
+          "Casing": "NONE",
+          "Controller": {
+            "X": -599,
+            "Y": -52,
+            "Z": 21
+          },
+          "z": 21,
+          "x": -599,
+          "Covered": "0b",
+          "y": -47,
+          "id": "create:belt",
+          "Speed": "0.0f",
+          "Index": 5,
+          "Length": 9,
+          "IsController": "0b"
+        }
+      },
+      {
+        "char": "种",
+        "block": "doomsday_decoration:carton_3[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "Ψ",
+        "block": "minecraft:dark_oak_leaves[distance=5,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "Ρ",
+        "block": "minecraft:dark_oak_leaves[distance=4,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "п",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Џ",
+        "block": "doomsday_decoration:shutter_1[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "二",
+        "block": "doomsday_decoration:shutter_2[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ӽ",
+        "block": "doomsday_decoration:carton_3[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:dark_oak_leaves[distance=7,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "é",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:stone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϛ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϸ",
+        "block": "createdeco:long_dusk_brick_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "Љ",
+        "block": "createdeco:long_dusk_brick_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "改",
+        "block": "create:belt[casing=false,facing=south,part=end,slope=vertical,waterlogged=false]",
+        "tag": {
+          "Casing": "NONE",
+          "Controller": {
+            "X": -599,
+            "Y": -52,
+            "Z": 21
+          },
+          "z": 21,
+          "x": -599,
+          "Covered": "0b",
+          "y": -44,
+          "id": "create:belt",
+          "Speed": "0.0f",
+          "Index": 8,
+          "Length": 9,
+          "IsController": "0b"
+        }
+      },
+      {
+        "char": "Ӓ",
+        "block": "create:gearbox[axis=y]",
+        "tag": {
+          "z": 26,
+          "x": -596,
+          "id": "create:gearbox",
+          "Speed": "0.0f",
+          "y": -44
+        }
+      },
+      {
+        "char": "者",
+        "block": "create:andesite_encased_shaft[axis=x]",
+        "tag": {
+          "z": 21,
+          "x": -597,
+          "id": "create:encased_shaft",
+          "Speed": "0.0f",
+          "y": -44
+        }
+      },
+      {
+        "char": "ϝ",
+        "block": "create:cut_deepslate_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ҡ",
+        "block": "create:shaft[axis=z,waterlogged=false]",
+        "tag": {
+          "z": 25,
+          "x": -598,
+          "id": "create:simple_kinetic",
+          "Speed": "0.0f",
+          "y": -44
+        }
+      },
+      {
+        "char": "法",
+        "block": "create:rope_pulley[axis=z]",
+        "tag": {
+          "MirrorChildren": [],
+          "z": 25,
+          "x": -596,
+          "Offset": "6.0f",
+          "Waiting": "0b",
+          "y": -44,
+          "Owner": [
+            "I",
+            1256893944,
+            -1914551544,
+            -1921175657,
+            84721262
+          ],
+          "id": "create:rope_pulley",
+          "Speed": "0.0f",
+          "InitialOffset": 0,
+          "ScrollValue": 0,
+          "Running": "0b"
+        }
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϧ",
+        "block": "minecraft:dark_oak_leaves[distance=6,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:dead_bubble_coral_block"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:dead_fire_coral_block"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "ϥ",
+        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:dead_brain_coral_block"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "ϴ",
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=true]"
+      },
+      {
+        "char": "Э",
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "           E    ",
+      "           i    ",
+      "Edilik   EEi    ",
+      " Ϝhhhϡf  ϡ  hΥh ",
+      "   ppϡ    фффh  ",
+      "    кΫ   Қ f Ϋϡ ",
+      "    кϨ    ћ у ϡ ",
+      "     ϡѝ       ϡ ",
+      "     ϡ报 f     ϡ ",
+      "     ϡ ϨϨ ћ у ϡ ",
+      "    кΫ ϨϨΫΤ  Ϋϡ ",
+      "     自ффф像ѾѾѾѾ v",
+      "          έSӋϕΩΞ",
+      "        Σ ΩϕЪSέΩ",
+      "         ΤΞΩΟέΩ ",
+      "          ΤΞΠ Ξ "
+    ],
+    [
+      "           d    ",
+      "           m    ",
+      "jddmdi   档ii    ",
+      "p p Ϝp       h  ",
+      "          v     ",
+      "     Ϋ  情合   Ϋ  ",
+      "     种    ћ у   ",
+      "                ",
+      "                ",
+      "       ϨϨ ћΞу   ",
+      "     Ϋ ϨϨΫΠΩΠΫv ",
+      "         Π ϕ  Ψv",
+      "         ΟЪS ϕ Τ",
+      "        ΡΠ ϕέSпΞ",
+      "          Τ Ωϕ Ρ",
+      "           ΡΠ Ρ "
+    ],
+    [
+      "           mr   ",
+      "           d    ",
+      "lmdmdmЏ二Џjjjc   ",
+      "  p p       x   ",
+      "          vv    ",
+      "     Ϋ   Қ   Ϋ  ",
+      "            у   ",
+      "                ",
+      "                ",
+      "        ӽG  у   ",
+      "     Ϋ   Ϋ ΠΤΫv ",
+      "         ΩέΟΠΠΤé",
+      "        ΩέSέΩΩΠΤ",
+      "          έfΟϕΥΤ",
+      "           ΤΞΩΞΤ",
+      "          fΣΡΠ  "
+    ],
+    [
+      "           lc   ",
+      "           lx   ",
+      "OOddmdЏЏЏddEf   ",
+      "  pp            ",
+      "          vv    ",
+      "     Ϋ   Қ   Ϋ  ",
+      "            у   ",
+      "                ",
+      "                ",
+      "         fF у   ",
+      "     Ϋ   Ϋ ΤΣΫ  ",
+      "         Ξ  ΤΤΣr",
+      "          ϕΟΠΞΤr",
+      "         ΞΟΞ Ω  ",
+      "         Ρ ΡΤ  Σ",
+      "          ϛΨΨ G "
+    ],
+    [
+      "ccclcccccccjr   ",
+      "cccjcccccccd    ",
+      "jjjjdmldmmddr   ",
+      "xccccϸЉ Љϸcx    ",
+      "     ϸЉ Љϸvv    ",
+      "     ϸЉ Љ改Ӓ者Ӓϝ  ",
+      "     ϸЉ Љϝҡ 法ϝ  ",
+      "     ϸЉ Љϝҡ ҡϝ  ",
+      "     ϸЉ Љϝҡ ҡϝ  ",
+      "     ϸЉ Љϝҡ 法ϝ  ",
+      "     ϸЉ ЉϝӒ者Ӓϝ  ",
+      "     ϸЉ ЉϸΠ Ψ o ",
+      "          ΟΞ ΤΨr",
+      "         ΡΠ   p ",
+      "           Ψ    ",
+      "          FϦϛ   "
+    ],
+    [
+      "KKeeeLeeeCeϥ    ",
+      "eeJDCeLJeeeϥ    ",
+      "ϴϴЭjϴϴЭЭϴϴЭjr   ",
+      "  f f  ϸ  fp    ",
+      "       ϸ        ",
+      "       ϸ  f     ",
+      "       ϸ        ",
+      "       ϸ        ",
+      "       ϸ        ",
+      "       ϸ        ",
+      "       ϸ        ",
+      "       ϸ  Τ     ",
+      "           Τ    ",
+      "          ΡΨ    ",
+      "           ϦF   ",
+      "                "
+    ]
+  ]
+}

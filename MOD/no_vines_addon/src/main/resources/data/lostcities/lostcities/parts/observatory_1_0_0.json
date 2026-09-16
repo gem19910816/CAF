@@ -1,0 +1,482 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 611,
+          "x": 151,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "524s"
+        }
+      },
+      {
+        "char": "ο",
+        "block": "minecraft:basalt[axis=z]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "ϊ",
+        "block": "minecraft:ladder[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ς",
+        "block": "minecraft:skeleton_skull[rotation=14]",
+        "tag": {
+          "z": 608,
+          "x": 145,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "ψ",
+        "block": "minecraft:skeleton_skull[rotation=1]",
+        "tag": {
+          "z": 609,
+          "x": 148,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "Ψ",
+        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Η",
+        "block": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "Π",
+        "block": "minecraft:mossy_stone_brick_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "ͻ",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "π",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "ί",
+        "block": "minecraft:stone_bricks[weathering=true]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Χ",
+        "block": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "Β",
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]"
+      },
+      {
+        "char": "Έ",
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Μ",
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ε",
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:birch_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ή",
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ξ",
+        "block": "immersive_weathering:exposed_iron_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "φ",
+        "block": "minecraft:jungle_wood[axis=z]"
+      },
+      {
+        "char": "χ",
+        "block": "minecraft:birch_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "8",
+        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "6",
+        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Δ",
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "2",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 620,
+          "x": 143,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 132,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Targeting Beacon\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Lever Damaged.\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Please Repair.\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "ε",
+        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "Ι",
+        "block": "immersive_weathering:exposed_iron_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "Ν",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "κ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 619,
+          "x": 145,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Beacon\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Maintenence\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Lower Level\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "΄",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ώ",
+        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": "Ο",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ρ",
+        "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+      },
+      {
+        "char": "ό",
+        "block": "minecraft:repeater[delay=2,facing=west,locked=false,powered=false]"
+      },
+      {
+        "char": "α",
+        "block": "minecraft:redstone_wire[east=side,north=none,power=15,south=side,west=side]"
+      },
+      {
+        "char": "β",
+        "block": "minecraft:redstone_torch[lit=true]"
+      },
+      {
+        "char": "ω",
+        "block": "minecraft:redstone_wire[east=none,north=side,power=14,south=side,west=none]"
+      },
+      {
+        "char": "ι",
+        "block": "minecraft:redstone_wire[east=none,north=side,power=13,south=side,west=none]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "eHLHeMeLHMMHLvwx",
+      "LLMMMLLLMHHHwxqx",
+      "aaaeeeeeeeexwqyv",
+      "aaaaaaaΖeeeeοxyq",
+      "aaaaaaaaaeeeevxy",
+      "aaaaaaaaaaeeewqv",
+      "aaaaaaaaaaaeeqeq",
+      "aaaaaaaaaaaΖeqyv",
+      "aaaaaaaaaaaaexeq",
+      "aaaaaaaaaaaaeyqv",
+      "bbaaaaaaaaaaeyxq",
+      "qϊbaaaaaaaaaaeeq",
+      "vbaaaaaaaaaaavvx",
+      "dbaaaaaaaaaaawwq",
+      "qbaaaaaaaaaaavqy",
+      "baaaaaaaaaaaayqv"
+    ],
+    [
+      "fς  f f         ",
+      "    ψ           ",
+      "ΨΗhffffffff     ",
+      "ootiiiiΠffff    ",
+      "ccchctchifff    ",
+      "cccccccoojff    ",
+      "cccooocccohff f ",
+      "cccccccccohΠf   ",
+      "ccccccccccͻhf f ",
+      "ccccccccccohf   ",
+      "bbccccccccojf   ",
+      "bπbccccccchhiff ",
+      "bbbccccccccti   ",
+      "bbbbcccccccti  f",
+      "fbccccccccctί   ",
+      "bcccccccccccj   "
+    ],
+    [
+      "                ",
+      "                ",
+      "  p             ",
+      "hΧjBpp          ",
+      " l hddd         ",
+      "l  ΒΈΈΜdB       ",
+      " ll l  ljn      ",
+      "llll ll  dp     ",
+      "ll j llllΕdn    ",
+      "l Σlll llΉdn    ",
+      "Ξbφχ l9 lΉdn    ",
+      "  bEl8h6 Δj     ",
+      " bbb l3ll Kh    ",
+      "b   b l  l d    ",
+      "dbbbbl  llld    ",
+      "b   bllll ld    "
+    ],
+    [
+      "                ",
+      "                ",
+      "2 p             ",
+      "hεjBpp          ",
+      "   iddd         ",
+      "       dB       ",
+      "        in      ",
+      "         dp     ",
+      "   i      dn    ",
+      " 2        dn    ",
+      "ΙbΝ       dn    ",
+      " κb΄  h   h     ",
+      " bbb      Ki    ",
+      "bb  b      dn   ",
+      " bbbb      dn   ",
+      "b   b      dn   "
+    ],
+    [
+      "                ",
+      "                ",
+      "ΏΏp             ",
+      "ihoBpp          ",
+      "   ohih         ",
+      "       iB       ",
+      "        cn      ",
+      "         ip     ",
+      "   i      in    ",
+      "Ͱ         in    ",
+      "bbΟ       hn    ",
+      "Ρ b΄  i   t     ",
+      " bbb      Kc    ",
+      "bbbbb      hn   ",
+      " bbbb      hn   ",
+      "b b b      jn   "
+    ],
+    [
+      "                ",
+      "                ",
+      "  p             ",
+      "d jBpp          ",
+      "  Ehddd         ",
+      "       dB       ",
+      "        jn      ",
+      "         d      ",
+      "   j      dn    ",
+      "          dn    ",
+      "bb    2   dn    ",
+      "  bE  h   j     ",
+      " dbb      Ej    ",
+      "dόαβb      dn   ",
+      " bωbb      dn   ",
+      "b ι b      dn   "
+    ]
+  ]
+}

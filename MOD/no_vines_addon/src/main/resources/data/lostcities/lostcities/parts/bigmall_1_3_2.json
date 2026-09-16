@@ -1,0 +1,653 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "ђ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 359,
+          "x": 108,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "416s"
+        }
+      },
+      {
+        "char": "R",
+        "block": "minecraft:light_gray_wool"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "在",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "k",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:red_wool"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis=y]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "过",
+        "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "新",
+        "block": "minecraft:spruce_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "Ӥ",
+        "block": "minecraft:polished_diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "八",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "忙",
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "条",
+        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "z",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=2]"
+      },
+      {
+        "char": "深",
+        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "碟",
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]"
+      },
+      {
+        "char": "Ӗ",
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "马",
+        "block": "minecraft:skeleton_skull[rotation=11]",
+        "tag": {
+          "z": 345,
+          "x": 115,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "Ӌ",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "问",
+        "block": "minecraft:flower_pot"
+      },
+      {
+        "char": "身",
+        "block": "minecraft:lime_carpet"
+      },
+      {
+        "char": "职",
+        "block": "minecraft:pink_carpet"
+      },
+      {
+        "char": "和",
+        "block": "minecraft:cyan_carpet"
+      },
+      {
+        "char": "李",
+        "block": "minecraft:skeleton_skull[rotation=9]",
+        "tag": {
+          "z": 346,
+          "x": 127,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "当",
+        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+      },
+      {
+        "char": "育",
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]"
+      },
+      {
+        "char": "於",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "容",
+        "block": "minecraft:orange_carpet"
+      },
+      {
+        "char": "Ӧ",
+        "block": "minecraft:scaffolding[bottom=false,distance=0,waterlogged=false]"
+      },
+      {
+        "char": "长",
+        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 338,
+          "x": 108,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 133,
+          "Items": []
+        }
+      },
+      {
+        "char": "D",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "Ӻ",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "怪",
+        "block": "minecraft:skeleton_skull[rotation=14]",
+        "tag": {
+          "z": 305,
+          "x": 142,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "器",
+        "block": "minecraft:blue_carpet"
+      },
+      {
+        "char": "不",
+        "block": "minecraft:spruce_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 340,
+          "x": 170,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 141,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"BeanTown\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "决",
+        "block": "minecraft:spruce_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 338,
+          "x": 113,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"GO TO MAIN\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"ENTRANCE\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "升",
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ӣ",
+        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "ϊ",
+        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "tag": {
+          "z": 347,
+          "x": 115,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 142,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"<-----\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Carmicheal's\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "优",
+        "block": "minecraft:dead_bush"
+      },
+      {
+        "char": "В",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 332,
+          "x": 143,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 126,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"16th Century\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"$530.99\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "向",
+        "block": "minecraft:large_fern[half=lower]"
+      },
+      {
+        "char": "则",
+        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "倒",
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ӊ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 326,
+          "x": 175,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 144,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"1. Wcdouble\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"2. Quarter\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Pounder\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"3. Filet O' Fish\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "便",
+        "block": "minecraft:birch_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 343,
+          "x": 170,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Janitorial Closet\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "市",
+        "block": "minecraft:large_fern[half=upper]"
+      },
+      {
+        "char": "午",
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "CnnnpђRRRpbffAsN",
+      "pppnnRRRRnbffAsE",
+      "nnnnpRRRRpbffAAA",
+      "ppnnCnpnCnbffAA0",
+      "ppnpnpnnpnbbffff",
+      "nCnnnCnpnnbbbfff",
+      "nCnnpnpnpp在bbbbb",
+      "pnpCnpnnpnnnpnnp",
+      "CnnppCnpnnnnpnpp",
+      "pnnnpCnppnnpnnpn",
+      "ppnCnppђnpCpppnp",
+      "pnnnnnnnnpnppnђp",
+      "pppnppnpppnnnnnp",
+      "nCnpnnppnppnpppp",
+      "hpnnpnCpnnppnnnn",
+      "hnnppnpCpnppCnnp"
+    ],
+    [
+      "kkk999  k9oQxxkx",
+      "kkkt9Oqkq9oQxxxx",
+      "过过kt9OOOO9uQxxxk",
+      "新新过t99999tuӤxxxx",
+      "新过过tttttttywxxxx",
+      "过kk八b忙q八btoawӤIQ",
+      "  kk条zk 条tyyoouo",
+      "k kk  q 深ttttttt",
+      "zkk   k八b碟ӖӖӖӖӖӖ",
+      "kkq马kӋ问Ӌ条 身身Ӌkqz",
+      "  kzz职 和zkk   Ӌ李",
+      " k当 z职 和q育於於k 容q",
+      "zzk kk当qkӦ长Ӧk当容k",
+      "DӺ  kkkkk  qkqzq",
+      "Dkz 当kkk  zk kk ",
+      "DӺ  zq怪q 当k器 kzq"
+    ],
+    [
+      "不  999   irx    ",
+      "   mN    irx    ",
+      " 决 mN     rx x  ",
+      "升Ӣ新sNiiiNNuxx x ",
+      "   smCCCvvuwxx x",
+      "   ϊϊ ϊϊ优muawxxx",
+      "         suuuorr",
+      "         vmsmmpp",
+      "В       向 ϊ  ϊϊϊ",
+      "                ",
+      "                ",
+      "                ",
+      "         问      ",
+      "                ",
+      "                ",
+      " 则              "
+    ],
+    [
+      "   999   irx    ",
+      "   sN    ir     ",
+      "   sN    ir     ",
+      "过倒新vNi iNNu     ",
+      "   ssnppmvowx   ",
+      "   ϊϊϊϊ  myawx x",
+      "        Ӊvyooorr",
+      "便        mmssmpp",
+      "        市    ϊϊϊ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   999   irx    ",
+      "   mN    ir     ",
+      "   vN    ir     ",
+      "  午mNi iNNu     ",
+      "   mvpppvmowx   ",
+      "   ϊϊϊϊϊϊmoaw   ",
+      "         voyuyrr",
+      "         mvvmvpp",
+      "              ϊϊ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   999   ir     ",
+      "   mN    ir     ",
+      "   vN    ir     ",
+      "   mN iiNNu     ",
+      "   smi  vmow    ",
+      "         moaw   ",
+      "         syouorr",
+      "         smmssii",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:spruce_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cut_sandstone"
+      },
+      {
+        "char": "ϐ",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "γ",
+        "block": "createdeco:industrial_iron_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ν",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dtall]"
+      },
+      {
+        "char": "м",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dtall]"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:smooth_sandstone"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "ҵ",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "Ͳ",
+        "block": "minecraft:mud_brick_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ω",
+        "block": "doomsday_decoration:lockers_2[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:sand"
+      },
+      {
+        "char": "Z",
+        "block": "refurbished_furniture:oak_table[east\u003dfalse,north\u003dfalse,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ώ",
+        "block": "minecraft:spruce_fence_gate[facing\u003dwest,in_wall\u003dtrue,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "Ί",
+        "block": "doomsday_decoration:lockers[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ͱ",
+        "block": "refurbished_furniture:oak_chair[facing\u003dsouth,tucked\u003dfalse]"
+      },
+      {
+        "char": "϶",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dtall]"
+      },
+      {
+        "char": "Ϫ",
+        "block": "doomsday_decoration:wastepaper_1[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "С",
+        "block": "doomsday_decoration:door_5[facing\u003deast,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "χ",
+        "block": "minecraft:spruce_fence_gate[facing\u003dwest,in_wall\u003dfalse,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "Ϟ",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϋ",
+        "block": "doomsday_decoration:lockers[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϔ",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003deast,powered\u003dfalse]"
+      },
+      {
+        "char": "΅",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "ϻ",
+        "block": "minecraft:spruce_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ο",
+        "block": "doomsday_decoration:lockers[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӟ",
+        "block": "doomsday_decoration:door_5[facing\u003deast,half\u003dlower,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "ͺ",
+        "block": "refurbished_furniture:oak_chair[facing\u003dnorth,tucked\u003dfalse]"
+      },
+      {
+        "char": "ь",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "О",
+        "block": "doomsday_decoration:desk[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "҂",
+        "block": "doomsday_decoration:pottedplant[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ҹ",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dlow,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dtrue,west\u003dtall]"
+      },
+      {
+        "char": "Ό",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Χ",
+        "block": "doomsday_decoration:missingpersonnotice[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "create:tiled_glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ъ",
+        "block": "doomsday_decoration:door_5[facing\u003deast,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "ӎ",
+        "block": "doomsday_decoration:door_5[facing\u003deast,half\u003dupper,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "X",
+        "block": "create:tiled_glass_pane[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Й",
+        "block": "doomsday_decoration:blackboard_6[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "И",
+        "block": "doomsday_decoration:blackboard_2[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Њ",
+        "block": "doomsday_decoration:blackboard_7[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ϥ",
+        "block": "immersive_weathering:cracked_stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "Ϯ",
+        "block": "doomsday_decoration:draw_5[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ύ",
+        "block": "immersive_weathering:cracked_stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "ξ",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003deast,half\u003dtop,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "W",
+        "block": "create:tiled_glass_pane[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ε",
+        "block": "doomsday_decoration:missingpersonnotice[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ѻ",
+        "block": "doomsday_decoration:draw_2[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "п",
+        "block": "doomsday_decoration:blackboard_9[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "н",
+        "block": "doomsday_decoration:blackboard_3[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ц",
+        "block": "doomsday_decoration:blackboard_8[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "createdeco:short_red_brick_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "createdeco:industrial_iron_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ω",
+        "block": "immersive_weathering:cracked_stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "Ϙ",
+        "block": "doomsday_decoration:watch[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "б",
+        "block": "doomsday_decoration:aircondition[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѓ",
+        "block": "doomsday_decoration:watch[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϖ",
+        "block": "doomsday_decoration:draw[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӆ",
+        "block": "immersive_weathering:cracked_stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "f",
+        "block": "createdeco:short_red_brick_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "immersive_weathering:cracked_brick_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Y",
+        "block": "immersive_weathering:cracked_brick_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "createdeco:short_red_brick_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ρ",
+        "block": "minecraft:brick_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ο",
+        "block": "minecraft:cobblestone_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "immersive_weathering:cracked_brick_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ю",
+        "block": "minecraft:stone_brick_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "μ",
+        "block": "minecraft:stone_brick_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "Ϋ",
+        "block": "immersive_weathering:cracked_stone_brick_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbcbbbbbbc      ",
+      "bbcbbbbbbcϐ     ",
+      "bbcbbbbbbc      ",
+      "bbcbbbbbbcγ     ",
+      "bbcbbbbbbc      ",
+      "bbccccccccΝ     ",
+      "bbcbbbbbbc      ",
+      "bbcbbbbbbcγ     ",
+      "bbcbbbbbbc      ",
+      "bbcbbbbbbcϐ     ",
+      "bbcbbbbbbc      ",
+      "bbcbbbbbbcγ     ",
+      "bbcbbbbbbc      ",
+      "bbcbbbbbbcмϕ    ",
+      "bbccccccccdQҵ   ",
+      "bbͲ        dQ   "
+    ],
+    [
+      " Ωg Z Z ZcΏ     ",
+      " Ίd ͱ ͱ ͱc϶     ",
+      "  d Z Z ZcΏ     ",
+      "Ϫ С ͱ ͱ ͱcχ     ",
+      " Ϟd  ϋϋϋ cΏ     ",
+      " ϔdddddgdc϶     ",
+      "΅ϻd  οοο cΏ     ",
+      "  Ӟ ͺ ͺ ͺcχ     ",
+      " Ϫd Z Z ZcΏ     ",
+      " Ίg ͺ ͺ ͺcь     ",
+      "΅Ωd Z Z ZcΏ     ",
+      " Ωg      cχ     ",
+      "΅Ωd    О cΏ     ",
+      " ҂d    ͱ cҹϕ    ",
+      "  cddddgdcccΌ   ",
+      "           cc   "
+    ],
+    [
+      "  dΧ     p      ",
+      "  g      cΝ     ",
+      "  d      p      ",
+      "  Ъ      p      ",
+      "  g      p      ",
+      "  dddggggcϐ     ",
+      "  g             ",
+      "  ӎ      X      ",
+      "  d      p      ",
+      "  g      cΝ     ",
+      "  g             ",
+      "  d      X      ",
+      "  dΧ     p      ",
+      "  g ЙИЊ  cϤ     ",
+      "  cddgdddcdgΌ   ",
+      "           gc   "
+    ],
+    [
+      "  g      p      ",
+      " ϮdΧ     cΎ     ",
+      "  d      p      ",
+      "  ξ      p      ",
+      "  g      p      ",
+      "  ddgggdgcΝ     ",
+      "  g      W      ",
+      "  ξ             ",
+      "  d      X      ",
+      "  gΧ     cΎ     ",
+      " Εd      W      ",
+      "  d             ",
+      " ѻg      X      ",
+      "  g пнц  cϤ  i  ",
+      "  cddddddccc    ",
+      "           cc   "
+    ],
+    [
+      " Εg      pO     ",
+      "  g      cω     ",
+      "  d      pO     ",
+      "  gϘ     pO     ",
+      "  d  б   pO     ",
+      " Ѓddgddgdcω     ",
+      "  g      WO     ",
+      "  dϘ      O     ",
+      "  d      XO     ",
+      " ϖd      cω     ",
+      "  d      pO     ",
+      "  d      pO     ",
+      " Εg      pO     ",
+      "  d  б   cӅfv   ",
+      "  cddggdgcgYoΡ  ",
+      "           dci  "
+    ],
+    [
+      "bbcbbbbbbcΟy    ",
+      "bbcbbbbbbcΟy    ",
+      "bbcbbbbbbcюi    ",
+      "bbcbbbbbbcμi    ",
+      "bbcbbbbbbcμy    ",
+      "bbccccccccμi    ",
+      "bbcbbbbbbcΫi    ",
+      "bbcbbbbbbcΟi    ",
+      "bbcbbbbbbcΟy    ",
+      "bbcbbbbbbcΟi    ",
+      "bbcbbbbbbcμy    ",
+      "bbcbbbbbbcΫi    ",
+      "bbcbbbbbbcΟy    ",
+      "bbcbbbbbbcΟy    ",
+      "bbcccccccccy    ",
+      "bbbbbbbbbbbYfv  "
+    ]
+  ]
+}

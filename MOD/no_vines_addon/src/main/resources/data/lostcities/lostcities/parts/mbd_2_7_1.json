@@ -1,0 +1,366 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "g",
+        "block": "immersive_weathering:cracked_bricks"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:bricks[weathering\u003dtrue]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "immersive_weathering:mossy_bricks"
+      },
+      {
+        "char": "Ҿ",
+        "block": "createdeco:industrial_iron_catwalk_stairs[facing\u003dwest,railing_left\u003dfalse,railing_right\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:spruce_planks"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "用",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:spruce_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "S",
+        "block": "createdeco:industrial_iron_catwalk[bottom\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӣ",
+        "block": "minecraft:spruce_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӗ",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ц",
+        "block": "minecraft:spruce_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ӌ",
+        "block": "minecraft:spruce_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Р",
+        "block": "refurbished_furniture:oak_crate[open\u003dfalse]",
+        "tag": {
+          "z": -350,
+          "x": -687,
+          "ForgeData": {},
+          "id": "refurbished_furniture:crate",
+          "y": -46,
+          "Items": []
+        }
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ү",
+        "block": "refurbished_furniture:spruce_crate[open\u003dfalse]",
+        "tag": {
+          "z": -375,
+          "x": -698,
+          "ForgeData": {},
+          "id": "refurbished_furniture:crate",
+          "y": -52,
+          "Items": []
+        }
+      },
+      {
+        "char": "器",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003dnorth,shape\u003dcorner_left]"
+      },
+      {
+        "char": "或",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003dnorth,shape\u003dright]"
+      },
+      {
+        "char": "ѻ",
+        "block": "doomsday_decoration:wastepaper_1[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "д",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003deast,powered\u003dfalse]"
+      },
+      {
+        "char": "权",
+        "block": "refurbished_furniture:oak_desk[facing\u003dnorth,left\u003dfalse,right\u003dfalse]"
+      },
+      {
+        "char": "计",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003dwest,shape\u003dmiddle]"
+      },
+      {
+        "char": "难",
+        "block": "refurbished_furniture:spruce_table[east\u003dtrue,north\u003dfalse,south\u003dtrue,west\u003dfalse]"
+      },
+      {
+        "char": "认",
+        "block": "refurbished_furniture:spruce_table[east\u003dfalse,north\u003dfalse,south\u003dtrue,west\u003dtrue]"
+      },
+      {
+        "char": "命",
+        "block": "refurbished_furniture:spruce_desk[facing\u003dnorth,left\u003dfalse,right\u003dfalse]"
+      },
+      {
+        "char": "民",
+        "block": "doomsday_decoration:carton_3[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ш",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "维",
+        "block": "refurbished_furniture:spruce_table[east\u003dtrue,north\u003dtrue,south\u003dtrue,west\u003dfalse]"
+      },
+      {
+        "char": "刚",
+        "block": "refurbished_furniture:spruce_table[east\u003dfalse,north\u003dtrue,south\u003dtrue,west\u003dtrue]"
+      },
+      {
+        "char": "í",
+        "block": "doomsday_decoration:carton[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "代",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003dwest,shape\u003dleft]"
+      },
+      {
+        "char": "内",
+        "block": "refurbished_furniture:spruce_table[east\u003dtrue,north\u003dtrue,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "今",
+        "block": "refurbished_furniture:spruce_table[east\u003dfalse,north\u003dtrue,south\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "г",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003dwest,powered\u003dfalse]"
+      },
+      {
+        "char": "ч",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ҽ",
+        "block": "createdeco:industrial_iron_catwalk_stairs[facing\u003deast,railing_left\u003dfalse,railing_right\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "新",
+        "block": "doomsday_decoration:shelf_3[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "成",
+        "block": "doomsday_decoration:shelf_4[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ъ",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Щ",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "求",
+        "block": "doomsday_decoration:carton_2[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "键",
+        "block": "doomsday_decoration:oldtv[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Э",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "多",
+        "block": "doomsday_decoration:carton_3[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "礼",
+        "block": "refurbished_furniture:oak_desk[facing\u003dwest,left\u003dfalse,right\u003dfalse]"
+      },
+      {
+        "char": "ѕ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "       oleeleele",
+      "        lgcvcggj",
+      "        lcgccgcc",
+      "        lcccgcgc",
+      "       oeggccjcj",
+      "        lccgjjcc",
+      "        egggjgcg",
+      "        e  Ҿ cjc",
+      "        e    vvv",
+      "        eeellele",
+      "        lgccgcjg",
+      "        ecjgjgcc",
+      "        eggjggcc",
+      "        ecccgcgc",
+      "        ejcjgccg",
+      "        ecccggcg"
+    ],
+    [
+      "        lccgccjc",
+      "        gdddddMd",
+      "        gMdddddK",
+      "        gdddd用Od",
+      "        cdMdMdOL",
+      "        cddddddL",
+      "        cddddddd",
+      "        v   Ҿddd",
+      "        c   Sddd",
+      "        lleeeeel",
+      "        gdLLdddd",
+      "       ojdddLddd",
+      "        gOOddddd",
+      "        gdddLddd",
+      "        gddӢӖdЦЦ",
+      "        jddddЦӌӌ"
+    ],
+    [
+      "        lggjgggg",
+      "        jРРР  qi",
+      "        cРү器或ѻд ",
+      "       ogү权计i 难认",
+      "        c命民计 Ш维刚",
+      "        gí 代  内今",
+      "        gг  чШi ",
+      "        c      Ш",
+      "        g  ҽ д  ",
+      "        lp      ",
+      "        ch nnШi ",
+      "        jhhhh  ч",
+      "        g新hhq г ",
+      "       oci    i ",
+      "        j成i ъЩ  ",
+      "       og iг   o"
+    ],
+    [
+      "        ecgccgcg",
+      "        jРү权qq  ",
+      "        gР命     ",
+      "        c求г     ",
+      "        c      键",
+      "       ocp      ",
+      "        g       ",
+      "        jS      ",
+      "        gSҽ     ",
+      "       ol       ",
+      "        jin     ",
+      "        ghhЭ    ",
+      "        c  i    ",
+      "        g       ",
+      "        c       ",
+      "        gp      "
+    ],
+    [
+      "       oegcjgjgg",
+      "        cү多Ш  q ",
+      "       oc礼г     ",
+      "        c       ",
+      "        vp      ",
+      "        v       ",
+      "        cp      ",
+      "        j Ҿ     ",
+      "        c       ",
+      "        e       ",
+      "        cѕ      ",
+      "       oghЭ     ",
+      "        g       ",
+      "       og成      ",
+      "        jp      ",
+      "        c       "
+    ],
+    [
+      "        egjgcvjj",
+      "        gР q    ",
+      "        j  r  r ",
+      "       ocprrr r ",
+      "        v  r  r ",
+      "        v   rr r",
+      "       ojp r  r ",
+      "        c  ҾS r ",
+      "       ocp  S   ",
+      "        eprr  r ",
+      "        j   r   ",
+      "        gЭr  r  ",
+      "        c  r r  ",
+      "        c r r  r",
+      "        g       ",
+      "        cpr r   "
+    ]
+  ]
+}

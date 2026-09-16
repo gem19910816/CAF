@@ -1,0 +1,620 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "社",
+        "block": "minecraft:black_wall_banner[facing\u003deast]",
+        "tag": {
+          "z": 325,
+          "Patterns": [
+            {
+              "Color": 14,
+              "Pattern": "rs"
+            },
+            {
+              "Color": 15,
+              "Pattern": "hh"
+            },
+            {
+              "Color": 14,
+              "Pattern": "bs"
+            },
+            {
+              "Color": 14,
+              "Pattern": "ls"
+            },
+            {
+              "Color": 14,
+              "Pattern": "ts"
+            },
+            {
+              "Color": 15,
+              "Pattern": "bo"
+            }
+          ],
+          "x": 112,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 138
+        }
+      },
+      {
+        "char": "9",
+        "block": "minecraft:red_wool"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "期",
+        "block": "minecraft:mossy_cobblestone_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "济",
+        "block": "minecraft:light_gray_wall_banner[facing\u003deast]",
+        "tag": {
+          "z": 329,
+          "Patterns": [],
+          "x": 117,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 138,
+          "CustomName": "{\"text\":\"FEET LOCKER\"}"
+        }
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:smooth_quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "ѕ",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "工",
+        "block": "refurbished_furniture:spruce_chair[facing\u003dsouth,tucked\u003dfalse]"
+      },
+      {
+        "char": "提",
+        "block": "refurbished_furniture:spruce_chair[facing\u003dwest,tucked\u003dfalse]"
+      },
+      {
+        "char": "夫",
+        "block": "refurbished_furniture:spruce_table[east\u003dfalse,north\u003dtrue,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "因",
+        "block": "refurbished_furniture:spruce_chair[facing\u003deast,tucked\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis\u003dy]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "授",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dnorth,half\u003dtop,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "事",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "意",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "无",
+        "block": "minecraft:birch_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 309,
+          "x": 114,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Register Closed\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "便",
+        "block": "minecraft:birch_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 343,
+          "x": 170,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Janitorial Closet\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "石",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dnorth,half\u003dtop,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "吉",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dsouth,half\u003dtop,shape\u003douter_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӥ",
+        "block": "minecraft:polished_diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "她",
+        "block": "minecraft:birch_wall_sign[facing\u003dnorth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 344,
+          "x": 117,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 141,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"$5,000.00\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "弃",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dwest,half\u003dtop,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӭ",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "怕",
+        "block": "refurbished_furniture:light_microwave[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "Processing": "0b",
+          "z": 323,
+          "x": 117,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "y": 142,
+          "id": "refurbished_furniture:microwave",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "MaxProcessTime": 0,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "32160716435598L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "据",
+        "block": "refurbished_furniture:light_toaster[facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 354,
+          "x": 169,
+          "Heating": "0b",
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "y": 142,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:toaster",
+          "MaxProcessTime": 0,
+          "Powered": "1b",
+          "Items": [],
+          "NodePos": "46454367723662L",
+          "Connections": [
+            "L",
+            "47553879351437L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "松",
+        "block": "refurbished_furniture:recycle_bin[facing\u003dwest,open\u003dfalse]",
+        "tag": {
+          "Recycled": 0,
+          "z": 325,
+          "x": 116,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "refurbished_furniture:recycle_bin",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 142,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "31885838536846L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "不",
+        "block": "minecraft:spruce_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 340,
+          "x": 170,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 141,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"BeanTown\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "说",
+        "block": "minecraft:spruce_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 310,
+          "x": 112,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Dee Luxe Winner\u0027s\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Trophy Case\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "受",
+        "block": "minecraft:yellow_carpet"
+      },
+      {
+        "char": "幻",
+        "block": "refurbished_furniture:television[facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 333,
+          "x": 117,
+          "CurrentChannel": "refurbished_furniture:ocean_sunset",
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:television",
+          "y": 142,
+          "NodePos": "32160716476558L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "担",
+        "block": "refurbished_furniture:computer[facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 333,
+          "x": 119,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:computer",
+          "y": 142,
+          "NodePos": "32710472290446L",
+          "Connections": [
+            "L"
+          ]
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "社  999   ir     ",
+      "社   N    No     ",
+      "社   N    Nuw    ",
+      "    N    No     ",
+      "社   N    ir     ",
+      "社   N     r    期",
+      "    N    ir     ",
+      "    N    No     ",
+      "    N    Now    ",
+      "    N济   Ny     ",
+      "    N    ir     ",
+      "    N    ir     ",
+      "    N     r     ",
+      "    N    Ny    期",
+      "    N    Nuw    ",
+      "    N    No     "
+    ],
+    [
+      "hhllllhhlsuP    ",
+      "hhllhhlhlsuͱ    ",
+      "lhllhhlhhmow    ",
+      "hlhhllllhmyG    ",
+      "llhlhlhlhsoG    ",
+      "lhlhhhllhsuG    ",
+      "lhhhhllhhsoG    ",
+      "hhhllhhhlvoP    ",
+      "lhhlhhhllmyw    ",
+      "lhhllllhhmuG    ",
+      "hllhllllhmyG    ",
+      "llhhlhhllmuG    ",
+      "lllhhllllmuG    ",
+      "hlhhlhhhhmoG    ",
+      "hlllhlllhmow    ",
+      "llllllhlhmoP    "
+    ],
+    [
+      "pnCpnnpnnCsx    ",
+      "npppnpCnppm     ",
+      "nnppnppnnnmw    ",
+      "CnnnEEEEEps     ",
+      "CnpCEEEEEpm     ",
+      "ppppEEEEEpm     ",
+      "nppnEEEEEpv     ",
+      "nppnEEEEECm     ",
+      "nnppEEEEEnmw    ",
+      "nnnnEEEEEpm     ",
+      "pnnpEEEEEns     ",
+      "ppnnEEEEEps     ",
+      "pnppEEEEEpv     ",
+      "pppnEEEEEnm     ",
+      "pnpnnpCpCpsw    ",
+      "npppѕѕѕѕѕpm     "
+    ],
+    [
+      "   工  提夫因tyI    ",
+      "       工 tuQ    ",
+      "   tttttttow    ",
+      "   t授事事事事woO    ",
+      "   t意无 无 AuO    ",
+      "   t意便   AoI    ",
+      "   t石    AoQ    ",
+      "       w wuI    ",
+      "       w wow    ",
+      "       w wuQ    ",
+      "   t吉    AuӤ    ",
+      "   t意    AoI    ",
+      "   t意她 她 AyI    ",
+      "   t弃ӬӬӬӬwoI    ",
+      "   tttttttow    ",
+      "   t     toI    "
+    ],
+    [
+      "         ir     ",
+      "         vo     ",
+      "   mvmvsmvow    ",
+      "   m 怕 据 wu     ",
+      "   s     ir     ",
+      "   m松    ir     ",
+      "不 说t     ir     ",
+      "       受 wu     ",
+      "       受 wow    ",
+      "       受 wy     ",
+      "不 说t     ir     ",
+      "   s     ir     ",
+      "   s     ir     ",
+      "   m 幻 担 wo     ",
+      "   vvmsmmvyw    ",
+      "   s     vu     "
+    ],
+    [
+      "         ir     ",
+      "         mo     ",
+      "   ssmmmvsuw    ",
+      "   s     wo     ",
+      "   s     ir     ",
+      "   m      r     ",
+      "   t     ir     ",
+      "         wu     ",
+      "         wyw    ",
+      "         wo     ",
+      "   t     ir     ",
+      "   m     ir     ",
+      "   v     ir     ",
+      "   m     wy     ",
+      "   smsvmvvuw    ",
+      "   m     vy     "
+    ]
+  ]
+}

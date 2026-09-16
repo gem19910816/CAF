@@ -1,0 +1,234 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "n",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Γ",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:terracotta"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "σ",
+        "block": "minecraft:oak_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 581,
+          "x": 242,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 184,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "fkkk            ",
+      "                ",
+      "bgjgmgigbd      ",
+      "        hd      ",
+      "        jd      ",
+      "        hd      ",
+      "        cdd     ",
+      "        hdd     ",
+      " ll     a       ",
+      "  ll    h       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "fkkk            ",
+      "                ",
+      "ijmbbabaad      ",
+      "bjmbnnanid      ",
+      "babbaiibad      ",
+      "bncaacabbd      ",
+      "bmbbabbbndd     ",
+      "maiaiccbmdd     ",
+      "ymΓjcaaim       ",
+      " llaimnca       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "fkkk            ",
+      "                ",
+      "agmgigigad      ",
+      "     lllhd      ",
+      "     lllnd      ",
+      "    lll hd      ",
+      "A   Alx idd     ",
+      "AlllAl  hdd     ",
+      "AlσΖA   a       ",
+      "  ll    h       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "fkkk            ",
+      "                ",
+      "ngagigcgad      ",
+      "       lhd      ",
+      "      llid      ",
+      "      l hd      ",
+      "    ll  bdd     ",
+      "l  l    hdd     ",
+      " lll    a       ",
+      "   l    h       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "fkkk            ",
+      "                ",
+      "amjancbaad      ",
+      "      llnd      ",
+      "       lcd      ",
+      "        id      ",
+      "        cdd     ",
+      "        jdd     ",
+      "  K     a       ",
+      "        c       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "fkkk            ",
+      "      l         ",
+      "bgjgngblnd      ",
+      "      llhd      ",
+      "        bd      ",
+      "        hd      ",
+      "        idd     ",
+      "        hdd     ",
+      "        i       ",
+      "        h       "
+    ]
+  ]
+}

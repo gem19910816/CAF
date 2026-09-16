@@ -1,0 +1,228 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "串",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 451,
+          "x": -63,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 139,
+          "SpawnRange": "4s",
+          "Delay": "20s"
+        }
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "皈",
+        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "喙",
+        "block": "horror_element_mod:blood_9[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "歉",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "eeeebbdcbbbbceeb",
+      "dbtbbbtbdbbbbece",
+      "ebebbbcebdbcbebb",
+      "ghtfggiifihhhqhg",
+      "hgqhthqqgfqghftq",
+      "fqiiittfhihihggi",
+      "toqiitqhfhhfigtt",
+      "qqtgghffgfitgqgt",
+      "higggqhihfghifft",
+      "hohqtqhqhhhhfgig",
+      "htqgiqhgg串串gfqft",
+      "bbdbcdbbbedcbbbb",
+      "cbdcbtcebdbcbddb",
+      "bddebebcceebctbt",
+      "ttoootttttttttto",
+      "ooooooooooooottt"
+    ],
+    [
+      "s     s       s ",
+      "  s  ss  w      ",
+      "s     sw     sc ",
+      "  sws   sb      ",
+      "ws  s   b     s ",
+      "w皈   ss    d c  ",
+      "sw wss  w     ss",
+      "  s    ws  ss  s",
+      "   s皈  s       s",
+      " w  s        e喙e",
+      " s  s    wws  ss",
+      "        b    w  ",
+      "w sw sn         ",
+      "  nnnnsl  w ws s",
+      "ssbcbsnnsssssssK",
+      "cdcbdecdbeeeesss"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nn         ",
+      "  nnnn l        ",
+      " jpbp歉nnsnnnn   ",
+      "ecdcbcddced     "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nn         ",
+      "  nnnn l        ",
+      " jbdb歉nn nnnn   ",
+      "ebebbdccbd      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nn         ",
+      "  nnnn l        ",
+      " jpbp歉nn nnnn   ",
+      "dbedcedeed      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     nn         ",
+      "  nnnn l        ",
+      " jbbp歉nn nnnn   ",
+      "ecbedbcbbb      "
+    ]
+  ]
+}

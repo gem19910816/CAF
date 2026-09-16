@@ -1,0 +1,308 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "Ӎ",
+        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ӎ",
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "意",
+        "block": "minecraft:smooth_quartz_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "着",
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "Ӭ",
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "反",
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "又",
+        "block": "minecraft:blast_furnace[facing=east,lit=false]",
+        "tag": {
+          "z": 315,
+          "x": 164,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:blast_furnace",
+          "y": 138,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "相",
+        "block": "minecraft:white_wall_banner[facing=west]",
+        "tag": {
+          "z": 330,
+          "Patterns": [
+            {
+              "Color": 3,
+              "Pattern": "ts"
+            },
+            {
+              "Color": 3,
+              "Pattern": "ls"
+            },
+            {
+              "Color": 3,
+              "Pattern": "bs"
+            },
+            {
+              "Color": 0,
+              "Pattern": "bo"
+            }
+          ],
+          "x": 115,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 136
+        }
+      },
+      {
+        "char": "G",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "Е",
+        "block": "minecraft:coarse_dirt"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ӡ",
+        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "Ӡ",
+        "block": "minecraft:stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "没",
+        "block": "minecraft:rail[shape=south_east,waterlogged=false]"
+      },
+      {
+        "char": "了",
+        "block": "minecraft:rail[shape=south_west,waterlogged=false]"
+      },
+      {
+        "char": "大",
+        "block": "minecraft:rail[shape=north_east,waterlogged=false]"
+      },
+      {
+        "char": "中",
+        "block": "minecraft:rail[shape=north_west,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        wӍ   ӎw ",
+      "        ry   ur ",
+      "      rrro意O着orr",
+      "    rrriis   mii",
+      "   urii         ",
+      " wymi           ",
+      "  um            ",
+      "  r             ",
+      "  r             "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        wӍ   ӎw ",
+      "        ruӬӬӬyr ",
+      "      rrrowwwyrr",
+      "    rrri v   v i",
+      "   yr i         ",
+      " womi           ",
+      "  um            ",
+      "  ri            ",
+      " xri            "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        wӍ   ӎw ",
+      "        ru反反反ur ",
+      "      rrrowwwyrr",
+      "    rrriim   vii",
+      "   ori   m      ",
+      " wys     v      ",
+      "  us又    v      ",
+      "  ri又   相s      ",
+      "xxr 又    m      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        wGGGGGw ",
+      "      GPooyoooyG",
+      "    GPuouuouuooy",
+      "   Guyomvmmmsssv",
+      "  Gyyvvlhhlhhhhl",
+      " wommlhlllllhhhh",
+      " ͱovllhhhlhhllll",
+      "xGovlhlhlhlhlhlh",
+      "xͱovhhhhhllhlhlh"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        AAvAvAv ",
+      "      A0      Еv",
+      "    0v         Е",
+      "   vЕ  DDDDDDDDD",
+      "  vЕ DD         ",
+      " AЕDD    yy yy  ",
+      " 0xD     yyӡyy  ",
+      "xvxD        Ӡ   ",
+      " vxD     yyӡyy  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              U ",
+      "               U",
+      "    q           ",
+      "   U            ",
+      "  U      没了 没了  ",
+      " x       大中 大中  ",
+      "xx              ",
+      " x       没了 没了  "
+    ]
+  ]
+}

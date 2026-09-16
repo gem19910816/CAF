@@ -1,0 +1,328 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "R",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "Λ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 564,
+          "x": 93,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "300s"
+        }
+      },
+      {
+        "char": "p",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ϵ",
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Ё",
+        "block": "immersive_weathering:weeds[age=7]"
+      },
+      {
+        "char": "8",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "ο",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "Η",
+        "block": "minecraft:oak_log[axis=y]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "α",
+        "block": "minecraft:cornflower"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "Θ",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "ϒ",
+        "block": "minecraft:stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "Q",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Μ",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "Ϫ",
+        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "tag": {
+          "z": 574,
+          "x": 93,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Have An A1\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Day!\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "4",
+        "block": "minecraft:blue_wool"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Α",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:red_concrete"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaajhgggljlhlgk",
+      "dlalhgMdddRdRaRd",
+      "alhlghdMdddddMRd",
+      "dllhjgaaaaaaaaaa",
+      "akgkgaaaaaaaaΛaa",
+      "algjlkaaaaaaaaaa",
+      "alhgahaaaaaaaaaa",
+      "agallhaaaaaaaaaa",
+      "alaplkaaaaaaaaaa",
+      "agpppjaaaaaaaaaa",
+      "ahjpgkaaaaaaaaaa",
+      "aghpjhaaaaaaaaaa",
+      "akhjhaaaaaaaaaaa",
+      "ajhjajaaaammmmmm",
+      "ahghkkaaaaglhhgl",
+      "ajajjjaaaakhjgll"
+    ],
+    [
+      " ccc c   ϵ   c  ",
+      "  c   c c    Ёc ",
+      "c          88  8",
+      "      οc cc8cc 8",
+      "ο    cHcccc cΗ c",
+      "Hc   cHcccc88c88",
+      "H   c Hccc  88cc",
+      "H     Hccccccc  ",
+      "H     Hccc  c cc",
+      "H   c Hc cc cc  ",
+      "H     Hccccccccc",
+      "H    cH  cc cccc",
+      "H    cHcc ccccec",
+      "Hc  α Hc cLLLLΘL",
+      "H     H ccL     ",
+      "H c   ϒ999L Q Μ "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "             Η  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "         ee eeee",
+      "          ee  ee",
+      "         qbbEbEb",
+      "        q b  Ϫ  ",
+      "          E 4 4 "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "             Η  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "         ee eeee",
+      "          e   ee",
+      "         qbbEbEo",
+      "        q b     ",
+      "          E 4 4 "
+    ],
+    [
+      "                ",
+      "                ",
+      "            PJPή",
+      "           PJSJP",
+      "           JSΗSJ",
+      "           PJSJP",
+      "            PJP ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "         ee eeee",
+      "              e ",
+      "          bbEbEb",
+      "        q b     ",
+      "          E 4 4 "
+    ],
+    [
+      "                ",
+      "                ",
+      "           ήPJPή",
+      "           PJSJP",
+      "           JSΗSJ",
+      "           PJSJP",
+      "            PJP ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "         ee eeee",
+      "              Α ",
+      "          nnnnnn",
+      "        q n     ",
+      "          n Μ Q "
+    ]
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:bricks[weathering\u003dtrue]"
+      },
+      {
+        "char": "g",
+        "block": "immersive_weathering:cracked_bricks"
+      },
+      {
+        "char": "j",
+        "block": "immersive_weathering:mossy_bricks"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering\u003dtrue]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:spruce_planks"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ӈ",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:spruce_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӌ",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӈ",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dinner_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "这",
+        "block": "minecraft:spruce_stairs[facing\u003deast,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӡ",
+        "block": "minecraft:spruce_stairs[facing\u003dnorth,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӥ",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003douter_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӑ",
+        "block": "minecraft:spruce_stairs[facing\u003deast,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӏ",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "用",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dbottom,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "底",
+        "block": "refurbished_furniture:light_freezer[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "z": -366,
+          "x": -693,
+          "ForgeData": {},
+          "Energy": 0,
+          "y": -53,
+          "id": "refurbished_furniture:freezer",
+          "Enabled": "0b",
+          "MaxProcessTime": 0,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "-190215513100341L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "消",
+        "block": "refurbished_furniture:oak_kitchen_drawer[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "z": -441,
+          "x": -691,
+          "ForgeData": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": -52,
+          "Items": []
+        }
+      },
+      {
+        "char": "扁",
+        "block": "refurbished_furniture:oak_kitchen_cabinetry[facing\u003dnorth,shape\u003dinside_corner_right]"
+      },
+      {
+        "char": "阳",
+        "block": "doomsday_decoration:bed[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѥ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "刀",
+        "block": "refurbished_furniture:oak_bath[facing\u003dwest,type\u003dhead]",
+        "tag": {
+          "z": -441,
+          "x": -709,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:bath",
+          "y": -52,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "莫",
+        "block": "refurbished_furniture:oak_bath[facing\u003dwest,type\u003dbottom]",
+        "tag": {
+          "z": -441,
+          "x": -708,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:bath",
+          "y": -52
+        }
+      },
+      {
+        "char": "商",
+        "block": "refurbished_furniture:light_gray_kitchen_drawer[facing\u003deast,open\u003dfalse]",
+        "tag": {
+          "z": -438,
+          "x": -706,
+          "ForgeData": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": -52,
+          "Items": []
+        }
+      },
+      {
+        "char": "充",
+        "block": "refurbished_furniture:oak_kitchen_drawer[facing\u003deast,open\u003dfalse]",
+        "tag": {
+          "z": -440,
+          "x": -717,
+          "ForgeData": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": -52,
+          "Items": []
+        }
+      },
+      {
+        "char": "蛮",
+        "block": "refurbished_furniture:oak_desk[facing\u003dwest,left\u003dfalse,right\u003dtrue]"
+      },
+      {
+        "char": "次",
+        "block": "doomsday_decoration:bed[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ш",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "限",
+        "block": "refurbished_furniture:light_gray_kitchen_sink[facing\u003deast]",
+        "tag": {
+          "z": -439,
+          "x": -706,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_sink",
+          "y": -52,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "块",
+        "block": "refurbished_furniture:oak_kitchen_sink[facing\u003deast]",
+        "tag": {
+          "z": -439,
+          "x": -717,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_sink",
+          "y": -52,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "司",
+        "block": "refurbished_furniture:oak_desk[facing\u003dwest,left\u003dtrue,right\u003dfalse]"
+      },
+      {
+        "char": "懂",
+        "block": "doomsday_decoration:office_chair[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ж",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "є",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Р",
+        "block": "refurbished_furniture:oak_crate[open\u003dfalse]",
+        "tag": {
+          "z": -350,
+          "x": -687,
+          "ForgeData": {},
+          "id": "refurbished_furniture:crate",
+          "y": -46,
+          "Items": []
+        }
+      },
+      {
+        "char": "堂",
+        "block": "refurbished_furniture:white_toilet[facing\u003dwest]",
+        "tag": {
+          "z": -439,
+          "x": -709,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:toilet",
+          "y": -52,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "国",
+        "block": "refurbished_furniture:oak_chair[facing\u003deast,tucked\u003dfalse]"
+      },
+      {
+        "char": "Э",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "г",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003dwest,powered\u003dfalse]"
+      },
+      {
+        "char": "Я",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "击",
+        "block": "doomsday_decoration:door_5[facing\u003dsouth,half\u003dlower,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "传",
+        "block": "doomsday_decoration:door_5[facing\u003dsouth,half\u003dlower,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "已",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "具",
+        "block": "doomsday_decoration:woodendrawer_2[facing\u003dsouth]"
+      },
+      {
+        "char": "停",
+        "block": "doomsday_decoration:woodendrawer[facing\u003dsouth]"
+      },
+      {
+        "char": "条",
+        "block": "doomsday_decoration:woodencabinet_2[facing\u003dsouth]"
+      },
+      {
+        "char": "接",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003deast,shape\u003dmiddle]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Щ",
+        "block": "minecraft:spruce_button[face\u003dfloor,facing\u003dsouth,powered\u003dfalse]"
+      },
+      {
+        "char": "ѕ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ь",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "飞",
+        "block": "doomsday_decoration:door_7[facing\u003dsouth,half\u003dlower,hinge\u003dleft,open\u003dtrue,powered\u003dfalse]"
+      },
+      {
+        "char": "受",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003dnorth,shape\u003dleft]"
+      },
+      {
+        "char": "进",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003dnorth,shape\u003dmiddle]"
+      },
+      {
+        "char": "或",
+        "block": "refurbished_furniture:light_gray_sofa[facing\u003dnorth,shape\u003dright]"
+      },
+      {
+        "char": "Ѡ",
+        "block": "doomsday_decoration:wastepaper_2[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "元",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ӑ",
+        "block": "doomsday_decoration:shelf_3[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "除",
+        "block": "refurbished_furniture:light_fridge[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "z": -441,
+          "x": -719,
+          "ForgeData": {},
+          "id": "refurbished_furniture:fridge",
+          "y": -51,
+          "Items": []
+        }
+      },
+      {
+        "char": "雄",
+        "block": "doomsday_decoration:coffee_machine[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѣ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "皮",
+        "block": "doomsday_decoration:teddybear[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "型",
+        "block": "doomsday_decoration:mirror[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "向",
+        "block": "doomsday_decoration:crt[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "往",
+        "block": "doomsday_decoration:missingpersonnotice[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "抓",
+        "block": "doomsday_decoration:door_5[facing\u003dsouth,half\u003dupper,hinge\u003dright,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "梦",
+        "block": "doomsday_decoration:door_5[facing\u003dsouth,half\u003dupper,hinge\u003dleft,open\u003dfalse,powered\u003dfalse]"
+      },
+      {
+        "char": "效",
+        "block": "doomsday_decoration:hangingclothes[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "确",
+        "block": "doomsday_decoration:radio[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "间",
+        "block": "doomsday_decoration:pottedplant_2[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "顺",
+        "block": "doomsday_decoration:calendar_2[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "份",
+        "block": "doomsday_decoration:door_7[facing\u003dsouth,half\u003dupper,hinge\u003dleft,open\u003dtrue,powered\u003dfalse]"
+      },
+      {
+        "char": "理",
+        "block": "refurbished_furniture:oak_kitchen_storage_cabinet[facing\u003dnorth,hinge\u003dleft,open\u003dfalse]",
+        "tag": {
+          "z": -441,
+          "x": -690,
+          "ForgeData": {},
+          "id": "refurbished_furniture:cabinet",
+          "y": -50,
+          "Items": []
+        }
+      },
+      {
+        "char": "要",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "名",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "н",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "脑",
+        "block": "doomsday_decoration:draw[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "系",
+        "block": "doomsday_decoration:exhaustfan[axis\u003dz,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "至",
+        "block": "doomsday_decoration:draw_2[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "骑",
+        "block": "doomsday_decoration:centralairconditioning[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "实",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "请",
+        "block": "doomsday_decoration:ventilationduct[axis\u003dz,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "办",
+        "block": "doomsday_decoration:ceilingfan[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "љ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ї",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ђ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "朝",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "妈",
+        "block": "doomsday_decoration:ventilationopening_3[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "古",
+        "block": "doomsday_decoration:tventilationduct[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "极",
+        "block": "doomsday_decoration:exhaustfan[axis\u003dx,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "ffffffffffffffff",
+      "       q q  q  q",
+      "                ",
+      "                ",
+      "                ",
+      "   nn    n     n",
+      "leeeleelelelelll",
+      "cggggcjcgcgcjcje",
+      "cgjccgggcccgccgl",
+      "cgjcggcjggjcccgl",
+      "cjvcjccgccccgjgl",
+      "cccgcggggccgcggl",
+      "ggcgjccccggccjge",
+      "cggcgggccgcgccge",
+      "eeeeeleeeellelee",
+      "jcgccjggcjcjvcve"
+    ],
+    [
+      "babbaaabauaaabaf",
+      "    q       qq  ",
+      "                ",
+      "                ",
+      "                ",
+      "n      n     n  ",
+      "cggcgcjjcgjgjgjl",
+      "dMdӈdddKddOddddj",
+      "dddKddLdӈdOdӋMOg",
+      "ddKLddddKӋӇddddg",
+      "ddLd这Md这ӠdLddLKg",
+      "OӤddddddddddddKg",
+      "dddddKdddKLddddc",
+      "MӐddddddMddMdddj",
+      "dddӀdOdKdddddddl",
+      "MMӐ用OdddMMddLddv"
+    ],
+    [
+      "aaaaabaabaabbbaf",
+      "  q       q   q ",
+      "                ",
+      "                ",
+      "                ",
+      "n  n     n      ",
+      "cggjcgcjjcggccce",
+      "h底消扁c 阳h Ѥj刀莫h商c",
+      "h h充c蛮hh次次cШhh限g",
+      " Шh块c司懂жєРc堂iж限c",
+      "国iѤhv 阳 hРjЭг 商j",
+      " nЯ jvj击cggcc传gg",
+      "гhhhЭ已iгi具停条qi接c",
+      "ohhhhhЩhѕЯnnЬh接g",
+      "飞vjcvcggggcgcgce",
+      " q 受进或гѠ 元hhhӑ c"
+    ],
+    [
+      "ababbabbabbabaaf",
+      "  q   q      q  ",
+      "                ",
+      "                ",
+      "                ",
+      "  n    n   n    ",
+      "jccjjgcgcgcggcce",
+      "h除 雄ghhж  cѢqhhc",
+      "жohhg皮 i  cpiж型g",
+      "   qj向  ohg   型c",
+      "   ocn  ЯРcѕn Ьj",
+      "   往cjj抓vcgcj梦gc",
+      " iinq效qnq确间顺qohc",
+      " nhhpinhpn nning",
+      "份cjgcgggcgjcggge",
+      "   q qq q ihiq c"
+    ],
+    [
+      "babbabbabaaabaaf",
+      "   q   q        ",
+      "                ",
+      "                ",
+      "                ",
+      "   n          n ",
+      "ccggggccgccjgggl",
+      " 理理理jh要  oc q名hv",
+      "  ohg     gp  Ѥc",
+      "   qc     gp   c",
+      "    jpnn Яgn nnj",
+      "   ocgcgcjjjgcjg",
+      "    нqqqн脑  qohg",
+      "n ohrєhp n nnnoc",
+      "ggccggcccccgggce",
+      " q    qq qqohq c"
+    ],
+    [
+      "bbbbabbabbbabauf",
+      "    q q  q q qq ",
+      "                ",
+      "                ",
+      "                ",
+      " nn n      n    ",
+      "ccgjgggcgcggcc系l",
+      "至q hjrrq 骑c实名h请c",
+      "rr  cp  rrg r名请g",
+      "  roj r办r cљrr请j",
+      "办r oc  r їjpr 请c",
+      "  r gccgjvcgcccc",
+      "r  ђc朝ђ hqq至rн请c",
+      " n hghhnn r n妈古v",
+      "ggccccvcgjgjcj系e",
+      "нqq н нrq rrr极古c"
+    ]
+  ]
+}

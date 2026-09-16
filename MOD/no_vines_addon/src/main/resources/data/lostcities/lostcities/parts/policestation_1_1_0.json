@@ -1,0 +1,324 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "Ή",
+        "block": "minecraft:cobweb"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "Ϳ",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϫ",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "ώ",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "͵",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "ͺ",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:spruce_planks"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 349,
+          "x": 54,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 136,
+          "SpawnRange": "4s",
+          "Delay": "181s"
+        }
+      },
+      {
+        "char": "κ",
+        "block": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "΅",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "ͽ",
+        "block": "minecraft:petrified_oak_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "v",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "Σ",
+        "block": "refurbished_furniture:light_gray_sofa[facing=south,shape=left]"
+      },
+      {
+        "char": "ʹ",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "ϓ",
+        "block": "refurbished_furniture:spruce_chair[facing=north,tucked=false]"
+      },
+      {
+        "char": "ΐ",
+        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "к",
+        "block": "refurbished_furniture:light_gray_sofa[facing=south,shape=default]"
+      },
+      {
+        "char": "І",
+        "block": "refurbished_furniture:spruce_drawer[facing=south,left=false,open=false,right=false]",
+        "tag": {
+          "z": 339,
+          "x": 57,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:drawer",
+          "y": 137,
+          "Items": []
+        }
+      },
+      {
+        "char": "r",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ρ",
+        "block": "refurbished_furniture:light_gray_sofa[facing=south,shape=right]"
+      },
+      {
+        "char": "Ѐ",
+        "block": "refurbished_furniture:spruce_drawer[facing=north,left=false,open=false,right=false]",
+        "tag": {
+          "z": 341,
+          "x": 57,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:drawer",
+          "y": 137,
+          "Items": []
+        }
+      },
+      {
+        "char": "Ϧ",
+        "block": "refurbished_furniture:spruce_chair[facing=south,tucked=false]"
+      },
+      {
+        "char": "Е",
+        "block": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "Ξ",
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "     a   aaadcfh",
+      "     a   aaaddcd",
+      "     a   aaidfmd",
+      "    Ήa   aaidced",
+      " Ή   a   aaidcfd",
+      "     a   aaidmgd",
+      "    Ήa   aaidmbd",
+      "aaaaaa   aaadfbd",
+      "         aaadmbd",
+      "         aaadgfd",
+      "         aaidgcd",
+      "aaaaaaaaaaaadfmd",
+      "dddadddddddddbfd",
+      "dddddddddddddbbd",
+      "dddddddddddddgcd",
+      "dddddddddddddefd"
+    ],
+    [
+      "ͿͿjjjjjjjfdbfo Ϫ",
+      "jjjjjjjjjͿcbeh h",
+      "jjjͿjjjjjebdbosh",
+      "jjjͿjjjjjbeceo a",
+      "jjjjjjjjjͿgfeo i",
+      "ͿͿjjjjjjjfeees a",
+      "jjjjjjjjjfcebs a",
+      "jjjjjjjjjegdg  a",
+      "jjjjjjjjjͿggfs a",
+      "jjjjjjjͿtcebgo a",
+      "jjjjjjjttegego a",
+      "ccffcbbdedgbfosa",
+      "bfcggeceecgbbo a",
+      "ebgfcgbegcbbe  a",
+      "febfdgfebedbd  a",
+      "dcggbbeedffgb  a"
+    ],
+    [
+      "gggebfgedgccbo  ",
+      "gbcecbggcegebo Ϫ",
+      "gbbfgfbbfdeebo ώ",
+      "beeegdggfcgdeo a",
+      "bbeegecccfggfo a",
+      "fecedgeecgbeg  a",
+      "fbccbgeggdgef  a",
+      "eegceggfggcee  a",
+      "gfgceeecgeggco a",
+      "gfcggebcgeeebo a",
+      "gbfbfbfggbbgfo a",
+      "bbcgecgcefebbo a",
+      "bebgcbbgbecbbo a",
+      "fgdefgddbbecf  a",
+      "bfgfdbfcffffg  a",
+      "gfecdbgfbcebb  a"
+    ],
+    [
+      "bececbgggcbcfo h",
+      "dgbgegffgcgceo h",
+      "bgdgefddcbfcfo h",
+      "gcfcecffffgggo a",
+      "gccfccdeedbfeo a",
+      "cffeeccfcgeee  a",
+      "bcegdfdgdeccg  a",
+      "bbfcgeeecbbge  a",
+      "cggcededcbbcfo a",
+      "cddebbbdebgcbo a",
+      "gcdbdcfgcfdcfo a",
+      "gegedbbgffeeco a",
+      "gcbcedbbeefgbo a",
+      "edgeecggdcgfg  a",
+      "effbbgbgefbcg  a",
+      "cbgcfeccfbbcg  a"
+    ],
+    [
+      "d͵fec͵͵bfbffeo h",
+      "cgffffeb͵ebeeo h",
+      "b͵bgbbccdc͵ego a",
+      "fmcmgͺfgeefeeo a",
+      "b͵fcebcbgbccco a",
+      "gcgmmbcbegmgg  a",
+      "͵bgeceb͵d͵͵bb  a",
+      "cemcegmbfgecg  a",
+      "eb͵beezfefbffo a",
+      "cfbcecebgccego a",
+      "bfgefbgf͵efego a",
+      "bcdgegccgebceo a",
+      "ffcgbcbeccfceo a",
+      "meefgfmgfήgfg  a",
+      "bfcgccbfbdbbd  a",
+      "cemcfgbebeeec  a"
+    ],
+    [
+      "κ΅uk ͺzͺͺ  ͽio v",
+      "unΣu    z  ʹho v",
+      "unuu zϓ ͺ  ͽho v",
+      "ΐuкu zІ ͺ  ʹio v",
+      "nnur        ho v",
+      "uΡΣuszЀ z srh  v",
+      "uu u zϦ z   i  v",
+      "uΡΣu  s ͺi  h  v",
+      "uu u ͺzzͺ   ho v",
+      " uu      h  io v",
+      "u uu   i  h a  v",
+      " uʹʹ        io v",
+      "Еhaihihhhaaaio v",
+      " i ΞΞΞpp ubc   v",
+      "         fiib  v",
+      "  s      bhhb  v"
+    ]
+  ]
+}

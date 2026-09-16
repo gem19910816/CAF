@@ -1,0 +1,590 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "合",
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "请",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "推",
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "需",
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "去",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "任",
+        "block": "minecraft:azure_bluet"
+      },
+      {
+        "char": "八",
+        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "loot": "walmart",
+        "tag": {
+          "z": 436,
+          "x": 135,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "校",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "议",
+        "block": "minecraft:stone_pressure_plate[powered=false]"
+      },
+      {
+        "char": "印",
+        "block": "minecraft:oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "每",
+        "block": "minecraft:furnace[facing=east,lit=false]",
+        "tag": {
+          "z": 435,
+          "x": 138,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:furnace",
+          "y": 137,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "九",
+        "block": "minecraft:oak_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "今",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "听",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "表",
+        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "闻",
+        "block": "minecraft:smoker[facing=east,lit=false]",
+        "tag": {
+          "z": 441,
+          "x": 130,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:smoker",
+          "y": 133,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "务",
+        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "loot": "walmart",
+        "tag": {
+          "z": 439,
+          "x": 136,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "福",
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]"
+      },
+      {
+        "char": "卖",
+        "block": "minecraft:chest[facing=west,type=left,waterlogged=false]",
+        "loot": "walmart",
+        "tag": {
+          "z": 440,
+          "x": 135,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "竹",
+        "block": "minecraft:daylight_detector[inverted=false,power=6]",
+        "tag": {
+          "z": 446,
+          "x": 128,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 133
+        }
+      },
+      {
+        "char": "节",
+        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "持",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "欢",
+        "block": "minecraft:daylight_detector[inverted=false,power=7]",
+        "tag": {
+          "z": 441,
+          "x": 126,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 133
+        }
+      },
+      {
+        "char": "公",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "棒",
+        "block": "minecraft:coal_block"
+      },
+      {
+        "char": "舍",
+        "block": "minecraft:observer[facing=east,powered=false]"
+      },
+      {
+        "char": "报",
+        "block": "horror_element_mod:blood_1[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "投",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "体",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "竟",
+        "block": "horror_element_mod:self_terminated_body[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "料",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "免",
+        "block": "minecraft:oak_door[facing=north,half=lower,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:white_stained_glass"
+      },
+      {
+        "char": "环",
+        "block": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "特",
+        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "硬",
+        "block": "minecraft:oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "准",
+        "block": "minecraft:oak_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "内",
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "徵",
+        "block": "minecraft:oak_door[facing=north,half=upper,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "助",
+        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "位",
+        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "更",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "受",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "至",
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "口",
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "及",
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "几",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "常",
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "究",
+        "block": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "把",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "整",
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "baIaccwdcbaraaca",
+      "cbcadrrbaaacbaac",
+      "cbbadwrbcaaaccba",
+      "dbwcdbwadwaaaawc",
+      "aacbdwwabaaadbdb",
+      "awccbdabcwbbbaaa",
+      "rccdadbwdaraaaaa",
+      "xbdwaabcabaaaaab",
+      "aadabbcrdIbbwbaa",
+      "cdbaacbwwwccbaaa",
+      "Idaabcdbaaaaadad",
+      "dadddradadaaraaa",
+      "bcbbcrdbcaabaadc",
+      "bacbabaadaaacaab",
+      "abrccwdabaadaaaa",
+      "dbbIwbccbaadwaac"
+    ],
+    [
+      "ggCjj qmlejq   合",
+      "lg请  qq推需f     合",
+      "l去j   任八 p 校j  合",
+      "议印议    q f每每    ",
+      "l去j    八qo每每j   ",
+      "议九议    今听o每每   合",
+      "q去  j    fq表 q 合",
+      "lg闻qj  务务pff  l合",
+      "福gj    卖卖pf j  合",
+      "竹g闻 j   qpff   合",
+      "竹gq节j  今需e 持   合",
+      "欢g公棒 ql le 舍  l合",
+      " gj  q  lf     合",
+      "竹gq棒    报e 舍   合",
+      "竹gq投 议 体竟e 料   合",
+      "欢gffe免h环pe j q N"
+    ],
+    [
+      "eDDjj  mlfj     ",
+      "lf请    特 f      ",
+      "l去       f 校j   ",
+      "l硬       o每每    ",
+      "l去j      f每每j   ",
+      "l准j    N f每每    ",
+      "l去  j    e 表    ",
+      "lyЅ j    off  l ",
+      "内yj      of j   ",
+      " yЅ j    ef     ",
+      " y 特j  N o N    ",
+      " ej   l lf    l ",
+      " f      le      ",
+      " p      lp      ",
+      " e 校 m m e N    ",
+      " eeef徵h助ee j   N"
+    ],
+    [
+      "yDzjj  mloj    合",
+      "le请    位位p     合",
+      "l去    ҧnneҨKj  合",
+      "l去     nnfnnЅ   ",
+      "l去j   ҧnnennj   ",
+      "l去j    KKennЅ   ",
+      "l去  j  nnoҨK    ",
+      "lej j ҧnnfnnЅ l ",
+      "位fj   ҧnnfnnj   ",
+      "ny  j  nnennЅ   ",
+      "npK位j  KKeҨK    ",
+      "nfnnЅ l  ennЅ l ",
+      "nenn    lenn    ",
+      "nennЅ   lpnnЅ   ",
+      "noKK m m eҨK    ",
+      "nyppehhhpf j   N"
+    ],
+    [
+      "yDC更j    fj     ",
+      "lo受    lle      ",
+      "l去 v   八 p至口   v",
+      "l去     l e每每    ",
+      "l去 v   八lf每每j   ",
+      "l v      p每每j   ",
+      "l去  j  l e及几   v",
+      "lf更 j  务务pffj lv",
+      "内e     卖卖offj  v",
+      "竹y  j   lfff    ",
+      "竹p  j    o常几    ",
+      "欢o 棒  l  o 舍  lv",
+      " o      lo j    ",
+      "竹y 棒j   le 舍    ",
+      "竹e   m m f听究    ",
+      "欢feeefheee j   N"
+    ],
+    [
+      "pEDf更    e更    p",
+      "leoev  l e     e",
+      "lfppv    f     e",
+      "lpfev  l f每每   p",
+      "lfep    把o每每  vf",
+      "leff     p每每  ve",
+      "loep更  l f     f",
+      "leep更   把eff  把o",
+      "整oee     fffj  e",
+      " ooe更    off   e",
+      " efe更    p     o",
+      " fee  l  e    把e",
+      " fef    把e j   f",
+      " eoe更    e    vf",
+      " pfe m m e     f",
+      " eofeeeoef j   f"
+    ]
+  ]
+}

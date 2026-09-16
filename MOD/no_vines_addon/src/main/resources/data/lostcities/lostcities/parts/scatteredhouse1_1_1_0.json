@@ -1,0 +1,308 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:spruce_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "΅",
+        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Α",
+        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:spruce_planks"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Φ",
+        "block": "minecraft:crafting_table"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ͼ",
+        "block": "minecraft:furnace[facing=west,lit=false]",
+        "tag": {
+          "z": 544,
+          "x": 48,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:furnace",
+          "y": 134,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "A",
+        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "υ",
+        "block": "minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=false,has_bottle_2=false]",
+        "tag": {
+          "z": 540,
+          "x": 48,
+          "BrewTime": "0s",
+          "Fuel": "0b",
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:brewing_stand",
+          "y": 135,
+          "Items": []
+        }
+      },
+      {
+        "char": "7",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 545,
+          "x": 48,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "6",
+        "block": "minecraft:chest[facing=west,type=left,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 546,
+          "x": 48,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "J",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:oak_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaxaaaaaaaaaaaaa",
+      "aaaxaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa"
+    ],
+    [
+      "bbb  bbb bbbbbbb",
+      "  bbbbb  bbb bbb",
+      "b b bbb bbbb b b",
+      "eeLoooooooooH b ",
+      "dden bbbbbbbibbb",
+      "eeeb bb b bbib b",
+      "ddebb bbbbb ib b",
+      "ddeb  b  bbbib b",
+      "dde bb   bbbibbb",
+      "dde bbbbb bbibbb",
+      "ddejbbbbbb bibbb",
+      "dde b bb bb i bb",
+      "ddebbb   bbbibbb",
+      "ddebbbb  b  ibbb",
+      "ddebbbbbbbbbibbb",
+      "dde bbb bbbbi bb"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "oo΅             ",
+      "                ",
+      "YΑH             ",
+      "  i             ",
+      "  i             ",
+      "rrg             ",
+      "ccg             ",
+      "ecg             ",
+      "ecgj            ",
+      "ecg l           ",
+      "ecg l           ",
+      "Φcgyl           ",
+      "ͼcg l           "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "  A             ",
+      "                ",
+      "A               ",
+      "                ",
+      "                ",
+      "rrH             ",
+      "ccg             ",
+      " cg             ",
+      " cg             ",
+      "υcgjl           ",
+      " cgjl           ",
+      " cg7l           ",
+      " cg l           "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      " en             ",
+      " dn             ",
+      "Adn             ",
+      " dn             ",
+      " dn             ",
+      "den             ",
+      "ccH             ",
+      "fcg             ",
+      "3cg             ",
+      "6cg l           ",
+      "Jcg l           ",
+      "3cgjl           ",
+      "6cgjl           "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "n               ",
+      "s               ",
+      "s               ",
+      "s               ",
+      "s               ",
+      "nFv             ",
+      "ccv             ",
+      "fkv             ",
+      "hkv             ",
+      "hkvjl           ",
+      " kvjl           ",
+      "hkvyl           ",
+      "hkv l           "
+    ]
+  ]
+}

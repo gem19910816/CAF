@@ -1,0 +1,258 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "与",
+        "block": "minecraft:oak_log[axis=y]"
+      },
+      {
+        "char": "ҫ",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "误",
+        "block": "minecraft:oak_door[facing=east,half=lower,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "识",
+        "block": "minecraft:oak_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "爱",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "且",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "智",
+        "block": "minecraft:oak_door[facing=east,half=upper,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "引",
+        "block": "minecraft:oak_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "把",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "讯",
+        "block": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "线",
+        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "视",
+        "block": "minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "而",
+        "block": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bcackbadrbkkaadk",
+      "abbbkraarkaccarb",
+      "cccarbaarbcrrdkk",
+      "ccabcdabdckcakbd",
+      "dkkbdadcdcbacccr",
+      "kdkccbacccbdkrkc",
+      "kbkdbkkbdcdakkca",
+      "addcrbkccckbbbra",
+      "bkbccdbbdbaadbdb",
+      "kbakcbbdadcccdkk",
+      "bakkcadcbbkaddcd",
+      "acabbckbcbkkckac",
+      "kkdcIrbdabakckkd",
+      "aakbckacIkcrkddb",
+      "ckradcdacdbbkbdc",
+      "ckbccbdbkaakdkdc"
+    ],
+    [
+      "        q       ",
+      "     q  q     q ",
+      "    q   q  qq   ",
+      "                ",
+      "               q",
+      "             q  ",
+      "                ",
+      "    q         q ",
+      "                ",
+      "                ",
+      "     m          ",
+      "    与ҫҫҫ与       ",
+      "   lҫq  ҫ       ",
+      "   lҫ   ҫ  q    ",
+      "  qlҫ   ҫj      ",
+      "    误   识j      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     m          ",
+      "    与ҫ爱ҫ与       ",
+      "    ҫ   ҫ       ",
+      "   l且   且       ",
+      "   lҫ   ҫЅ      ",
+      "    智   引j      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     m          ",
+      "    与ҫҫҫ与       ",
+      "    ҫ   ҫ       ",
+      "   把ҫ   ҫ       ",
+      "    ҫ   ҫj      ",
+      "    ҫ   ҫj      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   讯线   视而      ",
+      "   讯HҫҫҫH而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      ",
+      "   讯H   H而      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "    讯线 视而       ",
+      "    讯HҫH而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       ",
+      "    讯H H而       "
+    ]
+  ]
+}

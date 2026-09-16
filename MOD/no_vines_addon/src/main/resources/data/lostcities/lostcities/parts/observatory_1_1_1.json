@@ -1,0 +1,238 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "͵",
+        "block": "minecraft:spruce_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "ͷ",
+        "block": "minecraft:stone_brick_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ͼ",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:ladder[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "P",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "T",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "5",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "N",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "J",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "4",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "ΐ",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Z",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:stone_button[face\u003dwall,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "   b       h    ",
+      "  b͵  iͷ  i     ",
+      "bb    ͼ   d     ",
+      "0         d     ",
+      "   jͷ     d     ",
+      "   ͼ     dn     ",
+      "        jA      ",
+      "       dA       ",
+      "   idddm        ",
+      "ddin            ",
+      " mm             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "b bb   ggggo    ",
+      "  b͵  ggggc     ",
+      "bb    ggggh     ",
+      "0z   gggggi     ",
+      "zz gggggggh     ",
+      "ggggggggghn     ",
+      "ggggggggtA      ",
+      "gggggggjA       ",
+      "gggcjjhm        ",
+      "hion            ",
+      " mm             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   b   F   i    ",
+      "  bE  PT  h     ",
+      "bb    F   d     ",
+      "0F   PT   d     ",
+      " F P5T    d     ",
+      " N5T     d      ",
+      "        hA      ",
+      "  PJ   dA       ",
+      "  4idddm        ",
+      "ddhn            ",
+      " mm             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ΐb b       h    ",
+      "bbb       h     ",
+      "bb        d     ",
+      "          d     ",
+      "          d     ",
+      "         d      ",
+      "        jA      ",
+      "   Z   dA       ",
+      "   hdddm        ",
+      "ddin            ",
+      " mm             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " Ͱbb       o    ",
+      "bbb       t     ",
+      "bb        i     ",
+      "          j     ",
+      "          i     ",
+      "         i      ",
+      "        oA      ",
+      "   Z   hA       ",
+      "   cjjjm        ",
+      "jjon            ",
+      " mm             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " Ͱbr      4j    ",
+      "bbr       h     ",
+      "rr        d     ",
+      "          d     ",
+      "          d     ",
+      "         d      ",
+      "        iA      ",
+      "   Z   dA       ",
+      "   hdddm        ",
+      "ddin            ",
+      " mm             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

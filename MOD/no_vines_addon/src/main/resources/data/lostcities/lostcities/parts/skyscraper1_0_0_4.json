@@ -1,0 +1,206 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:cobblestone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Η",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "Ε",
+        "block": "minecraft:chest[facing\u003dsouth,type\u003dsingle,waterlogged\u003dfalse]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 628,
+          "x": 43,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 149,
+          "Items": []
+        }
+      },
+      {
+        "char": "j",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:mossy_stone_bricks"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aa a",
+      "             bic",
+      "         B   E  ",
+      "        da      ",
+      "        da      ",
+      "        dy     b",
+      "        dac   Eb"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aa a",
+      "             eie",
+      "         B      ",
+      "        da      ",
+      "        da      ",
+      "        dyή     ",
+      "        dac     "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aa a",
+      "            bbee",
+      "         B  bbbb",
+      "        dacbbbbb",
+      "        daebbbbb",
+      "        dycbb bb",
+      "        dacb    "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aa a",
+      "           Ηbeie",
+      "         Bή  vΕ ",
+      "        dae bbv ",
+      "        dac bb  ",
+      "        dyj b bN",
+      "        daev    "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aa a",
+      "          nibcie",
+      "         Bj  v  ",
+      "        dac   E ",
+      "        dab bb  ",
+      "        dyj     ",
+      "        dabE    "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aa a",
+      "          micbic",
+      "         Bj     ",
+      "        dae     ",
+      "        dab     ",
+      "        dBj     ",
+      "        dac     "
+    ]
+  ]
+}

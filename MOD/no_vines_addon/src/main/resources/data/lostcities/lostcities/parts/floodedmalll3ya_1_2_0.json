@@ -1,0 +1,470 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:structure_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_voiducture_void"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:stone[weathering\u003dtrue]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "t",
+        "block": "create:layered_tuff"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:cobblestone[weathering\u003dtrue]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:polished_basalt[axis\u003dy]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:water[level\u003d0]"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:seagrass"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:kelp_plant"
+      },
+      {
+        "char": "太",
+        "block": "doomsday_decoration:redbrick[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "开",
+        "block": "refurbished_furniture:spruce_lattice_fence[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dtrue,west\u003dfalse]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:dark_oak_leaves[distance\u003d7,persistent\u003dtrue,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "ё",
+        "block": "doomsday_decoration:foldingchair[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "心",
+        "block": "minecraft:acacia_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "应",
+        "block": "doomsday_decoration:table[waterlogged\u003dtrue]"
+      },
+      {
+        "char": "元",
+        "block": "doomsday_decoration:foldingchair[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:cracked_deepslate_bricks"
+      },
+      {
+        "char": "定",
+        "block": "doomsday_decoration:foldingchair[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "话",
+        "block": "doomsday_decoration:ironrod[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "分",
+        "block": "doomsday_decoration:wastepaper_1[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "϶",
+        "block": "minecraft:stone_brick_slab[type\u003dbottom,waterlogged\u003dtrue,weathering\u003dtrue]"
+      },
+      {
+        "char": "Ә",
+        "block": "doomsday_decoration:antitheftinfrared_2[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "ә",
+        "block": "doomsday_decoration:antitheftinfrared_2[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:stone_bricks[weathering\u003dtrue]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:deepslate_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:stone_brick_wall[east\u003dtall,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dtrue,weathering\u003dtrue,west\u003dtall]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "阿",
+        "block": "doomsday_decoration:waterdispenser[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "马",
+        "block": "doomsday_decoration:redbrick[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "格",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dtop,shape\u003dinner_left,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ѣ",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "金",
+        "block": "minecraft:spruce_stairs[facing\u003deast,half\u003dtop,shape\u003dinner_right,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "近",
+        "block": "doomsday_decoration:redbrick[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "ϗ",
+        "block": "doomsday_decoration:goodsshelves[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "а",
+        "block": "doomsday_decoration:goodsshelves_4[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "х",
+        "block": "doomsday_decoration:goodsshelves_5[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ө",
+        "block": "doomsday_decoration:goodsshelves_3[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "呢",
+        "block": "doomsday_decoration:insulationcabinet[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "好",
+        "block": "doomsday_decoration:ironrod[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "ӗ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "要",
+        "block": "minecraft:spruce_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "区",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ї",
+        "block": "doomsday_decoration:goodsshelves[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ӯ",
+        "block": "doomsday_decoration:insulationcabinet[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "曾",
+        "block": "doomsday_decoration:goodsshelves_4[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "ӂ",
+        "block": "minecraft:spruce_trapdoor[facing\u003dwest,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "қ",
+        "block": "minecraft:mangrove_log[axis\u003dy]"
+      },
+      {
+        "char": "所",
+        "block": "doomsday_decoration:goodsshelves_5[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ѧ",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ґ",
+        "block": "minecraft:spruce_trapdoor[facing\u003deast,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:deepslate_bricks[weathering\u003dtrue]"
+      },
+      {
+        "char": "业",
+        "block": "doomsday_decoration:redbrick[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "单",
+        "block": "doomsday_decoration:goodsshelves_5[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "І",
+        "block": "minecraft:spruce_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "л",
+        "block": "doomsday_decoration:goodsshelves_4[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ϙ",
+        "block": "doomsday_decoration:goodsshelves[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "这",
+        "block": "doomsday_decoration:coffee[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "就",
+        "block": "minecraft:kelp[age\u003d19]"
+      },
+      {
+        "char": "ж",
+        "block": "doomsday_decoration:goodsshelves_3[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "白",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "些",
+        "block": "doomsday_decoration:goodsshelves_2[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "一",
+        "block": "minecraft:kelp[age\u003d6]"
+      },
+      {
+        "char": "她",
+        "block": "doomsday_decoration:phone[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "号",
+        "block": "minecraft:mangrove_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "来",
+        "block": "doomsday_decoration:cashregister[facing\u003dwest,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "选",
+        "block": "doomsday_decoration:goodsshelves_4[facing\u003deast,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "ҫ",
+        "block": "doomsday_decoration:goodsshelves_3[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "э",
+        "block": "doomsday_decoration:goodsshelves_5[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ӥ",
+        "block": "minecraft:kelp[age\u003d5]"
+      },
+      {
+        "char": "口",
+        "block": "minecraft:kelp[age\u003d2]"
+      },
+      {
+        "char": "ϩ",
+        "block": "doomsday_decoration:redcurtains[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "ú",
+        "block": "doomsday_decoration:redcurtains[facing\u003dsouth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "Ҧ",
+        "block": "minecraft:kelp[age\u003d12]"
+      },
+      {
+        "char": "Ѳ",
+        "block": "minecraft:kelp[age\u003d10]"
+      },
+      {
+        "char": "ҿ",
+        "block": "minecraft:kelp[age\u003d3]"
+      },
+      {
+        "char": "ѕ",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dtrue,weathering\u003dtrue]"
+      },
+      {
+        "char": "过",
+        "block": "minecraft:kelp[age\u003d21]"
+      },
+      {
+        "char": "重",
+        "block": "minecraft:kelp[age\u003d22]"
+      },
+      {
+        "char": "Ӝ",
+        "block": "doomsday_decoration:shutter_3[facing\u003dnorth,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "算",
+        "block": "minecraft:stone_brick_wall[east\u003dlow,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dtrue,weathering\u003dtrue,west\u003dlow]"
+      },
+      {
+        "char": "ӭ",
+        "block": "minecraft:kelp[age\u003d16]"
+      },
+      {
+        "char": "К",
+        "block": "createdeco:andesite_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dtrue]"
+      },
+      {
+        "char": "数",
+        "block": "minecraft:kelp[age\u003d15]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa"
+    ],
+    [
+      "wggwwwtyywtgggty",
+      "gwgggwwwwgtgwyww",
+      "gwtggtwtngwtyggt",
+      "gggwgyggtytwwwgg",
+      "wygtytwgwgtgtggy",
+      "ggwgyggyywwyggyy",
+      "yCgwCgwggCggCgyC",
+      "ygwtggwwDgwwggtt",
+      "gyygyywyCytwtyyg",
+      "wtgwyygwgwwyyywg",
+      "gggtggDggttwtwyt",
+      "tgyttDggDgtytggy",
+      "gyggyytwgyggywyg",
+      "ygwtyttwggwgwwyy",
+      "gCgDgtyDtgtCDgCD",
+      "wwtyywtytggtwwyg"
+    ],
+    [
+      "bMbI太Mb开MbMbbMbM",
+      "NbёMb心MbNMMbMMNb",
+      "IMM应元M心bkMNbbbIN",
+      "NbM定bbMbbIMbb话NN",
+      "bMbbbIbbbNMMbMbb",
+      "bNbbIbbNNIb分bbbN",
+      "϶nӘәd϶϶E那d϶϶EӘәi",
+      "b阿马b格ѢѢ金khQbQbbI",
+      "近MbbϗϗахkӨb呢bMb好",
+      "IQbMӗ要ӗ区nїMbӮQb曾",
+      "Q要Mӂқққӗn所MbQI分b",
+      "QѦbӂқққҐqїI呢bb业单",
+      "bѦMQІӗІQkӨQbӮQIb",
+      "QѦIлϘbQQqhQbbQQb",
+      "kqdnknbdkqiidndd",
+      "bbbbbbbbbbbbbbbb"
+    ],
+    [
+      "bbbIbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "Ibb这bbbbnbbbbbIN",
+      "bbbbbbbbbIbbbbbb",
+      "bbbbb就bbbbbbbbbb",
+      "bbbbIbbbNIbbbbbb",
+      "bnbbkbbn那nbbdbbn",
+      "bbbbҐbIӂiQbbbbbI",
+      "bbbbажϗϗq所bbbbbb",
+      "Ibbbbbb白d些bbbbbb",
+      "QbbbbbbbEїbbQ一bb",
+      "b她bbbM号bdїIbbbbb",
+      "b来bbbbbbq选bbbbIb",
+      "bMIҫэbbQkQbbbbbb",
+      "ninqqibnqkkdndik",
+      "bbbbbbbbbbbbbbbb"
+    ],
+    [
+      "bbbӤbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "IbbbbbbbdbbbbbIb",
+      "bbbbbbbbb口bbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbIbbbbIbbbbbb",
+      "ϩibbnbϩn那ibbibbE",
+      "bbbúҐbIӂnbbbbbbI",
+      "bbbbϗϗхжkїbbbbbb",
+      "ҦbbbbbbbkӨbbbbbb",
+      "bbbbbbbbi些bbbbbb",
+      "bbbbbbbbdїѲbbbbb",
+      "bbbbbbbbnїbbbbҿb",
+      "bbIϘϘbbbkbbbbbbb",
+      "kidndEbnkidnddqk",
+      "bbbbbbbbbbbbbbbb"
+    ],
+    [
+      "bbbbbbbbbbbbbbѕѕ",
+      "bbbbbbbbbbbbbbbb",
+      "过bbbbbbbkbbbbbѲb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbbbbbbbbbbbbbb",
+      "bbbb重bbbbӤbbbbbb",
+      "ϩiӜӜnϩϩi算ibbkӜӜE",
+      "bbúúҐbѲӂnbbbbbbӭ",
+      "bКbbІІІІqbbbКbbК",
+      "bКbbbbbbnbbbКbbК",
+      "bbbbbbbbibbbbbbb",
+      "bКbbbКbbEbbbКbbК",
+      "bКbbbКbbdbbbКbbК",
+      "bb数bbbbbnbbbbbbb",
+      "kidiEdniikkknkik",
+      "bbbbbbbbbbbbbbbb"
+    ]
+  ]
+}

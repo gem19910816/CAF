@@ -1,0 +1,192 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "串",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 451,
+          "x": -63,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 139,
+          "SpawnRange": "4s",
+          "Delay": "20s"
+        }
+      },
+      {
+        "char": "t",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "孜",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "舱",
+        "block": "horror_element_mod:blood_5[facing=east,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "串串tttttttttttttt",
+      "ttottttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "tttttttttttttttt",
+      "itqgigfgiqifihqf",
+      "gtftffqqhgqihqqi",
+      "figfgiqqftgftfig",
+      "ggihigqihgfhggif",
+      "qqqhtgqhqihggqqi"
+    ],
+    [
+      "孜孜ssmmms mmmmmss",
+      "mmbsssssssssssss",
+      "舱sssssssssssssss",
+      "ssssssssssssssss",
+      "ssssssssssssssss",
+      "ssssssssssssssss",
+      "ssssssssssssssss",
+      "ssssssssssssssss",
+      "ssssssssssssssss",
+      "ssssssssssssssss",
+      "ssssssssssssssss",
+      " s s s          ",
+      " s s            ",
+      "         s  s   ",
+      "                ",
+      "    ss        s "
+    ],
+    [
+      "    mmm  mmmmm  ",
+      "mm              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "    mmm   mmmm  ",
+      "mm              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "    mmm   mmmm  ",
+      "mm              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "    mm    mm    ",
+      "mm              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

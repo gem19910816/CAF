@@ -1,0 +1,414 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "请",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "时",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 434,
+          "x": 58,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\">>>\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "史",
+        "block": "minecraft:loom[facing=north]"
+      },
+      {
+        "char": "坏",
+        "block": "minecraft:loom[facing=south]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "球",
+        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "tag": {
+          "z": 424,
+          "x": 152,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Register 1\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "除",
+        "block": "minecraft:cornflower"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "神",
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "击",
+        "block": "minecraft:grindstone[face=floor,facing=south]"
+      },
+      {
+        "char": "里",
+        "block": "minecraft:black_wool"
+      },
+      {
+        "char": "怎",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "输",
+        "block": "minecraft:smithing_table"
+      },
+      {
+        "char": "设",
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "改",
+        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "宝",
+        "block": "minecraft:stonecutter[facing=south]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "acwdaccdcdccdIdw",
+      "dracbawbdrrwddrc",
+      "bdwbawbbcbrradab",
+      "dacwbdcadccIwIda",
+      "cacccrbbbcwrbbac",
+      "wabccdadawrbwrdc",
+      "dwrbcbwacwcrbbdb",
+      "xxxxxxxxxxxxxxxx",
+      "abaabaacdcwrdadb",
+      "dbdbwwdarabdrcad",
+      "Iabwwccwbbdcawcr",
+      "wrwccwawacaabbwb",
+      "babrrddbbbbbadcc",
+      "rcddaracbdbdacwc",
+      "caccdwwcbdawabcd",
+      "xxxxxxxxxxxxxxxx"
+    ],
+    [
+      "gggggggggggggggg",
+      "iqi请ii iiqqqiiqi",
+      "     m 时  时qq时时m",
+      "     ggg史坏gggggg",
+      "    liq球  球除 球球 ",
+      "      jq     q  ",
+      "神    m时时击击时m时ql时",
+      "里怎  lgggggggg输输g",
+      "里怎   i球 i ii球  球",
+      "里怎      q   q   ",
+      "里怎             q",
+      "设q          mm  ",
+      "q  q      lpfoo ",
+      "q    q     iii  ",
+      " m    m         ",
+      "改Jj  l      mm m"
+    ],
+    [
+      "oyofeeffeHffyypf",
+      "iii请ii ii i iiii",
+      "     m         m",
+      "      j      宝宝 ",
+      "    l           ",
+      "      j         ",
+      "              l ",
+      "    l j       l ",
+      "     i          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " 时    m         ",
+      "改sj  l      mm m"
+    ],
+    [
+      "fefpyfefpEpeopff",
+      "ii 请ii ii   iiii",
+      "     m         m",
+      "      j         ",
+      "    l           ",
+      "      j         ",
+      "              l ",
+      "    l j       l ",
+      "     i          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m    m         ",
+      "  j  l      mm m"
+    ],
+    [
+      "fpofofyoeEefefey",
+      "ii 请ii ii   ii i",
+      "     m         m",
+      "      j        v",
+      "    lv         v",
+      "     vj        v",
+      "     v        lv",
+      "    lvj       l ",
+      "     i          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m    m         ",
+      "ҧgj  lgЅ    mm m"
+    ],
+    [
+      "yeeopyeeozgggggg",
+      "ii 请ii  i   i  i",
+      "     m         m",
+      "     gj        g",
+      "    lg         g",
+      "    ҧgj        g",
+      "     g        lg",
+      "    lgj       lg",
+      "     i          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m    m         ",
+      "lgj  lgj    mm m"
+    ]
+  ]
+}

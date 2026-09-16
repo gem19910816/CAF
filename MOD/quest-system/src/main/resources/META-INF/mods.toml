@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="gearsandflesh_quests"
+version="${version}"
+displayName="Gears and Flesh Quest System"
+authors="Gears and Flesh"
+description='''
+Server-authoritative daily, weekly, and special quests with an administrator editor.
+'''
+
+[[dependencies.gearsandflesh_quests]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.gearsandflesh_quests]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

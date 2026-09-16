@@ -1,0 +1,222 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "贞",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "闹",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "么",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "震",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "C",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "滂",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dtrue]"
+      },
+      {
+        "char": "膝",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "耻",
+        "block": "immersive_weathering:plate_iron"
+      },
+      {
+        "char": "谆",
+        "block": "minecraft:mossy_cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "伟",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "      c贞贞贞d   e ",
+      "      e       c ",
+      "      d       d ",
+      "      b       e ",
+      "      beecccccd ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "      d闹闹闹b么么么d ",
+      "      biGfififc ",
+      "      bGhggfffb ",
+      "      eihgigiGb ",
+      "      ebbdeedcc ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "      e   b震震震b ",
+      "      b       d ",
+      "      b       c ",
+      "      d       d ",
+      "      bcccddcbd ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "      e   b   c ",
+      "      d       e ",
+      "      c       d ",
+      "      b       c ",
+      "      bcbbedbbb ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "fqhgCCe   b   cC",
+      "ihifqqe       eg",
+      "fgqgiib       cC",
+      "qhqghhd       bC",
+      "qfgfqfbbbccbcdci",
+      "ghCiffhqhhiffhhq",
+      "iqqfCqgqfqfifggi",
+      "Ciiqqffghifgggfi",
+      "qCgfhChghqgfqqif",
+      "gfhqqhhfqififqiq",
+      "qfqqifqiffgChfih",
+      "CfigqqgiChffhhqq",
+      "hfiqCffgqfiggqgh",
+      "gqhhiiqhghghqqhq",
+      "fgghhgqqfgCgqhiq",
+      "fCifChqhgihiiiCi"
+    ],
+    [
+      "deeeebbakad   cl",
+      "     eekkra   el",
+      "     dbaaaa   cl",
+      "     bbk滂aa   e ",
+      "     ebcbcddddb ",
+      " 膝   cebbec     ",
+      "     ecebec 耻   ",
+      "     ccbced     ",
+      " 谆nn伟beeecc 耻   ",
+      "cdcecdddddcdebee",
+      "ebcddddbdbbbbcde",
+      "dbdcecccebebbcdb",
+      "dcddccbedceeedce",
+      "bcebdbbbccbeebdc",
+      "dbbcbedcdebdedeb",
+      "dcbcececedceebcc"
+    ]
+  ]
+}

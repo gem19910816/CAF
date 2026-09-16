@@ -1,0 +1,188 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "π",
+        "block": "minecraft:ladder[facing\u003dsouth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Δ",
+        "block": "minecraft:oak_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Μ",
+        "block": "minecraft:daylight_detector[inverted\u003dtrue,power\u003d11]",
+        "tag": {
+          "z": 327,
+          "x": 75,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 145
+        }
+      },
+      {
+        "char": "ͳ",
+        "block": "minecraft:daylight_detector[inverted\u003dfalse,power\u003d0]",
+        "tag": {
+          "z": 337,
+          "x": 75,
+          "ForgeCaps": {},
+          "id": "minecraft:daylight_detector",
+          "y": 145
+        }
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "θ",
+        "block": "minecraft:powered_rail[powered\u003dfalse,shape\u003deast_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:detector_rail[powered\u003dfalse,shape\u003deast_west,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   llll         ",
+      "aiihiahhhihhi   ",
+      "ahiiihπaiihhh   ",
+      "hahhhhihihhhh   ",
+      "haahiiaiaiaia   ",
+      "hiiiaiiaiihii   ",
+      "iiihaiaiiahhh   ",
+      "ihhiaihhihihi   ",
+      "hhihaiaiihahh   ",
+      "iiahhhaiihahio  ",
+      "ahhhhhhiaahhio  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "qqqqqqqqqqqqq   ",
+      "      Δ    Μq   ",
+      "           ͳq   ",
+      "        yy ͳq   ",
+      "        yy ͳq   ",
+      "q       yy ͳq   ",
+      "           ͳq   ",
+      "q          ͳq   ",
+      "    q      ͳq   ",
+      "  q   q    ͳq   "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        θθ      ",
+      "        ϕϕ      ",
+      "        θθ      ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

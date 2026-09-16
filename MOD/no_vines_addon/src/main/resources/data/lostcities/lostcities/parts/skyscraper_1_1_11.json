@@ -1,0 +1,221 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "в",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "ϼ",
+        "block": "minecraft:dark_oak_planks"
+      },
+      {
+        "char": "а",
+        "block": "minecraft:dark_oak_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "В",
+        "block": "minecraft:dark_oak_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "О",
+        "block": "minecraft:dark_oak_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:redstone_wire[east\u003dside,north\u003dside,power\u003d0,south\u003dside,west\u003dside]"
+      },
+      {
+        "char": "Е",
+        "block": "minecraft:dark_oak_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ҙ",
+        "block": "minecraft:skeleton_skull[rotation\u003d14]",
+        "tag": {
+          "z": 623,
+          "x": 74,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 170
+        }
+      },
+      {
+        "char": "Ӡ",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:flower_pot"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "       e        ",
+      "       f        ",
+      "       e        ",
+      "       f        ",
+      "       e        ",
+      "       f        ",
+      "     a i        ",
+      "       f        ",
+      "вhgegige        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ababbabd        ",
+      "babaabba        ",
+      "aaabbbbd        ",
+      "bbababaa        ",
+      "abababbd        ",
+      "aaabbbad        ",
+      "aabbaaaa        ",
+      "bbabaabd        ",
+      " aaaaddd        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ϼа Вϼϼаh        ",
+      "ϼаjВϼϼаΊ        ",
+      "Оyj ОО h        ",
+      " jyjj jf        ",
+      "ЕyҘjЕЕ e        ",
+      "ϼаjВϼϼаΊ        ",
+      "ϼа Вϼϼаi        ",
+      "О j ОО f        ",
+      "ӠegePege        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "T   T  i        ",
+      "       f        ",
+      "       h        ",
+      "       f        ",
+      "       h        ",
+      "T      f        ",
+      "     T i        ",
+      "       f        ",
+      "geghghge        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       d        ",
+      "       d        ",
+      "       d        ",
+      "       a        ",
+      "       d        ",
+      "       a        ",
+      "       a        ",
+      "       d        ",
+      "d ddddaa        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "C   CC h        ",
+      "C   CC f        ",
+      "       i        ",
+      "       f        ",
+      "       i        ",
+      "C   CC f        ",
+      "C   CC i        ",
+      "       f        ",
+      " igeghgh        ",
+      "   mmm          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

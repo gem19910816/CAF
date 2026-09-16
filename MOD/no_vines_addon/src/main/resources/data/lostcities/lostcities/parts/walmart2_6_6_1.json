@@ -1,0 +1,366 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "时",
+        "block": "minecraft:oak_wall_sign[facing\u003dnorth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 434,
+          "x": 58,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"\u003e\u003e\u003e\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "声",
+        "block": "minecraft:mossy_cobblestone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "请",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "校",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "看",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "求",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "尔",
+        "block": "minecraft:mossy_cobblestone_wall[east\u003dtall,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "公",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "办",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "死",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "指",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "省",
+        "block": "horror_element_mod:chained_entity[facing\u003dwest]"
+      },
+      {
+        "char": "希",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "听",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dnone,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "至",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "白",
+        "block": "minecraft:mossy_cobblestone_wall[east\u003dlow,north\u003dnone,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "及",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dlow,south\u003dlow,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "几",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "语",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:white_stained_glass"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "直",
+        "block": "immersive_weathering:cracked_stone_brick_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "别",
+        "block": "minecraft:mossy_stone_brick_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:stone_brick_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "天",
+        "block": "minecraft:stone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "把",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "数",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "具",
+        "block": "minecraft:mossy_stone_brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "烦",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003douter_right,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "败",
+        "block": "immersive_weathering:cracked_stone_brick_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "兵",
+        "block": "minecraft:stone_brick_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "身",
+        "block": "minecraft:stone_brick_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "              KҨ",
+      "        l     g ",
+      "        l       ",
+      "        l       ",
+      "时 时 时 时m时mm     ",
+      "nKnnnnnnnKgj    ",
+      "nҨnnnnnnn声i     ",
+      "nKnnnnnnnK m m  ",
+      "fEfyyoyfeDopefey",
+      " H请 ii i Dii iii",
+      " i       i      ",
+      "                ",
+      "         j      ",
+      "         j      ",
+      "         j      ",
+      "         j      "
+    ],
+    [
+      "              校 ",
+      "        l     g ",
+      "        l       ",
+      "        l       ",
+      "m   m  m那 m     ",
+      "看求ffflfff尔gj    ",
+      "看 fff公fff       ",
+      "看办fff死fff指 m m  ",
+      "oEfefeoeozyffeoy",
+      " z请 ii i Eii i i",
+      " i              ",
+      "                ",
+      "         j      ",
+      "        省j      ",
+      "         j      ",
+      "         j      "
+    ],
+    [
+      "              希听",
+      "        l     g ",
+      "        l       ",
+      "        l       ",
+      "m       那 m     ",
+      "看至ffflfff白g     ",
+      "看及fff公fff几      ",
+      "看及fff死fff几      ",
+      "oDfpoepffzypeeee",
+      " D请  i i zii i i",
+      " i              ",
+      "                ",
+      "         j      ",
+      "         j      ",
+      "         j      ",
+      "         j      "
+    ],
+    [
+      "           v    ",
+      "        l   v   ",
+      "        l  vv   ",
+      "        l  v    ",
+      "        l       ",
+      "         v      ",
+      "                ",
+      "   m m          ",
+      "fzeooofyeDpofefp",
+      " D请  i i语H i i i",
+      " i      G       ",
+      "        G       ",
+      "        Gj      ",
+      "        Gj      ",
+      "        Gj      ",
+      "        Gj      "
+    ],
+    [
+      "         fohhhhp",
+      "        lfffofoe",
+      "        lfpffeff",
+      "        lfphhhhp",
+      "        leohhhho",
+      "         fefeofe",
+      "         pefoppp",
+      "   m m   fffeepe",
+      "eCfepoeoyzHzzHEz",
+      " Cj  i   D直别FFF别",
+      "                ",
+      "                ",
+      "         j      ",
+      "         j      ",
+      "         j      ",
+      "         j      "
+    ],
+    [
+      "t天tttttt天Dj     ",
+      " tvv     C      ",
+      " tvvvv  把z      ",
+      " t    v 把z      ",
+      " t vv    D      ",
+      " t       Cj     ",
+      " t       Dj     ",
+      " t   数   Cj     ",
+      "fzfeoyoyez具烦    ",
+      " E       z败兵    ",
+      "    v          身",
+      "               身",
+      "  v      j      ",
+      "v        j      ",
+      "   v     j      ",
+      "v        j      "
+    ]
+  ]
+}

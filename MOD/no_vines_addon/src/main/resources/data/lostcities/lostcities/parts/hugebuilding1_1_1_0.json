@@ -1,0 +1,395 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "΄",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:chiseled_stone_bricks[weathering=false]"
+      },
+      {
+        "char": "ϲ",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "Ϡ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 601,
+          "x": 141,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "179s"
+        }
+      },
+      {
+        "char": "ϭ",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "Р",
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:gray_carpet"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "ѱ",
+        "block": "minecraft:oak_door[facing=west,half=lower,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "л",
+        "block": "minecraft:oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "А",
+        "block": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Э",
+        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "ҭ",
+        "block": "minecraft:mossy_cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "҉",
+        "block": "minecraft:stone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "Ҟ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "ϰ",
+        "block": "horror_element_mod:blood_1[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "҃",
+        "block": "minecraft:stone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ѯ",
+        "block": "minecraft:stone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Ѵ",
+        "block": "minecraft:skeleton_skull[rotation=11]",
+        "tag": {
+          "z": 601,
+          "x": 145,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 133
+        }
+      },
+      {
+        "char": "ђ",
+        "block": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "О",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Ҝ",
+        "block": "minecraft:oak_door[facing=west,half=upper,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ν",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 592,
+          "x": 145,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 186,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"CEO\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Robert Knox\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Я",
+        "block": "minecraft:cornflower"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "΅",
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "κ",
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "α",
+        "block": "immersive_weathering:mossy_chiseled_stone_bricks"
+      },
+      {
+        "char": "ϸ",
+        "block": "minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false,weathering=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aadddddQ΄Qtwmuuv",
+      "amadaAa΄΄Qwmuvtz",
+      "eaeeeAaQPmwvzvmu",
+      "AkameAeQPQzuttzu",
+      "avddeAdQQPuwuvut",
+      "kϲedeeeP΄΄vzwzmz",
+      "AAAAAAaQ΄Pvtmuvt",
+      "AAAAAAAPPQϠwAwmu",
+      "vtzuzvϭQQ΄mРwzuu",
+      "uwvmmzAPϠPzzuztv",
+      "wtuuwAtP΄PmtРtmz",
+      "zvzmvmtvmumuzzum",
+      "vumzuvwtuutvuutv",
+      "zvmttzmwwttwmwmz",
+      "mttutzmtvtumtttv",
+      "wuwmmzutuvzwwvwm"
+    ],
+    [
+      " onX ѱn  n  n   ",
+      " noo dл    n    ",
+      "X   XemА n    n ",
+      "de noaЭ         ",
+      "oҭon dn ҉ c     ",
+      "XFno d  c     n ",
+      "cϭbbcdr     n   ",
+      "cpcccpcҞpcE Р n ",
+      " ϰ ҃  lipѮn n n ",
+      "ϰѴ nn p ђ n     ",
+      " О n c    n   nn",
+      "   n n  n n   nn",
+      "  n  n n        ",
+      "n nn  n     n n ",
+      "n n   n    nn   ",
+      "n  nnn         n"
+    ],
+    [
+      "     Ҝf         ",
+      "     ef         ",
+      "    ΝgЯ         ",
+      "d    e          ",
+      "F   Νg          ",
+      "F    e  E       ",
+      "dhahaar         ",
+      "΅΅΅΅΅scf E      ",
+      "      l         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "     ef         ",
+      "     df         ",
+      "    Νg          ",
+      "     a          ",
+      "    Νg          ",
+      "     a          ",
+      "khahedr         ",
+      "  l lspf        ",
+      "      l         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " κ   gf         ",
+      "     df         ",
+      "     g          ",
+      "     a          ",
+      "     g          ",
+      "     e          ",
+      "khdhakr         ",
+      "  l lscf        ",
+      "      l         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "     gf         ",
+      "    Uαf         ",
+      "     g          ",
+      "    Uk          ",
+      "     g          ",
+      "  ϸ ϸd          ",
+      "ahkhdar         ",
+      "  l lspf        ",
+      "      l         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

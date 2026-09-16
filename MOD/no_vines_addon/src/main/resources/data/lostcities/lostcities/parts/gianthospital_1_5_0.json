@@ -1,0 +1,226 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "胡",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "瓣",
+        "block": "minecraft:oak_log[axis=y]"
+      },
+      {
+        "char": "恁",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "劲",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "床",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "巡",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "蒙",
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "箍",
+        "block": "minecraft:diorite_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "竺",
+        "block": "minecraft:quartz_pillar[axis=z]"
+      },
+      {
+        "char": "躅",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]"
+      },
+      {
+        "char": "唆",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "袅",
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "谟",
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "伟",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "调",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "tttotttttttttooo",
+      "tttttttttttttepp",
+      "tttttttttttttpdd",
+      "ttttttttottttcbp",
+      "tttttttttttttepp",
+      "tttttttttttttepp",
+      "tttttttttttttppp",
+      "ttttttttttttpbbb",
+      "ttttttttttttpppp",
+      "ttttttttttttdppc",
+      "ttttttttttttcppd",
+      "ttttttttttttdpep",
+      "ttttttttttttcpcp",
+      "ttttttttttttcdpp",
+      "tttttottttttoooo",
+      "ttttttttttttoooo"
+    ],
+    [
+      "sssKsssssss sddc",
+      "sssssss胡胡s胡ssdbd",
+      "ssssss胡ss胡sssebc",
+      "ssssssss瓣sssseee",
+      "ssssss胡胡ss胡ssccb",
+      "sssssss胡胡胡sssedb",
+      "sssssssssssssdbb",
+      "ssssssssssssedcc",
+      "ssssssssssssdbde",
+      "sssssssssssscdcb",
+      "sssssssssssseecb",
+      "ssssssssssssbbec",
+      "sssssss胡ssssdecc",
+      "ssssssssssssdeed",
+      "sssss瓣胡ssssscebb",
+      "sss胡s胡ssssssdeed"
+    ],
+    [
+      "             bcc",
+      "             bcb",
+      "             dcb",
+      "        瓣    deb",
+      "             bdd",
+      "             cbe",
+      "             ddc",
+      "            dbcb",
+      "            cccc",
+      "            eddc",
+      "            dbdc",
+      "            edcc",
+      "   恁劲床劲     dcbe",
+      "   劲床巡床劲    ecbe",
+      "   床巡瓣巡床    eede",
+      "   劲床巡床劲    edbd"
+    ],
+    [
+      "             蒙dd",
+      "      恁劲床劲恁  wdb",
+      "      劲床巡床劲  箍eb",
+      "      床巡瓣巡床  竺eb",
+      "      劲床巡床劲  eec",
+      "       劲床劲恁  竺ce",
+      "             蒙dd",
+      "            躅唆db",
+      "            袅edb",
+      "            谟蒙dc",
+      "            躅唆ec",
+      "            袅ecc",
+      "   恁劲床劲恁    谟蒙be",
+      "   劲床巡床劲    躅箍ed",
+      "   床巡瓣巡床    袅cbc",
+      "   劲床巡床劲    谟蒙cd"
+    ],
+    [
+      "              de",
+      "      恁劲床劲    de",
+      "      劲床巡床劲   bd",
+      "      床巡瓣巡床  pbe",
+      "      劲床巡床劲  袅dc",
+      "      恁劲床劲   ceb",
+      "              cb",
+      "              bb",
+      "             bec",
+      "              de",
+      "              ed",
+      "             bec",
+      "             jeb",
+      "     巡       伟db",
+      "    巡瓣巡     jpcd",
+      "     巡床      调db"
+    ],
+    [
+      "              ce",
+      "              eb",
+      "       床巡床    ee",
+      "       巡瓣巡   pbb",
+      "       床巡     bb",
+      "             pde",
+      "              dc",
+      "              eb",
+      "             pdd",
+      "              dc",
+      "              ec",
+      "             bce",
+      "             jee",
+      "     床       伟dd",
+      "    床巡床     jdcc",
+      "     床       调ce"
+    ]
+  ]
+}

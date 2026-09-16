@@ -1,0 +1,214 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "Z",
+        "block": "minecraft:stone_brick_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:quartz_pillar[axis\u003dx]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:iron_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:iron_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ӟ",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:iron_trapdoor[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "在",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:quartz_block"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "cccedbadaa      ",
+      "dcdccbceabdb    ",
+      "ccecbbaccdcdc   ",
+      "aeccaccbaddbbd  ",
+      "aeddbbbdecaadcb ",
+      "aaadcddaeeabacd ",
+      "cdeecabeacdbebdb",
+      "bccabcabccbadeee",
+      "aedbeaddddaedabd",
+      "eeebdcbabbebeddb",
+      "ceacaecbbabdddbb",
+      "cbbdddecabcecaea",
+      "ZZZcZZZbecdcdacb",
+      "   b   edddccabd",
+      "   c   bbeaedaea",
+      " G c G eabdebede"
+    ],
+    [
+      " e       b      ",
+      "         d      ",
+      "          f     ",
+      "            f   ",
+      " a              ",
+      "xax          f  ",
+      " e      x     ee",
+      "bdcb   bebccbbcb",
+      "          x  x  ",
+      "                ",
+      "                ",
+      "   e   e        ",
+      "nvnbvJvb        ",
+      "   b   b        ",
+      "   d   da      d",
+      " G b G d        "
+    ],
+    [
+      " c       c      ",
+      "         dss    ",
+      "          f s   ",
+      "            fl  ",
+      " a           fl ",
+      "kbk           Ӟ ",
+      " b      k     ce",
+      "ccab   beedadeab",
+      "          k  k  ",
+      "                ",
+      "                ",
+      "   d   b        ",
+      "nnvavvne        ",
+      "   c   c        ",
+      "   c   ca      b",
+      " G e G e        "
+    ],
+    [
+      " e       d      ",
+      "         cpp    ",
+      "          ffp   ",
+      "            fp  ",
+      " b            在 ",
+      "kdk          fp ",
+      " c      k     de",
+      "adde   ebcccccbb",
+      "          k  k  ",
+      "                ",
+      "                ",
+      "   a   c        ",
+      "vJCdvvre        ",
+      "   e   b        ",
+      "   b   ee      d",
+      " G b G b        "
+    ],
+    [
+      " c       b      ",
+      " I       a      ",
+      " I        f     ",
+      " I          f   ",
+      " b              ",
+      " d              ",
+      " a            ab",
+      "bdccIIIbeacaebed",
+      "                ",
+      "                ",
+      "                ",
+      "jjjejjjc        ",
+      "vKCervvb        ",
+      "   b   c        ",
+      "   a   ecIIIIIIe",
+      " G a G e        "
+    ],
+    [
+      " d       c      ",
+      " b        ee    ",
+      " a        bbd   ",
+      " d          cb  ",
+      " a           bc ",
+      " d           ea ",
+      " b             d",
+      "cedbdeeaaecaebeb",
+      "                ",
+      "                ",
+      "                ",
+      "eeeedecb        ",
+      "   c   d        ",
+      "   b   b        ",
+      "   d   aecdcebdb",
+      " G d G e        "
+    ]
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "θ",
+        "block": "minecraft:cobweb"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "Ѹ",
+        "block": "minecraft:spruce_stairs[facing\u003dwest,half\u003dtop,shape\u003dinner_left,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ќ",
+        "block": "minecraft:spruce_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѯ",
+        "block": "minecraft:smoker[facing\u003dnorth,lit\u003dfalse]",
+        "tag": {
+          "z": 576,
+          "x": 274,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:smoker",
+          "y": 148,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "Ͼ",
+        "block": "minecraft:chest[facing\u003dnorth,type\u003dsingle,waterlogged\u003dfalse]",
+        "loot": "firestation",
+        "tag": {
+          "z": 572,
+          "x": 270,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 144,
+          "Items": []
+        }
+      },
+      {
+        "char": "п",
+        "block": "minecraft:zombie_head[rotation\u003d2]",
+        "tag": {
+          "z": 576,
+          "x": 273,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 149
+        }
+      },
+      {
+        "char": "О",
+        "block": "minecraft:zombie_head[rotation\u003d15]",
+        "tag": {
+          "z": 576,
+          "x": 274,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 149
+        }
+      },
+      {
+        "char": "d",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:gray_stained_glass"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "М",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "2",
+        "block": "minecraft:polished_andesite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "R",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      " E θeeg         ",
+      "aaaaee          ",
+      " ccBeg          ",
+      "    c           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "aaaaig          ",
+      "xaaang          ",
+      " ccBng          ",
+      "    c           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "ѸќѮϾa           ",
+      "aaaaeg          ",
+      " ccBng          ",
+      "    c           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " пОdxy          ",
+      "avvae           ",
+      " ccBng          ",
+      "    c           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   Ea           ",
+      "aaiaey          ",
+      " KcМng          ",
+      "    c           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "iiia2           ",
+      "Renne           ",
+      "ne2RR           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

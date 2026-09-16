@@ -1,0 +1,777 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "许",
+        "block": "minecraft:cyan_wall_banner[facing\u003dsouth]",
+        "tag": {
+          "z": 323,
+          "Patterns": [
+            {
+              "Color": 1,
+              "Pattern": "rs"
+            },
+            {
+              "Color": 9,
+              "Pattern": "hhb"
+            },
+            {
+              "Color": 1,
+              "Pattern": "ts"
+            },
+            {
+              "Color": 1,
+              "Pattern": "ls"
+            },
+            {
+              "Color": 1,
+              "Pattern": "drs"
+            },
+            {
+              "Color": 9,
+              "Pattern": "bo"
+            }
+          ],
+          "x": 167,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 144
+        }
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "Ͳ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "1",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "ӊ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:smooth_quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "ώ",
+        "block": "minecraft:gray_carpet"
+      },
+      {
+        "char": "方",
+        "block": "refurbished_furniture:light_gray_stool"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis\u003dy]"
+      },
+      {
+        "char": "养",
+        "block": "refurbished_furniture:dark_oak_kitchen_cabinetry[facing\u003dwest,shape\u003dinside_corner_right]"
+      },
+      {
+        "char": "拉",
+        "block": "refurbished_furniture:dark_oak_kitchen_drawer[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "z": 354,
+          "x": 171,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": 141,
+          "Items": []
+        }
+      },
+      {
+        "char": "洋",
+        "block": "refurbished_furniture:recycle_bin[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "Recycled": 0,
+          "z": 354,
+          "x": 172,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "refurbished_furniture:recycle_bin",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 141,
+          "Powered": "1b",
+          "Items": [],
+          "NodePos": "47279001444493L",
+          "Connections": [
+            "L",
+            "47553879351437L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "俊",
+        "block": "refurbished_furniture:dark_electricity_generator[facing\u003dwest,powered\u003dtrue]",
+        "tag": {
+          "z": 354,
+          "x": 173,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 6951,
+          "id": "refurbished_furniture:electricity_generator",
+          "ForgeCaps": {},
+          "Enabled": "1b",
+          "y": 141,
+          "Items": [],
+          "NodePos": "47553879351437L",
+          "Overloaded": "0b",
+          "Connections": [
+            "L",
+            "47279001456781L",
+            "47279001444493L",
+            "46454367731853L",
+            "47004123537550L",
+            "46454367727757L",
+            "46454367735952L",
+            "46454367723662L"
+          ],
+          "TotalEnergy": 25600
+        }
+      },
+      {
+        "char": "敢",
+        "block": "refurbished_furniture:light_stove[facing\u003dwest,lit\u003dfalse,open\u003dfalse,powered\u003dtrue]",
+        "tag": {
+          "Processing": "0b",
+          "z": 355,
+          "x": 169,
+          "ProcessingTime": 0,
+          "TotalProcessingTime": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "refurbished_furniture:stove",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 141,
+          "Items": [],
+          "NodePos": "46454367727757L",
+          "CookingSpaces": [
+            {
+              "CookingTime": 0,
+              "Position": 0,
+              "TotalCookingTime": 0
+            },
+            {
+              "CookingTime": 0,
+              "Position": 1,
+              "TotalCookingTime": 0
+            },
+            {
+              "CookingTime": 0,
+              "Position": 2,
+              "TotalCookingTime": 0
+            }
+          ],
+          "Connections": [
+            "L",
+            "47553879351437L"
+          ]
+        }
+      },
+      {
+        "char": "然",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dsouth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "看",
+        "block": "minecraft:dark_oak_trapdoor[facing\u003dnorth,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "承",
+        "block": "refurbished_furniture:dark_oak_kitchen_cabinetry[facing\u003dwest,shape\u003dinside_corner_left]"
+      },
+      {
+        "char": "歉",
+        "block": "refurbished_furniture:dark_oak_kitchen_sink[facing\u003dsouth]",
+        "tag": {
+          "z": 357,
+          "x": 170,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_sink",
+          "y": 141,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "爽",
+        "block": "refurbished_furniture:dark_oak_kitchen_drawer[facing\u003dsouth,open\u003dfalse]",
+        "tag": {
+          "z": 357,
+          "x": 171,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:kitchen_drawer",
+          "y": 141,
+          "Items": []
+        }
+      },
+      {
+        "char": "河",
+        "block": "refurbished_furniture:light_freezer[facing\u003dsouth,open\u003dfalse]",
+        "tag": {
+          "z": 357,
+          "x": 172,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "y": 141,
+          "id": "refurbished_furniture:freezer",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "MaxProcessTime": 0,
+          "Powered": "1b",
+          "Items": [],
+          "NodePos": "47279001456781L",
+          "Connections": [
+            "L",
+            "47553879351437L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "巴",
+        "block": "refurbished_furniture:dark_electricity_generator[facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": 357,
+          "x": 173,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "id": "refurbished_furniture:electricity_generator",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "y": 141,
+          "Items": [],
+          "NodePos": "47553879363725L",
+          "Overloaded": "0b",
+          "Connections": [
+            "L"
+          ],
+          "TotalEnergy": 0
+        }
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "蓝",
+        "block": "refurbished_furniture:dark_oak_table[east\u003dtrue,north\u003dfalse,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "价",
+        "block": "refurbished_furniture:dark_oak_table[east\u003dtrue,north\u003dfalse,south\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "彩",
+        "block": "refurbished_furniture:dark_oak_table[east\u003dfalse,north\u003dfalse,south\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "є",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "据",
+        "block": "refurbished_furniture:light_toaster[facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": 354,
+          "x": 169,
+          "Heating": "0b",
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "y": 142,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:toaster",
+          "MaxProcessTime": 0,
+          "Powered": "1b",
+          "Items": [],
+          "NodePos": "46454367723662L",
+          "Connections": [
+            "L",
+            "47553879351437L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "怕",
+        "block": "refurbished_furniture:light_microwave[facing\u003dnorth,open\u003dfalse]",
+        "tag": {
+          "Processing": "0b",
+          "z": 323,
+          "x": 117,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "Energy": 0,
+          "y": 142,
+          "id": "refurbished_furniture:microwave",
+          "ForgeCaps": {},
+          "Enabled": "0b",
+          "MaxProcessTime": 0,
+          "Powered": "0b",
+          "Items": [],
+          "NodePos": "32160716435598L",
+          "Connections": [
+            "L"
+          ],
+          "ProcessTime": 0
+        }
+      },
+      {
+        "char": "早",
+        "block": "refurbished_furniture:frying_pan[facing\u003dnorth,lit\u003dfalse]",
+        "tag": {
+          "z": 338,
+          "x": 164,
+          "Flipped": "0b",
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "NeedsFlipping": "0b",
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:frying_pan",
+          "y": 142,
+          "Rotation": 0,
+          "Items": []
+        }
+      },
+      {
+        "char": "搞",
+        "block": "refurbished_furniture:oak_storage_jar[facing\u003dwest]",
+        "tag": {
+          "z": 357,
+          "x": 169,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:storage_jar",
+          "y": 142,
+          "Items": [
+            {
+              "Count": "1b",
+              "Slot": "0b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "1b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "2b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "3b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "4b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "5b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "6b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "7b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "8b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "9b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "10b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "11b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "12b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "13b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "14b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "15b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "16b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            },
+            {
+              "Count": "1b",
+              "Slot": "17b",
+              "id": "minecraft:cookie",
+              "tag": {
+                "RotMultiplier": "1.0d"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "char": "血",
+        "block": "refurbished_furniture:spruce_cutting_board[facing\u003dsouth]",
+        "tag": {
+          "CanExtract": "0b",
+          "z": 357,
+          "x": 171,
+          "PlacedByPlayer": "0b",
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:cutting_board",
+          "y": 142,
+          "Items": []
+        }
+      },
+      {
+        "char": "寄",
+        "block": "refurbished_furniture:light_fridge[facing\u003dsouth,open\u003dfalse]",
+        "tag": {
+          "z": 357,
+          "x": 172,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:fridge",
+          "y": 142,
+          "Items": []
+        }
+      },
+      {
+        "char": "给",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "将",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "vmsmvvsvmm      ",
+      "yhhm   许 s      ",
+      "whhm     s      ",
+      "Ͳwym    mm      ",
+      "1  ui   ss      ",
+      "X  ri   ms      ",
+      "1   ri  vm      ",
+      "    3riivm     i",
+      "      rusmiiivmo",
+      "        yurrruy ",
+      "        w     w ",
+      "                "
+    ],
+    [
+      "llllllhhhlhlllhh",
+      "lllhllhlllhllhlh",
+      "hlllhhhlllllhlhh",
+      "hhhlhlhhlhhhllhl",
+      "ssvmllhlhhllhlhh",
+      "uhhmlhhhlhhhhllh",
+      "whhmhllllhhlhhhl",
+      "ӊwovllhhlllhlhhl",
+      "Ͳ Povhhlllllhhll",
+      "1 Gymlllhllllhll",
+      "Ͳ  Pymhlllhhhhhl",
+      "   Puummlllhhhlm",
+      "    Gͱoummmmsmvo",
+      "      Gͱyoyoyooͱ",
+      "        wPͱPGGw ",
+      "                "
+    ],
+    [
+      "npnnnnppnnppCCnn",
+      "CnCnpnpnnnpnnnpn",
+      "npnpppnnCnpCpnpn",
+      "pnpnppnCpnCpnnpn",
+      "ajBapnpppCnnppCn",
+      "mvmappnnpnpnpnpp",
+      "whmBpppnnpnpppnp",
+      " wvBnnCnpnnnnnnp",
+      "ӊ  mBpCnpnpnnnpp",
+      "Ͳ  mapppnCnpppnn",
+      "ӊ   mBnpCpnnnnnn",
+      "    mmBBpppppnna",
+      "      vs       s",
+      "        vvmmmss ",
+      "        w     w ",
+      "                "
+    ],
+    [
+      "  ώ ώ     方方   ώ",
+      "  ώώ     tttt   ",
+      "        t养拉拉洋俊  ",
+      "       方t敢ώώ 然  ",
+      "tttt那  方t敢ώώ 看  ",
+      "ohht那   t承歉爽河巴  ",
+      "whht那    tttt   ",
+      " wyt那     方方    ",
+      "  Iot           ",
+      "  Oyt           ",
+      "   Qyt  方 方 方 方 ",
+      "   Ouott蓝价价价价价彩t",
+      "    QIoytttttttu",
+      "      OIoyoyuuyQ",
+      "        wIIIIIw ",
+      "                "
+    ],
+    [
+      "                ",
+      "         є  є   ",
+      "        є据 怕 є  ",
+      "         早      ",
+      "smmv     早      ",
+      "uhhv    є搞 血寄给  ",
+      "whhm     є  将   ",
+      " wos            ",
+      "   u            ",
+      "   ri           ",
+      "    r           ",
+      "    3rii        ",
+      "      rysmiiisso",
+      "        yorrrou ",
+      "        w     w ",
+      "                "
+    ],
+    [
+      "                ",
+      "         є  є   ",
+      "        є    є  ",
+      "                ",
+      "mmmv            ",
+      "uhhm    є    є  ",
+      "whhv     є  є   ",
+      " wyv            ",
+      "   ui           ",
+      "   r            ",
+      "    r           ",
+      "    3r i        ",
+      "      rovsiiisvo",
+      "        uyrrroo ",
+      "        w     w ",
+      "                "
+    ]
+  ]
+}

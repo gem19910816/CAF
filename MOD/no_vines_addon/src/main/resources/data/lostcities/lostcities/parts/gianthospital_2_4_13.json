@@ -1,0 +1,238 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "膝",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dnone,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "耻",
+        "block": "immersive_weathering:plate_iron"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "C",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "喃",
+        "block": "minecraft:cobblestone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "M",
+        "block": "immersive_weathering:exposed_plate_iron"
+      },
+      {
+        "char": "锁",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "槁",
+        "block": "minecraft:lever[face\u003dwall,facing\u003dnorth,powered\u003dfalse]"
+      },
+      {
+        "char": "赈",
+        "block": "immersive_weathering:weathered_cut_iron"
+      },
+      {
+        "char": "蹼",
+        "block": "minecraft:powered_rail[powered\u003dtrue,shape\u003dascending_north,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "峨",
+        "block": "minecraft:rail[shape\u003dnorth_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "桀",
+        "block": "immersive_weathering:weathered_plate_iron"
+      },
+      {
+        "char": "砾",
+        "block": "immersive_weathering:mossy_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "珈",
+        "block": "minecraft:rail[shape\u003dsouth_west,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "泷",
+        "block": "minecraft:redstone_wall_torch[facing\u003dwest,lit\u003dtrue]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "edecc       edcc",
+      "ebdec 膝      耻 耻",
+      "cdddbaa         ",
+      "cbbedQQ         ",
+      "ecbec           ",
+      "cdebe        Qa膝",
+      "edcbd        Qr ",
+      "dbbdb      膝 膝 膝",
+      "mmmm            ",
+      "          cedbcb",
+      "          dqqhgh",
+      "          bihfff",
+      "         jbCqhhq",
+      "         jbqCfqg",
+      "         jehihCi",
+      "         jccbbed"
+    ],
+    [
+      "bdcebaa     ebeb",
+      "cbcbc喃Q      M耻耻",
+      "eeecd           ",
+      "dddec           ",
+      "bbede           ",
+      "cdeeb          锁",
+      "eebcd          Q",
+      "eecce      膝 膝 膝",
+      "mmmm            ",
+      "          edbdcd",
+      "          chhfiq",
+      "          dgChff",
+      "         jcfiigq",
+      "         jcCiigh",
+      "         jchgihq",
+      "         jcebccd"
+    ],
+    [
+      "edcdc       dedb",
+      "bceec           ",
+      "edbde           ",
+      "ebcee           ",
+      "dcdee           ",
+      "cecec           ",
+      "beccb           ",
+      "ddbbe      膝 膝a喃",
+      " mmm          k喃",
+      "          bdedcd",
+      "          dgqggi",
+      "          eCgqiq",
+      "          chhiqi",
+      "         jdfgqgg",
+      "         jeCiqhi",
+      "         jcddcdc"
+    ],
+    [
+      "gCfhe       ccde",
+      "gqfge           ",
+      "hCfCc           ",
+      "gqCqc           ",
+      "Cihqe           ",
+      "hfiib           ",
+      "Cqgfb           ",
+      "cbcbe      ga锁  ",
+      " mmm       aaQ  ",
+      "          cqfddb",
+      "          cfqihg",
+      "          dChgfg",
+      "          biiCqC",
+      "         jdqffqq",
+      "         jdhCiii",
+      "         jdhqqfg"
+    ],
+    [
+      "    g       iiff",
+      "bd  i           ",
+      "槁c  i           ",
+      "fc 赈g           ",
+      "蹼b  h           ",
+      "峨e 桀i           ",
+      " b  g           ",
+      "dc砾gg           ",
+      " mmm            ",
+      "          e  bbc",
+      "          c     ",
+      "          c     ",
+      "          d     ",
+      "          b   膝 ",
+      "          d     ",
+      "          c     "
+    ],
+    [
+      "                ",
+      "bc              ",
+      " e              ",
+      "珈bM桀            ",
+      "泷c              ",
+      " cM桀            ",
+      " b              ",
+      "bb              ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              hk",
+      "              aa",
+      "              ra"
+    ]
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis=y]"
+      },
+      {
+        "char": "七",
+        "block": "refurbished_furniture:light_range_hood[facing=east,powered=false]",
+        "tag": {
+          "z": 329,
+          "x": 119,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:range_hood",
+          "y": 144,
+          "NodePos": "32710472274064L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "竟",
+        "block": "refurbished_furniture:light_range_hood[facing=west,powered=false]",
+        "tag": {
+          "z": 329,
+          "x": 120,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:range_hood",
+          "y": 144,
+          "NodePos": "32985350181008L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "不",
+        "block": "minecraft:spruce_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 340,
+          "x": 170,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 141,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"BeanTown\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "说",
+        "block": "minecraft:spruce_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 310,
+          "x": 112,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Dee Luxe Winner's\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Trophy Case\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "E",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "鱼",
+        "block": "minecraft:yellow_wall_banner[facing=east]",
+        "tag": {
+          "z": 327,
+          "Patterns": [],
+          "x": 176,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 141,
+          "CustomName": "{\"text\":\"WcMonalds\"}"
+        }
+      },
+      {
+        "char": "Ҕ",
+        "block": "minecraft:yellow_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "努",
+        "block": "minecraft:yellow_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:andesite"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "Ӫ",
+        "block": "minecraft:polished_diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "ͱ",
+        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "Ӡ",
+        "block": "minecraft:stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "ӡ",
+        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,weathering=false,west=low]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "Е",
+        "block": "minecraft:coarse_dirt"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "4",
+        "block": "minecraft:red_carpet"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "中",
+        "block": "minecraft:rail[shape=north_west,waterlogged=false]"
+      },
+      {
+        "char": "大",
+        "block": "minecraft:rail[shape=north_east,waterlogged=false]"
+      },
+      {
+        "char": "了",
+        "block": "minecraft:rail[shape=south_west,waterlogged=false]"
+      },
+      {
+        "char": "没",
+        "block": "minecraft:rail[shape=south_east,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "         ir     ",
+      "         mu     ",
+      "   mvmsvsmyw    ",
+      "   m     wu     ",
+      "   s     ir     ",
+      "   v     ir     ",
+      "   t      r     ",
+      "   t   七竟wo     ",
+      "不 说t   七竟Eow    ",
+      "   t   七竟wu     ",
+      "   t     ir     ",
+      "   v     ir     ",
+      "   m     ir     ",
+      "   m     wu     ",
+      "   vssmsvmyw    ",
+      "   s     mu     "
+    ],
+    [
+      "         ir     ",
+      "         mo     ",
+      "   mssmsvmuw    ",
+      "   s     wo     ",
+      "   m     ir     ",
+      "   v     ir     ",
+      "   t     ir     ",
+      "   i     wy     ",
+      "   i鱼    wow    ",
+      "   i     wo     ",
+      "   t     ir     ",
+      "   v     ir     ",
+      "   s     ir     ",
+      "   m     wy     ",
+      "   smmsvssow    ",
+      "   m     mu     "
+    ],
+    [
+      "         ir     ",
+      "         mo     ",
+      "   svsssmvow    ",
+      "   mҔҔҔҔҔwo     ",
+      "   mҔҔҔҔҔir     ",
+      "   mҔҔҔҔҔir     ",
+      "   tҔҔҔҔ努 r     ",
+      "   iҔҔҔҔҔwy     ",
+      "   iҔҔҔҔҔwow    ",
+      "   iҔҔҔҔҔwy     ",
+      "   tҔҔҔҔҔir     ",
+      "   vҔҔҔҔҔir     ",
+      "   vҔҔҔҔҔir     ",
+      "   mҔҔҔҔҔwy     ",
+      "   mmmvsmsuw    ",
+      "   s     so     "
+    ],
+    [
+      "llhhlhhllvuG    ",
+      "lhhhhhhlhsyG    ",
+      "hlhhllhllvow    ",
+      "hlhhllhlhsyG    ",
+      "lhhhhhhhhsoP    ",
+      "llhhhhlhlmoӪ    ",
+      "llllhhlhlsyG    ",
+      "lhhhhlhhlmoG    ",
+      "hhhlhhhhhmyw    ",
+      "hhlhhhlllmoͱ    ",
+      "lllhhlhlhmyͱ    ",
+      "hlhlhlhhhmoP    ",
+      "hhllhhhllsuP    ",
+      "hhhhhllhhvoG    ",
+      "hllhhlhhhmow    ",
+      "lllllhhhhsoP    "
+    ],
+    [
+      "y yy     D A    ",
+      "   Ӡ     D A    ",
+      "yӡyy     D v    ",
+      "y yy     D v    ",
+      "         D v    ",
+      "   3     D A    ",
+      "         D A    ",
+      "   3     DЕ0    ",
+      "         DЕv    ",
+      "         D A    ",
+      "         D A    ",
+      "  444    D v    ",
+      " 4   4   D v    ",
+      "4     4  D v    ",
+      "4     4  DxA    ",
+      "4     4  DxA    "
+    ],
+    [
+      "中 大中            ",
+      "                ",
+      "了 没了            ",
+      "中 大中            ",
+      "                ",
+      "yyyy            ",
+      "yyyy            ",
+      "yyyy      U     ",
+      "          U     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "           x    "
+    ]
+  ]
+}

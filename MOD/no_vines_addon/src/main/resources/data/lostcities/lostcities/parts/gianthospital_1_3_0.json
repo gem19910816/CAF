@@ -1,0 +1,414 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "莉",
+        "block": "minecraft:sandstone"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "胡",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "蒙",
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "唆",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "袅",
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "庇",
+        "block": "minecraft:diorite_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "捱",
+        "block": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "迫",
+        "block": "immersive_weathering:exposed_iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "芥",
+        "block": "immersive_weathering:weathered_iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "贀",
+        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "酝",
+        "block": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "倜",
+        "block": "horror_element_mod:sign_2[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "濠",
+        "block": "minecraft:oak_sign[rotation=2,waterlogged=false]",
+        "tag": {
+          "z": 441,
+          "x": -103,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 133,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"MEDICINE INSIDE\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "豊",
+        "block": "horror_element_mod:sign_1[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "棋",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "调",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "擂",
+        "block": "minecraft:diorite_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "捕",
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "训",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "辽",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "于",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "岛",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "幡",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "剖",
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "涨",
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "床",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "劲",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "巡",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "暸",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "狡",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "亥",
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "桨",
+        "block": "minecraft:diorite_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "麒",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "袱",
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "竺",
+        "block": "minecraft:quartz_pillar[axis=z]"
+      },
+      {
+        "char": "椎",
+        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "叽",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 483,
+          "x": -40,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 150,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"QUARANTINE\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"ZONE\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "tttttttttdbbb莉莉莉",
+      "tttttttttbbdd莉莉莉",
+      "ttooootttbbbb莉莉莉",
+      "ttottotttbbdc莉莉莉",
+      "ttooootttdebc莉莉莉",
+      "tttttttttdcdd莉莉莉",
+      "tttttttttcbbc莉莉莉",
+      "tttttttttecbc莉莉莉",
+      "xbbbxbbbxcdcc莉莉莉",
+      "ebddbeedecbbe莉莉莉",
+      "cbccbebbbbede莉莉莉",
+      "decbccceccbdb莉莉莉",
+      "cedccdeccbbbe莉莉莉",
+      "eebdbedbbcebb莉莉莉",
+      "xbbbxbbbxccbd莉莉莉",
+      "tttttttttdedc莉莉莉"
+    ],
+    [
+      "s胡sssssss wwwccb",
+      "s胡sssssss wwK蒙cd",
+      "s胡vuvvsss cb唆唆bb",
+      "胡svssvsssscdedbc",
+      "ssvvuusssjdbecee",
+      "sssssssss 袅edded",
+      "sssssssss 庇cdcec",
+      "捱sss捱sss捱jbcbebb",
+      "x迫芥迫x芥迫迫x贀bbcbee",
+      "酝倜  酝 倜 酝濠eddeeb",
+      "          袅dceeu",
+      "          袅debdu",
+      "          袅eddcv",
+      "捱   捱豊  捱豊ebbbdc",
+      "x迫芥芥x芥芥芥x贀cbdbed",
+      "酝sss酝sss酝sebbdbc"
+    ],
+    [
+      "            jde棋",
+      "             调d棋",
+      "          ww je棋",
+      "          weljcc",
+      "         jw擂  mH",
+      "               H",
+      "               捕",
+      "          w唆  n ",
+      "          wbljcb",
+      "          w蒙  m训",
+      "             豊辽于",
+      "               训",
+      "           倜 辽岛幡",
+      "          w唆  nH",
+      "          wd jdb",
+      "          K蒙   H"
+    ],
+    [
+      "            jcc棋",
+      "             调d棋",
+      "             jd棋",
+      "           p jbc",
+      "         j m  m ",
+      "               剖",
+      "                ",
+      "           n  n涨",
+      "          jpljcc",
+      "           m  mH",
+      "              辽幡",
+      "               训",
+      "             辽岛于",
+      "           n  nH",
+      "          jp jpb",
+      "           m   H"
+    ],
+    [
+      "床劲          jpe棋",
+      "巡床           调e棋",
+      "床劲           jb棋",
+      "劲          b jbc",
+      "         j m   捕",
+      "                ",
+      "               涨",
+      "           n  暸H",
+      "          jpljpb",
+      "           m  狡训",
+      "              辽于",
+      "               训",
+      "             辽岛幡",
+      "           n  nH",
+      "          jb jpe",
+      "           m   捕"
+    ],
+    [
+      "床劲          jpbd",
+      "巡床           mee",
+      "床劲         亥 jcc",
+      "劲          eyNce",
+      "         j 桨麒 袱d",
+      "           y  袱d",
+      "           y  袱c",
+      "           亥  袱d",
+      "           竺yNbe",
+      "           椎  袱b",
+      "           y  袱d",
+      "           y麒叽袱c",
+      "           y  袱e",
+      "           亥  袱b",
+      "           竺yy竺e",
+      "           椎  袱d"
+    ]
+  ]
+}

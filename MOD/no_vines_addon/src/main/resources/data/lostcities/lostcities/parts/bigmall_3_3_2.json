@@ -1,0 +1,366 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "ӕ",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "在",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "8",
+        "block": "minecraft:chiseled_stone_bricks[weathering=false]"
+      },
+      {
+        "char": "投",
+        "block": "minecraft:mossy_stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "k",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "z",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=2]"
+      },
+      {
+        "char": "原",
+        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 324,
+          "x": 177,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 133,
+          "Items": []
+        }
+      },
+      {
+        "char": "者",
+        "block": "minecraft:oak_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "快",
+        "block": "minecraft:crafting_table"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:acacia_wood[axis=y]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      },
+      {
+        "char": "一",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "年",
+        "block": "minecraft:nether_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "Ӌ",
+        "block": "minecraft:white_carpet"
+      },
+      {
+        "char": "ύ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "昨",
+        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ϗ",
+        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ғ",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 336,
+          "x": 144,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"MALL\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"CLOSED\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"DUE TO\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"OUTBREAK\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:white_concrete"
+      },
+      {
+        "char": "ӻ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "作",
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ӭ",
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "求",
+        "block": "minecraft:chiseled_quartz_block"
+      },
+      {
+        "char": "修",
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:smooth_quartz"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "s0AjofSfYjYfTNs0",
+      "00AAAsYfSEEEӕEAA",
+      "0AAsAAsAAfAA0ssA",
+      "nnpCpC0AAAsAs0sA",
+      "pnnnppnnbfffffff",
+      "pCnppnCnnbbfffff",
+      "nnnCnnpCnnbb在在8b",
+      "nnCpnpnpCppCnnnp",
+      "nnpnnnnppnpppppn",
+      "pnCnpnpnCCnnnppp",
+      "nnpnppCpnpnpnpnn",
+      "nppnnnnnnnCpppnn",
+      "ppnnnnCpCpnnppnp",
+      "pppppnpnCnnnppCp",
+      "投投投投CnpCpppppppn",
+      "kz kpnpnCnppCpnn"
+    ],
+    [
+      "kk原者者xxkkzxqqxxx",
+      "wuu快kkxqxxxqxqxx",
+      "ottyyoxxxxxxxxxk",
+      "ukktttyoxxxxxxxq",
+      "  zzktttyxxxxxxx",
+      " r zkkkttowIIOII",
+      "r  zkkqkttyyuoou",
+      "rr zk k  ktttttt",
+      "r kqz khhkkkk  s",
+      "一rzkqkz年hkkqkkkk",
+      "Ӌrkkkk hhkkzkz  ",
+      " rzkkk zkkqkkzzk",
+      " ύ kqkzz  zkzqk ",
+      "kq  昨k   zqkqz  ",
+      " k kϏqzqkkkkz kk",
+      "    Ϗk kz  qk z "
+    ],
+    [
+      "Ғ  者者           ",
+      "wrr            x",
+      "yiirrr xx      x",
+      "o  i irr   x xxx",
+      "      iirx x  xx",
+      "         rwxxx x",
+      "        i aorrry",
+      "          mm i m",
+      "       hhh      ",
+      "一       年h      ",
+      " ӻ     hhh      ",
+      "                ",
+      " ύ              ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "Ғ               ",
+      "w               ",
+      "oii             ",
+      "o   iixx        ",
+      "     iii        ",
+      "       ii wxx xx",
+      "        iiaorrry",
+      "          msii m",
+      "       作hhh     ",
+      "一        年h     ",
+      " ӻ     作hhh     ",
+      "                ",
+      " ύ              ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "Ӭ               ",
+      "求               ",
+      "oi              ",
+      "u  iiix         ",
+      "     ii        x",
+      "       i  w x  x",
+      "        i aurrry",
+      "          mmiiim",
+      "        作hhh    ",
+      "一         年h    ",
+      " ӻ      作hhh    ",
+      "                ",
+      " ύ              ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "求               ",
+      "修               ",
+      "oi              ",
+      "o   ii          ",
+      "     i          ",
+      "       ii w     ",
+      "        iiaorrru",
+      "          vm iis",
+      "         作hhh   ",
+      "一          年h   ",
+      " ӻ       作hhh   ",
+      "                ",
+      " ύ              ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

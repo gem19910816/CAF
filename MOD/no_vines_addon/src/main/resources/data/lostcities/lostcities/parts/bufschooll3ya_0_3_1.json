@@ -1,0 +1,218 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:dark_oak_leaves[distance=7,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "Ͷ",
+        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:oak_wood[axis=y]"
+      },
+      {
+        "char": "ϊ",
+        "block": "minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Φ",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ѣ",
+        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ө",
+        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "͵",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Η",
+        "block": "minecraft:dark_oak_leaves[distance=1,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:dark_oak_leaves[distance=7,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "ͻ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "·",
+        "block": "minecraft:dark_oak_leaves[distance=2,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ξ",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ͷ",
+        "block": "minecraft:dark_oak_leaves[distance=3,persistent=false,waterlogged=false]"
+      },
+      {
+        "char": "ψ",
+        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ͳ",
+        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "΄",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ұ",
+        "block": "minecraft:spruce_fence[east=true,north=true,south=true,waterlogged=false,west=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "     D          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     ͶH         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     ϊΦ         ",
+      "     ήH         ",
+      "      ѣ         ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     ͶΦ         ",
+      "      HӨ        ",
+      "      H         ",
+      "      Σ         ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     ͵          ",
+      "     Η  r       ",
+      "   ͻ H   u      ",
+      "    ͵ΗH rr      ",
+      "   r  Ζ· r      ",
+      "      H  r      ",
+      "       r        ",
+      "      uuu       ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "   rr rr        ",
+      "     eu         ",
+      "     r          ",
+      "      ͻ u       ",
+      "    ͵Ξ͵ͷ r      ",
+      "   ͵ΗHΦ   u     ",
+      "    ͵ήψ rr      ",
+      "     ·Ζ· u      ",
+      "   r ΗHͳu       ",
+      "      h         ",
+      "     u r        ",
+      "     eu ru      ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "      u         ",
+      "   r  h         ",
+      "     eu u       ",
+      "   ͻ͵Ξ  h       ",
+      "   ·ΗHΗ  u      ",
+      "   ͷ  ·ͻ΄       ",
+      " r  ͷ ͷ΄  e     ",
+      " e r     e      ",
+      "   rh ͶH u      ",
+      "    rr ұͳ       ",
+      "       Σ  h     ",
+      "      r         ",
+      "      r         "
+    ]
+  ]
+}

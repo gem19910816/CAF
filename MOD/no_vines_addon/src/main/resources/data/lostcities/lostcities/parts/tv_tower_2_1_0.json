@@ -1,0 +1,390 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:chiseled_quartz_block"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "两",
+        "block": "immersive_weathering:cracked_stone_brick_wall[east\u003dtall,north\u003dtall,south\u003dtall,up\u003dfalse,waterlogged\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "部",
+        "block": "minecraft:stone_brick_wall[east\u003dtall,north\u003dtall,south\u003dtall,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "资",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "使",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dtall,south\u003dtall,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:grass_block[snowy\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:basalt[axis\u003dx]"
+      },
+      {
+        "char": "校",
+        "block": "minecraft:dispenser[facing\u003dup,triggered\u003dfalse]",
+        "tag": {
+          "z": -273,
+          "x": -27,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "minecraft:dispenser",
+          "y": -53,
+          "Items": []
+        }
+      },
+      {
+        "char": "С",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "音",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003douter_left,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ӛ",
+        "block": "refurbished_furniture:spruce_chair[facing\u003deast,tucked\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "否",
+        "block": "horror_element_mod:blood_5[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "凤",
+        "block": "horror_element_mod:blood_10[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ӝ",
+        "block": "refurbished_furniture:spruce_chair[facing\u003dnorth,tucked\u003dfalse]"
+      },
+      {
+        "char": "外",
+        "block": "horror_element_mod:blood_8[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "式",
+        "block": "horror_element_mod:rotten_body[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "着",
+        "block": "horror_element_mod:blood_9[facing\u003dnorth,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:quartz_pillar[axis\u003dx]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ӻ",
+        "block": "refurbished_furniture:computer[facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": -276,
+          "x": -15,
+          "id": "refurbished_furniture:computer",
+          "y": 27,
+          "NodePos": "-3848291827685L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ҝ",
+        "block": "refurbished_furniture:computer[facing\u003dsouth,powered\u003dfalse]",
+        "tag": {
+          "z": -292,
+          "x": -29,
+          "id": "refurbished_furniture:computer",
+          "y": 63,
+          "NodePos": "-7696582590401L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "网",
+        "block": "minecraft:birch_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -288,
+          "x": -22,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -49,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"INFORMATION\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "X",
+        "block": "minecraft:red_wool"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:red_terracotta"
+      },
+      {
+        "char": "Ҽ",
+        "block": "minecraft:birch_wall_sign[facing\u003dsouth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -283,
+          "x": -20,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -49,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"INFORMATION\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "j",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:smooth_quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ҽ",
+        "block": "minecraft:quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ѩ",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "用",
+        "block": "minecraft:iron_bars[east\u003dtrue,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "oTTorTTnrTTrrTTK",
+      "nJKnJCCnrnorJonC",
+      "oCrnJrKCooKnKrrn",
+      "oTTrKTTorTToCTTo",
+      "CTTorTTrnTTCrTTK",
+      "ornCroKnKonrooJo",
+      "nJoonnonrConnKrC",
+      "CTTnrTTJJTTKoTTC",
+      "nTTrnTToJTTKCTTJ",
+      "KooKoKroCoCCnrKn",
+      "CKrrJrorrKorrnKo",
+      "JKrJnrnonrCoorno",
+      "两部部资两使使bKrrrronJ",
+      "QdQaacycJnKorrCn",
+      "ybyyabc资rrCnrror",
+      "a校b资Q校y资oKCCrrKo"
+    ],
+    [
+      "ССССС音    bӛ    ",
+      "          e     ",
+      "   x      aӛ    ",
+      "          d     ",
+      "     否凤   a ӝ ӝ ",
+      "    外式   iacddce",
+      "      着  ag     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   e   a        ",
+      "vvnarvCcx       ",
+      "   c   c        ",
+      "   d   a        ",
+      " G c G dx       "
+    ],
+    [
+      "          Ӻ     ",
+      "                ",
+      "   k      Ӻ     ",
+      "                ",
+      "                ",
+      "         ga Ҝ Ҝ ",
+      "         ag     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   d   d        ",
+      "rvvdvvvdk       ",
+      "   e   e        ",
+      "   a   b        ",
+      " G a G ak       "
+    ],
+    [
+      "                ",
+      "                ",
+      "   k            ",
+      "                ",
+      "                ",
+      "         ag     ",
+      "         aa     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   e   e        ",
+      "nvraJvvek       ",
+      "   b   d        ",
+      "   b   d        ",
+      " G b G ek       "
+    ],
+    [
+      "          网X    ",
+      "           X    ",
+      "           A    ",
+      "           E    ",
+      "           XEAEE",
+      "         ag Ҽ   ",
+      "         aa     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "jjjdjjje        ",
+      "vvvenvvc        ",
+      "   a   e        ",
+      "   c   e        ",
+      " G b G d        "
+    ],
+    [
+      "          MXTҽҽT",
+      "          MEҽҽҽҽ",
+      "          MEҽҽҽҽ",
+      "          ѩ用TҽҽT",
+      "          MEXEEE",
+      "         aa     ",
+      "MMMMMMMMѩaa     ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "acdddaeb        ",
+      "   e   a        ",
+      "   e   a        ",
+      "   c   d        ",
+      " G c G e        "
+    ]
+  ]
+}

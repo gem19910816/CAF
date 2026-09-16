@@ -1,0 +1,324 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "΅",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "ϵ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 614,
+          "x": 46,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "571s"
+        }
+      },
+      {
+        "char": "l",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "Κ",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "O",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "ϣ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "ϯ",
+        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "χ",
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone[weathering=false]"
+      },
+      {
+        "char": "ϰ",
+        "block": "minecraft:green_terracotta"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "Л",
+        "block": "minecraft:oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ϛ",
+        "block": "minecraft:oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "Ё",
+        "block": "minecraft:oak_door[facing=south,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "ζ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 618,
+          "x": 47,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 136,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"O.C.T\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"---------------\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Thanks for\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Visiting!\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "rtoxututtsrstoxr",
+      "utrutttuotxxtoru",
+      "susotxoruoottstt",
+      "ttssurxtsrusuust",
+      "rroxuottotruhhrs",
+      "urxsoouwxwwww΅PP",
+      "xssrrtoP΅΅PwP΅ϵ΅",
+      "ooutoroPxwroPxPw",
+      "rrsuxxurorslourl",
+      "orssosxxulllllll",
+      "oxsuxrtuϵlllllll",
+      "ttrxustrullΚllll",
+      "xrrortssOlϣΚϣlll",
+      "utuxuortollΚllll",
+      "rotxxuorOllΚllll",
+      "tosotxsoOllΚllll"
+    ],
+    [
+      "   q     q    q ",
+      "          qq    ",
+      "     q     q    ",
+      "      q         ",
+      "   q  q     hq  ",
+      "  q     qE dcЅ  ",
+      "q          b qE ",
+      "        qcϯϯcqq ",
+      "    qq    cbhEbχ",
+      "      qq kkmnmmm",
+      " q  q   Emccccbe",
+      "   q    qmbΚEbbb",
+      "q       dmbEEbbb",
+      "   q   qdkeqEEEE",
+      "   qq  ϰdncΚbbbb",
+      "q    q ϰdkcbbbbb"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            b   ",
+      "            hh  ",
+      "         a  aakЛ",
+      "          kiec  ",
+      "         Bj     ",
+      "        dab     ",
+      "        dae     ",
+      "       Ϛdyj  bbb",
+      "       Ϛdacvvbbb"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aakЁ",
+      "          kicc  ",
+      "         Bj     ",
+      "        dae     ",
+      "        dab     ",
+      "        dyj   bb",
+      "        dacv  bb"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aakb",
+      "          nieb ζ",
+      "         Bj     ",
+      "        dae     ",
+      "        dae     ",
+      "        dyj   bb",
+      "        dabv  bb"
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            hh  ",
+      "         a  aaaa",
+      "          niee  ",
+      "         Bj     ",
+      "        dae     ",
+      "        dac     ",
+      "        dyj     ",
+      "        dab   b "
+    ]
+  ]
+}

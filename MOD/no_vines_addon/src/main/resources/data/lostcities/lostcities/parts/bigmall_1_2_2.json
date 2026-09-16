@@ -1,0 +1,413 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:birch_planks"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:oak_planks"
+      },
+      {
+        "char": "ђ",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 359,
+          "x": 108,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "416s"
+        }
+      },
+      {
+        "char": "R",
+        "block": "minecraft:light_gray_wool"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "0",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:jungle_planks"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "唱",
+        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 323,
+          "x": 118,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 132,
+          "Items": []
+        }
+      },
+      {
+        "char": "ӕ",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "k",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=1]"
+      },
+      {
+        "char": "z",
+        "block": "immersive_weathering:oak_leaf_pile[age=0,layers=2]"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:red_wool"
+      },
+      {
+        "char": "u",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "Ӥ",
+        "block": "minecraft:polished_diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "击",
+        "block": "minecraft:polished_diorite_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "聊",
+        "block": "minecraft:polished_diorite_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "圣",
+        "block": "minecraft:polished_diorite_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+      },
+      {
+        "char": "过",
+        "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "ҕ",
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "В",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 332,
+          "x": 143,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 126,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"16th Century\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Loom\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"$530.99\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "i",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "є",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "不",
+        "block": "minecraft:spruce_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 340,
+          "x": 170,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 141,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"BeanTown\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "冲",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "相",
+        "block": "minecraft:white_wall_banner[facing=west]",
+        "tag": {
+          "z": 330,
+          "Patterns": [
+            {
+              "Color": 3,
+              "Pattern": "ts"
+            },
+            {
+              "Color": 3,
+              "Pattern": "ls"
+            },
+            {
+              "Color": 3,
+              "Pattern": "bs"
+            },
+            {
+              "Color": 0,
+              "Pattern": "bo"
+            }
+          ],
+          "x": 115,
+          "ForgeCaps": {},
+          "id": "minecraft:banner",
+          "y": 136
+        }
+      },
+      {
+        "char": "其",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ә",
+        "block": "immersive_weathering:exposed_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:polished_andesite"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "npnnnђRRRnbffA0N",
+      "CnppnRRRRnbffA0E",
+      "ppCnRRRRRnbbfAsN",
+      "npnnRR唱RRpbffAAN",
+      "ppnnRRRRRnbffA0N",
+      "CnnpRRRRRpbffA0ӕ",
+      "npnCRRRRRnbffAAN",
+      "pCnCRRRRRnbffAfN",
+      "pppnRRRRRpbbfA0ђ",
+      "nnppRRRRRnbffAfE",
+      "nnnnRRRRRpbffA0N",
+      "nnppRRRRRpbffA0N",
+      "pnnnRRRRRpbffA0N",
+      "pppnRRRRRpbffA0E",
+      "nCnCRRRRRnbbfAsN",
+      "ppnnpRRRRpbffAAN"
+    ],
+    [
+      "kzq999kkk9uӤxxxx",
+      "kkkkNqz O9uQxxxx",
+      "qkqk击击s O9owxxxz",
+      "kkzqkk聊qO9uQxxxx",
+      "q kz圣圣skz9oQxxxz",
+      "k  kqkzkq9uӤxxx3",
+      " q kkqk k9oQxxxx",
+      "  kz  q O9oӤxxxq",
+      "zkqzkq  O9owxxx过",
+      "kqk  k  O9oIxxxx",
+      "qkqzkkkkq9uQxxxx",
+      "k k k   k9oQxxxx",
+      "q q z z k9oOxxxk",
+      "kkzzzq  O9yIxqx3",
+      "kzkkq  kO9owxxzk",
+      "  kqNz  O9oOxxxz"
+    ],
+    [
+      "   999    rx  x ",
+      "    N    Ny xx  ",
+      "         Nywx   ",
+      "      ҕВ Nux    ",
+      "         irx x  ",
+      "         irxx  є",
+      "         irxx  x",
+      "         Noxxx  ",
+      "         Nuwx   ",
+      "         Nox    ",
+      "          rxxx  ",
+      "         irxxx  ",
+      "不        ir x   ",
+      "         Nyxx  є",
+      "         Now    ",
+      "    N    Noxx   "
+    ],
+    [
+      "   999    r     ",
+      "    N    No     ",
+      "         Nyw    ",
+      "         Nu     ",
+      "          r    x",
+      "          rx   є",
+      "         irx    ",
+      "         Nuxx   ",
+      "         Nuw    ",
+      "         Nux    ",
+      "         ir     ",
+      "          r x   ",
+      "         ir     ",
+      "         Nox   є",
+      "         Nuw    ",
+      "    N    Nox    "
+    ],
+    [
+      "   999    r     ",
+      "    N   ONo     ",
+      "    冲   ONow    ",
+      "   相其   ONo     ",
+      "   相其    ir    x",
+      "   相其    ir    3",
+      "   相其    ir     ",
+      "    其   ONox    ",
+      "   相其   ONyw    ",
+      "   相其   ONu     ",
+      "   相其    ir     ",
+      "   相其     r     ",
+      "   相其    ir     ",
+      "   相其   ONo    3",
+      "不   其   ONow    ",
+      "    N   ONy     "
+    ],
+    [
+      "   999    r     ",
+      "    N    Nu     ",
+      "    Ә    Nyw    ",
+      "    Ә    No     ",
+      "    Ә    ir     ",
+      "    Ә     r   xh",
+      "    Ә    ir     ",
+      "    Ә    Nox    ",
+      "    Ә    Now    ",
+      "    Ә    Nu     ",
+      "    Ә    ir     ",
+      "    Ә    ir     ",
+      "    Ә    ir     ",
+      "    Ә    No    h",
+      "    Ә    Now    ",
+      "    N    Ny     "
+    ]
+  ]
+}

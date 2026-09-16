@@ -1,0 +1,242 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "Ѧ",
+        "block": "minecraft:quartz_bricks"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "其",
+        "block": "minecraft:birch_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:smooth_quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѯ",
+        "block": "minecraft:diorite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѻ",
+        "block": "refurbished_furniture:spruce_chair[facing\u003dsouth,tucked\u003dfalse]"
+      },
+      {
+        "char": "П",
+        "block": "minecraft:barrel[facing\u003dup,open\u003dfalse]",
+        "tag": {
+          "z": -275,
+          "x": -15,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "minecraft:barrel",
+          "y": 2,
+          "Items": []
+        }
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ϐ",
+        "block": "refurbished_furniture:computer[facing\u003dnorth,powered\u003dfalse]",
+        "tag": {
+          "z": -259,
+          "x": -34,
+          "id": "refurbished_furniture:computer",
+          "y": -21,
+          "NodePos": "-9070971985941L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "麽",
+        "block": "minecraft:white_stained_glass_pane[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ѩ",
+        "block": "minecraft:white_stained_glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϒ",
+        "block": "minecraft:polished_andesite_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aebaddedbdebcdce",
+      "bbeeadaecbdadcdc",
+      "dbeceebbcacebeea",
+      "caecebaebbeeabdc",
+      "ddabddeeeadecebe",
+      "baddbabcdeaacecc",
+      "gaeeecabaaѦnѦѦJѦ",
+      "iadeebbcag     ϕ",
+      "aebccddbd       ",
+      "dcdcdbcdd       ",
+      "dadadcabd       ",
+      "aaabcbcdc       ",
+      "ceabcadac       ",
+      "adaedeaee       ",
+      "bdbebecdaa      ",
+      "bdadaabaag      "
+    ],
+    [
+      "        e  abdbd",
+      "       xa   其 x ",
+      "        a       ",
+      "        d       ",
+      "       xe       ",
+      "        e       ",
+      "ia      aaPPPѮPP",
+      "aaebecccaa      ",
+      " ece bccd       ",
+      "  Ѻ   Ѻ b       ",
+      "        d       ",
+      " Пac aeba       ",
+      "  Ѻ   Ѻ b       ",
+      "        e       ",
+      " bdc ddcaa      ",
+      "  Ѻ   Ѻ aa      "
+    ],
+    [
+      "        b  dbdda",
+      "       kb     k ",
+      "        d       ",
+      "        e       ",
+      "       kb       ",
+      "        a       ",
+      "ag      aa      ",
+      "gicNNNNbai      ",
+      "  ϐ   ϐ a       ",
+      "                ",
+      "        麽       ",
+      "  ϐ   ϐ Ѩ       ",
+      "        Ѩ       ",
+      "        b       ",
+      "  ϐ   ϐ aa      ",
+      "        ga      "
+    ],
+    [
+      "        d  ccbab",
+      "       kb     k ",
+      "        d       ",
+      "        a       ",
+      "       ka       ",
+      "        d       ",
+      "aa      aa      ",
+      "gaaNNNNeai      ",
+      "        a       ",
+      "                ",
+      "        麽       ",
+      "        Ѩ       ",
+      "        Ѩ       ",
+      "        a       ",
+      "        aa      ",
+      "        aa      "
+    ],
+    [
+      "        c  bdeba",
+      "        a       ",
+      "        b       ",
+      "        a       ",
+      "        d       ",
+      "        e       ",
+      "aa      gg      ",
+      "agebabcaag      ",
+      "        b       ",
+      "        e       ",
+      "        a       ",
+      "        a       ",
+      "        a       ",
+      "        b       ",
+      "        gg      ",
+      "        aa      "
+    ],
+    [
+      "hhhhhhhϒehhbcdbd",
+      "hhhhhhhϒehhhhhhh",
+      "hhhhhhhϒehhhhhhh",
+      "hhhhhhhϒahhhhhhh",
+      "hhhhhhhϒahhhhhhh",
+      "hhhhhhhϒahhhhhhh",
+      "aahhhhhϒiahhhhhh",
+      "aiecaecciahhhhhh",
+      "hhhhhhhϒahhhhhhh",
+      "hhhhhhhϒehhhhhTh",
+      "hhhhhhhϒchhhhhhh",
+      "hhhhhhhϒbhhhhhhh",
+      "hhhhhhhϒbhhhhhhh",
+      "hhhhhhhϒdhhhhhhh",
+      "hhhhhhhϒaahhhhhh",
+      "hhhhhhhϒiahhhhTh"
+    ]
+  ]
+}

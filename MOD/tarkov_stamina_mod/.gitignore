@@ -1,0 +1,24 @@
+﻿# Gradle / ForgeGradle
+build/
+.gradle/
+run/
+run-data/
+out/
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 备份
+kubejs_backup_*/

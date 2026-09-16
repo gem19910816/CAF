@@ -1,0 +1,247 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "你",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": -274,
+          "x": -42,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 1,
+          "SpawnRange": "4s",
+          "Delay": "731s"
+        }
+      },
+      {
+        "char": "Ӿ",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "Z",
+        "block": "minecraft:stone_brick_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dtall]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϓ",
+        "block": "refurbished_furniture:spruce_table[east\u003dfalse,north\u003dfalse,south\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "然",
+        "block": "horror_element_mod:blood_9[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "者",
+        "block": "horror_element_mod:blood_8[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "见",
+        "block": "horror_element_mod:rotten_body[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "谢",
+        "block": "horror_element_mod:blood_2[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "水",
+        "block": "horror_element_mod:blood_1[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:quartz_pillar[axis\u003dx]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:chiseled_quartz_block"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "dbadcbbeacadbadc",
+      "cbcccabdbbbddeda",
+      "cdadeddbddcdecbe",
+      "dbaecdbcbbcaccea",
+      "ecdbcecacebeaecd",
+      "addacdcdcdaacdae",
+      "cdbcedbeccdbcecd",
+      "ddbeacddeedac你eb",
+      "ebebccddabbeeaba",
+      "cbeecbbdbcdcacbc",
+      "bbcaaeddddeaeebe",
+      "becbeebdabcdbbba",
+      "ӾZZeZZZddebecebd",
+      "   e   dbddaacdd",
+      "   a   ebeedcbec",
+      " G c G abcbaddcc"
+    ],
+    [
+      " d      d  H    ",
+      " b             ϕ",
+      " c            Oϓ",
+      " d      a      H",
+      "bdeebbeae       ",
+      " d  x  d        ",
+      "       c        ",
+      "          然  dbe",
+      "        者见谢  b  ",
+      "        水    b  ",
+      "       a     a  ",
+      "   b   c        ",
+      "vvvcvJva        ",
+      "   c   d     b  ",
+      "   e   aa   eceb",
+      " G b G a     c  "
+    ],
+    [
+      " e      c       ",
+      " e              ",
+      " d              ",
+      " b      b       ",
+      "bcbNNNaae       ",
+      " e  k  b        ",
+      "       c        ",
+      "             ecc",
+      "             c  ",
+      "             a  ",
+      "       a     e  ",
+      "   a   e        ",
+      "vvvbrvvc        ",
+      "   d   b     b  ",
+      "   b   ac   aede",
+      " G a G c     a  "
+    ],
+    [
+      " b      a       ",
+      " a              ",
+      " c              ",
+      " d      a       ",
+      "bcdNNNcdc       ",
+      " a  k  c        ",
+      "       e        ",
+      "             ede",
+      "             a  ",
+      "             e  ",
+      "       a     d  ",
+      "   e   a        ",
+      "vrvdvvne        ",
+      "   a   c     a  ",
+      "   e   cb   aeae",
+      " G a G b     d  "
+    ],
+    [
+      " c      b       ",
+      " b      j       ",
+      " e      j       ",
+      " c      e       ",
+      "aceaaeacc       ",
+      " a     c        ",
+      "       b        ",
+      "       j     bbe",
+      "       j     d  ",
+      "       j     a  ",
+      "       a     c  ",
+      "jjjdjjje     j  ",
+      "ovJcrnve     j  ",
+      "   c   b     d  ",
+      "   d   acjjjbabb",
+      " G c G e     e  "
+    ],
+    [
+      " b      a       ",
+      " c      e       ",
+      " c      e       ",
+      " e      e       ",
+      "ddebdbaeb       ",
+      " e     e        ",
+      "       d        ",
+      "       d     eba",
+      "       d     c  ",
+      "       e     b  ",
+      "       a     d  ",
+      "baecdacd     e  ",
+      "   a   c     e  ",
+      "   a   c     e  ",
+      "   c   accbaaece",
+      " G b G e     b  "
+    ]
+  ]
+}

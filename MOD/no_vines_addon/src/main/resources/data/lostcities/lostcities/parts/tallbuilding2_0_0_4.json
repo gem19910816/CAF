@@ -1,0 +1,221 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:light_gray_carpet"
+      },
+      {
+        "char": "Ϣ",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dtrue,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ε",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "ϭ",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ϋ",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Ж",
+        "block": "minecraft:wither_skeleton_wall_skull[facing\u003dnorth]",
+        "tag": {
+          "z": 574,
+          "x": 233,
+          "ForgeCaps": {},
+          "id": "minecraft:skull",
+          "y": 161
+        }
+      },
+      {
+        "char": "х",
+        "block": "minecraft:end_rod[facing\u003dsouth]"
+      },
+      {
+        "char": "Ϧ",
+        "block": "minecraft:stone_pressure_plate[powered\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "          kkkkkk",
+      "       fmgmgjgag",
+      "       fhllllll ",
+      "       fb   l   ",
+      "       fh       ",
+      "       fc       ",
+      "                ",
+      "        c       ",
+      "        h       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "          kkkkkk",
+      "       fbbaaaaic",
+      "       fccccmicb",
+      "       fcbajjjca",
+      "       fccibbcbm",
+      "       fmbbabccb",
+      "        naccib y",
+      "        nccibb  ",
+      "       lbinbia  "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "          kkkkkk",
+      "       fbgagagng",
+      "       fh       ",
+      "       fa  E   E",
+      "       fh  E   E",
+      "       fn  E   E",
+      "        h  Ζ   Ζ",
+      "        c       ",
+      "        ax      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "          kkkkkk",
+      "       fagagbgig",
+      "       fh       ",
+      "       fa ϢΕϭ ϢΕ",
+      "       fh ϋ ϋ ϋ ",
+      "        c       ",
+      "        h       ",
+      "        bЖ      ",
+      "        aх      "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "          kkkkkk",
+      "       faanacbab",
+      "       fb       ",
+      "       fc  Ϧ   Ϧ",
+      "       fa       ",
+      "        i       ",
+      "        j       ",
+      "        m       ",
+      "        b       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "              k ",
+      "          kkkkkk",
+      "       fagagbgbg",
+      "       fh       ",
+      "       fa       ",
+      "        h       ",
+      "        b       ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

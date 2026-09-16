@@ -1,0 +1,282 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:spruce_planks"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ͼ",
+        "block": "minecraft:furnace[facing=west,lit=false]",
+        "tag": {
+          "z": 544,
+          "x": 48,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:furnace",
+          "y": 134,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "g",
+        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ω",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "Ξ",
+        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ΰ",
+        "block": "minecraft:dropper[facing=west,triggered=false]",
+        "tag": {
+          "z": 546,
+          "x": 48,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:dropper",
+          "y": 134,
+          "Items": []
+        }
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ν",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 545,
+          "x": 48,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "6",
+        "block": "minecraft:chest[facing=west,type=left,waterlogged=false]",
+        "loot": "bigbuildingsloot",
+        "tag": {
+          "z": 546,
+          "x": 48,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "k",
+        "block": "minecraft:oak_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "͵",
+        "block": "minecraft:oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaxaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa"
+    ],
+    [
+      "ddebbbb   bbibbb",
+      "dde  bbbbbbbibbb",
+      "ddebb   b bbibbb",
+      "ddebbbbbbb bibbb",
+      "eecbbbbb bbbib  ",
+      " bi   bbbb  ibb ",
+      "b ib b b bb i  b",
+      "bbibbbbbbb bibbb",
+      "bbibbbb bbbbib b",
+      "b ib  b     ibbb",
+      " bGoooooooooEbbb",
+      "bb bb bbbbbbb bb",
+      "  b  b b    b bb",
+      "bbb b bbbb bbbbb",
+      "b b b  b b  bb b",
+      "b bb b bbbbbbbbb"
+    ],
+    [
+      "ͼcg             ",
+      "ωcΞ             ",
+      "ΰcg l           ",
+      "ccgy            ",
+      "wwE             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " cg             ",
+      " cg             ",
+      "Νcg l           ",
+      "ccgy            ",
+      "GwE             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "Jcg             ",
+      "3cg             ",
+      "6cg l           ",
+      "ccgy            ",
+      "wwE             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      " kvj            ",
+      "hkv             ",
+      "hkv l           ",
+      "ccvy            ",
+      "E͵v             ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

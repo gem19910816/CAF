@@ -1,0 +1,250 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "n",
+        "block": "minecraft:oak_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:cobblestone_slab[type\u003ddouble,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "面",
+        "block": "minecraft:red_sand"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "顺",
+        "block": "immersive_weathering:weathered_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "世",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "耶",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dtall,south\u003dtall,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "Ү",
+        "block": "minecraft:sand"
+      },
+      {
+        "char": "望",
+        "block": "immersive_weathering:exposed_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "高",
+        "block": "immersive_weathering:weathered_iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "目",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "台",
+        "block": "minecraft:cobblestone_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "认",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dlow,south\u003dlow,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "及",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dlow,south\u003dlow,up\u003dfalse,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "安",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "常",
+        "block": "minecraft:cobblestone_wall[east\u003dlow,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dlow]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      " ҧnnnzj         ",
+      "  nnnCj         ",
+      " ҧnnnz          ",
+      "  KҨKCj         ",
+      " ҧnnnzj         ",
+      "  nnnC          ",
+      " ҧnnnCj         ",
+      "  nnnH          ",
+      "  nnnHj         ",
+      " ҧnnnDj         ",
+      "  nnnC          ",
+      " ҧnnnz          ",
+      "  KҨKCj         ",
+      "     D          ",
+      "     Cj         ",
+      "     Cj         "
+    ],
+    [
+      "  面面面G          ",
+      "  面面面G          ",
+      "  面面面顺          ",
+      "  世 耶H          ",
+      "  ҮҮҮ望          ",
+      "  ҮҮҮG          ",
+      "  ҮҮҮG          ",
+      "     高          ",
+      "     G          ",
+      "  ҮҮҮ高          ",
+      "  ҮҮҮ高          ",
+      "  ҮҮҮ望          ",
+      "  目 台zj         ",
+      "     G          ",
+      "     高          ",
+      "     G          "
+    ],
+    [
+      "  面面面望          ",
+      "  面面面高          ",
+      "  面面面望          ",
+      "  认及及z          ",
+      "  ҮҮҮ望          ",
+      "  ҮҮҮG          ",
+      "  ҮҮҮG          ",
+      "     高          ",
+      "     G          ",
+      "  ҮҮҮG          ",
+      "  ҮҮҮ望          ",
+      "  ҮҮҮG          ",
+      "  安常常E          ",
+      "     G          ",
+      "     G          ",
+      "     G          "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "     E          ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "     H          ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

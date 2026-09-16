@@ -1,0 +1,50 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '[6.0,6.2)'
+}
+
+group = 'com.gearsandflesh'
+version = '0.1.0'
+
+base {
+    archivesName = 'gearsandflesh-quest-system'
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.20.1-47.4.10'
+}
+
+tasks.named('processResources', ProcessResources).configure {
+    inputs.property 'version', project.version
+    filesMatching('META-INF/mods.toml') {
+        expand version: project.version
+    }
+}
+
+tasks.named('jar', Jar).configure {
+    manifest {
+        attributes([
+                'Specification-Title'     : 'gearsandflesh_quests',
+                'Specification-Vendor'    : 'Gears and Flesh',
+                'Specification-Version'   : '1',
+                'Implementation-Title'    : project.name,
+                'Implementation-Version'  : project.version,
+                'Implementation-Vendor'   : 'Gears and Flesh'
+        ])
+    }
+    finalizedBy 'reobfJar'
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}

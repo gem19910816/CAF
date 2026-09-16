@@ -1,0 +1,436 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "开",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 387,
+          "x": 24,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "584s"
+        }
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ҩ",
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "满",
+        "block": "minecraft:blast_furnace[facing=north,lit=false]",
+        "tag": {
+          "z": 418,
+          "x": 67,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:blast_furnace",
+          "y": 134,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "声",
+        "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "证",
+        "block": "minecraft:furnace[facing=north,lit=false]",
+        "tag": {
+          "z": 418,
+          "x": 95,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:furnace",
+          "y": 133,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "佳",
+        "block": "minecraft:blast_furnace[facing=south,lit=false]",
+        "tag": {
+          "z": 420,
+          "x": 92,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:blast_furnace",
+          "y": 133,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "概",
+        "block": "minecraft:furnace[facing=south,lit=false]",
+        "tag": {
+          "z": 420,
+          "x": 98,
+          "CookTimeTotal": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "CookTime": 0,
+          "ForgeCaps": {
+            "polymorph:block_entity_recipe_data": {}
+          },
+          "id": "minecraft:furnace",
+          "y": 133,
+          "Items": [],
+          "BurnTime": 0,
+          "RecipesUsed": {}
+        }
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "西",
+        "block": "horror_element_mod:blood_9[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "简",
+        "block": "horror_element_mod:impaled_soldier[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "爱",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "却",
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "影",
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "连",
+        "block": "horror_element_mod:blood_1[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "送",
+        "block": "horror_element_mod:marine_body[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "板",
+        "block": "horror_element_mod:blood_9[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "呵",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "体",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "强",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "报",
+        "block": "horror_element_mod:blood_1[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "斯",
+        "block": "horror_element_mod:spiked_body[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "决",
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "里",
+        "block": "minecraft:black_wool"
+      },
+      {
+        "char": "未",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "基",
+        "block": "horror_element_mod:blood_9[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "队",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "必",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "思",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "万",
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "B",
+        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "数",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "性",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "oypyyfffofoefeee",
+      "fppefppfpfeeffyy",
+      "opfoeyyofeefooff",
+      "eeofyeppfoyoooyf",
+      "fefeffofeeoopooe",
+      "oeypypeefeyeoeyo",
+      "oepeeeofpefeofyo",
+      "e开ppypffeeefyepe",
+      "caaddwadacdcdaac",
+      "wxwdabdrwxrcbdcc",
+      "dxawbwaacxwaawrb",
+      "cxdbabbacxadwbda",
+      "wxacddwccxccc开aw",
+      "bxcbbwdadxbbbIad",
+      "bxrdbrbraxcddIbd",
+      "cxdccabrcxcbcbIa"
+    ],
+    [
+      "                ",
+      " mmmm m  mm  mm ",
+      "           Ҩ满声 证",
+      "                ",
+      "           Ҩ佳Ҩ 概",
+      "               q",
+      " m西      q      ",
+      " D简西     z   mm ",
+      "爱z却     影C爱爱gggg",
+      "iiiiii qi qi i连送",
+      "              q板",
+      "               q",
+      "    呵西体      Ҭ  ",
+      "强   报斯报l  强 决里未 ",
+      "强 q  基队q  强 决里未 ",
+      "强q  必那 q  强 决里gg"
+    ],
+    [
+      "                ",
+      " mmmm m  mm  mm ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m              ",
+      " Ej      D   mm ",
+      "影C却     影E爱爱fooo",
+      "iiiiii ii ii iii",
+      "                ",
+      "                ",
+      "    呵           ",
+      "     思 l        ",
+      "     j队         ",
+      "    必那        万 "
+    ],
+    [
+      "                ",
+      " mmmm m  mm  mm ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " m              ",
+      " D       E   mm ",
+      " C却     影z爱爱eepp",
+      "iiiiii ii ii iii",
+      "                ",
+      "                ",
+      "    呵           ",
+      "     思 l        ",
+      "     j队         ",
+      "    必那          "
+    ],
+    [
+      "                ",
+      " mmmm m  mm  mm ",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BBBBBBBBBBBBBBBB",
+      "BzBBBBBBBEBBBBBB",
+      "爱C爱爱爱爱爱爱爱H爱爱eofp",
+      "iiiiii ii ii iii",
+      "                ",
+      "                ",
+      "    呵           ",
+      "     思 l        ",
+      "     j队         ",
+      "    必那          "
+    ],
+    [
+      "                ",
+      " mmmm m  mm  mm ",
+      "m数   m数性       m",
+      "gggggggggggggggg",
+      "gggggggggggggggg",
+      "gggggggggggggggg",
+      "gggggggggggggggg",
+      "gCgggggggDgggggg",
+      "oDefoepyezpoefey",
+      "iiiiii ii ii iii",
+      "                ",
+      "                ",
+      "    呵           ",
+      "     思 l        ",
+      "     j队         ",
+      "    必那          "
+    ]
+  ]
+}

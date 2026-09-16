@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IRI",
+    "IBI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "B": { "item": "minecraft:bucket" }
+  },
+  "result": {
+    "item": "vehiclelock:gas_pump",
+    "count": 1
+  }
+}

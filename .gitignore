@@ -1,0 +1,23 @@
+# Gradle 构建产物
+build/
+.gradle/
+.gradle-user/
+.gradle-build/
+.gradle-project-cache/
+
+# 运行环境
+run/
+logs/
+crash-reports/
+hs_err_pid*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 其他
+local.properties
+.mixin.out/
+.javac-check-*/
+*.log

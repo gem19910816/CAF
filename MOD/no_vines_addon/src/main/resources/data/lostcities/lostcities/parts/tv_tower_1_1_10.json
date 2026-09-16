@@ -1,0 +1,216 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "Р",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:iron_bars[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:quartz_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "П",
+        "block": "minecraft:barrel[facing\u003dup,open\u003dfalse]",
+        "tag": {
+          "z": -275,
+          "x": -15,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "minecraft:barrel",
+          "y": 2,
+          "Items": []
+        }
+      },
+      {
+        "char": "У",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "С",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ѫ",
+        "block": "doomsday_decoration:crt[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӝ",
+        "block": "doomsday_decoration:host[facing\u003dwest,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:white_stained_glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "у",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "idddbaedaabcdeea",
+      "ecadedbddebebbeb",
+      "debccaeaaeedacca",
+      "ebbebbeacaadebed",
+      "aaecbeaebdbdadda",
+      "dabadeeebedbceeb",
+      "adccbbbbbaedbbee",
+      "bbedcebabebcceab",
+      "cdbbabdcdedaaaac",
+      "cadddaaaedcbddbe",
+      "cccaaceadaadeade",
+      "edeedebbadedbebd",
+      "eecbecdeedeeРz b",
+      "ddaaccacbded z e",
+      "cdbbbdbedacd Y c",
+      "badbcacedccd   b"
+    ],
+    [
+      "f   Oa    b     ",
+      "     e          ",
+      "                ",
+      "  a  a    d     ",
+      " Oc Oc    ecccbe",
+      "  d  d     d  x ",
+      "           d    ",
+      "  a  П          ",
+      " Ob Oe          ",
+      "  d  b          ",
+      "           a    ",
+      "  d  e     d a b",
+      " Oc Oc     e zУd",
+      "  e  c     d zСe",
+      "aaddbad   ca Y d",
+      "  c  d     c   b"
+    ],
+    [
+      "f    Ѫ    a     ",
+      "     Ӝ          ",
+      "                ",
+      "          b     ",
+      "  Ѫ  Ѫ    cdaNNN",
+      "  Ӝ  Ӝ     d  k ",
+      "           a    ",
+      "                ",
+      "  Ѫ  Ѫ          ",
+      "  Ӝ  Ӝ          ",
+      "           e    ",
+      "           e d b",
+      "  Ѫ  Ѫ     a z d",
+      "  Ӝ  Ӝ     c zУa",
+      "ecbecba   be YСc",
+      "     b     a   c"
+    ],
+    [
+      "          c     ",
+      "                ",
+      "                ",
+      "          c     ",
+      "          cdaNNN",
+      "           a  k ",
+      "           e    ",
+      "                ",
+      "                ",
+      "                ",
+      "           b    ",
+      "           e e a",
+      "           b z a",
+      "           b z a",
+      "edddcbc   cbуzУe",
+      "     e     cacad"
+    ],
+    [
+      "f         b     ",
+      "          j     ",
+      "          j     ",
+      "          a     ",
+      "          ddebae",
+      "           b    ",
+      "           a    ",
+      "           j    ",
+      "           j    ",
+      "           j    ",
+      "           b    ",
+      "           dbdba",
+      "           d z c",
+      "           eуz a",
+      "dbbbdbejjjbbРY a",
+      "     a     b   a"
+    ],
+    [
+      "a         d     ",
+      "          a     ",
+      "          d     ",
+      "          d     ",
+      "          aaaeee",
+      "           e    ",
+      "           b    ",
+      "           b    ",
+      "           d    ",
+      "           c    ",
+      "           d    ",
+      "           cccba",
+      "           dуz b",
+      "           eРz e",
+      "bdebbeaecada Y d",
+      "     b     b   b"
+    ]
+  ]
+}

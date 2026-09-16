@@ -1,0 +1,232 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "开",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 387,
+          "x": 24,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 132,
+          "SpawnRange": "4s",
+          "Delay": "584s"
+        }
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "动",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "龙",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:cracked_stone_bricks"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "rrbckbcccdbepfep",
+      "dkdcackcbkkpeeey",
+      "cbckbbccadbfp开po",
+      "ccadkkkcdkbpeeee",
+      "bcakcccacccopppy",
+      "ckcbkadkbkbooeef",
+      "dadaacrcakdkbdbr",
+      "aacakakkbabddakd",
+      "akbaaadccdakbcra",
+      "kcbbbacdakkkkdca",
+      "kbcdakdcabdbdkcd",
+      "dbrkdkkbkarbbaka",
+      "crbdaddcbbrrrcdb",
+      "acdkadbcckeofeoy",
+      "cckkccbaaceffeeo",
+      "rcababdbkd开开fpoe"
+    ],
+    [
+      "qq              ",
+      "            ҬҬҬҬ",
+      "           ҬҬC  ",
+      "            ҬҬҬҬ",
+      "  q             ",
+      "                ",
+      "      q  q     q",
+      "                ",
+      "              q ",
+      "                ",
+      "           l    ",
+      "  q       动     ",
+      " q        q动q   ",
+      "           l    ",
+      "          mm    ",
+      "q        lCzmmmm"
+    ],
+    [
+      "                ",
+      "                ",
+      "             H  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "           l    ",
+      "          龙     ",
+      "           龙    ",
+      "           l    ",
+      "          mm    ",
+      "         lEzmmmm"
+    ],
+    [
+      "                ",
+      "                ",
+      "             E  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "           l    ",
+      "                ",
+      "           l    ",
+      "           l    ",
+      "          mm    ",
+      "         lCC mmm"
+    ],
+    [
+      "                ",
+      "                ",
+      "             E  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "           l    ",
+      "                ",
+      "           l    ",
+      "           l    ",
+      "          m     ",
+      "         lzE  mm"
+    ],
+    [
+      "                ",
+      "                ",
+      "             D  ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "           l    ",
+      "                ",
+      "           l    ",
+      "           l    ",
+      "          m     ",
+      "         lEE  mm"
+    ]
+  ]
+}

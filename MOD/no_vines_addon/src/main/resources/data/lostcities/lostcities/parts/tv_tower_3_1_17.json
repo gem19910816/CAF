@@ -1,0 +1,200 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "ϔ",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:iron_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӟ",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing\u003deast,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ӻ",
+        "block": "refurbished_furniture:computer[facing\u003dwest,powered\u003dfalse]",
+        "tag": {
+          "z": -276,
+          "x": -15,
+          "id": "refurbished_furniture:computer",
+          "y": 27,
+          "NodePos": "-3848291827685L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "t",
+        "block": "minecraft:iron_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "在",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "a               ",
+      "aaaiaaig        ",
+      "eabbdbaag       ",
+      "cdddacga        ",
+      "bcdeceab        ",
+      "abaccdeac       ",
+      "cbebbbdgc       ",
+      "adcdeebad       ",
+      "bbeddabad       ",
+      "ececbbdgda      ",
+      "aeaabbbab       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "g               ",
+      "       a        ",
+      "bcaaeaaaa       ",
+      "b  x  f         ",
+      "d     f         ",
+      "d               ",
+      "   c   f        ",
+      "   c ϔ          ",
+      "c  e   f        ",
+      "ecaceabaci      ",
+      "e  c   f        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "i               ",
+      "       g        ",
+      "cdbcbegaa       ",
+      "d  k  fl        ",
+      "b     fl        ",
+      "e       Ӟ       ",
+      "       fl       ",
+      "   Ӻ   fl       ",
+      "a      fӞ       ",
+      "dccbaccgca      ",
+      "c       l       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "a               ",
+      "       a        ",
+      "beacaeaga       ",
+      "a  k   t        ",
+      "c     ft        ",
+      "d      ft       ",
+      "       ft       ",
+      "        t       ",
+      "d      ft       ",
+      "dcaceadaaa      ",
+      "c      f在       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "a               ",
+      "       a        ",
+      "bbaebcaaa       ",
+      "a     f         ",
+      "d     f         ",
+      "e      f        ",
+      "I               ",
+      "I      f        ",
+      "a               ",
+      "ecbdcbcaci      ",
+      "e      f        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "a               ",
+      "       a        ",
+      "bcdaebaia       ",
+      "d     ic        ",
+      "d     ab        ",
+      "e      ac       ",
+      "c      ge       ",
+      "b      gb       ",
+      "a      ab       ",
+      "bacaadcibi      ",
+      "b      ge       "
+    ]
+  ]
+}

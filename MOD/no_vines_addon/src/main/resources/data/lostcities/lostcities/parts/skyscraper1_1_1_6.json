@@ -1,0 +1,178 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "A",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:smooth_stone_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "Η",
+        "block": "minecraft:glass_pane[east\u003dtrue,north\u003dfalse,south\u003dfalse,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dfalse,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dtrue,waterlogged\u003dfalse,west\u003dfalse]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "   b  bA        ",
+      "   b    f       ",
+      "       g        ",
+      "        f       ",
+      "        f       ",
+      "       g        ",
+      "      e         ",
+      "  p    af       ",
+      " g gg  g        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   a  NA        ",
+      "   a    f       ",
+      "       g        ",
+      "        f       ",
+      "        f       ",
+      "       g        ",
+      "      n         ",
+      "  p    af       ",
+      " g gg  g        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   a   A        ",
+      "        f       ",
+      "       g        ",
+      "        f       ",
+      "       af       ",
+      "       g        ",
+      "     Ηn         ",
+      "  p    af       ",
+      " g gg  g        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       A        ",
+      "        f       ",
+      "      ήg        ",
+      "      caf       ",
+      "      caf       ",
+      "      jg        ",
+      "     Ηk         ",
+      "  p    af       ",
+      " g gg  g        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "       A        ",
+      "      caf       ",
+      "      jg        ",
+      "      caf       ",
+      "      eaf       ",
+      "      jg        ",
+      "     Ηk         ",
+      "  p    af       ",
+      " g gg  g        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "   b   A        ",
+      "  bbbbeaf       ",
+      "    bbeg        ",
+      "   bbbbaf       ",
+      "   bbbbaf       ",
+      "    bbbg        ",
+      "     bc         ",
+      "  p    af       ",
+      " g gg  g        ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

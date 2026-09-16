@@ -1,0 +1,458 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Β",
+        "block": "minecraft:nether_brick_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ѐ",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing\u003deast,half\u003dtop,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ι",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dnorth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ͽ",
+        "block": "minecraft:polished_andesite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϯ",
+        "block": "minecraft:nether_brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:black_concrete"
+      },
+      {
+        "char": "С",
+        "block": "minecraft:campfire[facing\u003dsouth,lit\u003dtrue,signal_fire\u003dtrue,waterlogged\u003dfalse]",
+        "tag": {
+          "CookingTotalTimes": [
+            "I",
+            0,
+            0,
+            0,
+            0
+          ],
+          "z": 580,
+          "x": 48,
+          "CookingTimes": [
+            "I",
+            0,
+            0,
+            0,
+            0
+          ],
+          "ForgeCaps": {},
+          "id": "minecraft:campfire",
+          "y": 168,
+          "Items": []
+        }
+      },
+      {
+        "char": "b",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:cobblestone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "z",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "υ",
+        "block": "minecraft:stone_brick_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ш",
+        "block": "minecraft:cobblestone_stairs[facing\u003deast,half\u003dtop,shape\u003dinner_right,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "Б",
+        "block": "minecraft:dark_oak_wall_sign[facing\u003dwest,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 586,
+          "x": 48,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 168,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"FUEL PUMP\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"(DO NOT USE WHEN\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"A LEAK IS NEAR)\"}],\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ч",
+        "block": "minecraft:glass_pane[east\u003dfalse,north\u003dtrue,south\u003dfalse,waterlogged\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:stone[weathering\u003dfalse]"
+      },
+      {
+        "char": "К",
+        "block": "immersive_weathering:exposed_iron_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "΅",
+        "block": "minecraft:smooth_quartz_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:polished_andesite_slab[type\u003dbottom,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "λ",
+        "block": "minecraft:nether_brick_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ͷ",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "Ј",
+        "block": "minecraft:birch_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "ϰ",
+        "block": "minecraft:birch_trapdoor[facing\u003deast,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:redstone_lamp[lit\u003dfalse]"
+      },
+      {
+        "char": "α",
+        "block": "minecraft:smooth_quartz_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Λ",
+        "block": "minecraft:cobblestone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_stone_slab[type\u003ddouble,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϵ",
+        "block": "minecraft:birch_trapdoor[facing\u003dsouth,half\u003dbottom,open\u003dtrue,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "β",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dwest,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ͽ",
+        "block": "minecraft:stone_brick_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cobblestone[weathering\u003dfalse]"
+      },
+      {
+        "char": "И",
+        "block": "minecraft:dark_oak_wall_sign[facing\u003dnorth,waterlogged\u003dfalse]",
+        "tag": {
+          "z": 586,
+          "x": 48,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 169,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"WARNING\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"FUEL LEAK\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"DETECTED\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Р",
+        "block": "minecraft:cobblestone_stairs[facing\u003deast,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ω",
+        "block": "minecraft:cobblestone_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ω",
+        "block": "minecraft:cobblestone_stairs[facing\u003dwest,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ϔ",
+        "block": "minecraft:stone_slab[type\u003dtop,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:stone_slab[type\u003dbottom,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Г",
+        "block": "immersive_weathering:soot[down\u003dfalse,east\u003dtrue,north\u003dfalse,south\u003dtrue,up\u003dfalse,west\u003dtrue]"
+      },
+      {
+        "char": "ν",
+        "block": "minecraft:smooth_quartz_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϙ",
+        "block": "minecraft:birch_trapdoor[facing\u003dnorth,half\u003dbottom,open\u003dfalse,powered\u003dfalse,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ϗ",
+        "block": "minecraft:campfire[facing\u003dsouth,lit\u003dtrue,signal_fire\u003dfalse,waterlogged\u003dfalse]",
+        "tag": {
+          "CookingTotalTimes": [
+            "I",
+            0,
+            0,
+            0,
+            0
+          ],
+          "z": 578,
+          "x": 48,
+          "CookingTimes": [
+            "I",
+            0,
+            0,
+            0,
+            0
+          ],
+          "ForgeCaps": {},
+          "id": "minecraft:campfire",
+          "y": 132,
+          "Items": []
+        }
+      },
+      {
+        "char": "δ",
+        "block": "minecraft:cobblestone_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "η",
+        "block": "minecraft:cobblestone_stairs[facing\u003dsouth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ο",
+        "block": "minecraft:cobblestone_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:bookshelf"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:stone_bricks[weathering\u003dfalse]"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:stone_brick_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:stone_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse,weathering\u003dfalse]"
+      },
+      {
+        "char": "ͻ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϩ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ψ",
+        "block": "minecraft:smooth_stone_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϖ",
+        "block": "immersive_weathering:soot[down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dfalse,up\u003dtrue,west\u003dfalse]"
+      },
+      {
+        "char": "έ",
+        "block": "immersive_weathering:soot[down\u003dfalse,east\u003dfalse,north\u003dfalse,south\u003dtrue,up\u003dfalse,west\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "ΒЀΙ             ",
+      "Β      ͽ        ",
+      "ϯ      ͽ        ",
+      "S               ",
+      "СS              ",
+      "ΙΙ              ",
+      "                ",
+      " b  i   i       ",
+      " b M    zh      ",
+      " SυШbdbd        ",
+      "БS     b        ",
+      " S     d        ",
+      " b     b        ",
+      "bЧ     c        ",
+      "К      b h      ",
+      "       d        "
+    ],
+    [
+      "΅               ",
+      "΅               ",
+      "΅     L         ",
+      "΅    ͽL         ",
+      "΅λ  ͽͽ          ",
+      "ͶͶ              ",
+      "ͶͶ              ",
+      "ЈDϰ i   i       ",
+      "FαΛeeeeeeh      ",
+      "ϵβϿaaaaae       ",
+      "ИβРcdcdae       ",
+      "ͶβΩaccaae       ",
+      "΅ Ωdcccae       ",
+      "   daacae       ",
+      "ωϔPacccaeh      ",
+      "cГdacccae       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   LL           ",
+      "΅ ͽL            ",
+      "νϙͽ     i       ",
+      "Ϗβii δ  yh      ",
+      "Ͷ ηcbdbd        ",
+      "΅  ο jjb        ",
+      "     kka        ",
+      "     kkb        ",
+      "    bkka        ",
+      "     CCb h      ",
+      "L  ο   c        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      " L      i       ",
+      "΅Li  i  zh      ",
+      "S bdbdba        ",
+      " L   jjb        ",
+      "  L  kka        ",
+      "   L kkb        ",
+      "     CCa        ",
+      "       b h      ",
+      "       d        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        i       ",
+      "  iΖͻϨ  yh      ",
+      " Ψbabcba        ",
+      "     jjb        ",
+      "     kkd        ",
+      "     CCb        ",
+      "       d        ",
+      "       b h      ",
+      " ϖ     a        "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "        i       ",
+      "έΨΨeeeeeeh      ",
+      "aaaaaaaae       ",
+      "cdaacdaae       ",
+      "cacccCCae       ",
+      "dcacd  ae       ",
+      "cdada  ae       ",
+      "cacca  aeh      ",
+      "accddcaae       "
+    ]
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "体",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "西",
+        "block": "horror_element_mod:blood_9[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "叫",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "传",
+        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "根",
+        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "loot": "walmart",
+        "tag": {
+          "z": 457,
+          "x": 88,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 133,
+          "Items": []
+        }
+      },
+      {
+        "char": "八",
+        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "loot": "walmart",
+        "tag": {
+          "z": 436,
+          "x": 135,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 136,
+          "Items": []
+        }
+      },
+      {
+        "char": "金",
+        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "案",
+        "block": "horror_element_mod:blood_9[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "性",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "热",
+        "block": "horror_element_mod:self_terminated_body[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "哈",
+        "block": "horror_element_mod:blood_1[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "久",
+        "block": "minecraft:oak_sign[rotation=4,waterlogged=false]",
+        "tag": {
+          "z": 483,
+          "x": 81,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"DO NOT ENTER\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"EMPLOYEE ONLY\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "落",
+        "block": "minecraft:oak_sign[rotation=12,waterlogged=false]",
+        "tag": {
+          "z": 451,
+          "x": 93,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Dark oak slab\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"ceiling fan\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"Try me!\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "座",
+        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "loot": "walmart",
+        "tag": {
+          "z": 433,
+          "x": 21,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "ForgeCaps": {},
+          "id": "minecraft:chest",
+          "y": 134,
+          "Items": []
+        }
+      },
+      {
+        "char": "O",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "没",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "义",
+        "block": "minecraft:stone_button[face=wall,facing=east,powered=false]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "呜",
+        "block": "minecraft:stone_button[face=ceiling,facing=east,powered=false]"
+      },
+      {
+        "char": "五",
+        "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+      },
+      {
+        "char": "消",
+        "block": "horror_element_mod:chained_entity[facing=north]"
+      },
+      {
+        "char": "Ҭ",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "孩",
+        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "步",
+        "block": "minecraft:dark_oak_fence[east=true,north=true,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "速",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "哇",
+        "block": "refurbished_furniture:dark_oak_light_ceiling_fan[facing=up,lit=false,powered=false]",
+        "tag": {
+          "z": 451,
+          "x": 93,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:ceiling_fan",
+          "y": 137,
+          "NodePos": "25563647193225L",
+          "Connections": [
+            "L"
+          ]
+        }
+      }
+    ]
+  },
+  "slices": [
+    [
+      "cbdwwbdxdrbcacxa",
+      "wcbbbabxbracadxw",
+      "dcaacacxaaccwwxd",
+      "cwabcarxdwdbcdxw",
+      "wwcaarwxdabbcbxc",
+      "dcrdbbbxdwaccrxb",
+      "cawddwaxabdabbxd",
+      "bbacbacxcaacbaxd",
+      "bcbwdwwxabdwbdxw",
+      "bbbbdaaxdbddbcxd",
+      "drrraddxwrdbdaxd",
+      "bcrdcwrxbcdawbxb",
+      "wdabcdbxwdadawxb",
+      "wcadwrrxabcbbaxa",
+      "adddawcxddabadxb",
+      "waabbrwxwawwccxc"
+    ],
+    [
+      "j        q体西体   ",
+      "Ѕj     l qq体    ",
+      "j       叫    叫j ",
+      "qj   qq 传根  八传j ",
+      "jj   q  金    金q ",
+      "Ѕjq          qj ",
+      "       lm       ",
+      "案j     那 性  那 j ",
+      "热哈    lq      q ",
+      "Ѕ      久根j   八落 ",
+      "jqqqq  l q    j ",
+      "  q   qq q    j ",
+      "qjq   ql  座  qj ",
+      "Ѕj    八O  Oq O根 ",
+      "qj     久  久  落  ",
+      "                "
+    ],
+    [
+      "j               ",
+      " j     l        ",
+      "j             j ",
+      " j      久    落j ",
+      "jj              ",
+      " j            j ",
+      "       lm       ",
+      " j     那 性  那 j ",
+      " j    l  v      ",
+      "       l j      ",
+      "j      l      j ",
+      "              j ",
+      " j     l      j ",
+      " j    lO  O  没义 ",
+      " j     i  i     ",
+      "                "
+    ],
+    [
+      "                ",
+      " j     l        ",
+      "              j ",
+      " j      呜     j ",
+      " j              ",
+      " j            j ",
+      "       lm       ",
+      " j     那没性  那没j ",
+      " j    l没五没  没五没 ",
+      "       l没j   没  ",
+      "       l      j ",
+      "              j ",
+      " j     l      j ",
+      " j    l没义 没   j ",
+      " j     i  i     ",
+      "                "
+    ],
+    [
+      "           消    ",
+      " j     lҬ       ",
+      "        Ҭ     j ",
+      " j    ҬҬ没ҬҬ   j ",
+      " j      Ҭ       ",
+      " j      Ҭ     j ",
+      "       l        ",
+      " j     l叫    叫j ",
+      " j     孩步速  孩步速 ",
+      "        金    金  ",
+      "       l      j ",
+      "              j ",
+      " j     l      j ",
+      " j     l      j ",
+      " j              ",
+      "                "
+    ],
+    [
+      "                ",
+      " j     l        ",
+      "              j ",
+      " j     lO    哇j ",
+      " j              ",
+      " j            j ",
+      "       l        ",
+      " j     l      j ",
+      " j     lO    O  ",
+      "             v  ",
+      "       l     vj ",
+      "              j ",
+      " j     l      j ",
+      " j     l      j ",
+      " j              ",
+      "                "
+    ]
+  ]
+}

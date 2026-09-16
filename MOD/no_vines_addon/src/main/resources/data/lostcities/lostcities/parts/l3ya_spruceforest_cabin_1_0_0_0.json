@@ -1,0 +1,735 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "ͽ",
+        "block": "minecraft:dirt_path"
+      },
+      {
+        "char": "͵",
+        "block": "minecraft:rooted_dirt"
+      },
+      {
+        "char": "ΐ",
+        "block": "minecraft:coarse_dirt"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "I",
+        "block": "immersive_weathering:weeds[age=0]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "9",
+        "block": "minecraft:large_fern[half=lower]"
+      },
+      {
+        "char": "H",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ͺ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "N",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:spruce_wood[axis=y]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:oak_wood[axis=y]"
+      },
+      {
+        "char": "D",
+        "block": "minecraft:stripped_spruce_wood[axis=y]"
+      },
+      {
+        "char": "1",
+        "block": "minecraft:acacia_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "C",
+        "block": "doomsday_decoration:acrate[waterlogged=false]",
+        "tag": {
+          "z": -102,
+          "x": -646,
+          "id": "doomsday_decoration:acrate",
+          "y": -57,
+          "Items": []
+        }
+      },
+      {
+        "char": "0",
+        "block": "minecraft:oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "W",
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "Ͱ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "P",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ϋ",
+        "block": "doomsday_decoration:mower[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "Η",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ͳ",
+        "block": "doomsday_decoration:oildrum[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "ͻ",
+        "block": "doomsday_decoration:oildrum[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Q",
+        "block": "minecraft:spruce_leaves[distance=7,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "ͷ",
+        "block": "minecraft:large_fern[half=upper]"
+      },
+      {
+        "char": "T",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "V",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Υ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "8",
+        "block": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:spruce_leaves[distance=2,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:spruce_leaves[distance=1,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "7",
+        "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "Ϳ",
+        "block": "minecraft:stone_button[face=wall,facing=west,powered=false]"
+      },
+      {
+        "char": "Ζ",
+        "block": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "F",
+        "block": "minecraft:spruce_leaves[distance=3,persistent=true,waterlogged=false]"
+      },
+      {
+        "char": "Δ",
+        "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+      },
+      {
+        "char": "·",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Y",
+        "block": "minecraft:acacia_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Ε",
+        "block": "doomsday_decoration:wastepaper_1[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "Ξ",
+        "block": "doomsday_decoration:wastepaper_2[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:spruce_planks"
+      },
+      {
+        "char": "Β",
+        "block": "minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "η",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ί",
+        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "ε",
+        "block": "doomsday_decoration:chemicalprotectiveclothing_2[facing=south,waterlogged=false]"
+      },
+      {
+        "char": "Ω",
+        "block": "doomsday_decoration:wastepaper_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Π",
+        "block": "doomsday_decoration:foldingchair[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "έ",
+        "block": "refurbished_furniture:spruce_table[east=false,north=false,south=false,west=false]"
+      },
+      {
+        "char": "Ψ",
+        "block": "doomsday_decoration:foldingchair[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "Ϊ",
+        "block": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "΅",
+        "block": "doomsday_decoration:washbasin[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "ά",
+        "block": "refurbished_furniture:spruce_drawer[facing=west,left=false,open=false,right=false]",
+        "tag": {
+          "z": -104,
+          "x": -650,
+          "ForgeData": {},
+          "id": "refurbished_furniture:drawer",
+          "y": -57,
+          "Items": []
+        }
+      },
+      {
+        "char": "Γ",
+        "block": "horror_element_mod:blood_1[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "΄",
+        "block": "doomsday_decoration:wastepaper_2[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "ι",
+        "block": "horror_element_mod:blood_2[facing=west,waterlogged=false]"
+      },
+      {
+        "char": "β",
+        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "θ",
+        "block": "doomsday_decoration:electricoven[facing=east]"
+      },
+      {
+        "char": "Α",
+        "block": "doomsday_decoration:bookpile_2[facing=north,waterlogged=false]"
+      },
+      {
+        "char": ";",
+        "block": "doomsday_decoration:bed[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Χ",
+        "block": "doomsday_decoration:bookpile[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "δ",
+        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "ΰ",
+        "block": "doomsday_decoration:closestool[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Ύ",
+        "block": "doomsday_decoration:fridge_2[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "ή",
+        "block": "doomsday_decoration:radiator[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Θ",
+        "block": "doomsday_decoration:pottedplant[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "Ώ",
+        "block": "doomsday_decoration:missingpersonnotice[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Ν",
+        "block": "minecraft:dark_oak_door[facing=north,half=upper,hinge=left,open=false,powered=false]"
+      },
+      {
+        "char": "Ι",
+        "block": "doomsday_decoration:airconditioning_2[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "Μ",
+        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "Ή",
+        "block": "refurbished_furniture:red_lamp[powered=false]",
+        "tag": {
+          "z": -105,
+          "x": -647,
+          "id": "refurbished_furniture:ceiling_light",
+          "y": -56,
+          "NodePos": "-177571128311864L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "Κ",
+        "block": "doomsday_decoration:bottle[facing=east,waterlogged=false]"
+      },
+      {
+        "char": "Ό",
+        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=true,powered=false]"
+      },
+      {
+        "char": "Έ",
+        "block": "create:vertical_framed_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Λ",
+        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+      },
+      {
+        "char": "Ά",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "α",
+        "block": "doomsday_decoration:draw_2[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "ζ",
+        "block": "doomsday_decoration:pottedplant[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "ͼ",
+        "block": "create:vertical_framed_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "6",
+        "block": "minecraft:deepslate_tile_slab[type=top,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "2",
+        "block": "immersive_weathering:cracked_deepslate_tile_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "L",
+        "block": "immersive_weathering:cracked_deepslate_brick_slab[type=top,waterlogged=false]"
+      },
+      {
+        "char": "γ",
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "ͳ",
+        "block": "create:tiled_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "5",
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ί",
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "3",
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "ʹ",
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Τ",
+        "block": "create:tiled_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "Ρ",
+        "block": "doomsday_decoration:extractor[facing=east]"
+      },
+      {
+        "char": "Ͷ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ο",
+        "block": "refurbished_furniture:spruce_storage_cabinet[facing=west,hinge=left,open=false]",
+        "tag": {
+          "z": -102,
+          "x": -650,
+          "ForgeData": {},
+          "id": "refurbished_furniture:cabinet",
+          "y": -55,
+          "Items": []
+        }
+      },
+      {
+        "char": "O",
+        "block": "minecraft:deepslate_tile_slab[type=top,waterlogged=false,weathering=true]"
+      },
+      {
+        "char": "G",
+        "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "Z",
+        "block": "immersive_weathering:cracked_deepslate_brick_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "R",
+        "block": "immersive_weathering:cracked_deepslate_tile_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:deepslate_tile_slab[type=bottom,waterlogged=false,weathering=true]"
+      },
+      {
+        "char": "Φ",
+        "block": "immersive_weathering:cracked_deepslate_tile_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "S",
+        "block": "minecraft:polished_deepslate_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "U",
+        "block": "minecraft:deepslate_tile_slab[type=double,waterlogged=false,weathering=true]"
+      },
+      {
+        "char": "4",
+        "block": "immersive_weathering:cracked_deepslate_tile_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "ͱ",
+        "block": "immersive_weathering:cracked_deepslate_tile_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaͽa",
+      "aaaaaaaaaaaaa͵aa",
+      "aaaaaaaaaaaaΐͽa͵",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa",
+      "aaaaaaaaaaaaaaaa"
+    ],
+    [
+      "bbIbbbbIbbbbbbIb",
+      "bbbbibXibib9bbIb",
+      "bIiHͺbbNibhHibbb",
+      "bbHhHfibDbH1bI b",
+      "bbibCbbCCb0Wbbbb",
+      "bIiHCCbbCb0Wb bb",
+      "bbHfCfiͰfHͰfHbbb",
+      "bXiCPJNibΫͰCi Ib",
+      "IbbbbCbbbbbbbIbb",
+      "bNΗbͲbNiCbb9bXbb",
+      "ibͻbͲͻNCCCbibNi9",
+      "bͺHfbfCbfiKfHbXb",
+      "bbHJbbbbibbbbNib",
+      "bihbbbbbIbbbhiIb",
+      "bIiNbbbhbbbbibbb",
+      "bbbbbIibbbbIbbbb"
+    ],
+    [
+      "                ",
+      "    j Qj j ͷ    ",
+      "  j  T  j h j   ",
+      "   hHfj f 11    ",
+      "    V  VC0W     ",
+      "    C    0W     ",
+      "   DΥfjKD 8fP   ",
+      " Xj  J j   Jj   ",
+      "     V          ",
+      "  Q    j   ͷ Q  ",
+      "j   ͲH  C  j    ",
+      "  Hf DP fjKfH X ",
+      "   J J  j  J  j ",
+      " jh         hj  ",
+      "  j    h    j   ",
+      "      j         "
+    ],
+    [
+      "                ",
+      "      Q  gcg    ",
+      "     7  7chcP   ",
+      "   hKfddDccg    ",
+      "     ddd0W      ",
+      "   7 ddd0W 7    ",
+      "  Ϳfdfddfddfd   ",
+      " Q dddddddddd   ",
+      "   ddddddddddΖ  ",
+      "   dddddddddd   ",
+      "   dddddddddd   ",
+      " gcfdfddDddfdKQ ",
+      "FgccgJ  Δ  ·c   ",
+      "gchcg  c   chc  ",
+      "FgcgF chc   c   ",
+      " FgF   c        "
+    ],
+    [
+      "                ",
+      "                ",
+      "     TT   hV    ",
+      "   hKD88f1      ",
+      "     YΕ         ",
+      "     YNΞ   T    ",
+      "   feDeΒfeeD8Y  ",
+      " Q eηίεΩΠέΨeΪ   ",
+      "   e΅fάΓ΄Vιβ    ",
+      "   eKeθΑ;;Χδ Y  ",
+      "   eΰeΎή  CeΘY  ",
+      "   feDeefeeD1YQ ",
+      "     JJ  JJJ    ",
+      "  h         h   ",
+      "       c        ",
+      "                "
+    ],
+    [
+      "                ",
+      "          c     ",
+      "   c     chc    ",
+      "  chcV  V c     ",
+      "   c            ",
+      "     TT Ώ  T    ",
+      "   DefeΝfΙefP   ",
+      "   ePΜ   ΉKe    ",
+      "   eKDΚ    Ό    ",
+      "   ΈKeP    Λ    ",
+      "   e eΆ α ζe    ",
+      "   Defeͼfͼefcg  ",
+      " gcc J    gccgF ",
+      " chc      gchcg ",
+      " gcg      FgcgF ",
+      "           FgF  "
+    ],
+    [
+      "                ",
+      "                ",
+      "          c     ",
+      "   h            ",
+      "                ",
+      "  E66E2LLE2LE   ",
+      "  EfefeγDͳeDE   ",
+      "  5eΣΊ    Ke3   ",
+      "  5e fP    ʹ3   ",
+      "  5ΤKeΡ    ʹ3   ",
+      "  5eͶeΟ Ͷ  e3   ",
+      "  EDefeͳDͳeDE   ",
+      "  E2LE2LLELOE   ",
+      "  h         h   ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "  FgF           ",
+      " FgcgF          ",
+      " gchcg          ",
+      " FgcgF          ",
+      "  FgF           ",
+      "  GZRGZMΦGZRG   ",
+      "  SLUSUUUS4US   ",
+      "  EeOf6OOEOeE   ",
+      "  EeOeOO6EOeE   ",
+      "  SL4S4UUS4LS   ",
+      "  GͱZGMͱMGZͱG   ",
+      "  c        gcg  ",
+      " chc       chc  ",
+      "  c        gcg  ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "   h            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "  GRZGMMMGRRG   ",
+      "  GMRGMRMGRMG   ",
+      "                ",
+      "                ",
+      "                ",
+      "  c         h   ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "  gcg           ",
+      "  chc           ",
+      "  gcg           ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            c   ",
+      "           chc  ",
+      "            c   ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "   h            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "            c   ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "   c            ",
+      "  chc           ",
+      "   c            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "   c            ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}

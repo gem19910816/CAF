@@ -1,0 +1,429 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:smooth_stone"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:gray_concrete_powder"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "I",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:blue_concrete"
+      },
+      {
+        "char": "活",
+        "block": "minecraft:stone_button[face=wall,facing=west,powered=false]"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "价",
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "被",
+        "block": "minecraft:anvil[facing=south]"
+      },
+      {
+        "char": "属",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "赛",
+        "block": "minecraft:oak_button[face=wall,facing=west,powered=false]"
+      },
+      {
+        "char": "西",
+        "block": "horror_element_mod:blood_9[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "体",
+        "block": "horror_element_mod:blood_1[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "注",
+        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "故",
+        "block": "horror_element_mod:rotten_body[facing=north,waterlogged=false]"
+      },
+      {
+        "char": "云",
+        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "性",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "那",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "梦",
+        "block": "minecraft:spruce_button[face=wall,facing=west,powered=false]"
+      },
+      {
+        "char": "超",
+        "block": "minecraft:dark_oak_button[face=wall,facing=west,powered=false]"
+      },
+      {
+        "char": "态",
+        "block": "refurbished_furniture:computer[facing=north,powered=false]",
+        "tag": {
+          "z": 448,
+          "x": 67,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:computer",
+          "y": 134,
+          "NodePos": "18416821600390L",
+          "Connections": [
+            "L"
+          ]
+        }
+      },
+      {
+        "char": "ҧ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 463,
+          "x": 74,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Aisle 6\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "且",
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "笑",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "恋",
+        "block": "minecraft:light_gray_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "录",
+        "block": "minecraft:orange_concrete"
+      },
+      {
+        "char": "候",
+        "block": "minecraft:pink_concrete"
+      },
+      {
+        "char": "楼",
+        "block": "minecraft:gray_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "组",
+        "block": "minecraft:light_blue_concrete"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:yellow_concrete"
+      },
+      {
+        "char": "右",
+        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "v",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ѕ",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 471,
+          "x": 31,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 138,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Birch logs\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "球",
+        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "tag": {
+          "z": 424,
+          "x": 152,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 134,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"Register 1\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "J",
+        "block": "minecraft:yellow_terracotta"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "把",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "化",
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "bbdcbxbawdbwcccb",
+      "dbbdcxccdaccaabc",
+      "cccbdxadccawbacb",
+      "ddcrbxrdacrrcdwb",
+      "cdbbaxcdIbbdcbad",
+      "daccbxaraaacdbww",
+      "dcabaxdrawbcwdaI",
+      "radadxccbdbdadbd",
+      "bbaIcxdbdddbbrwb",
+      "xxxxxxccaadaccbb",
+      "dbbaaxcrdddacdaw",
+      "addcwxarabcbdcad",
+      "wcadaxaabbabwdcI",
+      "acbbdxadarrcbcab",
+      "cabwaxbwcbcwacwb",
+      "abcdrxbdcwdbawdw"
+    ],
+    [
+      "fpffejqmgj 活ejlp",
+      "o ilejlfpjl活e  e",
+      "e   ojl价ejl活ojlo",
+      "ej 被p q价ejqq   i",
+      "p  属f  价ejl赛oj o",
+      "p西体qe l价ojl赛fj e",
+      "注体故体注  价pjl赛pjlf",
+      "云性西那云  价eq  m  i",
+      "opeoeqlefjl梦fqle",
+      "       价pjl梦fqlf",
+      "     ql价fjq梦ejqp",
+      "      l价pjl    i",
+      "       价ejl超oqlf",
+      "      l价fqq超oj f",
+      "      l价oj 超pj p",
+      "    q lofj q    "
+    ],
+    [
+      " 态 态 j  gj 活pjle",
+      "  il  loejlҧo  且",
+      "      l笑pjl活p lp",
+      " j    l笑fj     i",
+      "   l   gejl赛o  e",
+      " j    lgfjlҧoj 恋",
+      "   l   录ejl赛f le",
+      " 性 那   录p   m   ",
+      "      lfpjl梦fjlp",
+      "       候ejlҧf  楼",
+      "      l候fj 梦fj o",
+      "      l组pjl    i",
+      "       组fjl超f lf",
+      "      lsejlҧoj 右",
+      "      lsfj 超fj o",
+      "      lpej      "
+    ],
+    [
+      " vv vj  gj      ",
+      "  il  leejl     ",
+      "      l笑pjl     ",
+      " j    l笑ej      ",
+      "   l   gojl     ",
+      " j     gfjl     ",
+      "   l   录pjl     ",
+      " 性 那   录p       ",
+      "      lfejl     ",
+      "       候ejl     ",
+      "      l候oj      ",
+      "       组fjl     ",
+      "       组ojl     ",
+      "      lsfjl     ",
+      "      lsej      ",
+      "      leej      "
+    ],
+    [
+      "gggggj ҧgЅ      ",
+      "g ilgЅ efjl     ",
+      "g   g  笑ejl     ",
+      "gj  g l笑ej      ",
+      "g  lg  gojl     ",
+      "gj  g  gpjl     ",
+      "g  lg  录ejl     ",
+      "g性 那g  录f       ",
+      "ggggg lfpjl     ",
+      " 球 球   候ojl     ",
+      "      l候ej      ",
+      "       组pjl     ",
+      "       组ejl     ",
+      "      lsfjl     ",
+      "       Jfj      ",
+      "       ff       "
+    ],
+    [
+      "Ov  O  把g  v vv ",
+      "       化ejl v   ",
+      " v     化fjl vv  ",
+      "  vv   化fj  v  v",
+      "       化fjl v v ",
+      "   v   化o l     ",
+      " vv    化fjl v v ",
+      "   v   化f   v   ",
+      "Ov  O  化ojl    v",
+      "       化ejl   v ",
+      "       化ej      ",
+      "       化fjl v v ",
+      "       化f l     ",
+      "       化ejl v   ",
+      "       化ej   v  ",
+      "       化f       "
+    ]
+  ]
+}

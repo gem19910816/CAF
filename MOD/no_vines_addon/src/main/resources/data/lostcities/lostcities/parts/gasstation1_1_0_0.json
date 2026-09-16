@@ -1,0 +1,402 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "l",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "j",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "M",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "G",
+        "block": "immersive_weathering:mossy_stone"
+      },
+      {
+        "char": "Г",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "β",
+        "block": "minecraft:azure_bluet"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:cobblestone[weathering=false]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Φ",
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "t",
+        "block": "minecraft:quartz_pillar[axis=y]"
+      },
+      {
+        "char": "Υ",
+        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+      },
+      {
+        "char": "ό",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "q",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ύ",
+        "block": "minecraft:tripwire_hook[attached=false,facing=north,powered=false]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "Θ",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ͽ",
+        "block": "minecraft:tripwire_hook[attached=false,facing=south,powered=false]"
+      },
+      {
+        "char": "E",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "π",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "ͻ",
+        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "tag": {
+          "z": 572,
+          "x": 105,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"Out Of Service\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Τ",
+        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "tag": {
+          "z": 573,
+          "x": 104,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"PUMP\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"4\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "Ό",
+        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "tag": {
+          "z": 573,
+          "x": 107,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"PUMP\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"4\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "6",
+        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "tag": {
+          "z": 593,
+          "x": 95,
+          "is_waxed": "0b",
+          "ForgeCaps": {
+            "supplementaries:antique_ink": {
+              "ink": "0b"
+            }
+          },
+          "id": "minecraft:sign",
+          "y": 135,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"extra\":[{\"text\":\"ID required\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"for alchoholic\"}],\"text\":\"\"}",
+              "{\"extra\":[{\"text\":\"beverages\"}],\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "n",
+        "block": "minecraft:red_concrete"
+      },
+      {
+        "char": "Σ",
+        "block": "minecraft:cobweb"
+      },
+      {
+        "char": "7",
+        "block": "minecraft:redstone_lamp[lit=false]"
+      },
+      {
+        "char": "O",
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "glhhllkglkhhjakk",
+      "MgMldgdMMdMdMddd",
+      "dlMldlkddddddddd",
+      "alkakakkaaaaaaaa",
+      "aglhlkjhhaaaaaaa",
+      "ahglalhlahhghgha",
+      "aakkhaklkaghghlk",
+      "agjkgjljgaaakhkl",
+      "alkjhghaaghlklgl",
+      "aakkjlhgjgajkkll",
+      "alhkljjlkgljglla",
+      "akjkkkkhghkgkgkl",
+      "aaaaaammmmmmmmmm",
+      "maaaaammmmmmmmmm",
+      "maaaaammmmmmmmmm",
+      "maaaaahhahjhkjGg"
+    ],
+    [
+      "  Г          c  ",
+      "      c         ",
+      "               c",
+      "c  c c  ccc cccc",
+      "c         cccccc",
+      "   ccc  c      c",
+      "     c          ",
+      "cr ee eeecβceeee",
+      "c      cc       ",
+      " c      c       ",
+      "     c   c     c",
+      "ee        c     ",
+      "ccccccrrrrrrrrrr",
+      "LfccccrΦrtΥrrtΥr",
+      "Lfccccrrrrrrrrrr",
+      "Lcόccc  c       "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   ee eeee eeeee",
+      "                ",
+      "                ",
+      "                ",
+      "ee              ",
+      "  q      ΎΎ  ΎΎ ",
+      "bf     Θftt  tt ",
+      "of     i ͽͽ  ͽͽ ",
+      "E π             "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   ee eeee eeeee",
+      "                ",
+      "                ",
+      "                ",
+      "ee              ",
+      "  q      ͻͻ  ͻͻ ",
+      "of     bΤttΌΤttΌ",
+      "of     i 66  66 ",
+      "E               "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   ee eeee eeeee",
+      "                ",
+      "                ",
+      "                ",
+      "ee              ",
+      "  q             ",
+      "of     o        ",
+      "of     i        ",
+      "E               "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "   ee eeee eeeee",
+      "                ",
+      "                ",
+      "                ",
+      "ee              ",
+      "  q             ",
+      "n     Σb7      7",
+      "nO     i        ",
+      "n               "
+    ]
+  ]
+}

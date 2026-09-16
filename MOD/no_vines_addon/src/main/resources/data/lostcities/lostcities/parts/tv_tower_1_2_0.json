@@ -1,0 +1,358 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "L",
+        "block": "minecraft:gray_wool"
+      },
+      {
+        "char": "X",
+        "block": "minecraft:red_wool"
+      },
+      {
+        "char": "o",
+        "block": "minecraft:chiseled_quartz_block"
+      },
+      {
+        "char": "n",
+        "block": "minecraft:smooth_quartz"
+      },
+      {
+        "char": "r",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis\u003dy]"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "K",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": "C",
+        "block": "minecraft:quartz_pillar[axis\u003dy]"
+      },
+      {
+        "char": "J",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "你",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": -274,
+          "x": -42,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 1,
+          "SpawnRange": "4s",
+          "Delay": "731s"
+        }
+      },
+      {
+        "char": "话",
+        "block": "minecraft:hopper[enabled\u003dtrue,facing\u003ddown]",
+        "tag": {
+          "z": -264,
+          "x": -45,
+          "TransferCooldown": 0,
+          "ForgeData": {
+            "LockFlag": "1b"
+          },
+          "id": "minecraft:hopper",
+          "y": -53,
+          "Items": []
+        }
+      },
+      {
+        "char": "ϔ",
+        "block": "minecraft:quartz_stairs[facing\u003deast,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "二",
+        "block": "minecraft:lectern[facing\u003dwest,has_book\u003dfalse,powered\u003dfalse]",
+        "tag": {
+          "z": -271,
+          "x": -42,
+          "id": "minecraft:lectern",
+          "y": -52
+        }
+      },
+      {
+        "char": "ѵ",
+        "block": "minecraft:dark_oak_planks"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:cauldron"
+      },
+      {
+        "char": "面",
+        "block": "minecraft:lectern[facing\u003dnorth,has_book\u003dfalse,powered\u003dfalse]",
+        "tag": {
+          "z": -267,
+          "x": -45,
+          "id": "minecraft:lectern",
+          "y": -52
+        }
+      },
+      {
+        "char": "g",
+        "block": "minecraft:gray_concrete"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:light_gray_concrete"
+      },
+      {
+        "char": "都",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "新",
+        "block": "minecraft:stone_brick_wall[east\u003dtall,north\u003dtall,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "所",
+        "block": "minecraft:quartz_stairs[facing\u003dsouth,half\u003dtop,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "教",
+        "block": "horror_element_mod:blood_9[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "Ѧ",
+        "block": "minecraft:quartz_bricks"
+      },
+      {
+        "char": "它",
+        "block": "horror_element_mod:impaled_soldier[facing\u003deast,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ϕ",
+        "block": "minecraft:quartz_stairs[facing\u003dnorth,half\u003dbottom,shape\u003dstraight,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "前",
+        "block": "refurbished_furniture:light_gray_basin[facing\u003dsouth]",
+        "tag": {
+          "z": -268,
+          "x": -29,
+          "ForgeCaps": {},
+          "id": "refurbished_furniture:basin",
+          "y": -40,
+          "FluidTank": {
+            "FluidTank": {
+              "Amount": 0,
+              "FluidName": "minecraft:empty"
+            }
+          }
+        }
+      },
+      {
+        "char": "e",
+        "block": "minecraft:basalt[axis\u003dy]"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:glass"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "出",
+        "block": "minecraft:cobblestone_wall[east\u003dnone,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "就",
+        "block": "minecraft:stone_brick_wall[east\u003dnone,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "意",
+        "block": "minecraft:stone_brick_wall[east\u003dlow,north\u003dlow,south\u003dnone,up\u003dtrue,waterlogged\u003dfalse,weathering\u003dfalse,west\u003dnone]"
+      },
+      {
+        "char": "ѱ",
+        "block": "minecraft:brown_carpet"
+      },
+      {
+        "char": "少",
+        "block": "minecraft:birch_wall_sign[facing\u003deast,waterlogged\u003dfalse]",
+        "tag": {
+          "z": -261,
+          "x": -39,
+          "is_waxed": "0b",
+          "id": "minecraft:sign",
+          "y": -50,
+          "front_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"MEN\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          },
+          "back_text": {
+            "color": "black",
+            "has_glowing_text": "0b",
+            "messages": [
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}",
+              "{\"text\":\"\"}"
+            ]
+          }
+        }
+      },
+      {
+        "char": "M",
+        "block": "minecraft:smooth_quartz_slab[type\u003dtop,waterlogged\u003dfalse]"
+      },
+      {
+        "char": "ѩ",
+        "block": "minecraft:diorite_slab[type\u003dtop,waterlogged\u003dfalse]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "LLLLLXLLonrdcdaa",
+      "LLLLLXLLonroKKCn",
+      "LLLLLXLLnrKoKCrJ",
+      "LLLLLXLLnooKJnoo",
+      "XXXXXXLLCnKnnnnn",
+      "LLLLLLLLoCJnrrKn",
+      "LLLLLLLLo你noJKoC",
+      "onJnooKoCnonnJJn",
+      "C话n话oKroJorrrnor",
+      "KonrJnoCCnnrrJKn",
+      "oKrnoorroJnonron",
+      "KrJroKrnJrnKKKoC",
+      "rrnKJKnJJCronrJn",
+      "nnrJonCrrCrrrJCo",
+      "nJnnonKrKoCnnrnr",
+      "CnnrrJKonooJrrKo"
+    ],
+    [
+      "ϔ ϔ     d  caabd",
+      "      二ѵa    x  ",
+      "       ѵd       ",
+      "       ѵb       ",
+      "       ѵb       ",
+      "   面    b       ",
+      "ga ѵѵѵѵ ai      ",
+      "aaabaabaaa      ",
+      "都 都 新d  a       ",
+      "     c         所",
+      "     b   教     Ѧ",
+      "     c  d它教   xѦ",
+      "        a      ϕ",
+      " 前 前    d       ",
+      "acaacaeaaa      ",
+      "eccbecaeaa      "
+    ],
+    [
+      "        a  bdcad",
+      "       fe    k  ",
+      "       fe       ",
+      "        c       ",
+      "       fb       ",
+      "        a       ",
+      "aa ff f ag      ",
+      "gadedddaga      ",
+      "出 就 意b  b      所",
+      "     a         Ѧ",
+      "     d         Ѧ",
+      "     e  c     kϕ",
+      "        e       ",
+      "        b       ",
+      "edaadceeaa      ",
+      "abaeaaaeaa      "
+    ],
+    [
+      "        e  eddac",
+      "       ѱc    k  ",
+      "       ѱd       ",
+      "        c       ",
+      "       ѱb       ",
+      "        a       ",
+      "ai ѱѱ ѱ aa      ",
+      "gaadbcdegi     所",
+      "     e  d      Ѧ",
+      "     c         C",
+      "     a         ϕ",
+      "     b  e少    k ",
+      "        e       ",
+      "        c       ",
+      "deceabacaa      ",
+      "cdddcdedaa      "
+    ],
+    [
+      "        bcaadcbc",
+      "        e       ",
+      "        b       ",
+      "        d       ",
+      "        d       ",
+      "        e       ",
+      "aa      ga     所",
+      "aaabbbddaa     Ѧ",
+      "     b  c      Ѧ",
+      "     a  a      ϕ",
+      "     b  a       ",
+      "     e  d       ",
+      "        b       ",
+      "        e       ",
+      "abaabdaeag      ",
+      "aeabaaeeaa      "
+    ],
+    [
+      "        bdaddead",
+      "        e       ",
+      "        e       ",
+      "        a       ",
+      "        c       ",
+      "        d      所",
+      "aa      giMMMѩMo",
+      "aibeddecaa     o",
+      "     e  a      ϕ",
+      "     c  c       ",
+      "     e  b       ",
+      "     d  e       ",
+      "        a       ",
+      "        b       ",
+      "eebeeaacaa      ",
+      "cccaecbeaa      "
+    ]
+  ]
+}

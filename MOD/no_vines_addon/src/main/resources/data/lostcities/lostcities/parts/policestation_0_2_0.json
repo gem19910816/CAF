@@ -1,0 +1,280 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "palette": {
+    "palette": [
+      {
+        "char": " ",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:dirt"
+      },
+      {
+        "char": "f",
+        "block": "minecraft:blackstone"
+      },
+      {
+        "char": "e",
+        "block": "minecraft:cobbled_deepslate"
+      },
+      {
+        "char": "m",
+        "block": "minecraft:grass_block[snowy=false]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:basalt[axis=x]"
+      },
+      {
+        "char": "b",
+        "block": "minecraft:cyan_terracotta"
+      },
+      {
+        "char": "c",
+        "block": "minecraft:deepslate[axis=y]"
+      },
+      {
+        "char": "ή",
+        "block": "minecraft:spawner",
+        "tag": {
+          "SpawnData": {
+            "entity": {}
+          },
+          "MaxNearbyEntities": "6s",
+          "MinSpawnDelay": "200s",
+          "z": 349,
+          "x": 54,
+          "MaxSpawnDelay": "800s",
+          "RequiredPlayerRange": "16s",
+          "SpawnCount": "4s",
+          "ForgeCaps": {},
+          "id": "minecraft:mob_spawner",
+          "SpawnPotentials": [],
+          "y": 136,
+          "SpawnRange": "4s",
+          "Delay": "181s"
+        }
+      },
+      {
+        "char": "Ά",
+        "block": "minecraft:polished_diorite"
+      },
+      {
+        "char": "y",
+        "block": "minecraft:quartz_block"
+      },
+      {
+        "char": ";",
+        "block": "minecraft:diorite"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stone_bricks[weathering=false]"
+      },
+      {
+        "char": "Β",
+        "block": "minecraft:green_terracotta"
+      },
+      {
+        "char": "h",
+        "block": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "char": "s",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "р",
+        "block": "minecraft:cornflower"
+      },
+      {
+        "char": "Ї",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=true,waterlogged=false,west=true]"
+      },
+      {
+        "char": "i",
+        "block": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "char": "Ё",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=true,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "ΐ",
+        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false,weathering=false]"
+      },
+      {
+        "char": "v",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "w",
+        "block": "minecraft:cobbled_deepslate_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "x",
+        "block": "minecraft:blackstone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+      },
+      {
+        "char": "k",
+        "block": "minecraft:mossy_cobblestone"
+      },
+      {
+        "char": "ϐ",
+        "block": "minecraft:stone_button[face=floor,facing=east,powered=false]"
+      },
+      {
+        "char": "ύ",
+        "block": "minecraft:stone_button[face=floor,facing=north,powered=false]"
+      },
+      {
+        "char": "Н",
+        "block": "minecraft:stone_button[face=floor,facing=south,powered=false]"
+      },
+      {
+        "char": "ο",
+        "block": "minecraft:oak_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+      },
+      {
+        "char": "Њ",
+        "block": "immersive_weathering:weathered_iron_bars[east=true,north=true,south=true,waterlogged=false,west=false]"
+      },
+      {
+        "char": "ϒ",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]"
+      },
+      {
+        "char": "Ε",
+        "block": "immersive_weathering:weathered_iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]"
+      },
+      {
+        "char": "p",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "Ο",
+        "block": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+      },
+      {
+        "char": "Π",
+        "block": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+      },
+      {
+        "char": "Τ",
+        "block": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]"
+      }
+    ]
+  },
+  "slices": [
+    [
+      "dffddddddddddddd",
+      "dfeddddddddddddd",
+      "dmgddddddddddddd",
+      "dbgdmmmmmmmmmmmm",
+      "demdmmmmmmmmmmmm",
+      "dcbdmdmmmmmmmmmm",
+      "dfbddmmmdmmmmmmm",
+      "dήmddddddddddddd",
+      "dcgddddddddddddd",
+      "ebmddddddddddddd",
+      "Άmy;Άyyyyym;;Ά;;",
+      ";;yy;Άy;yy;Ά;Άy;",
+      "ΆmΆym;yΆΆ;;yyyyy",
+      "beffcmmffccbbbmf",
+      "mbfcbgccgcbeeggb",
+      "efcgffcecbefbmgb"
+    ],
+    [
+      "a  cffbcgcecgcef",
+      "a  fgcebgfefcgbe",
+      "a Βegedbbfcbebeg",
+      "a Βh   s     ss ",
+      "a shss р s    s ",
+      "aЇ is s   sss   ",
+      "aЁ i s      ss  ",
+      "aΐsibgeebffcffdb",
+      "a  eegcfcbeffcmf",
+      "v swwwwwwxwxxwxx",
+      "ks        s ϐ   ",
+      "   ϐ ύ          ",
+      "ΐs ύs        Н  ",
+      "     ss         ",
+      "s               ",
+      "             s  "
+    ],
+    [
+      "a  ebccdcfbfcccd",
+      "a  edcdedbgccbff",
+      "a οbbfefegbffgbc",
+      "a οi            ",
+      "a  h            ",
+      "a  ibcebccccgc c",
+      "Њϒ fbeegmgebeceb",
+      "v  xwwxwwwwxwxxw",
+      "Ε               ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "a  eecbcgcdedgge",
+      "a  efeebebcgbgdg",
+      "a  ecbbefeefccee",
+      "a  gbcccbggdcfbb",
+      "a  ggbbbcbfefbmg",
+      "Ε  wwwxwwxxxwwxx",
+      "        s       ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "a  ebdmbfgfcfbcc",
+      "a  ggeeecggegmmf",
+      "a  mmbbbfbmecceg",
+      "Ε  xxwxwxwwxxwxx",
+      "              s ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "v   ecs         ",
+      "v    ppp   ppss ",
+      "Ε  ssΟΠΤ ΟΠΤ ΟΠΤ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ]
+}
