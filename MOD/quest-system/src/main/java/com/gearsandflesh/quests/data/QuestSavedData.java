@@ -22,7 +22,6 @@ public final class QuestSavedData extends SavedData {
     private final Map<UUID, Map<String, PlayerQuestState>> playerStates = new LinkedHashMap<>();
 
     public QuestSavedData() {
-        installDefaults();
     }
 
     public static QuestSavedData get(MinecraftServer server) {
@@ -31,16 +30,13 @@ public final class QuestSavedData extends SavedData {
         );
     }
 
-    /** Creates a fresh instance, pulling quest definitions from the config file if it exists. */
+    /** Creates a fresh instance, pulling quest definitions from the config file if it exists.
+     *  An empty or missing config means no quests: nothing is auto-generated, and nothing is
+     *  written back — the config file is only written when an admin actually saves quests. */
     private static QuestSavedData createWithConfig(MinecraftServer server) {
         QuestSavedData data = new QuestSavedData();
         data.definitions.clear();
         data.definitions.putAll(QuestStorage.loadDefinitions(server));
-        if (data.definitions.isEmpty()) {
-            data.installDefaults();
-            // Persist defaults so the pack ships a ready-to-edit file.
-            QuestStorage.saveDefinitions(server, new ArrayList<>(data.definitions.values()));
-        }
         return data;
     }
 
@@ -48,10 +44,8 @@ public final class QuestSavedData extends SavedData {
         QuestSavedData data = new QuestSavedData();
         data.definitions.clear();
         // Definitions come from the config file, not from the world save.
+        // An empty config is respected as "no quests" — defaults are never reinstalled.
         data.definitions.putAll(QuestStorage.loadDefinitions(server));
-        if (data.definitions.isEmpty()) {
-            data.installDefaults();
-        }
         ListTag players = root.getList("Players", Tag.TAG_COMPOUND);
         for (int i = 0; i < players.size(); i++) {
             CompoundTag playerTag = players.getCompound(i);
@@ -155,26 +149,6 @@ public final class QuestSavedData extends SavedData {
         });
         root.put("Players", players);
         return root;
-    }
-
-    private void installDefaults() {
-        definitions.put("daily_cleanup", new QuestDefinition(
-                "daily_cleanup", List.of(QuestType.DAILY), "每日清理", "清理威胁，保持营地安全。",
-                QuestGoalType.KILL, List.of("minecraft:zombie", "minecraft:skeleton", "minecraft:spider", "minecraft:creeper"),
-                10, List.of(new QuestReward(QuestRewardKind.MONEY, "", 25)), true, List.of(), 0));
-        definitions.put("weekly_expedition", new QuestDefinition(
-                "weekly_expedition", List.of(QuestType.WEEKLY), "周常远征", "完成一轮高强度远征。",
-                QuestGoalType.KILL, List.of("minecraft:zombie", "minecraft:skeleton", "minecraft:wither_skeleton", "minecraft:phantom", "minecraft:drowned"),
-                100, List.of(new QuestReward(QuestRewardKind.MONEY, "", 200), new QuestReward(QuestRewardKind.XP, "", 500)), true, List.of(), 0));
-        definitions.put("special_recycler", new QuestDefinition(
-                "special_recycler", List.of(QuestType.SPECIAL), "废墟回收", "把旧世界的废料变成新的补给。",
-                QuestGoalType.COLLECT, List.of("minecraft:iron_ingot", "minecraft:copper_ingot"),
-                64, List.of(new QuestReward(QuestRewardKind.MONEY, "", 120), new QuestReward(QuestRewardKind.ITEM, "minecraft:diamond", 2)), true, List.of(), 0));
-        definitions.put("special_wither", new QuestDefinition(
-                "special_wither", List.of(QuestType.SPECIAL), "凋灵讨伐", "击败凋灵，向所有人宣告你的胜利。",
-                QuestGoalType.KILL, List.of("minecraft:wither"),
-                1, List.of(new QuestReward(QuestRewardKind.MONEY, "", 500),
-                        new QuestReward(QuestRewardKind.COMMAND, "say %player% 击败了凋灵！", 0)), true, List.of(), 0));
     }
 
     public List<QuestDefinition> definitions(boolean includeDisabled) {
