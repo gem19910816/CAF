@@ -4,9 +4,6 @@ import com.chaosz.tarkovstamina.StaminaSystem;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.server.level.ServerPlayer;
-import net.minecraftforge.network.NetworkEvent;
-
-import java.util.function.Supplier;
 
 public record StatusScreenPacket(
         float stamina, float maximum, int cooldown,
@@ -18,6 +15,7 @@ public record StatusScreenPacket(
         boolean isSmokeAddicted, boolean isAlcoholAddicted,
         long timeSinceLastPoop
 ) {
+
     public static void encode(StatusScreenPacket p, FriendlyByteBuf buf) {
         buf.writeFloat(p.stamina); buf.writeFloat(p.maximum); buf.writeVarInt(p.cooldown);
         buf.writeVarInt(p.injectionCount); buf.writeVarInt(p.exerciseLevel); buf.writeDouble(p.exerciseProgress);
@@ -41,11 +39,9 @@ public record StatusScreenPacket(
                 buf.readLong());
     }
 
-    public static void handle(StatusScreenPacket p, Supplier<NetworkEvent.Context> ctx) {
-        ctx.get().enqueueWork(() -> net.minecraft.client.Minecraft.getInstance().setScreen(
-                new com.chaosz.tarkovstamina.ui.StatusScreen(p)));
-        ctx.get().setPacketHandled(true);
-    }
+    // 服务端兼容修复（2026-09-18）：原 handle() 引用 net.minecraft.client 的类，
+    // 专用服务器加载本类即崩溃。处理逻辑已迁移到
+    // com.chaosz.tarkovstamina.client.ClientPacketHandlers#handleStatus。
 
     public static StatusScreenPacket from(ServerPlayer player) {
         CompoundTag s = StaminaSystem.state(player, true);

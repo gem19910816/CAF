@@ -1,13 +1,10 @@
 package com.chaosz.tarkovstamina.network;
 
-import com.chaosz.tarkovstamina.client.ClientStaminaState;
 import net.minecraft.network.FriendlyByteBuf;
-import net.minecraftforge.network.NetworkEvent;
-
-import java.util.function.Supplier;
 
 public record StaminaSyncPacket(float stamina, float maximum, int cooldown, int maximumCooldown,
                                 boolean sprinting, boolean exhausted, boolean hidden) {
+
     public static void encode(StaminaSyncPacket packet, FriendlyByteBuf buffer) {
         buffer.writeFloat(packet.stamina);
         buffer.writeFloat(packet.maximum);
@@ -30,8 +27,6 @@ public record StaminaSyncPacket(float stamina, float maximum, int cooldown, int 
         );
     }
 
-    public static void handle(StaminaSyncPacket packet, Supplier<NetworkEvent.Context> context) {
-        ClientStaminaState.accept(packet);
-        context.get().setPacketHandled(true);
-    }
+    // 服务端兼容修复（2026-09-18）：为保持四个数据包处理风格统一，handle 迁移到
+    // com.chaosz.tarkovstamina.client.ClientPacketHandlers#handleStaminaSync。
 }
