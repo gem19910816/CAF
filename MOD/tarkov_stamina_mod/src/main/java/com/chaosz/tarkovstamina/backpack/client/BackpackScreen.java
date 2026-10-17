@@ -28,6 +28,14 @@ public class BackpackScreen extends AbstractContainerScreen<BackpackMenu> {
         }
     }
 
+    /** AbstractContainerScreen#render never calls renderTooltip; each concrete
+     *  container screen has to do it itself, or hovering shows no item info. */
+    @Override
+    public void render(GuiGraphics g, int mouseX, int mouseY, float partialTick) {
+        super.render(g, mouseX, mouseY, partialTick);
+        this.renderTooltip(g, mouseX, mouseY);
+    }
+
     @Override
     protected void renderBg(GuiGraphics g, float partialTicks, int mouseX, int mouseY) {
         int x = this.leftPos;
