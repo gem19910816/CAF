@@ -57,7 +57,9 @@ public class BackpackMenu extends AbstractContainerMenu {
 
                     @Override
                     public int getMaxStackSize(ItemStack candidate) {
-                        return backpack.slotLimit(index);
+                        // slotLimit() is a flat 64 (ItemStackHandler default); without the
+                        // item's own cap here, buckets and guns would merge up to 64 in-slot.
+                        return Math.min(backpack.slotLimit(index), candidate.getMaxStackSize());
                     }
                 });
             }
