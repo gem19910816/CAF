@@ -1,10 +1,9 @@
 # MOD — CAF 自研模组源码
 
-**一个模组一个子目录，每个子目录内有中文 README 介绍。原有工程为 Forge 1.20.1 / Java 17；BT-7274 为 NeoForge 1.21.1 / Java 21，请按模块说明构建。**
+**一个模组一个子目录，全部为 Forge 1.20.1 / Java 17 工程，每个子目录内有中文 README 介绍。**
 
 | 子目录 | 中文名 | modId | 是什么 |
 | --- | --- | --- | --- |
-| [bt7274](bt7274/) | CAF BT-7274 | `bt7274` | NeoForge 1.21.1 可驾驶机甲，BB30 动作、音效与步态同步源码 |
 | [quest-system](quest-system/) | 日常任务系统 | `gearsandflesh_quests` | 服务端权威的每日/每周/特殊任务，管理员游戏内编辑 |
 | [global-market](global-market/) | 全球市场 | `gearsandflesh_market` | 服务端权威玩家交易市场，`caf:money` 实物货币 |
 | [tarkov_stamina_mod](tarkov_stamina_mod/) | CAF 生存核心 | `tarkov_stamina` | 体力/职业/状态/生存 + 108 格军用背包 |

@@ -1,7 +1,0 @@
-allprojects {
- tasks.register('bodyStopTransitionAudit', JavaExec) {
-  dependsOn testClasses
-  classpath = sourceSets.test.runtimeClasspath
-  mainClass = 'com.caf.btmesh.BodyLocomotionTransitionAudit'
- }
-}
