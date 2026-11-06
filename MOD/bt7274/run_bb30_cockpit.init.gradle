@@ -1,0 +1,15 @@
+allprojects {
+    afterEvaluate { p ->
+        if (p.plugins.hasPlugin('net.neoforged.moddev')) {
+            p.sourceSets.main.java.srcDir('src/qa/java')
+            p.neoForge.runs.client.systemProperty('bt.nativeQa', 'true')
+            p.neoForge.runs.client.systemProperty('bt.bb30CockpitQa', 'true')
+            p.neoForge.runs.client.systemProperty('bt.qaRecord', System.getProperty('bt.qaRecord', 'true'))
+            p.neoForge.runs.client.systemProperty('bt.qaOut', System.getProperty('bt.qaOut', p.file('build/bb30-cockpit').absolutePath))
+            p.neoForge.runs.client.programArgument('--quickPlaySingleplayer')
+            p.neoForge.runs.client.programArgument('BT_MESH_QA')
+            p.neoForge.runs.client.programArgument('--width');p.neoForge.runs.client.programArgument('1280')
+            p.neoForge.runs.client.programArgument('--height');p.neoForge.runs.client.programArgument('720')
+        }
+    }
+}

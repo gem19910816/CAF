@@ -1,0 +1,270 @@
+{
+  "contract": "Approved BB action clocks are authoritative. Source files/curves are retained; MC event tick quantization and first-person retiming are adaptations.",
+  "reload": {
+    "total_ticks": 80,
+    "commit_tick": 58,
+    "native_fp_seconds": 4.8,
+    "native_fillammo_cycle": 0.9375,
+    "bb_source_clip": "titan_buddy_sp_core/@bt_stand_reload_01",
+    "bb_source_event": {
+      "name": "AE_NPC_WEAPON_RELOAD",
+      "cycle": 0.6724137663841248,
+      "source_seconds": 1.3,
+      "baked_seconds": 2.906440173438021,
+      "rounded_tick": 58
+    },
+    "clock_knots": [
+      {
+        "seconds": 0,
+        "source_cycle": 0,
+        "slope": 0.3232758620689655
+      },
+      {
+        "seconds": 2.9,
+        "source_cycle": 0.9375,
+        "slope": 0.10416666666666667
+      },
+      {
+        "seconds": 4,
+        "source_cycle": 1,
+        "slope": 0
+      }
+    ],
+    "clock_method": "Monotonic piecewise cubic Hermite; continuous first derivative at contact; last segment settles to zero speed. Body BB animation remains unchanged."
+  },
+  "body_animations": [
+    {
+      "id": 1,
+      "name": "01_原版战斗待机",
+      "seconds": 33.33333,
+      "loop": "loop"
+    },
+    {
+      "id": 2,
+      "name": "02_原版战斗步行",
+      "seconds": 3.26667,
+      "loop": "loop"
+    },
+    {
+      "id": 3,
+      "name": "03_原版奔跑",
+      "seconds": 2.5,
+      "loop": "loop"
+    },
+    {
+      "id": 4,
+      "name": "04_原版疾跑",
+      "seconds": 2.7,
+      "loop": "loop"
+    },
+    {
+      "id": 5,
+      "name": "05_原版XO16普通开火",
+      "seconds": 0.15,
+      "loop": "once"
+    },
+    {
+      "id": 6,
+      "name": "06_原版XO16专用换弹",
+      "seconds": 4,
+      "loop": "once"
+    },
+    {
+      "id": 7,
+      "name": "07_原版蹲姿待机_MC适配",
+      "seconds": 1.5,
+      "loop": "loop"
+    },
+    {
+      "id": 8,
+      "name": "08_原版下蹲_MC适配",
+      "seconds": 1.46667,
+      "loop": "once"
+    },
+    {
+      "id": 9,
+      "name": "09_原版起身_MC适配",
+      "seconds": 1.33333,
+      "loop": "once"
+    },
+    {
+      "id": 10,
+      "name": "10_原版近战肘击_MC适配",
+      "seconds": 3,
+      "loop": "once"
+    },
+    {
+      "id": 11,
+      "name": "11_原版召唤落地与起身_MC适配",
+      "seconds": 5.08333,
+      "loop": "once"
+    },
+    {
+      "id": 12,
+      "name": "12_原版空降等待姿态_MC适配",
+      "seconds": 1,
+      "loop": "loop"
+    },
+    {
+      "id": 13,
+      "name": "13_原版向前冲刺_MC适配",
+      "seconds": 2.47,
+      "loop": "once"
+    },
+    {
+      "id": 14,
+      "name": "14_原版向后冲刺_MC适配",
+      "seconds": 2.43667,
+      "loop": "once"
+    },
+    {
+      "id": 15,
+      "name": "15_原版向左冲刺_MC适配",
+      "seconds": 2.37,
+      "loop": "once"
+    },
+    {
+      "id": 16,
+      "name": "16_原版向右冲刺_MC适配",
+      "seconds": 2.57,
+      "loop": "once"
+    },
+    {
+      "id": 17,
+      "name": "17_原版轻受击_MC适配",
+      "seconds": 0.83333,
+      "loop": "once"
+    },
+    {
+      "id": 18,
+      "name": "18_原版爆炸死亡_MC适配",
+      "seconds": 2.98667,
+      "loop": "hold"
+    },
+    {
+      "id": 19,
+      "name": "19_原版站立登舱_MC适配",
+      "seconds": 3.96667,
+      "loop": "once"
+    },
+    {
+      "id": 20,
+      "name": "20_原版出舱_MC适配",
+      "seconds": 3.33,
+      "loop": "once"
+    },
+    {
+      "id": 21,
+      "name": "21_原版涡旋盾姿态_MC适配",
+      "seconds": 1.4,
+      "loop": "once"
+    },
+    {
+      "id": 22,
+      "name": "22_原版濒死待机_MC适配",
+      "seconds": 8.23333,
+      "loop": "loop"
+    },
+    {
+      "id": 23,
+      "name": "23_原版濒死行走_MC适配",
+      "seconds": 6.33333,
+      "loop": "loop"
+    },
+    {
+      "id": 24,
+      "name": "24_原版后退步行_MC适配",
+      "seconds": 3.1,
+      "loop": "loop"
+    },
+    {
+      "id": 25,
+      "name": "25_原版左移步行_MC适配",
+      "seconds": 3.4,
+      "loop": "loop"
+    },
+    {
+      "id": 26,
+      "name": "26_原版右移步行_MC适配",
+      "seconds": 3.73333,
+      "loop": "loop"
+    },
+    {
+      "id": 27,
+      "name": "27_原版弹射起始_MC适配",
+      "seconds": 2.36667,
+      "loop": "hold"
+    }
+  ],
+  "verified_contacts": {
+    "melee": {
+      "tick": 20,
+      "native_fp_first_hit_cycle": 0.4166666666666667,
+      "note": "Source radiusHit passes the saved poseMelee/actionMeleeTime; nearest MC tick20. Historical18 was an unverified estimate.",
+      "source_radius_event_cycle": 0.2777777910232544,
+      "source_radius_seconds": 0.6666666984558105,
+      "mapped_bb_seconds": 1.002222275074005
+    },
+    "landing": {
+      "tick": 29,
+      "source_sequence": "at_hotdrop_drop_2knee",
+      "source_clip_seconds": 11.633333333333333,
+      "source_impact_cycle": 0.8366762399673462,
+      "bb_start_source_seconds": 8.3,
+      "mapped_seconds": 1.4333335916201264
+    },
+    "embark": {
+      "total_ticks": 80,
+      "source_segment_timing": "Native hatch curve begins after .2-second BB entry; hatch is closed by2.96667; remaining body recovery lasts3.96667. Original draw_seq1s runs3-4.",
+      "canopy_closed_bb_seconds": 2.96667,
+      "fp_draw_seconds": [
+        3,
+        4
+      ],
+      "source_sequence": "at_mount_stand_front",
+      "source_clip_index": 27,
+      "source_clip_seconds": 2.7666666666666666
+    },
+    "disembark": {
+      "total_ticks": 67,
+      "source_segment_timing": "Original clip41 @at_dismount_stand; opening curve begins at.41667=source.21667+.2; closing at1.65 is authored MC recovery.",
+      "release_tick": 26,
+      "canopy_peak_bb_seconds": 1.3,
+      "canopy_closed_bb_seconds": 1.65,
+      "note": "Physical exit uses actual approved BB hatch-open maximum;67 ticks retains full body recovery."
+    },
+    "eject": {
+      "total_ticks": 48,
+      "release_tick": 36,
+      "source_event_boundary": "Release is an explicit MC adaptation; no original source release event verified."
+    }
+  },
+  "foley_start_seconds": {
+    "melee": 0.18,
+    "embark": 0.2,
+    "disembark": 0.2
+  },
+  "melee": {
+    "total_ticks": 60,
+    "contact_tick": 20,
+    "native_fp_first_hit_cycle": 0.4166666666666667,
+    "clock_knots": [
+      {
+        "seconds": 0,
+        "source_cycle": 0,
+        "slope": 0.4166666666666667
+      },
+      {
+        "seconds": 1,
+        "source_cycle": 0.4166666666666667,
+        "slope": 0.35
+      },
+      {
+        "seconds": 3,
+        "source_cycle": 1,
+        "slope": 0.29166666666666663
+      }
+    ],
+    "clock_method": "Monotonic C1 cubic Hermite. Exact first native FP hit on BB/server tick20; 3 seconds overall. Body BB source mapping and pitch-preserving elbow sound retiming are separate documented source maps."
+  }
+}

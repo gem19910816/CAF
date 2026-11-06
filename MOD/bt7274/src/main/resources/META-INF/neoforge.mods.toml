@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Private local pack"
+[[mods]]
+modId="bt7274"
+version="2.1.0-bb30"
+displayName="CAF BT-7274"
+description='''Self-authored cube Titan with source motion reference and server-authoritative pilot controls.'''
+[[dependencies.bt7274]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.252,)"
+side="BOTH"
+[[dependencies.bt7274]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+side="BOTH"

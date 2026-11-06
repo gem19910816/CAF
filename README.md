@@ -1,6 +1,6 @@
 # CAF 模组合集
 
-**齿轮与腐肉（Gears and Flesh）整合包的全部自研模组源码，统一环境：Forge 1.20.1 / Forge 47.4.10 / Java 17。**
+**齿轮与腐肉（Gears and Flesh）整合包的自研模组源码。原有模块使用 Forge 1.20.1 / Forge 47.4.10 / Java 17；BT-7274 使用 NeoForge 1.21.1 / Java 21，构建环境以各模块 README 为准。**
 
 所有模组源码放在 [`MOD/`](MOD/) 目录，**一个模组一个子目录，每个子目录都有中文 README**，说明这个模组是什么、干什么用。
 
@@ -8,6 +8,7 @@
 
 | 目录 | 中文名 | modId | 一句话说明 |
 | --- | --- | --- | --- |
+| [MOD/bt7274](MOD/bt7274/) | CAF BT-7274 | `bt7274` | NeoForge 1.21.1 可驾驶机甲，BB30 源码、运行资源与检查工具 |
 | [MOD/quest-system](MOD/quest-system/) | 日常任务系统 | `gearsandflesh_quests` | 服务端权威的每日/每周/特殊任务，管理员可在游戏内编辑 |
 | [MOD/global-market](MOD/global-market/) | 全球市场 | `gearsandflesh_market` | 服务端权威的玩家交易市场，`caf:money` 实物货币 |
 | [MOD/tarkov_stamina_mod](MOD/tarkov_stamina_mod/) | CAF 生存核心 | `tarkov_stamina` | 体力/职业/状态/生存面板 + 108 格军用背包 |
